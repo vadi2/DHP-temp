@@ -22,13 +22,21 @@ Description: "Uzbekistan Master Data Management Organization Profile"
 * type ^slicing.description = "Slicing based on the type pattern"
 
 * type contains
-    organizationType 0..* MS and
-    subordinationGroup 0..1 MS and
     nomenclatureGroup 0..1 MS and
     organizationalServiceGroup 0..1 MS and
-    withoutLegalStatus 0..1 MS and
     organizationalStructure 0..1 MS and
-    specialization 0..1 MS
+    organizationType 0..* MS and
+    specialization 0..1 MS and
+    subordinationGroup 0..1 MS and
+    withoutLegalStatus 0..1 MS
+
+* type[nomenclatureGroup] ^short = "Определяет группу номенклатуры (группировку учреждений)"
+* type[organizationalServiceGroup] ^short = "Определяет организационно-сервисную группу медучреждения"
+* type[organizationalStructure] ^short = "Определяет организационную структуру медучреждения"
+* type[organizationType] ^short = "Вид организации"
+* type[specialization] ^short = "Определяет специализацию медорганизации"
+* type[subordinationGroup] ^short = "Группа подчинения медорганизации"
+* type[withoutLegalStatus] ^short = "Определяет тип медорганизаций без образования юридического лица"
 
 * name 1..1 MS
 
