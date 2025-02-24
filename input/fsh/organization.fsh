@@ -1,7 +1,7 @@
 Profile: MDM_organization
 Parent: Organization
 Id: mdm-organization
-Title: "Uzbekistan MGM Organization Profile"
+Title: "Uzbekistan MDM Organization Profile"
 Description: "Uzbekistan Master Data Management Organization Profile"
 * ^experimental = true
 * ^version = "1.0.0"
@@ -54,9 +54,15 @@ Description: "Uzbekistan Master Data Management Organization Profile"
 * type[organizationType] 
   ^short = "Вид организации"
   * coding.system from $organization-type-vs (required)
-* type[specialization] ^short = "Определяет специализацию медорганизации"
-* type[subordinationGroup] ^short = "Группа подчинения медорганизации"
-* type[withoutLegalStatus] ^short = "Определяет тип медорганизаций без образования юридического лица"
+* type[specialization] 
+  ^short = "Определяет специализацию медорганизации"
+  * coding.system from organizational-specialization-vs (required)
+* type[subordinationGroup]
+  ^short = "Группа подчинения медорганизации"
+  * coding.system from organizational-subordination-group-vs (required)
+* type[withoutLegalStatus]
+  ^short = "Определяет тип медорганизаций без образования юридического лица"
+  * coding.system from organizational-subordination-institution-vs (required)
 
 * name 1..1 MS
   * ^short = "Наименование организации (на узбекском языке)"
@@ -307,6 +313,122 @@ Description: "Defines the organizational structure of a medical institution"
 * ^experimental = true
 * include codes from system organizational-structure-cs
 
+CodeSystem: OrganizationalspecializationCS
+Id: organizational-specialization-cs
+Title: "Organizational specialization"
+Description: "Determines the specialization of a medical organization"
+* ^version = "1.0.0"
+* ^status = #active
+* ^experimental = true
+* ^date = "2025-02-24"
+* ^content = #complete
+* ^count = 2
+* ^language = #uz
+* ^caseSensitive = true
+* #145.0 "Kattalar onkologiyasi"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Взрослая онкология"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Pediatric oncology"
+* #146.0 "Bolalar onkologiyasi"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Детская онкология"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Radiology and roentgenology"
+
+ValueSet: OrganizationalspecializationVS
+Id: organizational-specialization-vs
+Title: "Organizational specialization"
+Description: "Determines the specialization of a medical organization"
+* ^experimental = true
+* include codes from system organizational-specialization-cs
+
+CodeSystem: OrganizationalSubordinationGroupCS
+Id: organizational-subordination-group-cs
+Title: "Organizational Subordination group"
+Description: "Defines the subordination group of the medical organization"
+* ^version = "1.0.0"
+* ^status = #active
+* ^experimental = false
+* ^date = "2025-02-24"
+* ^publisher = "Example Healthcare Organization"
+* ^content = #complete
+* ^language = #uz
+* ^caseSensitive = true
+* #I_1 "Respublika tassarufidagi muassasalari"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Учреждения, находящиеся под контролем республики"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Institutions under the control of the republic"
+* #I_2 "Hududiy boshqaruv tarkibidagi"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "В территориальном управлении"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "In territorial administration"
+* #I_3 "Tuman va shaharlar boshqaruv tarkibidagi"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Административное устройство районов и городов"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Administrative structure of districts and cities"
+* #I_4 "Boshqa vazirlik va idoralar tizimi tarkibidagi muassasalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Учреждения, входящие в систему других министерств и ведомств"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Institutions included in the system of other ministries and departments"
+* #I_5 "Xususiy tibbiyot muassasalari"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Частные медицинские учреждения"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Private medical institutions"
+
+ValueSet: OrganizationalSubordinationGroupVS
+Id: organizational-subordination-group-vs
+Title: "Organizational Subordination group"
+Description: "Defines the subordination group of the medical organization"
+* ^experimental = true
+* include codes from system organizational-subordination-group-cs
+
+CodeSystem: OrganizationalSubordinationInstitutionCS
+Id: organizational-subordination-institution-cs
+Title: "Organizational Subordination Institution"
+Description: "Defines the type of medical organizations without forming a legal entity"
+* ^url = "http://example.org/fhir/CodeSystem/healthcare-facilities-uz"
+* ^version = "1.0.0"
+* ^status = #active
+* ^experimental = false
+* ^date = "2025-02-24"
+* ^publisher = "Example Healthcare Authority"
+* ^content = #complete
+* ^language = #uz
+* ^caseSensitive = true
+* #STIR-I_10 "Ko'p tarmokli markaziy poliklinika"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Филиал центральной поликлиники"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Branch of the central polyclinic"
+* #STIR-I_30 "Oilaviy poliklinika"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Семейная поликлиника"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Family polyclinic"
+* #STIR-I_60 "Oilaviy shifokorlik punkti"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Семейный медицинский пункт"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Family medical center"
+* #STIR-I_90 "Qishloq uchastka shifoxonasi"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Сельская районная больница"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Rural district hospital"
+
+ValueSet: OrganizationalSubordinationInstitutionVS
+Id: organizational-subordination-institution-vs
+Title: "Organizational Subordination Institution"
+Description: "Defines the type of medical organizations without forming a legal entity"
+* ^experimental = true
+* include codes from system organizational-subordination-institution-cs
+
 Instance: mdm-organization
 InstanceOf: MDM_organization
 Usage: #example
@@ -317,11 +439,11 @@ Usage: #example
   * value = "200935935"
 * active = true
 * type[organizationType] = $organization-type-cs#prov "Provider"
-* type[subordinationGroup] = $subordination-group#I_1 "Respublika tassarufidagi muassasalari"
+* type[subordinationGroup] = organizational-subordination-group-cs#I_1 "Respublika tassarufidagi muassasalari"
 * type[nomenclatureGroup] = nomenclature-group-cs#II_100 "Shifoxona muassasalari"
 * type[organizationalServiceGroup] = organizational-service-group-cs#III_100 "Poliklinika bo'limi va statsionar bo'limi mavjud"
 * type[organizationalStructure] = organizational-structure-cs#110 "Ixtisoslashtirilgan ilmiy-amaliy tibbiyot markazi"
-* type[specialization] = $specialization#145.0 "Kattalar onkologiyasi"
+* type[specialization] = organizational-specialization-cs#145.0 "Kattalar onkologiyasi"
 * name = "Respublika onkologiya markazi"
   * extension[+]
     * extension[0]
