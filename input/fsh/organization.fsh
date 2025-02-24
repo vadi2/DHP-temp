@@ -44,7 +44,9 @@ Description: "Uzbekistan Master Data Management Organization Profile"
 * type[nomenclatureGroup] 
   ^short = "Определяет группу номенклатуры (группировку учреждений)"
   * coding.system from nomenclature-group-vs (required)
-* type[organizationalServiceGroup] ^short = "Определяет организационно-сервисную группу медучреждения"
+* type[organizationalServiceGroup]
+   ^short = "Определяет организационно-сервисную группу медучреждения"
+  * coding.system from organizational-service-group-vs (required)
 * type[organizationalStructure] ^short = "Определяет организационную структуру медучреждения"
 * type[organizationType] 
   ^short = "Вид организации"
@@ -64,7 +66,7 @@ Description: "Uzbekistan Master Data Management Organization Profile"
 
 CodeSystem: NomenclatureGroupCS
 Id: nomenclature-group-cs
-Title: "Defines a nomenclature group (grouping of institutions)"
+Title: "Nomenclature group"
 Description: "Defines a nomenclature group (grouping of institutions)"
 * ^version = "1.0.0"
 * ^status = #active
@@ -122,10 +124,60 @@ Description: "Defines a nomenclature group (grouping of institutions)"
 
 ValueSet: NomenclatureGroupVS
 Id: nomenclature-group-vs
-Description: "Defines a nomenclature group (grouping of institutions)"
+Description: "Nomenclature group"
 Title:  "Defines a nomenclature group (grouping of institutions)"
 * ^experimental = true
 * include codes from system nomenclature-group-cs
+
+CodeSystem: OrganizationalServiceGroupCS
+Id: organizational-service-group-cs
+Title: "Organizational Service group"
+Description: "Defines the organizational and service group of a medical institution"
+* ^url = "http://example.org/fhir/CodeSystem/healthcare-facility-types"
+* ^version = "1.0.0"
+* ^status = #active
+* ^experimental = true
+* ^date = "2025-02-24"
+* ^publisher = "Example Healthcare Organization"
+* ^content = #complete
+* ^language = #uz
+* ^caseSensitive = true
+* #III_100 "Poliklinika bo'limi va statsionar bo'limi mavjud"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Имеется амбулаторное и стационарное отделение."
+  * ^designation[+].language = #en
+  * ^designation[=].value = "There is an outpatient and inpatient department."
+* #III_200 "Statsionar bo'limi mavjud"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Имеется стационарное отделение."
+  * ^designation[+].language = #en
+  * ^designation[=].value = "There is an inpatient department."
+* #III_300 "Statsionar kunduzgi bo'limi bilan"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Стационар с дневным уходом"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Hospital with day care"
+* #III_400 "Poliklinika bo'limi va kunduzgi statsionar bo'limi bilan"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "С амбулаторным отделением и дневным стационаром"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "With an outpatient department and a day hospital"
+* #III_500 "Poliklinika bo'limi mavjud"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Имеется поликлиническое отделение."
+  * ^designation[+].language = #en
+  * ^designation[=].value = "There is a polyclinic department."
+* #III_600 "Boshqalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Другие"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Others"
+
+ValueSet: OrganizationalServiceGroupVS
+Id: organizational-service-group-vs
+Title: "Organizational Service group"
+Description: "Defines the organizational and service group of a medical institution"
+* include codes from system organizational-service-group-cs
 
 Instance: mdm-organization
 InstanceOf: MDM_organization
@@ -138,8 +190,8 @@ Usage: #example
 * active = true
 * type[organizationType] = $organization-type-cs#prov "Provider"
 * type[subordinationGroup] = $subordination-group#I_1 "Respublika tassarufidagi muassasalari"
-* type[nomenclatureGroup] = $nomenclature-group#II_100 "Shifoxona muassasalari"
-* type[organizationalServiceGroup] = $organizational-service-group#III_100 "Poliklinika bo'limi va statsionar bo'limi mavjud"
+* type[nomenclatureGroup] = nomenclature-group-cs#II_100 "Shifoxona muassasalari"
+* type[organizationalServiceGroup] = organizational-service-group-cs#III_100 "Poliklinika bo'limi va statsionar bo'limi mavjud"
 * type[organizationalStructure] = $organizational-structure#110 "Ixtisoslashtirilgan ilmiy-amaliy tibbiyot markazi"
 * type[specialization] = $specialization#145.0 "Kattalar onkologiyasi"
 * name = "Respublika onkologiya markazi"
