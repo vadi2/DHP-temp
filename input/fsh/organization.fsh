@@ -1,8 +1,8 @@
 Profile: DHPOrganization
 Parent: Organization
 Id: dhp-organization
-Title: "Uzbekistan MDM Organization Profile"
-Description: "Uzbekistan Master Data Management Organization Profile"
+Title: "Uzbekistan DHP Organization Profile"
+Description: "Uzbekistan DHP Organization Profile"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -13,7 +13,7 @@ Description: "Uzbekistan Master Data Management Organization Profile"
 * identifier ^slicing.discriminator.type = #value
 * identifier ^slicing.discriminator.path = "system"
 * identifier ^slicing.rules = #open
-* identifier ^slicing.description = ""
+* identifier ^slicing.description = "Ways an organization can be categorized"
 * identifier ^slicing.ordered = false
 * identifier contains tax-id 0..1 MS
 
@@ -45,38 +45,45 @@ Description: "Uzbekistan Master Data Management Organization Profile"
 * type.coding[nomenclatureGroup] 
   ^short = "Определяет группу номенклатуры (группировку учреждений)"
   * system 1..1 MS
+  * system = Canonical(nomenclature-group-cs)
   * code 1..1 MS
-  * system from nomenclature-group-vs (required)
+  * code from nomenclature-group-vs (required)
 * type.coding[organizationalServiceGroup]
   ^short = "Определяет организационно-сервисную группу медучреждения"
   * system 1..1 MS
+  * system = Canonical(organizational-service-group-cs)
   * code 1..1 MS
-  * system from organizational-service-group-vs (required)
+  * code from organizational-service-group-vs (required)
 * type.coding[organizationalStructure]
   ^short = "Определяет организационную структуру медучреждения"
   * system 1..1 MS
+  * system = Canonical(organizational-structure-cs)
   * code 1..1 MS
-  * system from organizational-structure-vs (required)
+  * code from organizational-structure-vs (required)
 * type.coding[organizationType] 
   ^short = "Вид организации"
   * system 1..1 MS
+  * system = Canonical($organization-type-cs)
   * code 1..1 MS
-  * system from $organization-type-vs (required)
+  * code from $organization-type-vs (required)
 * type.coding[specialization] 
   ^short = "Определяет специализацию медорганизации"
   * system 1..1 MS
+  * system = Canonical(organizational-specialization-cs)
   * code 1..1 MS
-  * system from organizational-specialization-vs (required)
+  * code from organizational-specialization-vs (required)
 * type.coding[subordinationGroup]
   ^short = "Группа подчинения медорганизации"
   * system 1..1 MS
+  * system = Canonical(organizational-subordination-group-cs)
   * code 1..1 MS
-  * system from organizational-subordination-group-vs (required)
+  * code from organizational-subordination-group-vs (required)
 * type.coding[withoutLegalStatus]
   ^short = "Определяет тип медорганизаций без образования юридического лица"
   * system 1..1 MS
+  * system = Canonical(organizational-subordination-institution-cs)
   * code 1..1 MS
-  * system from organizational-subordination-institution-vs (required)
+  * code from organizational-subordination-institution-vs (required)
 
 * name 1..1 MS
   * ^short = "Наименование организации (на узбекском языке)"
@@ -445,6 +452,7 @@ Description: "Defines the type of medical organizations without forming a legal 
 
 Instance: example-organization
 InstanceOf: DHPOrganization
+Description: "Example of a hospital organization"
 Usage: #example
 * language = #uz
 * identifier
