@@ -1,6 +1,6 @@
-Profile: MDM_organization
+Profile: DHPOrganization
 Parent: Organization
-Id: mdm-organization
+Id: dhp-organization
 Title: "Uzbekistan MDM Organization Profile"
 Description: "Uzbekistan Master Data Management Organization Profile"
 * ^experimental = true
@@ -10,7 +10,7 @@ Description: "Uzbekistan Master Data Management Organization Profile"
 * ^publisher = "Uzinfocom"
 
 * identifier MS
-* identifier ^slicing.discriminator.type = #exists
+* identifier ^slicing.discriminator.type = #value
 * identifier ^slicing.discriminator.path = "system"
 * identifier ^slicing.rules = #open
 * identifier ^slicing.description = ""
@@ -26,14 +26,14 @@ Description: "Uzbekistan Master Data Management Organization Profile"
 
 * active 0..1 MS
 
-* type 0..* MS
-* type ^slicing.discriminator.type = #value
-* type ^slicing.discriminator.path = "coding.system"
-* type ^slicing.rules = #open
-* type ^slicing.description = "Slicing based on the type pattern"
-* type ^slicing.ordered = false
+* type MS
+* type.coding ^slicing.discriminator.type = #value
+* type.coding ^slicing.discriminator.path = "system"
+* type.coding ^slicing.rules = #open
+* type.coding ^slicing.description = "Organization categorization"
+* type.coding ^slicing.ordered = false
 
-* type contains
+* type.coding contains
     nomenclatureGroup 0..1 MS and
     organizationalServiceGroup 0..1 MS and
     organizationalStructure 0..1 MS and
@@ -42,36 +42,50 @@ Description: "Uzbekistan Master Data Management Organization Profile"
     subordinationGroup 0..1 MS and
     withoutLegalStatus 0..1 MS
 
-* type[nomenclatureGroup] 
+* type.coding[nomenclatureGroup] 
   ^short = "Определяет группу номенклатуры (группировку учреждений)"
-  * coding.system from nomenclature-group-vs (required)
-* type[organizationalServiceGroup]
+  * system 1..1 MS
+  * code 1..1 MS
+  * system from nomenclature-group-vs (required)
+* type.coding[organizationalServiceGroup]
   ^short = "Определяет организационно-сервисную группу медучреждения"
-  * coding.system from organizational-service-group-vs (required)
-* type[organizationalStructure]
+  * system 1..1 MS
+  * code 1..1 MS
+  * system from organizational-service-group-vs (required)
+* type.coding[organizationalStructure]
   ^short = "Определяет организационную структуру медучреждения"
-  * coding.system from organizational-structure-vs (required)
-* type[organizationType] 
+  * system 1..1 MS
+  * code 1..1 MS
+  * system from organizational-structure-vs (required)
+* type.coding[organizationType] 
   ^short = "Вид организации"
-  * coding.system from $organization-type-vs (required)
-* type[specialization] 
+  * system 1..1 MS
+  * code 1..1 MS
+  * system from $organization-type-vs (required)
+* type.coding[specialization] 
   ^short = "Определяет специализацию медорганизации"
-  * coding.system from organizational-specialization-vs (required)
-* type[subordinationGroup]
+  * system 1..1 MS
+  * code 1..1 MS
+  * system from organizational-specialization-vs (required)
+* type.coding[subordinationGroup]
   ^short = "Группа подчинения медорганизации"
-  * coding.system from organizational-subordination-group-vs (required)
-* type[withoutLegalStatus]
+  * system 1..1 MS
+  * code 1..1 MS
+  * system from organizational-subordination-group-vs (required)
+* type.coding[withoutLegalStatus]
   ^short = "Определяет тип медорганизаций без образования юридического лица"
-  * coding.system from organizational-subordination-institution-vs (required)
+  * system 1..1 MS
+  * code 1..1 MS
+  * system from organizational-subordination-institution-vs (required)
 
 * name 1..1 MS
   * ^short = "Наименование организации (на узбекском языке)"
-  * extension contains language named language 0..* MS
+  * extension contains translation named translation 0..* MS
     * ^short = "Наименование организации (на русском и английском языках)"
 
-* contact 0..* MS
-* partOf 0..1 MS
-* endpoint 0..*
+* contact MS
+* partOf MS
+* endpoint MS
 
 CodeSystem: NomenclatureGroupCS
 Id: nomenclature-group-cs
@@ -142,7 +156,6 @@ CodeSystem: OrganizationalServiceGroupCS
 Id: organizational-service-group-cs
 Title: "Organizational Service group"
 Description: "Defines the organizational and service group of a medical institution"
-* ^url = "http://example.org/fhir/CodeSystem/healthcare-facility-types"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = true
@@ -151,6 +164,7 @@ Description: "Defines the organizational and service group of a medical institut
 * ^content = #complete
 * ^language = #uz
 * ^caseSensitive = true
+* ^experimental = true
 * #III_100 "Poliklinika bo'limi va statsionar bo'limi mavjud"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Имеется амбулаторное и стационарное отделение."
@@ -186,6 +200,7 @@ ValueSet: OrganizationalServiceGroupVS
 Id: organizational-service-group-vs
 Title: "Organizational Service group"
 Description: "Defines the organizational and service group of a medical institution"
+* ^experimental = true
 * include codes from system organizational-service-group-cs
 
 CodeSystem: OrganizationalStructrueCS
@@ -392,7 +407,6 @@ CodeSystem: OrganizationalSubordinationInstitutionCS
 Id: organizational-subordination-institution-cs
 Title: "Organizational Subordination Institution"
 Description: "Defines the type of medical organizations without forming a legal entity"
-* ^url = "http://example.org/fhir/CodeSystem/healthcare-facilities-uz"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = false
@@ -429,35 +443,30 @@ Description: "Defines the type of medical organizations without forming a legal 
 * ^experimental = true
 * include codes from system organizational-subordination-institution-cs
 
-Instance: mdm-organization
-InstanceOf: MDM_organization
+Instance: example-organization
+InstanceOf: DHPOrganization
 Usage: #example
+* language = #uz
 * identifier
   * use = #official
-  * type = $v2-0203#TAX "TAX"
+  * type = $v2-0203#TAX "Tax ID number"
   * system = $organization-tax-id-system
   * value = "200935935"
 * active = true
-* type[organizationType] = $organization-type-cs#prov "Provider"
-* type[subordinationGroup] = organizational-subordination-group-cs#I_1 "Respublika tassarufidagi muassasalari"
-* type[nomenclatureGroup] = nomenclature-group-cs#II_100 "Shifoxona muassasalari"
-* type[organizationalServiceGroup] = organizational-service-group-cs#III_100 "Poliklinika bo'limi va statsionar bo'limi mavjud"
-* type[organizationalStructure] = organizational-structure-cs#110 "Ixtisoslashtirilgan ilmiy-amaliy tibbiyot markazi"
-* type[specialization] = organizational-specialization-cs#145.0 "Kattalar onkologiyasi"
+* type.coding[organizationType] = $organization-type-cs#prov "Healthcare Provider"
+* type.coding[subordinationGroup] = organizational-subordination-group-cs#I_1 "Respublika tassarufidagi muassasalari"
+* type.coding[nomenclatureGroup] = nomenclature-group-cs#II_100 "Shifoxona muassasalari"
+* type.coding[organizationalServiceGroup] = organizational-service-group-cs#III_100 "Poliklinika bo'limi va statsionar bo'limi mavjud"
+* type.coding[organizationalStructure] = organizational-structure-cs#110 "Ixtisoslashtirilgan ilmiy-amaliy tibbiyot markazi"
+* type.coding[specialization] = organizational-specialization-cs#145.0 "Kattalar onkologiyasi"
 * name = "Respublika onkologiya markazi"
-  * extension[+]
-    * extension[0]
-      * url = "lang"
+  * extension[translation][0]
+    * extension[lang][0]
       * valueCode = #ru
-    * extension[+]
-      * url = "content"
+    * extension[content][+]
       * valueString = "Республиканский онкологический центр"
-    * url = $translation-extension
-  * extension[+]
-    * extension[0]
-      * url = "lang"
+  * extension[translation][+]
+    * extension[lang][0]
       * valueCode = #en
-    * extension[+]
-      * url = "content"
+    * extension[content][+]
       * valueString = "Republican Oncology Center"
-    * url = $translation-extension
