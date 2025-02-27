@@ -9,4 +9,3 @@ Alias: $organizational-structure = http://medcore.uz/CodeSystem/organizational-s
 Alias: $specialization = http://medcore.uz/CodeSystem/specialization
 Alias: $subordination-group = http://medcore.uz/CodeSystem/subordination-group
 Alias: $translation-extension = http://hl7.org/fhir/StructureDefinition/translation
-Alias: $v2-0203 = http://terminology.hl7.org/CodeSystem/v2-0203
