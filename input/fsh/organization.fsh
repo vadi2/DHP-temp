@@ -15,7 +15,7 @@ Description: "Uzbekistan DHP Organization Profile"
 * identifier ^slicing.rules = #open
 * identifier ^slicing.description = "Ways an organization can be categorized"
 * identifier ^slicing.ordered = false
-* identifier contains tax-id 0..1 MS
+* identifier contains tax-id 0..1 MS and argoz-id 0..1 MS
 
 * identifier[tax-id]
   * system 1..1 MS
@@ -24,6 +24,13 @@ Description: "Uzbekistan DHP Organization Profile"
   * type = $hl7-identifier-type#TAX "Tax ID number"
   * use = #official
   * value 1..1 MS
+
+* identifier[argoz-id]
+  * system 1..1 MS
+  * system = $organization-argoz-id-system
+  * type 1..1 MS
+  * type = $hl7-identifier-type#SNO "Serial Number"
+  * use = #official
   * value 1..1 MS
 
 * active 0..1 MS
