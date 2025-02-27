@@ -469,6 +469,11 @@ Usage: #example
   * type = $v2-0203#TAX "Tax ID number"
   * system = $organization-tax-id-system
   * value = "200935935"
+* identifier[argoz-id]
+  * use = #official
+  * type = $v2-0203#SNO "Serial Number"
+  * system = $organization-argoz-id-system
+  * value = "9512"
 * active = true
 * type.coding[organizationType] = $organization-type-cs#prov "Healthcare Provider"
 * type.coding[subordinationGroup] = organizational-subordination-group-cs#I_1 "Respublika tassarufidagi muassasalari"
