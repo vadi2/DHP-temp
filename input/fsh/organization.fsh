@@ -22,6 +22,8 @@ Description: "Uzbekistan DHP Organization Profile"
   * system = $organization-tax-id-system
   * type 1..1 MS
   * type = $hl7-identifier-type#TAX "Tax ID number"
+  * use = #official
+  * value 1..1 MS
   * value 1..1 MS
 
 * active 0..1 MS
@@ -455,7 +457,7 @@ InstanceOf: DHPOrganization
 Description: "Example of a hospital organization"
 Usage: #example
 * language = #uz
-* identifier
+* identifier[tax-id]
   * use = #official
   * type = $v2-0203#TAX "Tax ID number"
   * system = $organization-tax-id-system
