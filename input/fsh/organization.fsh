@@ -29,7 +29,7 @@ Description: "Uzbekistan DHP Organization Profile"
   * system 1..1 MS
   * system = $organization-argoz-id-system
   * type 1..1 MS
-  * type = $hl7-identifier-type#SNO "Serial Number"
+  * type = $hl7-identifier-type#XX "Organization Identifier"
   * use = #official
   * value 1..1 MS
 
@@ -471,7 +471,7 @@ Usage: #example
   * value = "200935935"
 * identifier[argoz-id]
   * use = #official
-  * type = $hl7-identifier-type#SNO "Serial Number"
+  * type = $hl7-identifier-type#XX "Organization Identifier"
   * system = $organization-argoz-id-system
   * value = "9512"
 * active = true
@@ -492,3 +492,42 @@ Usage: #example
       * valueCode = #en
     * extension[content][+]
       * valueString = "Republican Oncology Center"
+
+Instance: tashkent-diseases-hospital
+InstanceOf: DHPOrganization
+Usage: #example
+* active = true
+* identifier[0]
+  * system = $organization-tax-id-system
+  * type = $hl7-identifier-type#TAX "Tax ID number"
+  * use = #official
+  * value = "203108505"
+* identifier[+]
+  * system = $organization-argoz-id-system
+  * type = $hl7-identifier-type#XX "Organization Identifier"
+  * use = #official
+  * value = "22640"
+* language = #uz
+* name = "Toshkent viloyati yuqumli kasalliklar shifoxonasi"
+  * extension[0]
+    * extension[0]
+      * url = "lang"
+      * valueCode = #ru
+    * extension[+]
+      * url = "content"
+      * valueString = "Ташкентская областная инфекционная больница"
+    * url = "http://hl7.org/fhir/StructureDefinition/translation"
+  * extension[+]
+    * extension[0]
+      * url = "lang"
+      * valueCode = #en
+    * extension[+]
+      * url = "content"
+      * valueString = "Tashkent Region Infectious Diseases Hospital"
+    * url = "http://hl7.org/fhir/StructureDefinition/translation"
+* type
+  * coding[0] = $organization-type-cs#prov "Healthcare Provider"
+  * coding[+] = organizational-subordination-group-cs#I_2 "Hududiy boshqaruv tarkibidagi"
+  * coding[+] = nomenclature-group-cs#II_100 "Shifoxona muassasalari"
+  * coding[+] = organizational-service-group-cs#III_200 "Statsionar bo'limi mavjud"
+  * coding[+] = organizational-structure-cs#146 "Shifoxonasi"
