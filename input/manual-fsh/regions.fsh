@@ -1,13 +1,13 @@
 CodeSystem: RegionsCS
 Id: regions-cs
-Title: "Uzbekistan Regions and Locations Code System"
-Description: "Code system for regions and locations in Uzbekistan"
+Title: "Uzbekistan Regions and Locations"
+Description: "List of regions and locations in Uzbekistan"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
 * ^language = #uz
-* #"Код СОАТО" "Ob’yektning nomi"
+* #"Код СОАТО" "Ob'yektning nomi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Наименование объекта"
   * ^designation[+].language = #en
@@ -1407,7 +1407,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Каваля Махмуд"
   * ^designation[+].language = #en
   * ^designation[=].value = "Qavola Makhmud"
-* #1706207830 "Kunjiqal’a"
+* #1706207830 "Kunjiqal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кунжикала"
   * ^designation[+].language = #en
@@ -1837,7 +1837,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Куввача"
   * ^designation[+].language = #en
   * ^designation[=].value = "Quvvacha"
-* #1706230557 "Mirzaqal’a"
+* #1706230557 "Mirzaqal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мирзакалъа"
   * ^designation[+].language = #en
@@ -1862,12 +1862,12 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Шуррабад"
   * ^designation[+].language = #en
   * ^designation[=].value = "Shorabot"
-* #1706230563 "Yakka A’lam"
+* #1706230563 "Yakka A'lam"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Якка Аълам"
   * ^designation[+].language = #en
   * ^designation[=].value = "Yakka Alam"
-* #1706230564 "Yangiqal’a"
+* #1706230564 "Yangiqal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Янгикалъа"
   * ^designation[+].language = #en
@@ -2052,7 +2052,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Зандани"
   * ^designation[+].language = #en
   * ^designation[=].value = "Zandani"
-* #1706240821 "Qal’ai Mirishkor"
+* #1706240821 "Qal'ai Mirishkor"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Калаймиришкар"
   * ^designation[+].language = #en
@@ -3447,7 +3447,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Шерали"
   * ^designation[+].language = #en
   * ^designation[=].value = "Sherali"
-* #1710207562 "Mash’al"
+* #1710207562 "Mash'al"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Машъал"
   * ^designation[+].language = #en
@@ -11247,12 +11247,12 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Курганча"
   * ^designation[+].language = #en
   * ^designation[=].value = "Kurgoncha"
-* #1727233840 "Ma’naviyat"
+* #1727233840 "Ma'naviyat"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Маънавият"
   * ^designation[+].language = #en
   * ^designation[=].value = "Spirituality"
-* #1727233850 "Ma’rifat"
+* #1727233850 "Ma'rifat"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Маърифат"
   * ^designation[+].language = #en
@@ -13412,7 +13412,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Равон"
   * ^designation[+].language = #en
   * ^designation[=].value = "Ravon"
-* #1730226554 "Qal’a"
+* #1730226554 "Qal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Калъа"
   * ^designation[+].language = #en
@@ -14472,7 +14472,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Чаккалар"
   * ^designation[+].language = #en
   * ^designation[=].value = "Chakkalar"
-* #1733208557 "Bo'zqal’a"
+* #1733208557 "Bo'zqal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бузкалъа"
   * ^designation[+].language = #en
@@ -14827,7 +14827,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Саримай"
   * ^designation[+].language = #en
   * ^designation[=].value = "Sarimoy"
-* #1733220862 "Tuproqqal’a"
+* #1733220862 "Tuproqqal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тупраккала"
   * ^designation[+].language = #en
@@ -14842,12 +14842,12 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Янгибазар"
   * ^designation[+].language = #en
   * ^designation[=].value = "Yangibozor"
-* #1733221 "Tuproqqal’a tumani (Markaz -Pitnak shahri)"
+* #1733221 "Tuproqqal'a tumani (Markaz -Pitnak shahri)"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тупроккалинский район (Центр -г. Питнак)"
   * ^designation[+].language = #en
   * ^designation[=].value = "Tuproqqal'a District (Center - Pitnak city)"
-* #1733221500 "Tuproqqal’a tumanining tuman ahamiyatiga ega shaharlari"
+* #1733221500 "Tuproqqal'a tumanining tuman ahamiyatiga ega shaharlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Города районного подчинения Тупроккалинского района"
   * ^designation[+].language = #en
@@ -14857,12 +14857,12 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Питнак"
   * ^designation[+].language = #en
   * ^designation[=].value = "Pitnak"
-* #1733221550 "Tuproqqal’a tumanining shaharchalari"
+* #1733221550 "Tuproqqal'a tumanining shaharchalari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Городские поселки Тупроккалинского района"
   * ^designation[+].language = #en
   * ^designation[=].value = "Towns of Tuproqqal'a District"
-* #1733221800 "Tuproqqal’a tumanining qishloq fuqarolar yig'inlari"
+* #1733221800 "Tuproqqal'a tumanining qishloq fuqarolar yig'inlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сельские сходы граждан Тупроккалинского района"
   * ^designation[+].language = #en
@@ -14982,7 +14982,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Ифтихор"
   * ^designation[+].language = #en
   * ^designation[=].value = "Iftixor"
-* #1733226564 "Sho'r-Qal’a"
+* #1733226564 "Sho'r-Qal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Шуркалъа"
   * ^designation[+].language = #en
@@ -15077,7 +15077,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Кангли"
   * ^designation[+].language = #en
   * ^designation[=].value = "Kangli"
-* #1733230564 "Qat-qal’a"
+* #1733230564 "Qat-qal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кат-калъа"
   * ^designation[+].language = #en
@@ -15097,7 +15097,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Сельские сходы граждан Шаватского района"
   * ^designation[+].language = #en
   * ^designation[=].value = "Rural citizens' assemblies of Shavat district"
-* #1733230811 "Qat-qal’a"
+* #1733230811 "Qat-qal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Каткала"
   * ^designation[+].language = #en
@@ -15132,7 +15132,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Кият"
   * ^designation[+].language = #en
   * ^designation[=].value = "Kiyat"
-* #1733230855 "Chig'atoyqal’a"
+* #1733230855 "Chig'atoyqal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Чигатай кала"
   * ^designation[+].language = #en
@@ -15147,7 +15147,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Чоклы"
   * ^designation[+].language = #en
   * ^designation[=].value = "Chokli"
-* #1733230888 "Shovotqal’a"
+* #1733230888 "Shovotqal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Шават кала"
   * ^designation[+].language = #en
@@ -15282,7 +15282,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Башкирших"
   * ^designation[+].language = #en
   * ^designation[=].value = "Boshkirshikh"
-* #1733236808 "Bo'zqal’a"
+* #1733236808 "Bo'zqal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бозкала"
   * ^designation[+].language = #en
@@ -15532,7 +15532,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Алтынсай"
   * ^designation[+].language = #en
   * ^designation[=].value = "Altinsay"
-* #1735207843 "Qizilqal’a"
+* #1735207843 "Qizilqal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кызылкала"
   * ^designation[+].language = #en
@@ -15882,7 +15882,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Наурыз"
   * ^designation[+].language = #en
   * ^designation[=].value = "Navruz"
-* #1735218823 "Jana qal’a"
+* #1735218823 "Jana qal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Жана кала"
   * ^designation[+].language = #en
@@ -16172,7 +16172,7 @@ Description: "Code system for regions and locations in Uzbekistan"
   * ^designation[=].value = "Кана Турткул"
   * ^designation[+].language = #en
   * ^designation[=].value = "Kana Turtkul"
-* #1735233828 "Yonboshqal’a"
+* #1735233828 "Yonboshqal'a"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Джамбаскала"
   * ^designation[+].language = #en
@@ -16540,7 +16540,8 @@ Description: "Code system for regions and locations in Uzbekistan"
 
 ValueSet: RegionsVS
 Id: regions-vs
-Title: "Uzbekistan Regions and Locations Code System"
-Description: "Code system for regions and locations in Uzbekistan"
+Title: "Uzbekistan Regions and Locations"
+Description: "List of regions and locations in Uzbekistan"
+Title:
 * ^experimental = true
 * include codes from system regions-cs

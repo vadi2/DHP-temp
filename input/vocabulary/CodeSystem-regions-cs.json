@@ -4,13 +4,13 @@
   "content": "complete",
   "name": "RegionsCS",
   "id": "regions-cs",
-  "title": "Uzbekistan Regions and Locations Code System",
-  "description": "Code system for regions and locations in Uzbekistan",
+  "title": "Uzbekistan Regions and Locations",
+  "description": "List of regions and locations in Uzbekistan",
   "url": "http://medcore.uz/CodeSystem/regions-cs",
   "concept": [
     {
       "code": "Код СОАТО",
-      "display": "Ob’yektning nomi",
+      "display": "Ob'yektning nomi",
       "designation": [
         {
           "language": "ru",
@@ -3930,7 +3930,7 @@
     },
     {
       "code": "1706207830",
-      "display": "Kunjiqal’a",
+      "display": "Kunjiqal'a",
       "designation": [
         {
           "language": "ru",
@@ -5134,7 +5134,7 @@
     },
     {
       "code": "1706230557",
-      "display": "Mirzaqal’a",
+      "display": "Mirzaqal'a",
       "designation": [
         {
           "language": "ru",
@@ -5204,7 +5204,7 @@
     },
     {
       "code": "1706230563",
-      "display": "Yakka A’lam",
+      "display": "Yakka A'lam",
       "designation": [
         {
           "language": "ru",
@@ -5218,7 +5218,7 @@
     },
     {
       "code": "1706230564",
-      "display": "Yangiqal’a",
+      "display": "Yangiqal'a",
       "designation": [
         {
           "language": "ru",
@@ -5736,7 +5736,7 @@
     },
     {
       "code": "1706240821",
-      "display": "Qal’ai Mirishkor",
+      "display": "Qal'ai Mirishkor",
       "designation": [
         {
           "language": "ru",
@@ -9642,7 +9642,7 @@
     },
     {
       "code": "1710207562",
-      "display": "Mash’al",
+      "display": "Mash'al",
       "designation": [
         {
           "language": "ru",
@@ -31482,7 +31482,7 @@
     },
     {
       "code": "1727233840",
-      "display": "Ma’naviyat",
+      "display": "Ma'naviyat",
       "designation": [
         {
           "language": "ru",
@@ -31496,7 +31496,7 @@
     },
     {
       "code": "1727233850",
-      "display": "Ma’rifat",
+      "display": "Ma'rifat",
       "designation": [
         {
           "language": "ru",
@@ -37544,7 +37544,7 @@
     },
     {
       "code": "1730226554",
-      "display": "Qal’a",
+      "display": "Qal'a",
       "designation": [
         {
           "language": "ru",
@@ -40512,7 +40512,7 @@
     },
     {
       "code": "1733208557",
-      "display": "Bo'zqal’a",
+      "display": "Bo'zqal'a",
       "designation": [
         {
           "language": "ru",
@@ -41506,7 +41506,7 @@
     },
     {
       "code": "1733220862",
-      "display": "Tuproqqal’a",
+      "display": "Tuproqqal'a",
       "designation": [
         {
           "language": "ru",
@@ -41548,7 +41548,7 @@
     },
     {
       "code": "1733221",
-      "display": "Tuproqqal’a tumani (Markaz -Pitnak shahri)",
+      "display": "Tuproqqal'a tumani (Markaz -Pitnak shahri)",
       "designation": [
         {
           "language": "ru",
@@ -41562,7 +41562,7 @@
     },
     {
       "code": "1733221500",
-      "display": "Tuproqqal’a tumanining tuman ahamiyatiga ega shaharlari",
+      "display": "Tuproqqal'a tumanining tuman ahamiyatiga ega shaharlari",
       "designation": [
         {
           "language": "ru",
@@ -41590,7 +41590,7 @@
     },
     {
       "code": "1733221550",
-      "display": "Tuproqqal’a tumanining shaharchalari",
+      "display": "Tuproqqal'a tumanining shaharchalari",
       "designation": [
         {
           "language": "ru",
@@ -41604,7 +41604,7 @@
     },
     {
       "code": "1733221800",
-      "display": "Tuproqqal’a tumanining qishloq fuqarolar yig'inlari",
+      "display": "Tuproqqal'a tumanining qishloq fuqarolar yig'inlari",
       "designation": [
         {
           "language": "ru",
@@ -41940,7 +41940,7 @@
     },
     {
       "code": "1733226564",
-      "display": "Sho'r-Qal’a",
+      "display": "Sho'r-Qal'a",
       "designation": [
         {
           "language": "ru",
@@ -42206,7 +42206,7 @@
     },
     {
       "code": "1733230564",
-      "display": "Qat-qal’a",
+      "display": "Qat-qal'a",
       "designation": [
         {
           "language": "ru",
@@ -42262,7 +42262,7 @@
     },
     {
       "code": "1733230811",
-      "display": "Qat-qal’a",
+      "display": "Qat-qal'a",
       "designation": [
         {
           "language": "ru",
@@ -42360,7 +42360,7 @@
     },
     {
       "code": "1733230855",
-      "display": "Chig'atoyqal’a",
+      "display": "Chig'atoyqal'a",
       "designation": [
         {
           "language": "ru",
@@ -42402,7 +42402,7 @@
     },
     {
       "code": "1733230888",
-      "display": "Shovotqal’a",
+      "display": "Shovotqal'a",
       "designation": [
         {
           "language": "ru",
@@ -42780,7 +42780,7 @@
     },
     {
       "code": "1733236808",
-      "display": "Bo'zqal’a",
+      "display": "Bo'zqal'a",
       "designation": [
         {
           "language": "ru",
@@ -43480,7 +43480,7 @@
     },
     {
       "code": "1735207843",
-      "display": "Qizilqal’a",
+      "display": "Qizilqal'a",
       "designation": [
         {
           "language": "ru",
@@ -44460,7 +44460,7 @@
     },
     {
       "code": "1735218823",
-      "display": "Jana qal’a",
+      "display": "Jana qal'a",
       "designation": [
         {
           "language": "ru",
@@ -45272,7 +45272,7 @@
     },
     {
       "code": "1735233828",
-      "display": "Yonboshqal’a",
+      "display": "Yonboshqal'a",
       "designation": [
         {
           "language": "ru",

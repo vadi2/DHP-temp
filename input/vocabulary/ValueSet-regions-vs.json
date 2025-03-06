@@ -3,8 +3,8 @@
   "status": "draft",
   "name": "RegionsVS",
   "id": "regions-vs",
-  "title": "Uzbekistan Regions and Locations Code System",
-  "description": "Code system for regions and locations in Uzbekistan",
+  "title": "Uzbekistan Regions and Locations",
+  "description": "List of regions and locations in Uzbekistan",
   "url": "http://medcore.uz/ValueSet/regions-vs",
   "experimental": true,
   "compose": {
