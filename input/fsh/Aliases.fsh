@@ -1,4 +1,5 @@
 Alias: $hl7-identifier-type = http://terminology.hl7.org/CodeSystem/v2-0203
+Alias: $qualification-codes = http://terminology.hl7.org/CodeSystem/v2-0360
 Alias: $nomenclature-group = http://medcore.uz/CodeSystem/nomenclature-group
 Alias: $organization-tax-id-system = https://soliq.uz
 Alias: $organization-argoz-id-system = https://hrm.argos.uz
