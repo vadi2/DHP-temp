@@ -35,12 +35,14 @@ Description: "Uzbekistan DHP Practitioner Profile"
 * birthDate MS
 * deceasedDateTime and deceasedBoolean MS
 * address MS
-  * type and line and city and district and country and period MS
+  * type and use and line and city and district and country and period MS
+  * use from AddressUseVS (required)
+  * use ^short = "Тип адреса, home | temp"
 * photo MS
   * url and size MS
 * qualification MS
   * code and period and issuer MS
-
+  * code from LicenseCertificateVS (required)
 
 Instance: example-practitioner
 InstanceOf: DHPPractitioner
