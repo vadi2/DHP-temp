@@ -15,13 +15,14 @@ Description: "Uzbekistan DHP Practitioner Profile"
 * identifier ^slicing.rules = #open
 * identifier ^slicing.description = "Ways a practitioner can be identified"
 * identifier ^slicing.ordered = false
-* identifier contains tax-id 0..1 MS
+* identifier contains national-id 0..1 MS
 
-* identifier[tax-id]
+* identifier[national-id]
+  * ^short = "Персональный идентификационный номер физического лица"
   * system 1..1 MS
-  * system = $organization-tax-id-system
+  * system = $organization-argoz-id-system
   * type 1..1 MS
-  * type = $hl7-identifier-type#TAX "Tax ID number"
+  * type = $hl7-identifier-type#NI "National unique individual identifier"
   * use = #official
   * value 1..1 MS
 
@@ -45,7 +46,8 @@ Instance: example-practitioner
 InstanceOf: DHPPractitioner
 Description: "Example of a practitioner"
 Usage: #example
-* identifier[tax-id]
+* language = #uz
+* identifier[national-id]
   * value = "9876543210"
 * active = true
 * name

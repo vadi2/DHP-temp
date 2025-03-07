@@ -3184,7 +3184,7 @@ Description: "List of regions and locations in Uzbekistan"
   * ^designation[=].value = "Lolazor"
 * #1708225828 "Uzun"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Узун "
+  * ^designation[=].value = "Узун"
   * ^designation[+].language = #en
   * ^designation[=].value = "Uzun"
 * #1708225832 "Xulkar"
@@ -3869,7 +3869,7 @@ Description: "List of regions and locations in Uzbekistan"
   * ^designation[=].value = "Qovchin"
 * #1710224855 "Chaman"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Чаман "
+  * ^designation[=].value = "Чаман"
   * ^designation[+].language = #en
   * ^designation[=].value = "Chaman"
 * #1710224877 "O'zbekiston mustaqilligi"
@@ -5104,7 +5104,7 @@ Description: "List of regions and locations in Uzbekistan"
   * ^designation[=].value = "Sho'rtepa"
 * #1712211558 "Zafarobod"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Зафарабад "
+  * ^designation[=].value = "Зафарабад"
   * ^designation[+].language = #en
   * ^designation[=].value = "Zafarobod"
 * #1712211800 "Konimex tumanining qishloq fuqarolar yig'inlari"
@@ -7524,7 +7524,7 @@ Description: "List of regions and locations in Uzbekistan"
   * ^designation[=].value = "Payshanba"
 * #1718215554 "Suv xovuzi"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Сув ховузи "
+  * ^designation[=].value = "Сув ховузи"
   * ^designation[+].language = #en
   * ^designation[=].value = "Suv Khovuzi"
 * #1718215558 "Mundiyon"
