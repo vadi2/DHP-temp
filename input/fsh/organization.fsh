@@ -21,7 +21,7 @@ Description: "Uzbekistan DHP Organization Profile"
   * system 1..1 MS
   * system = $organization-tax-id-system
   * type 1..1 MS
-  * type = $hl7-identifier-type#TAX "Tax ID number"
+  * type = $identifier-type#TAX "Tax ID number"
   * use = #official
   * value 1..1 MS
 
@@ -29,7 +29,7 @@ Description: "Uzbekistan DHP Organization Profile"
   * system 1..1 MS
   * system = $organization-argoz-id-system
   * type 1..1 MS
-  * type = $hl7-identifier-type#XX "Organization Identifier"
+  * type = $identifier-type#XX "Organization Identifier"
   * use = #official
   * value 1..1 MS
 
@@ -110,12 +110,12 @@ Usage: #example
 * language = #uz
 * identifier[tax-id]
   * use = #official
-  * type = $hl7-identifier-type#TAX "Tax ID number"
+  * type = $identifier-type#TAX "Tax ID number"
   * system = $organization-tax-id-system
   * value = "200935935"
 * identifier[argoz-id]
   * use = #official
-  * type = $hl7-identifier-type#XX "Organization Identifier"
+  * type = $identifier-type#XX "Organization Identifier"
   * system = $organization-argoz-id-system
   * value = "9512"
 * active = true
@@ -144,12 +144,12 @@ Usage: #example
 * active = true
 * identifier[0]
   * system = $organization-tax-id-system
-  * type = $hl7-identifier-type#TAX "Tax ID number"
+  * type = $identifier-type#TAX "Tax ID number"
   * use = #official
   * value = "203108505"
 * identifier[+]
   * system = $organization-argoz-id-system
-  * type = $hl7-identifier-type#XX "Organization Identifier"
+  * type = $identifier-type#XX "Organization Identifier"
   * use = #official
   * value = "22640"
 * language = #uz

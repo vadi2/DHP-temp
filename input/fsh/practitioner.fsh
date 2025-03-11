@@ -11,6 +11,7 @@ Description: "Uzbekistan DHP Practitioner Profile"
 
 * identifier MS
 * identifier.use from IdentifierUseVS (required)
+* identifier.type from IdentifierTypeVS (required)
 * identifier ^slicing.discriminator.type = #value
 * identifier ^slicing.discriminator.path = "system"
 * identifier ^slicing.rules = #open
@@ -23,13 +24,14 @@ Description: "Uzbekistan DHP Practitioner Profile"
   * system 1..1 MS
   * system = $organization-argoz-id-system
   * type 1..1 MS
-  * type = $hl7-identifier-type#NI "National unique individual identifier"
+  * type = $identifier-type#NI "National unique individual identifier"
   * use = #official
   * value 1..1 MS
 
 * active MS
 * name MS
   * use and text and family and given and suffix and period MS
+  * use from NameUseVS (required)
 * telecom MS
   * system and value and use and rank and period MS
 * gender MS
