@@ -40,6 +40,7 @@ Description: "Uzbekistan DHP Practitioner Profile"
 * deceasedDateTime and deceasedBoolean MS
 * address MS
   * type and use and line and city and district and country and period MS
+  * type from AddressTypeVS (required)
   * use from AddressUseVS (required)
   * use ^short = "Тип адреса, home | temp"
 * photo MS

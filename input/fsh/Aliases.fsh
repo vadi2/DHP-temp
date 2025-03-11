@@ -1,4 +1,5 @@
 Alias: $address-use = http://hl7.org/fhir/address-use
+Alias: $address-type = http://hl7.org/fhir/address-type
 Alias: $contact-point-system = http://hl7.org/fhir/contact-point-system
 Alias: $degree-license-certificate = http://terminology.hl7.org/CodeSystem/v2-0360
 Alias: $identifier-type = http://terminology.hl7.org/CodeSystem/v2-0203
