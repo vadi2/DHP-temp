@@ -34,6 +34,7 @@ Description: "Uzbekistan DHP Practitioner Profile"
   * use from NameUseVS (required)
 * telecom MS
   * system and value and use and rank and period MS
+  * system from ContactPointSystemVS (required)
 * gender MS
 * birthDate MS
 * deceasedDateTime and deceasedBoolean MS
