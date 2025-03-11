@@ -53,233 +53,233 @@ Description: "Defines the type of license, certificate, degree"
 * include $qualification-codes#PN
   * ^designation[0].language = #ru
   * ^designation[=].value = "Медсестра высшей квалификации"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Advanced Practice Nurse"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Ilg'or amaliyot hamshirasi"
 
 * include $qualification-codes#BBA
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бакалавр делового администрирования"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bachelor of Business Administration"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Biznes boshqaruvi bakalavri"
 
 * include $qualification-codes#BN
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бакалавр сестринского дела"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bachelor of Nursing"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Hamshiralik ishi bakalavri"
 
 * include $qualification-codes#BS
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бакалавр"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bachelor of Science"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "fanlar bo'yicha bakalavr"
 
 * include $qualification-codes#BSN
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бакалавр наук - сестринское дело"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bachelor on Science - Nursing"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Fan bo'yicha bakalavr - Hamshiralik ishi"
 
 * include $qualification-codes#CER
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сертификат"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Certificate"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Sertifikat"
 
 * include $qualification-codes#CANP
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сертифицированный практикующий врач-медсестра для взрослых"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Certified Adult Nurse Practitioner"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Sertifikatlangan kattalar hamshirasi"
 
 * include $qualification-codes#CMA
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сертифицированный медицинский ассистент"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Certified Medical Assistant"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Sertifikatlangan tibbiy yordamchi"
 
 * include $qualification-codes#CNP
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сертифицированная практикующая медсестра"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Certified Nurse Practitioner"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Sertifikatlangan hamshira amaliyotchisi"
 
 * include $qualification-codes#CNM
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сертифицированная медсестра-акушерка"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Certified Nurse Midwife"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Sertifikatlangan hamshira doya"
 
 * include $qualification-codes#CRN
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сертифицированная медсестра"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Certified Registered Nurse"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Sertifikatlangan ro'yxatdan o'tgan hamshira"
 
 * include $qualification-codes#CNS
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сертифицированный специалист по медсестринскому делу"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Certified Nurse Specialist"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Sertifikatlangan hamshira mutaxassisi"
 
 * include $qualification-codes#CPNP
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сертифицированный детский практикующий врач-медсестра"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Certified Pediatric Nurse Practitioner"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Sertifikatlangan pediatriya hamshirasi"
 
 * include $qualification-codes#CTR
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сертифицированный регистратор опухолей"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Certified Tumor Registrar"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Sertifikatlangan o'smalarni ro'yxatga oluvchi"
 
 * include $qualification-codes#DIP
   * ^designation[0].language = #ru
   * ^designation[=].value = "Диплом"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Diploma"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Diplom"
 
 * include $qualification-codes#PharmD
   * ^designation[0].language = #ru
   * ^designation[=].value = "Доктор фармацевтических наук"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Doctor of Pharmacy"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Farmatsevtika fanlari doktori"
 
 * include $qualification-codes#PHE
   * ^designation[0].language = #ru
   * ^designation[=].value = "Доктор технических наук"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Doctor of Engineering"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Muhandislik fanlari doktori"
 
 * include $qualification-codes#PHS
   * ^designation[0].language = #ru
   * ^designation[=].value = "Доктор наук"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Doctor of Science"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Fan doktori"
 
 * include $qualification-codes#MD
   * ^designation[0].language = #ru
   * ^designation[=].value = "Доктор медицины"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Doctor of Medicine"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Tibbiyot fanlari doktori"
 
 * include $qualification-codes#DO
   * ^designation[0].language = #ru
   * ^designation[=].value = "Доктор остеопатии"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Doctor of Osteopathy"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Osteopatiya doktori"
 
 * include $qualification-codes#EMT
   * ^designation[0].language = #ru
   * ^designation[=].value = "Врач скорой медицинской помощи"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Emergency Medical Technician"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Shoshilinch tibbiy yordam bo'yicha mutaxassis"
 
 * include $qualification-codes#EMTP
   * ^designation[0].language = #ru
   * ^designation[=].value = "Врач скорой медицинской помощи - фельдшер"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Emergency Medical Technician - Paramedic"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Shoshilinch tibbiy yordam bo'yicha texnik - feldsher"
 
 * include $qualification-codes#FPNP
   * ^designation[0].language = #ru
   * ^designation[=].value = "Практикующая медсестра семейной практики"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Family Practice Nurse Practitioner"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Oilaviy amaliyot hamshirasi"
 
 * include $qualification-codes#HS
   * ^designation[0].language = #ru
   * ^designation[=].value = "Выпускник средней школы"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "High School Graduate"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Oliy maktab bitiruvchisi"
 
 * include $qualification-codes#MBA
   * ^designation[0].language = #ru
   * ^designation[=].value = "Магистр делового администрирования"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Master of Business Administration"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Biznes boshqaruvi magistri"
 
 * include $qualification-codes#MED
   * ^designation[0].language = #ru
   * ^designation[=].value = "Магистр образования"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Master of Education"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Taʼlim magistri"
 
 * include $qualification-codes#MEE
   * ^designation[0].language = #ru
   * ^designation[=].value = "Магистр электротехники"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Master of Electrical Engineering"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Elektr texnikasi magistri"
 
 * include $qualification-codes#ME
   * ^designation[0].language = #ru
   * ^designation[=].value = "Магистр инженерных наук"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Master of Engineering"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Muhandislik magistri"
 
 * include $qualification-codes#MFA
   * ^designation[0].language = #ru
   * ^designation[=].value = "Магистр изящных искусств"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Master of Fine Arts"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Tasviriy san'at magistri"
 
 * include $qualification-codes#MSN
   * ^designation[0].language = #ru
   * ^designation[=].value = "Магистр наук по сестринскому делу"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Master of Science - Nursing"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Fan magistri – hamshiralik ishi"
 
 * include $qualification-codes#MDA
   * ^designation[0].language = #ru
   * ^designation[=].value = "Медицинский ассистент"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Medical Assistant"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Tibbiy yordamchi"
 
 * include $qualification-codes#MT
   * ^designation[0].language = #ru
   * ^designation[=].value = "Медицинский техник"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Medical Technician"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Tibbiyot texnik"
 
 * include $qualification-codes#NP
   * ^designation[0].language = #ru
   * ^designation[=].value = "Практикующая медсестра"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Nurse Practitioner"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Amaliyotchi hamshira"
 
 * include $qualification-codes#PA
   * ^designation[0].language = #ru
   * ^designation[=].value = "Помощник врача"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Physician Assistant"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Shifokor yordamchisi"
 
 * include $qualification-codes#RMA
   * ^designation[0].language = #ru
   * ^designation[=].value = "Зарегистрированный медицинский ассистент"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Registered Medical Assistant"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Ro'yxatdan o'tgan tibbiy yordamchi"
 
 * include $qualification-codes#RN
   * ^designation[0].language = #ru
   * ^designation[=].value = "Дипломированная медсестра"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Registered Nurse"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Ro'yxatdan o'tgan hamshira"
 
 * include $qualification-codes#RPH
   * ^designation[0].language = #ru
   * ^designation[=].value = "Зарегистрированный фармацевт"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Registered Pharmacist"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Ro'yxatdan o'tgan farmatsevt"
 
 * include $qualification-codes#SEC
   * ^designation[0].language = #ru
   * ^designation[=].value = "Секретарский сертификат"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Secretarial Certificate"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Kotiblik guvohnomasi"
 
 * include $qualification-codes#TS
   * ^designation[0].language = #ru
   * ^designation[=].value = "Выпускник профессионального училища"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Trade School Graduate"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Savdo maktabi bitiruvchisi"
