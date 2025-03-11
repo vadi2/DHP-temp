@@ -10,6 +10,7 @@ Description: "Uzbekistan DHP Practitioner Profile"
 * ^publisher = "Uzinfocom"
 
 * identifier MS
+* identifier.use from IdentifierUseVS (required)
 * identifier ^slicing.discriminator.type = #value
 * identifier ^slicing.discriminator.path = "system"
 * identifier ^slicing.rules = #open

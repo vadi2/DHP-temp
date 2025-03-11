@@ -6,14 +6,44 @@ Description: "Defines the use of the address"
 * include $address-use#home
   * ^designation[0].language = #ru
   * ^designation[=].value = "Адрес прописки"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Registration address"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Ro'yxatdan o'tish manzili"
 * include $address-use#temp
   * ^designation[0].language = #ru
   * ^designation[=].value = "Адрес проживания"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Residence address"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Yashash manzili"
 
+ValueSet: IdentifierUseVS
+Id: identifier-use-vs
+Title: "Types of possible identifier uses"
+Description: "Defines the use of an identifier"
+* ^experimental = true
+* include $identifier-use#usual
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "обычный"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "odatiy"
+* include $identifier-use#official
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "официальный"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "rasmiy"
+* include $identifier-use#temp
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "временный"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "temp"
+* include $identifier-use#secondary
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "вторичный"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "ikkinchi darajali"
+* include $identifier-use#old
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "старый"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "eski"
 
 ValueSet: LicenseCertificateVS
 Id: license-certificate
