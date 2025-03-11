@@ -204,7 +204,7 @@ Description: "Defines the type of license, certificate, degree"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Магистр образования"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Taʼlim magistri"
+  * ^designation[=].value = "Ta'lim magistri"
 
 * include $qualification-codes#MEE
   * ^designation[0].language = #ru
@@ -228,7 +228,7 @@ Description: "Defines the type of license, certificate, degree"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Магистр наук по сестринскому делу"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Fan magistri – hamshiralik ishi"
+  * ^designation[=].value = "Fan magistri - hamshiralik ishi"
 
 * include $qualification-codes#MDA
   * ^designation[0].language = #ru
