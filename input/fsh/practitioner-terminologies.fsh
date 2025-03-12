@@ -2,8 +2,8 @@
 
 ValueSet: AddressUseVS
 Id: address-use-vs
-Title: "Types of possible addresses"
-Description: "Defines the use of the address in Uzbek and Russian"
+Title: "Types of address registration"
+Description: "Defines type of address registration (`use`) in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/ValueSet/address-use-vs"
 * ^experimental = true
 * include $address-use#home
@@ -469,7 +469,7 @@ Description: "Defines the contact point `system` types with Uzbek and Russian tr
 ValueSet: AddressTypeVS
 Id: address-type-vs
 Title: "Types of possible addresses"
-Description: "Defines the types of addresses with translations in Uzbek and Russian"
+Description: "Defines the types of addresses (`type`) with translations in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/ValueSet/address-type-vs"
 * ^experimental = true
 * include $address-type#postal
