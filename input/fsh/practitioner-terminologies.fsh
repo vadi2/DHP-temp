@@ -1,7 +1,8 @@
 ValueSet: AddressUseVS
-Id: address-use-vs
+Id: AddressUse
 Title: "Types of possible addresses"
 Description: "Defines the use of the address in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/AddressUse"
 * ^experimental = true
 * include $address-use#home
   * ^designation[0].language = #ru
@@ -15,9 +16,10 @@ Description: "Defines the use of the address in Uzbek and Russian"
   * ^designation[=].value = "Yashash manzili"
 
 ValueSet: IdentifierUseVS
-Id: identifier-use-vs
+Id: IdentifierUse
 Title: "Types of possible identifier uses"
 Description: "Defines the use of an identifier in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/IdentifierUse"
 * ^experimental = true
 * include $identifier-use#usual
   * ^designation[0].language = #ru
@@ -46,9 +48,10 @@ Description: "Defines the use of an identifier in Uzbek and Russian"
   * ^designation[=].value = "eski"
 
 ValueSet: LicenseCertificateVS
-Id: license-certificate
+Id: LicenseCertificate
 Title: "License, certificate, degree"
 Description: "Defines the type of license, certificate, degree in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/LicenseCertificate"
 * ^experimental = true
 * include $qualification-codes#PN
   * ^designation[0].language = #ru
@@ -286,9 +289,10 @@ Description: "Defines the type of license, certificate, degree in Uzbek and Russ
 
 
 ValueSet: IdentifierTypeVS
-Id: identifier-type-vs
+Id: IdentifierType
 Title: "Types of possible identifiers"
 Description: "Defines Uzbek and Russian translations for identifier types"
+* ^url = "https://terminology.medcore.uz/ValueSet/IdentifierType"
 * ^experimental = true
 
 * include $identifier-type#NI 
@@ -377,9 +381,10 @@ Description: "Defines Uzbek and Russian translations for identifier types"
 
 
 ValueSet: NameUseVS
-Id: name-use-vs
+Id: NameUse
 Title: "Types of possible name uses"
 Description: "Defines the different uses of a name in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/NameUse"
 * ^experimental = true
 * include $name-use#usual
   * ^designation[0].language = #ru
@@ -418,9 +423,10 @@ Description: "Defines the different uses of a name in Uzbek and Russian"
   * ^designation[=].value = "qiz"
 
 ValueSet: ContactPointSystemVS
-Id: contactpoint-system-vs
+Id: ContactPointSystem
 Title: "Types of possible contact points"
-Description: "Defines the contact point system types with Uzbek and Russian translations"
+Description: "Defines the contact point `system` types with Uzbek and Russian translations"
+* ^url = "https://terminology.medcore.uz/ValueSet/ContactPointSystem"
 * ^experimental = true
 * include $contact-point-system#phone
   * ^designation[0].language = #ru
@@ -459,9 +465,10 @@ Description: "Defines the contact point system types with Uzbek and Russian tran
   * ^designation[=].value = "boshqa"
 
 ValueSet: AddressTypeVS
-Id: address-type-vs
+Id: AddressType
 Title: "Types of possible addresses"
 Description: "Defines the types of addresses with translations in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/AddressType"
 * ^experimental = true
 * include $address-type#postal
   * ^designation[0].language = #ru

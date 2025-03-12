@@ -2,6 +2,7 @@ CodeSystem: NomenclatureGroupCS
 Id: nomenclature-group-cs
 Title: "Nomenclature group"
 Description: "Defines a nomenclature group (grouping of institutions)"
+* ^url = "https://terminology.medcore.uz/CodeSystem/nomenclature-group-cs"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = true
@@ -60,6 +61,7 @@ ValueSet: NomenclatureGroupVS
 Id: nomenclature-group-vs
 Description: "Nomenclature group"
 Title:  "Defines a nomenclature group (grouping of institutions)"
+* ^url = "https://terminology.medcore.uz/ValueSet/nomenclature-group-vs"
 * ^experimental = true
 * include codes from system nomenclature-group-cs
 
@@ -111,6 +113,7 @@ ValueSet: OrganizationalServiceGroupVS
 Id: organizational-service-group-vs
 Title: "Organizational Service group"
 Description: "Defines the organizational and service group of a medical institution"
+* ^url = "https://terminology.medcore.uz/ValueSet/organizational-service-group-vs"
 * ^experimental = true
 * include codes from system organizational-service-group-cs
 
@@ -118,6 +121,7 @@ CodeSystem: OrganizationalStructrueCS
 Id: organizational-structure-cs
 Title: "Organizational Structure"
 Description: "Defines the organizational structure of a medical institution"
+* ^url = "https://terminology.medcore.uz/CodeSystem/organizational-structure-cs"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = false
@@ -236,13 +240,15 @@ ValueSet: OrganizationalStructureVS
 Id: organizational-structure-vs
 Title: "Organizational structure"
 Description: "Defines the organizational structure of a medical institution"
+* ^url = "https://terminology.medcore.uz/ValueSet/organizational-structure-vs"
 * ^experimental = true
 * include codes from system organizational-structure-cs
 
-CodeSystem: OrganizationalspecializationCS
+CodeSystem: OrganizationalSpecializationCS
 Id: organizational-specialization-cs
 Title: "Organizational specialization"
 Description: "Determines the specialization of a medical organization"
+* ^url = "https://terminology.medcore.uz/CodeSystem/organizational-specialization-cs"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = true
@@ -262,10 +268,11 @@ Description: "Determines the specialization of a medical organization"
   * ^designation[+].language = #en
   * ^designation[=].value = "Radiology and roentgenology"
 
-ValueSet: OrganizationalspecializationVS
+ValueSet: OrganizationalSpecializationVS
 Id: organizational-specialization-vs
 Title: "Organizational specialization"
 Description: "Determines the specialization of a medical organization"
+* ^url = "https://terminology.medcore.uz/ValueSet/organizational-specialization-vs"
 * ^experimental = true
 * include codes from system organizational-specialization-cs
 
@@ -273,6 +280,7 @@ CodeSystem: OrganizationalSubordinationGroupCS
 Id: organizational-subordination-group-cs
 Title: "Organizational Subordination group"
 Description: "Defines the subordination group of the medical organization"
+* ^url = "https://terminology.medcore.uz/CodeSystem/organizational-subordination-group-cs"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = false
@@ -311,6 +319,7 @@ ValueSet: OrganizationalSubordinationGroupVS
 Id: organizational-subordination-group-vs
 Title: "Organizational Subordination group"
 Description: "Defines the subordination group of the medical organization"
+* ^url = "https://terminology.medcore.uz/ValueSet/organizational-subordination-group-vs"
 * ^experimental = true
 * include codes from system organizational-subordination-group-cs
 
@@ -318,6 +327,7 @@ CodeSystem: OrganizationalSubordinationInstitutionCS
 Id: organizational-subordination-institution-cs
 Title: "Organizational Subordination Institution"
 Description: "Defines the type of medical organizations without forming a legal entity"
+* ^url = "https://terminology.medcore.uz/CodeSystem/organizational-subordination-institution-cs"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = false
@@ -351,5 +361,6 @@ ValueSet: OrganizationalSubordinationInstitutionVS
 Id: organizational-subordination-institution-vs
 Title: "Organizational Subordination Institution"
 Description: "Defines the type of medical organizations without forming a legal entity"
+* ^url = "https://terminology.medcore.uz/ValueSet/organizational-subordination-institution-vs"
 * ^experimental = true
 * include codes from system organizational-subordination-institution-cs
