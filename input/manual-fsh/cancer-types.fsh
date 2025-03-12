@@ -2,6 +2,7 @@ CodeSystem: CancerTypesCS
 Id: cancer-types-cs
 Title: "Cancer Types"
 Description: "List of cancer types defined by the Ministry of Health of the Republic of Uzbekistan"
+* ^url = "https://terminology.medcore.uz/CodeSystem/cancer-types-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
