@@ -1,7 +1,7 @@
 CodeSystem: CancerTypesCS
 Id: cancer-types-cs
 Title: "Cancer Types"
-Description: "List of cancer types as defined by XX."
+Description: "List of cancer types."
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
