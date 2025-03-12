@@ -16545,4 +16545,5 @@ Title: "Uzbekistan Regions and Locations"
 Description: "List of regions and locations in Uzbekistan"
 * ^url = "https://terminology.medcore.uz/ValueSet/Regions"
 * ^experimental = true
+* ^language = #uz
 * include codes from system regions-cs

@@ -1,0 +1,3057 @@
+{
+  "resourceType": "CodeSystem",
+  "status": "active",
+  "content": "complete",
+  "name": "PractitionerRoleCS",
+  "id": "practitioner-role-cs",
+  "title": "Practitioner roles",
+  "description": "Defines the roles of medical practitioners",
+  "url": "https://terminology.medcore.uz/CodeSystem/practitioner-role-cs",
+  "concept": [
+    {
+      "code": "2211",
+      "display": "Sog'liqni saqlash sohasida professional-mutaxassislar. Vrachlar. Umumiy amaliyot vrachlari",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинские работники. Врачи. Врачи общей практики"
+        },
+        {
+          "language": "en",
+          "value": "Healthcare professionals. Doctors. General practitioners"
+        }
+      ]
+    },
+    {
+      "code": "2211.1",
+      "display": "Umumiy amaliyot vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач общей практики"
+        },
+        {
+          "language": "en",
+          "value": "General practitioner"
+        }
+      ]
+    },
+    {
+      "code": "2211.2",
+      "display": "Bolalar umumiy vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач общий педиатр"
+        },
+        {
+          "language": "en",
+          "value": "Pediatrician"
+        }
+      ]
+    },
+    {
+      "code": "2211.3",
+      "display": "Onkologiya umumiy vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач онколог общий"
+        },
+        {
+          "language": "en",
+          "value": "General oncologist"
+        }
+      ]
+    },
+    {
+      "code": "2211.4",
+      "display": "Umumiy onkolog (onkologik bo'lmagan statsionarlarda maslahatchi shifokor sifatida)",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач онколог общий (предусмотрена в не онкологических стационарных учреждениях в качестве врача консультанта)"
+        },
+        {
+          "language": "en",
+          "value": "General oncologist (in non-oncology hospital as a consultant doctor)"
+        }
+      ]
+    },
+    {
+      "code": "2211.5",
+      "display": "Vrach-intern",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач-интерн"
+        },
+        {
+          "language": "en",
+          "value": "Resident"
+        }
+      ]
+    },
+    {
+      "code": "2211.6",
+      "display": "Vrach-mutaxassis",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач-специалист"
+        },
+        {
+          "language": "en",
+          "value": "Medical specialist"
+        }
+      ]
+    },
+    {
+      "code": "2211.7",
+      "display": "Kichik ilmiy xodim",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Младший научный сотрудник"
+        },
+        {
+          "language": "en",
+          "value": "Associate researcher"
+        }
+      ]
+    },
+    {
+      "code": "2211.8",
+      "display": "Ilmiy xodim",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Научный сотрудник"
+        },
+        {
+          "language": "en",
+          "value": "Research associate"
+        }
+      ]
+    },
+    {
+      "code": "2211.9",
+      "display": "Аmbulator-poliklinika bo'yicha vrach yordamchisi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Помощник врача по амбулаторно-поликлинической помощи"
+        },
+        {
+          "language": "en",
+          "value": "Assistant doctor for outpatient polyclinic"
+        }
+      ]
+    },
+    {
+      "code": "2211.10",
+      "display": "Umumiy gigiena bo'yicha vrach",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Санитарный врач по общей гигиене"
+        },
+        {
+          "language": "en",
+          "value": "General Health Officer"
+        }
+      ]
+    },
+    {
+      "code": "2211.11",
+      "display": "Tajriba ottiruvchi kichik ilmiy xodim",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Стажер младшего научного сотрудника"
+        },
+        {
+          "language": "en",
+          "value": "Junior Research Fellow"
+        }
+      ]
+    },
+    {
+      "code": "2211.12",
+      "display": "Katta ilmiy xodim",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Старший научный сотрудник"
+        },
+        {
+          "language": "en",
+          "value": "Senior research associate"
+        }
+      ]
+    },
+    {
+      "code": "2212",
+      "display": "Vrach-mutaxasislar",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинские специалисты"
+        },
+        {
+          "language": "en",
+          "value": "Medical specialists"
+        }
+      ]
+    },
+    {
+      "code": "2212.1",
+      "display": "Аnesteziolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Анестезиолог"
+        },
+        {
+          "language": "en",
+          "value": "Anesthesiologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.2",
+      "display": "Аbdominal bo'yicha vrach onkoxirurg",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач абдоминальный онкохирург"
+        },
+        {
+          "language": "en",
+          "value": "Abdominal cancer surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.3",
+      "display": "Аbdominal bo'yicha vrach onkoxirurg (ixtisoslashgan muassasalarda)",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач абдоминальный хирург (в специализированных учреждениях)"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of abdominal surgery (in specialized institutions)"
+        }
+      ]
+    },
+    {
+      "code": "2212.4",
+      "display": "Vrach allergolog-immunolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач аллерголог-иммунолог"
+        },
+        {
+          "language": "en",
+          "value": "Physician Immunologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.5",
+      "display": "Vrach anesteziolog-reanimatolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач анестезиолог-реаниматолог"
+        },
+        {
+          "language": "en",
+          "value": "Anesthesiologist-RCM"
+        }
+      ]
+    },
+    {
+      "code": "2212.6",
+      "display": "Vrach bakteriolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач бактериолог"
+        },
+        {
+          "language": "en",
+          "value": "Bacteriologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.7",
+      "display": "Аlohida xavfli infektsiyalar bo'yicha bakteriolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач бактериолог по особо опасным инфекциям"
+        },
+        {
+          "language": "en",
+          "value": "Bacteriologist for especially dangerous infections"
+        }
+      ]
+    },
+    {
+      "code": "2212.8",
+      "display": "Vrach vertebrolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач вертебролог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of Vertebrate"
+        }
+      ]
+    },
+    {
+      "code": "2212.9",
+      "display": "Vrach virusolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач вирусолог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of virology"
+        }
+      ]
+    },
+    {
+      "code": "2212.10",
+      "display": "Mehnat-vrachlik ekspertizasi vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач врачебно-трудовой экспертизы (ВТЭ)"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of Occupational Medicine (VET)"
+        }
+      ]
+    },
+    {
+      "code": "2212.11",
+      "display": "Vrach gastroenterolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач гастроэнтеролог"
+        },
+        {
+          "language": "en",
+          "value": "Gastroenterologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.12",
+      "display": "Vrach gematolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач гематолог"
+        },
+        {
+          "language": "en",
+          "value": "Hematologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.13",
+      "display": "Vrach geriatr",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач гериатр"
+        },
+        {
+          "language": "en",
+          "value": "Geriatrician"
+        }
+      ]
+    },
+    {
+      "code": "2212.14",
+      "display": "Vrach ginekolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач гинеколог"
+        },
+        {
+          "language": "en",
+          "value": "Gynecologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.15",
+      "display": "Vrach (maslahat/ diagnostika / oilaviy poliklinika, dispanser va boshqalar.) ginekologi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач гинеколог (консультативной/ диагностической/ семейной поликлиники, диспансера и пр.)"
+        },
+        {
+          "language": "en",
+          "value": "Gynecologist (consulting/ diagnostic/ family polyclinic, clinic etc.)"
+        }
+      ]
+    },
+    {
+      "code": "2212.16",
+      "display": "Vrach dezinfektsionist",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач дезинфекционист"
+        },
+        {
+          "language": "en",
+          "value": "Disinfectant doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.17",
+      "display": "Vrach dermatovenerolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач дерматовенеролог"
+        },
+        {
+          "language": "en",
+          "value": "Dermatovenereologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.18",
+      "display": "Bolalar alllergolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский аллерголог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of child allergy"
+        }
+      ]
+    },
+    {
+      "code": "2212.19",
+      "display": "Bolalar anesteziolog-reanimatolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский анестезиолог-реаниматолог"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric anesthesiologist-RCT"
+        }
+      ]
+    },
+    {
+      "code": "2212.20",
+      "display": "Bolalar gastroenterolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский гастроэнтеролог"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric gastroenterologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.21",
+      "display": "Bolalar va o'smirlar psixiatri",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский и подростковый психиатр"
+        },
+        {
+          "language": "en",
+          "value": "Child and adolescent psychiatrist"
+        }
+      ]
+    },
+    {
+      "code": "2212.22",
+      "display": "Bolalar infektsionist vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский инфекционист"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric infectious disease doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.23",
+      "display": "Bolalar kardiorevmatolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский кардиоревматолог"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric cardiorrhematologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.24",
+      "display": "Bolalar kardioxirurg vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский кардиохирург"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric cardiac surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.25",
+      "display": "Bolalar nevrolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский невролог"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric neurologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.26",
+      "display": "Bolalar nefrolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский нефролог"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric nephrologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.27",
+      "display": "Bolalar onkolog kimyoterapevt vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский онколог химиотерапевт"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric oncologist chemotherapy"
+        }
+      ]
+    },
+    {
+      "code": "2212.28",
+      "display": "Bolalar onkoxirurg vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский онкохирург"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric cancer surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.29",
+      "display": "Bolalar pulьmonolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский пульмонолог"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric pulmonologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.30",
+      "display": "Bolalar travmatolog-ortoped vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский травматолог-ортопед"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric orthopedic trauma doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.31",
+      "display": "Bolalar urolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский уролог"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric urologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.32",
+      "display": "Bolalar ftiziatr vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский фтизиатр"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric physician"
+        }
+      ]
+    },
+    {
+      "code": "2212.33",
+      "display": "Bolalar xirurg vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский хирург"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.34",
+      "display": "Bolalar ambulatur xirurg vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский хирург амбулаторный"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric Surgeon Outpatient"
+        }
+      ]
+    },
+    {
+      "code": "2212.35",
+      "display": "Bolalar endokrinolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детский эндокринолог"
+        },
+        {
+          "language": "en",
+          "value": "Pediatric endocrinologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.36",
+      "display": "Bolalar va o'smirlar genekolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач детской и подростковой гинекологии"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of Children and Adolescent Gynecology"
+        }
+      ]
+    },
+    {
+      "code": "2212.37",
+      "display": "Vrach iglorefleksoterapevt",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач иглорефлексотерапевт"
+        },
+        {
+          "language": "en",
+          "value": "Acupuncturist"
+        }
+      ]
+    },
+    {
+      "code": "2212.38",
+      "display": "Vrach immunolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач иммунолог"
+        },
+        {
+          "language": "en",
+          "value": "Immunologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.39",
+      "display": "Interventsion kardiologiya vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач интервенционной кардиологии"
+        },
+        {
+          "language": "en",
+          "value": "Interventional cardiology doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.40",
+      "display": "Interventsion radiologiya vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач интервенционной радиологии"
+        },
+        {
+          "language": "en",
+          "value": "Interventional radiologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.41",
+      "display": "Vrach infektsionist",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач инфекционист"
+        },
+        {
+          "language": "en",
+          "value": "Infectious disease doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.42",
+      "display": "Immunoprofilaktika kabinetining vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач кабинета иммунопрофилактики"
+        },
+        {
+          "language": "en",
+          "value": "Immunopharmaceutical doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.43",
+      "display": "Yuqumli kasalliklar kabinetining vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач кабинета инфекционных заболеваний"
+        },
+        {
+          "language": "en",
+          "value": "Infectious disease doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.44",
+      "display": "Vrach kardioanesteziolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач кардиоанестезиолог"
+        },
+        {
+          "language": "en",
+          "value": "Cardiology doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.45",
+      "display": "Vrach kardiolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач кардиолог"
+        },
+        {
+          "language": "en",
+          "value": "Cardiologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.46",
+      "display": "Vrach kardioxirurg",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач кардиохирург"
+        },
+        {
+          "language": "en",
+          "value": "Cardiac surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.47",
+      "display": "Klinik farmakologiya vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач клинический фармаколог"
+        },
+        {
+          "language": "en",
+          "value": "Clinical pharmacologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.48",
+      "display": "Vrach koloproktolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач колопроктолог"
+        },
+        {
+          "language": "en",
+          "value": "Colonoscopy doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.49",
+      "display": "Vrach kombustiolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач комбустиолог"
+        },
+        {
+          "language": "en",
+          "value": "Combustiologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.50",
+      "display": "Qabul bo'limining shifokor koordinatori (shoshilinch tibbiy yordam muassasalari)",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач координатор приёмного отделения (учреждений экстренной медицинской помощи)"
+        },
+        {
+          "language": "en",
+          "value": "Doctor coordinator of the reception department (emergency medical care facilities)"
+        }
+      ]
+    },
+    {
+      "code": "2212.51",
+      "display": "Vrach kosmetolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач косметолог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of cosmetology"
+        }
+      ]
+    },
+    {
+      "code": "2212.52",
+      "display": "Immunogistokimyoviy laboratoriyasi laborant vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач лаборант иммуногистохимической лаборатории"
+        },
+        {
+          "language": "en",
+          "value": "Laboratory Technician immunostaining"
+        }
+      ]
+    },
+    {
+      "code": "2212.53",
+      "display": "Biokimyoviy-klinik laboratoriya vrach laboranti",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач лаборант клинико-биохимической лаборатории"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of laboratory clinical biochemical laboratory"
+        }
+      ]
+    },
+    {
+      "code": "2212.54",
+      "display": "Klinik va biokimyoviy/ immunobiologik/ immunoferment/ serologik / PTsR-diagnostik va boshqa laboratoriyalar laboranti",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач лаборант клинико-биохимической/ иммунобиологической/ иммуноферментной/ серологической/ ПЦР-диагностической и др. лаборатории"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of laboratory clinical biochemical/ immuno-biological/ immuno-enzyme/ serological/ PCR-diagnostic and other. laboratory"
+        }
+      ]
+    },
+    {
+      "code": "2212.55",
+      "display": "Klinik va biokimyoviy/ immunobiologik/ immunoferment/ serologik / PTsR-diagnostik va boshqa laboratoriyalar laboranti",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач лаборант клинико-биохимической/ иммунобиологической/ иммуноферментной/ серологической/ ПЦР-диагностической и др. лаборатории"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of laboratory clinical biochemical/ immuno-biological/ immuno-enzyme/ serological/ PCR-diagnostic and other. laboratory"
+        }
+      ]
+    },
+    {
+      "code": "2212.56",
+      "display": "Shifokor sanitariya laboranti / toksikologik / rentgenologik / parazitologik va boshqa laboratoriyalar",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач лаборант санитарно-гигиенической / токсикологической / радиологической / паразитологической и др. лаборатории"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of laboratory sanitary/ toxicological/ radiological/ parasitological and others. laboratory"
+        }
+      ]
+    },
+    {
+      "code": "2212.57",
+      "display": "Sud-tibbiyot yekspertizasi laboratoriyasining vrach laboranti",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач лаборант судебно-медицинской экспертной лаборатории"
+        },
+        {
+          "language": "en",
+          "value": "Forensic laboratory technician"
+        }
+      ]
+    },
+    {
+      "code": "2212.58",
+      "display": "Vrach mammolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач маммолог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of milk"
+        }
+      ]
+    },
+    {
+      "code": "2212.59",
+      "display": "Manual terapiya vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач мануальный терапевт"
+        },
+        {
+          "language": "en",
+          "value": "Manual physician"
+        }
+      ]
+    },
+    {
+      "code": "2212.60",
+      "display": "Tibbiy genetiki vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач медицинский генетик"
+        },
+        {
+          "language": "en",
+          "value": "Medical geneticist"
+        }
+      ]
+    },
+    {
+      "code": "2212.61",
+      "display": "Tibbiy psixologiya vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач медицинский психолог"
+        },
+        {
+          "language": "en",
+          "value": "Medical psychologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.62",
+      "display": "Tibbiy statistika vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач медицинский статистик"
+        },
+        {
+          "language": "en",
+          "value": "Medical statistician"
+        }
+      ]
+    },
+    {
+      "code": "2212.63",
+      "display": "Vrach uslubchi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач методист"
+        },
+        {
+          "language": "en",
+          "value": "Physician"
+        }
+      ]
+    },
+    {
+      "code": "2212.64",
+      "display": "Аxborot tizimlari bo'limi vrach uslubchisi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач методист отдела информационных систем"
+        },
+        {
+          "language": "en",
+          "value": "Medical Practitioner, Information Systems Department"
+        }
+      ]
+    },
+    {
+      "code": "2212.65",
+      "display": "Vrach mikroxirurg",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач микрохирург"
+        },
+        {
+          "language": "en",
+          "value": "Microsurgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.66",
+      "display": "Vrach narkolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач нарколог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of drugs"
+        }
+      ]
+    },
+    {
+      "code": "2212.67",
+      "display": "Vrach nevrolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач невролог"
+        },
+        {
+          "language": "en",
+          "value": "Neurologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.68",
+      "display": "Vrach neyrofiziolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач нейрофизиолог"
+        },
+        {
+          "language": "en",
+          "value": "Neurophysiologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.69",
+      "display": "Vrach neyroxirurg",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач нейрохирург"
+        },
+        {
+          "language": "en",
+          "value": "Neurosurgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.70",
+      "display": "Vrach neonatal jarroh",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач неонатальный хирург"
+        },
+        {
+          "language": "en",
+          "value": "Neonatal surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.71",
+      "display": "Vrach neonatolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач неонатолог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of Neonatology"
+        }
+      ]
+    },
+    {
+      "code": "2212.72",
+      "display": "Shoshilinch kardiologiya / yurak intensiv terapiyasi vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач неотложной кардиологии / кардиореанимации"
+        },
+        {
+          "language": "en",
+          "value": "Emergency cardiology/ cardio-respiratory doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.73",
+      "display": "Shoshilinch pediatr (intensiv terapiya bo'limi) vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач неотложной педиатрии (палаты интенсивной терапии)"
+        },
+        {
+          "language": "en",
+          "value": "Paediatrician (intensive care unit)"
+        }
+      ]
+    },
+    {
+      "code": "2212.74",
+      "display": "Vrach nefrolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач нефролог"
+        },
+        {
+          "language": "en",
+          "value": "Nephrologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.75",
+      "display": "Vrach onkoginekolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач онкогинеколог"
+        },
+        {
+          "language": "en",
+          "value": "Oncologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.76",
+      "display": "Vrach onkokoloproktolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач онкоколопроктолог"
+        },
+        {
+          "language": "en",
+          "value": "Oncological proctologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.77",
+      "display": "Vrach onkourolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач онкоуролог"
+        },
+        {
+          "language": "en",
+          "value": "Cancer doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.78",
+      "display": "Vrach ortoped",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач ортопед"
+        },
+        {
+          "language": "en",
+          "value": "Orthopedic doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.79",
+      "display": "Gemodializ / dializ bo'linmasi vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач отделения гемодиализа /диализного блока"
+        },
+        {
+          "language": "en",
+          "value": "Physician of the hemodialysis/dialysis unit"
+        }
+      ]
+    },
+    {
+      "code": "2212.80",
+      "display": "Yiringli jarrohlik bo'linmasi vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач отделения гнойной хирургии"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of the department of fume surgery"
+        }
+      ]
+    },
+    {
+      "code": "2212.81",
+      "display": "Suyak sil kasalligi bo'linmasi vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач отделения костного туберкулёза"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of bone tuberculosis department"
+        }
+      ]
+    },
+    {
+      "code": "2212.82",
+      "display": "Bosh va bo'yin shishlari bo'linmasi vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач отделения опухолей головы и шеи"
+        },
+        {
+          "language": "en",
+          "value": "Head and neck tumor doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.83",
+      "display": "Yumshoq to'qimalar va suyaklar o'simtalari bo'linmasi vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач отделения опухолей мягких тканей и костей"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of soft tissue and bone tumors"
+        }
+      ]
+    },
+    {
+      "code": "2212.84",
+      "display": "Vrach otorinolaringolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач оториноларинголог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of Thoracic Laryngologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.85",
+      "display": "Reanimatsiya bo'limi shifokori",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач палаты интенсивной терапии"
+        },
+        {
+          "language": "en",
+          "value": "Intensive care physician"
+        }
+      ]
+    },
+    {
+      "code": "2212.86",
+      "display": "Vrach paradontolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач парадонтолог"
+        },
+        {
+          "language": "en",
+          "value": "Paramedic"
+        }
+      ]
+    },
+    {
+      "code": "2212.87",
+      "display": "Vrach parazitolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач паразитолог"
+        },
+        {
+          "language": "en",
+          "value": "Parasitologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.88",
+      "display": "Vrach patologoanatom",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач патологоанатом"
+        },
+        {
+          "language": "en",
+          "value": "Pathologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.89",
+      "display": "Vrach pediatr",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач педиатр"
+        },
+        {
+          "language": "en",
+          "value": "Pediatrician"
+        }
+      ]
+    },
+    {
+      "code": "2212.90",
+      "display": "Plastik jarrohlik vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач пластический хирург"
+        },
+        {
+          "language": "en",
+          "value": "Plastic surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.91",
+      "display": "Jismoniy mashqlar terapiyasi / sport tibbiyoti bo'yicha vrach",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач по лечебной физкультуре/ спортивной медицине"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of therapeutic physical education/ sports medicine"
+        }
+      ]
+    },
+    {
+      "code": "2212.92",
+      "display": "Vrach profpatolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач профпатолог"
+        },
+        {
+          "language": "en",
+          "value": "Medical professional"
+        }
+      ]
+    },
+    {
+      "code": "2212.93",
+      "display": "Vrach psixiatr",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач психиатр"
+        },
+        {
+          "language": "en",
+          "value": "Psychiatrist"
+        }
+      ]
+    },
+    {
+      "code": "2212.94",
+      "display": "Psixiatr-suitsidolog vrach",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач психиатр-суицидолог"
+        },
+        {
+          "language": "en",
+          "value": "Psychiatrist-suicide doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.95",
+      "display": "Vrach psixoterapevt",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач психотерапевт"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of psychotherapy"
+        }
+      ]
+    },
+    {
+      "code": "2212.96",
+      "display": "Vrach pulьmonolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач пульмонолог"
+        },
+        {
+          "language": "en",
+          "value": "Pulmonary physician"
+        }
+      ]
+    },
+    {
+      "code": "2212.97",
+      "display": "Vrach rabiolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач рабиолог"
+        },
+        {
+          "language": "en",
+          "value": "Rabotist"
+        }
+      ]
+    },
+    {
+      "code": "2212.98",
+      "display": "Vrach radioterapevt",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач радиотерапевт"
+        },
+        {
+          "language": "en",
+          "value": "Radiation physician"
+        }
+      ]
+    },
+    {
+      "code": "2212.99",
+      "display": "Kuyish reanimatsiyasi bo'yicha vrach reanimatologi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач реаниматолог ожоговой реанимации"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of CPR"
+        }
+      ]
+    },
+    {
+      "code": "2212.100",
+      "display": "Vrach revmatolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач ревматолог"
+        },
+        {
+          "language": "en",
+          "value": "Rheumatologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.101",
+      "display": "Vrach rentgenolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач рентгенолог"
+        },
+        {
+          "language": "en",
+          "value": "Radiologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.102",
+      "display": "Kompyuter tomografiyasi (KT) vrach rentgenologi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач рентгенолог компьютерной томографии (КТ)"
+        },
+        {
+          "language": "en",
+          "value": "Radiologist, computer tomography (CT)"
+        }
+      ]
+    },
+    {
+      "code": "2212.103",
+      "display": "Magnit-rezonans tomografiya (MRT) vrach rentgenologi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач рентгенолог магнитно-резонансной томографии (МРТ)"
+        },
+        {
+          "language": "en",
+          "value": "Radiologist magnetic resonance imaging (MRI)"
+        }
+      ]
+    },
+    {
+      "code": "2212.104",
+      "display": "Vrach reproduktolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач репродуктолог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of Reproductive Medicine"
+        }
+      ]
+    },
+    {
+      "code": "2212.105",
+      "display": "Tez tibbiy yordam vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач скорой медицинской помощи"
+        },
+        {
+          "language": "en",
+          "value": "Emergency physician"
+        }
+      ]
+    },
+    {
+      "code": "2212.106",
+      "display": "Qon tomir jarroh vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач сосудистый хирург"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of vascular surgery"
+        }
+      ]
+    },
+    {
+      "code": "2212.107",
+      "display": "Orqa miya neyroxirurg vrach",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач спинальный нейрохирург"
+        },
+        {
+          "language": "en",
+          "value": "Doctor spinal neurosurgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.108",
+      "display": "Qon quyish stantsiyasining vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач станции переливания крови"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of blood transfusion station"
+        }
+      ]
+    },
+    {
+      "code": "2212.109",
+      "display": "Vrach statistik",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач статистик"
+        },
+        {
+          "language": "en",
+          "value": "Medical statistician"
+        }
+      ]
+    },
+    {
+      "code": "2212.110",
+      "display": "Sud tibbiy ekspertizasi vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач судебно-медицинской экспертизы"
+        },
+        {
+          "language": "en",
+          "value": "Medical examiner"
+        }
+      ]
+    },
+    {
+      "code": "2212.111",
+      "display": "Sud-psixiatriya ekspertizasi vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач судебно-психиатрической экспертизы"
+        },
+        {
+          "language": "en",
+          "value": "Forensic psychiatric expert"
+        }
+      ]
+    },
+    {
+      "code": "2212.112",
+      "display": "Аudiolog-otorinolaringolog vrach",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач сурдолог-оториноларинголог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of Prothonotology and Orthopaedic Surgery"
+        }
+      ]
+    },
+    {
+      "code": "2212.113",
+      "display": "Vrach terapevt",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач терапевт"
+        },
+        {
+          "language": "en",
+          "value": "Physician"
+        }
+      ]
+    },
+    {
+      "code": "2212.114",
+      "display": "Favqulodda yordam bo'linmasi vrach terapevti",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач терапевт приёмного отделения экстренного поста"
+        },
+        {
+          "language": "en",
+          "value": "Physician of the emergency ward"
+        }
+      ]
+    },
+    {
+      "code": "2212.115",
+      "display": "Vrach toksikolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач токсиколог"
+        },
+        {
+          "language": "en",
+          "value": "Toxicologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.116",
+      "display": "Ko'krak qafasi onkoxirurg vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач торакальный онкохирург"
+        },
+        {
+          "language": "en",
+          "value": "Thoracic cancer surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.117",
+      "display": "Ko'krak qafasi xirurg vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач торакальный хирург"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of thoracic surgery"
+        }
+      ]
+    },
+    {
+      "code": "2212.118",
+      "display": "Vrach travmatolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач травматолог"
+        },
+        {
+          "language": "en",
+          "value": "Traumatologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.119",
+      "display": "Travmatologiya markazi travmatolog vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач травматолог травмпункта"
+        },
+        {
+          "language": "en",
+          "value": "Trauma Doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.120",
+      "display": "Transplantolog vrach",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач трансплантолог"
+        },
+        {
+          "language": "en",
+          "value": "Transplant doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.121",
+      "display": "Ultratovush diagnostikasi vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач ультразвуковой диагностики"
+        },
+        {
+          "language": "en",
+          "value": "Ultrasound diagnostic doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.122",
+      "display": "Vrach urolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач уролог"
+        },
+        {
+          "language": "en",
+          "value": "Urologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.123",
+      "display": "Vrach fizioginekolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач физиогинеколог"
+        },
+        {
+          "language": "en",
+          "value": "Physiogynecologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.124",
+      "display": "Vrach fizioterapevt",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач физиотерапевт"
+        },
+        {
+          "language": "en",
+          "value": "Physician physiotherapist"
+        }
+      ]
+    },
+    {
+      "code": "2212.125",
+      "display": "Vrach ftiziatr",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач фтизиатр"
+        },
+        {
+          "language": "en",
+          "value": "Phthiatiatra"
+        }
+      ]
+    },
+    {
+      "code": "2212.126",
+      "display": "Vrach ftiziourolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач фтизиоуролог"
+        },
+        {
+          "language": "en",
+          "value": "Phthioaromologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.127",
+      "display": "Funktsional diagnostika (FD) (bajaradigan vazifalarga qarab) vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач функциональной диагностики (ФД) (в зависимости от выполняемых задач)"
+        },
+        {
+          "language": "en",
+          "value": "Functional diagnostic (FD) doctor (depending on the tasks performed)"
+        }
+      ]
+    },
+    {
+      "code": "2212.128",
+      "display": "Pediatriyada funktsional diagnostika vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач функциональной диагностики в педиатрии"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of functional diagnostics in pediatrics"
+        }
+      ]
+    },
+    {
+      "code": "2212.129",
+      "display": "Vrach kimyoterapevt",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач химиотерапевт"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of chemotherapy"
+        }
+      ]
+    },
+    {
+      "code": "2212.130",
+      "display": "Vrach xirurg",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач хирург"
+        },
+        {
+          "language": "en",
+          "value": "Surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.131",
+      "display": "Аmbulatur xirurg vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач хирург амбулаторный"
+        },
+        {
+          "language": "en",
+          "value": "Outpatient surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.132",
+      "display": "Qabul bo'linmasining diagnostika palatasi vrach jarrohi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач хирург диагностической палаты приёмного отделения"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of the diagnostic room of the department"
+        }
+      ]
+    },
+    {
+      "code": "2212.133",
+      "display": "Favqulodda yordam bo'linmasi vrach jarrohi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач хирург приёмного отделения экстренного поста"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of emergency surgery"
+        }
+      ]
+    },
+    {
+      "code": "2212.134",
+      "display": "Vrach xirurg-ftiziatr",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач хирург-фтизиатр"
+        },
+        {
+          "language": "en",
+          "value": "Physician Surgeon-Phthiatiatra"
+        }
+      ]
+    },
+    {
+      "code": "2212.135",
+      "display": "Vrach xirurg-endokrinolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач хирург-эндокринолог"
+        },
+        {
+          "language": "en",
+          "value": "Doctor of Endocrinology"
+        }
+      ]
+    },
+    {
+      "code": "2212.136",
+      "display": "Vrach sitolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач цитолог"
+        },
+        {
+          "language": "en",
+          "value": "Cytologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.137",
+      "display": "Jag'-yuz jarroh vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач челюстно-лицевой хирург"
+        },
+        {
+          "language": "en",
+          "value": "Maxillofacial surgeon"
+        }
+      ]
+    },
+    {
+      "code": "2212.138",
+      "display": "Vrach endokrinolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач эндокринолог"
+        },
+        {
+          "language": "en",
+          "value": "Endocrinologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.139",
+      "display": "Vrach endoskopist",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач эндоскопист"
+        },
+        {
+          "language": "en",
+          "value": "Endoscopic doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.140",
+      "display": "Vrach endourolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач эндоуролог"
+        },
+        {
+          "language": "en",
+          "value": "Endochologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.141",
+      "display": "Vrach entomolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач энтомолог"
+        },
+        {
+          "language": "en",
+          "value": "Entomologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.142",
+      "display": "Vrach epidemiolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач эпидемиолог"
+        },
+        {
+          "language": "en",
+          "value": "Epidemiologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.143",
+      "display": "Аlohida xavfli infektsiyalar bo'yicha vrach epidemiolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач эпидемиолог по особо опасным инфекциям"
+        },
+        {
+          "language": "en",
+          "value": "Epidemiologist for especially dangerous infections"
+        }
+      ]
+    },
+    {
+      "code": "2212.144",
+      "display": "Yadro tibbiyoti vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач ядерной медицины"
+        },
+        {
+          "language": "en",
+          "value": "Nuclear medicine doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.145",
+      "display": "Vrach-intern",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач-интерн"
+        },
+        {
+          "language": "en",
+          "value": "Resident"
+        }
+      ]
+    },
+    {
+      "code": "2212.146",
+      "display": "Vrach-mutaxassis",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач-специалист"
+        },
+        {
+          "language": "en",
+          "value": "Medical specialist"
+        }
+      ]
+    },
+    {
+      "code": "2212.147",
+      "display": "Vrach-mutaxassis (vrach-xirurgdan tashqari barcha mutaxassisliklar)",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач-специалист (все специальности, кроме хирурга)"
+        },
+        {
+          "language": "en",
+          "value": "Specialist (all specialties except surgeon)"
+        }
+      ]
+    },
+    {
+      "code": "2212.148",
+      "display": "Tez tibbiy yordam ko'chma brigadasi vrach-mutaxassisi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач-специалист выездной бригады скорой медицинской помощи"
+        },
+        {
+          "language": "en",
+          "value": "Medical specialist of the emergency medical team"
+        }
+      ]
+    },
+    {
+      "code": "2212.149",
+      "display": "Vrach-xirurg (hamma nomdagi xirurgik mutaxassisliklar)",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Врач-хирург (все хирургические специальности)"
+        },
+        {
+          "language": "en",
+          "value": "Surgeon (all surgical specialties)"
+        }
+      ]
+    },
+    {
+      "code": "2212.150",
+      "display": "Davlat tibbiy sud ekspert mutaxassisi (eksperti)",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Государственный медицинский судебный экспертспециалист (эксперт)"
+        },
+        {
+          "language": "en",
+          "value": "State medical forensic expert (expert)"
+        }
+      ]
+    },
+    {
+      "code": "2212.151",
+      "display": "Davlat tibbiy sud ekspert-amaliyotchisi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Государственный медицинский судебный эксперт-стажер"
+        },
+        {
+          "language": "en",
+          "value": "State medical forensic trainee"
+        }
+      ]
+    },
+    {
+      "code": "2212.152",
+      "display": "Dezinstruktor",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Дезинструктор"
+        },
+        {
+          "language": "en",
+          "value": "Countertrainer"
+        }
+      ]
+    },
+    {
+      "code": "2212.153",
+      "display": "Kichik ilmiy xodim",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Младший научный сотрудник"
+        },
+        {
+          "language": "en",
+          "value": "Associate researcher"
+        }
+      ]
+    },
+    {
+      "code": "2212.154",
+      "display": "Narkolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Нарколог"
+        },
+        {
+          "language": "en",
+          "value": "Narco"
+        }
+      ]
+    },
+    {
+      "code": "2212.155",
+      "display": "Ilmiy xodim",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Научный сотрудник"
+        },
+        {
+          "language": "en",
+          "value": "Research associate"
+        }
+      ]
+    },
+    {
+      "code": "2212.156",
+      "display": "Neonatolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Неонатолог"
+        },
+        {
+          "language": "en",
+          "value": "Neo-Natologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.157",
+      "display": "Ontolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Онтолог"
+        },
+        {
+          "language": "en",
+          "value": "Oncologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.158",
+      "display": "O'smirlar vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Подростковый врач"
+        },
+        {
+          "language": "en",
+          "value": "Adolescent doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.159",
+      "display": "Reanimatolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Реаниматолог"
+        },
+        {
+          "language": "en",
+          "value": "Resuscitator"
+        }
+      ]
+    },
+    {
+      "code": "2212.160",
+      "display": "Bolalar va o'smirlar gigienasi bo'yicha sanitariya vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Санитарный врач по гигиене детей и подростков"
+        },
+        {
+          "language": "en",
+          "value": "Child and adolescent health officer"
+        }
+      ]
+    },
+    {
+      "code": "2212.161",
+      "display": "Oziq-ovqat gigienasi bo'yicha sanitariya vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Санитарный врач по гигиене питания"
+        },
+        {
+          "language": "en",
+          "value": "Food hygiene health officer"
+        }
+      ]
+    },
+    {
+      "code": "2212.162",
+      "display": "Kommunal gigiena bo'yicha sanitariya vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Санитарный врач по коммунальной гигиене"
+        },
+        {
+          "language": "en",
+          "value": "Community health officer"
+        }
+      ]
+    },
+    {
+      "code": "2212.163",
+      "display": "Radiatsion gigiena sanitariya vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Санитарный врач по радиационной гигиене"
+        },
+        {
+          "language": "en",
+          "value": "Radiation Hygiene Medical Officer"
+        }
+      ]
+    },
+    {
+      "code": "2212.164",
+      "display": "Sanitar toksikolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Санитарный врач-токсиколог"
+        },
+        {
+          "language": "en",
+          "value": "Toxicologist"
+        }
+      ]
+    },
+    {
+      "code": "2212.165",
+      "display": "Oila vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Семейный врач"
+        },
+        {
+          "language": "en",
+          "value": "Family doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.166",
+      "display": "Sport shifokori",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Спортивный врач"
+        },
+        {
+          "language": "en",
+          "value": "Sports doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.167",
+      "display": "Tajriba ottiruvchi kichik ilmiy xodim",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Стажер младшего научного сотрудника"
+        },
+        {
+          "language": "en",
+          "value": "Junior Research Fellow"
+        }
+      ]
+    },
+    {
+      "code": "2212.168",
+      "display": "Tez tibbiy yordam katta vrachi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Старший врач скорой медицинской помощи"
+        },
+        {
+          "language": "en",
+          "value": "Senior Emergency Medical Doctor"
+        }
+      ]
+    },
+    {
+      "code": "2212.169",
+      "display": "Katta ilmiy xodim",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Старший научный сотрудник"
+        },
+        {
+          "language": "en",
+          "value": "Senior research fellow"
+        }
+      ]
+    },
+    {
+      "code": "2212.170",
+      "display": "Stomatologiya gigienisti (Og'iz bo'shlig'i gigienisti)",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Стоматологический гигиенист (Гигиенист полости рта)"
+        },
+        {
+          "language": "en",
+          "value": "Dental hygienist (Oral hygienist)"
+        }
+      ]
+    },
+    {
+      "code": "2212.171",
+      "display": "Uchastka (tsex, vaxtva va bosh-r.) terapevti",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Участковый (цеховой, вахтовый и пр.) терапевт"
+        },
+        {
+          "language": "en",
+          "value": "District (occupational, shift and other) therapist"
+        }
+      ]
+    },
+    {
+      "code": "2212.172",
+      "display": "Uchastka pediatri",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Участковый педиатр"
+        },
+        {
+          "language": "en",
+          "value": "District pediatrician"
+        }
+      ]
+    },
+    {
+      "code": "2212.173",
+      "display": "Fitopatolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Фитопатолог"
+        },
+        {
+          "language": "en",
+          "value": "Phytopathologist"
+        }
+      ]
+    },
+    {
+      "code": "3211",
+      "display": "Sog'liqni saqlashda o'rta ma'lumotli tibbiyot xodimlari.",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинские работники со средним образованием в сфере здравоохранения."
+        },
+        {
+          "language": "en",
+          "value": "Secondary medical workers in healthcare."
+        }
+      ]
+    },
+    {
+      "code": "3211.1",
+      "display": "Rentgenolaborant",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Рентгенолаборант"
+        },
+        {
+          "language": "en",
+          "value": "Radiographer"
+        }
+      ]
+    },
+    {
+      "code": "3211.2",
+      "display": "Rentgenotexnik",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Рентгенотехник"
+        },
+        {
+          "language": "en",
+          "value": "X-ray"
+        }
+      ]
+    },
+    {
+      "code": "3211.3",
+      "display": "Texnik-rentgenolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Техник-рентгенолог"
+        },
+        {
+          "language": "en",
+          "value": "Radiologist"
+        }
+      ]
+    },
+    {
+      "code": "3221",
+      "display": "Sog'liqni saqlashda va akusherlik bo'yicha yordamchi xodimlar xodimlari. Hamshiralik bo'yicha yordamchi xodimlar",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинский и акушерский вспомогательный персонал. Помощники медсестер"
+        },
+        {
+          "language": "en",
+          "value": "Health and midwifery support workers. Nursing support workers"
+        }
+      ]
+    },
+    {
+      "code": "3221.1",
+      "display": "Yetakchi hamshira",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Ведущая медицинская сестра"
+        },
+        {
+          "language": "en",
+          "value": "Medical Nurse"
+        }
+      ]
+    },
+    {
+      "code": "3221.2",
+      "display": "Tibbiyot hamshirasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра"
+        },
+        {
+          "language": "en",
+          "value": "Medical nurse"
+        }
+      ]
+    },
+    {
+      "code": "3221.3",
+      "display": "Barcha nomdagi tibbiyot hamshirasi (barcha nomdagi medbrat",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра всех наименований (мужской род-Медицинский брат всех наименований)"
+        },
+        {
+          "language": "en",
+          "value": "Medical nurse of all names (male-gender - Medical brother of all names)"
+        }
+      ]
+    },
+    {
+      "code": "3221.4",
+      "display": "Umumiy amaliyot xamshirasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра общей практики"
+        },
+        {
+          "language": "en",
+          "value": "General practice nurse"
+        }
+      ]
+    },
+    {
+      "code": "3221.5",
+      "display": "Davolash jismoniy tarbiya hamshirasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра по лечебному физическому воспитанию"
+        },
+        {
+          "language": "en",
+          "value": "Medical nurse for therapeutic physical education"
+        }
+      ]
+    },
+    {
+      "code": "3221.6",
+      "display": "Emlash xonasi hamshirasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра прививочного кабинета"
+        },
+        {
+          "language": "en",
+          "value": "Clinic nurse for vaccination"
+        }
+      ]
+    },
+    {
+      "code": "3221.7",
+      "display": "Sterilizatsiya bo'limi hamshirasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра стерилизациционного отделения"
+        },
+        {
+          "language": "en",
+          "value": "Medical Nurse of the Sterilization Department"
+        }
+      ]
+    },
+    {
+      "code": "3221.8",
+      "display": "Stomatologiya xonasi hamshirasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра стоматологического кабинета"
+        },
+        {
+          "language": "en",
+          "value": "Dental Practice Medical Nurse"
+        }
+      ]
+    },
+    {
+      "code": "3221.9",
+      "display": "Fizioterapevtik (massaj) xonalari xamshirasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра физиотерапевтического (массажного) кабинетов"
+        },
+        {
+          "language": "en",
+          "value": "Medical nurse of physiotherapy (massage) offices"
+        }
+      ]
+    },
+    {
+      "code": "3221.10",
+      "display": "Maktab va maktabgacha ta'lim tashkiloti hamshirasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра школьных и дошкольных образовательных организаций"
+        },
+        {
+          "language": "en",
+          "value": "Medical Nurse of School and Pre-school Educational Organizations"
+        }
+      ]
+    },
+    {
+      "code": "3221.11",
+      "display": "Tibbiyot hamshirasi-anestezist",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра-анестезист"
+        },
+        {
+          "language": "en",
+          "value": "Anesthetist"
+        }
+      ]
+    },
+    {
+      "code": "3221.12",
+      "display": "Hamshira-valeolog",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра-валеолог"
+        },
+        {
+          "language": "en",
+          "value": "Nurse-valet"
+        }
+      ]
+    },
+    {
+      "code": "3221.13",
+      "display": "Dietolog-hamshira",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра-диетолог"
+        },
+        {
+          "language": "en",
+          "value": "Nurse nutritionist"
+        }
+      ]
+    },
+    {
+      "code": "3221.14",
+      "display": "Kosmetolog hamshira",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра-косметолог"
+        },
+        {
+          "language": "en",
+          "value": "Medical nurse-cosmetologist"
+        }
+      ]
+    },
+    {
+      "code": "3221.15",
+      "display": "Patronaj hamshirasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Патронажная медицинская сестра"
+        },
+        {
+          "language": "en",
+          "value": "Medical Nurse"
+        }
+      ]
+    },
+    {
+      "code": "3221.16",
+      "display": "Stomatolog yordamchisi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Помощник стоматолога"
+        },
+        {
+          "language": "en",
+          "value": "Dental assistant"
+        }
+      ]
+    },
+    {
+      "code": "3221.17",
+      "display": "Katta hamshira",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Старшая медицинская сестра"
+        },
+        {
+          "language": "en",
+          "value": "Senior nurse"
+        }
+      ]
+    },
+    {
+      "code": "3221.18",
+      "display": "Stomatologiya gigienisti (Og'iz bo'shlig'i gigienisti)",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Стоматологический гигиенист (Гигиенист полости рта)"
+        },
+        {
+          "language": "en",
+          "value": "Dental hygienist (Oral hygienist)"
+        }
+      ]
+    },
+    {
+      "code": "3221.19",
+      "display": "MFY uchastka hamshirasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Участковая медицинская сестра махаллинского схода граждан"
+        },
+        {
+          "language": "en",
+          "value": "District medical nurse of the Mahallin Citizens' Retreat"
+        }
+      ]
+    },
+    {
+      "code": "3252",
+      "display": "Tibbiy ro'yxatga oluvchilar va tibbiy ma'lumotlar bo'yicha mutaxassislar",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинские регистраторы и специалисты по медицинской информации"
+        },
+        {
+          "language": "en",
+          "value": "Medical registrars and medical information specialists"
+        }
+      ]
+    },
+    {
+      "code": "3252.1",
+      "display": "Statist-hamshira",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинская сестра-статист"
+        },
+        {
+          "language": "en",
+          "value": "Nurse-at-large"
+        }
+      ]
+    },
+    {
+      "code": "3252.2",
+      "display": "Tibbiy ro'yxatdan o'tkazuvchi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинский регистратор"
+        },
+        {
+          "language": "en",
+          "value": "Medical Registrar"
+        }
+      ]
+    },
+    {
+      "code": "3252.3",
+      "display": "Tibbiy sud ekspertizasida tibbiy ro'yhatga oluvchi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинский регистратор медицинской судебной экспертизы"
+        },
+        {
+          "language": "en",
+          "value": "Medical Registrar of Forensic Medicine"
+        }
+      ]
+    },
+    {
+      "code": "3252.4",
+      "display": "Tibbiy statistika",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Медицинский статистик"
+        },
+        {
+          "language": "en",
+          "value": "Medical statistician"
+        }
+      ]
+    },
+    {
+      "code": "3252.5",
+      "display": "Felьdsher",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Фельдшер"
+        },
+        {
+          "language": "en",
+          "value": "Feldscher"
+        }
+      ]
+    }
+  ],
+  "version": "1.0.0",
+  "experimental": true,
+  "date": "2025-03-12",
+  "publisher": "Uzinfocom",
+  "language": "uz",
+  "caseSensitive": true,
+  "count": 217
+}

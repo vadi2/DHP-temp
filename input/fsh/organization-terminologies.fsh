@@ -65,6 +65,7 @@ Description: "Nomenclature group"
 Title:  "Defines a nomenclature group (grouping of institutions)"
 * ^url = "https://terminology.medcore.uz/ValueSet/nomenclature-group-vs"
 * ^experimental = true
+* ^language = #uz
 * include codes from system nomenclature-group-cs
 
 CodeSystem: OrganizationalServiceGroupCS
@@ -118,6 +119,7 @@ Title: "Organizational Service group"
 Description: "Defines the organizational and service group of a medical institution"
 * ^url = "https://terminology.medcore.uz/ValueSet/organizational-service-group-vs"
 * ^experimental = true
+* ^language = #uz
 * include codes from system organizational-service-group-cs
 
 CodeSystem: OrganizationalStructrueCS
@@ -245,6 +247,7 @@ Title: "Organizational structure"
 Description: "Defines the organizational structure of a medical institution"
 * ^url = "https://terminology.medcore.uz/ValueSet/organizational-structure-vs"
 * ^experimental = true
+* ^language = #uz
 * include codes from system organizational-structure-cs
 
 CodeSystem: OrganizationalSpecializationCS
@@ -277,6 +280,7 @@ Title: "Organizational specialization"
 Description: "Determines the specialization of a medical organization"
 * ^url = "https://terminology.medcore.uz/ValueSet/organizational-specialization-vs"
 * ^experimental = true
+* ^language = #uz
 * include codes from system organizational-specialization-cs
 
 CodeSystem: OrganizationalSubordinationGroupCS
@@ -324,6 +328,7 @@ Title: "Organizational Subordination group"
 Description: "Defines the subordination group of the medical organization"
 * ^url = "https://terminology.medcore.uz/ValueSet/organizational-subordination-group-vs"
 * ^experimental = true
+* ^language = #uz
 * include codes from system organizational-subordination-group-cs
 
 CodeSystem: OrganizationalSubordinationInstitutionCS
@@ -366,4 +371,5 @@ Title: "Organizational Subordination Institution"
 Description: "Defines the type of medical organizations without forming a legal entity"
 * ^url = "https://terminology.medcore.uz/ValueSet/organizational-subordination-institution-vs"
 * ^experimental = true
+* ^language = #uz
 * include codes from system organizational-subordination-institution-cs
