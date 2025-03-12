@@ -71,6 +71,7 @@ CodeSystem: OrganizationalServiceGroupCS
 Id: organizational-service-group-cs
 Title: "Organizational Service group"
 Description: "Defines the organizational and service group of a medical institution"
+* ^url = "https://terminology.medcore.uz/CodeSystem/organizational-service-group-cs"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = true
