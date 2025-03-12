@@ -1,7 +1,7 @@
 CodeSystem: CancerTypesCS
 Id: cancer-types-cs
 Title: "Cancer Types"
-Description: "List of cancer types."
+Description: "List of cancer types defined by the Ministry of Health of the Republic of Uzbekistan"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true

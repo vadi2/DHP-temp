@@ -5,7 +5,7 @@
   "name": "CancerTypesCS",
   "id": "cancer-types-cs",
   "title": "Cancer Types",
-  "description": "List of cancer types as defined by XX.",
+  "description": "List of cancer types defined by the Ministry of Health of the Republic of Uzbekistan",
   "url": "http://medcore.uz/CodeSystem/cancer-types-cs",
   "experimental": true,
   "concept": [

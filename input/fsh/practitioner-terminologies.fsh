@@ -20,7 +20,7 @@ Description: "Defines type of address registration (`use`) in Uzbek and Russian"
 ValueSet: IdentifierUseVS
 Id: identifier-use-vs
 Title: "Types of possible identifier uses"
-Description: "Defines the use of an identifier in Uzbek and Russian"
+Description: "Defines the `use` of an identifier in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/ValueSet/identifier-use-vs"
 * ^experimental = true
 * include $identifier-use#usual
@@ -293,7 +293,7 @@ Description: "Defines the type of license, certificate, degree in Uzbek and Russ
 ValueSet: IdentifierTypeVS
 Id: identifier-type-vs
 Title: "Types of possible identifiers"
-Description: "Defines Uzbek and Russian translations for identifier types"
+Description: "Defines identifier `type`s in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/ValueSet/identifier-type-vs"
 * ^experimental = true
 
@@ -427,7 +427,7 @@ Description: "Defines the different uses of a name in Uzbek and Russian"
 ValueSet: ContactPointSystemVS
 Id: contact-point-system-vs
 Title: "Types of possible contact points"
-Description: "Defines the contact point `system` types with Uzbek and Russian translations"
+Description: "Defines the contact point `system` types ub Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/ValueSet/contact-point-system-vs"
 * ^experimental = true
 * include $contact-point-system#phone
