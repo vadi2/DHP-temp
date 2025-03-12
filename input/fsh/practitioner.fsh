@@ -36,6 +36,8 @@ Description: "Uzbekistan DHP Practitioner Profile"
   * system and value and use and rank and period MS
   * system from ContactPointSystemVS (required)
 * gender MS
+  * extension contains GenderOtherUZ named gender-other 0..1 MS
+* obeys gender-other-2
 * birthDate MS
 * deceasedDateTime and deceasedBoolean MS
 * address MS
@@ -83,3 +85,14 @@ Usage: #example
 * qualification
   * code = $qualification-codes#DIP "Diploma"
   * issuer = Reference(example-organization)
+
+Instance: example-practitioner-gender-other
+InstanceOf: DHPPractitioner
+Description: "Example of a practitioner with a gender extension"
+Usage: #example
+* language = #uz
+* identifier[national-id]
+  * value = "9876543211"
+* active = true
+* gender = #other
+* gender.extension[gender-other].valueCoding = GenderOtherCS#regis0007.00005 "Jinsni erkakka o'zgartirdi"
