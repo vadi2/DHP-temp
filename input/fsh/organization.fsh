@@ -54,19 +54,19 @@ Description: "Uzbekistan DHP Organization Profile"
 * type.coding[nomenclatureGroup] 
   ^short = "Определяет группу номенклатуры (группировку учреждений)"
   * system 1..1 MS
-  * system = Canonical(nomenclature-group-cs)
+  * system = "https://terminology.medcore.uz/CodeSystem/nomenclature-group-cs"
   * code 1..1 MS
   * code from nomenclature-group-vs (required)
 * type.coding[organizationalServiceGroup]
   ^short = "Определяет организационно-сервисную группу медучреждения"
   * system 1..1 MS
-  * system = Canonical(organizational-service-group-cs)
+  * system = "https://terminology.medcore.uz/CodeSystem/organizational-service-group-cs"
   * code 1..1 MS
   * code from organizational-service-group-vs (required)
 * type.coding[organizationalStructure]
   ^short = "Определяет организационную структуру медучреждения"
   * system 1..1 MS
-  * system = Canonical(organizational-structure-cs)
+  * system = "https://terminology.medcore.uz/CodeSystem/organizational-structure-cs"
   * code 1..1 MS
   * code from organizational-structure-vs (required)
 * type.coding[organizationType] 
@@ -78,19 +78,19 @@ Description: "Uzbekistan DHP Organization Profile"
 * type.coding[specialization] 
   ^short = "Определяет специализацию медорганизации"
   * system 1..1 MS
-  * system = Canonical(organizational-specialization-cs)
+  * system = "https://terminology.medcore.uz/CodeSystem/organizational-specialization-cs"
   * code 1..1 MS
   * code from organizational-specialization-vs (required)
 * type.coding[subordinationGroup]
   ^short = "Группа подчинения медорганизации"
   * system 1..1 MS
-  * system = Canonical(organizational-subordination-group-cs)
+  * system = "https://terminology.medcore.uz/CodeSystem/organizational-subordination-group-cs"
   * code 1..1 MS
   * code from organizational-subordination-group-vs (required)
 * type.coding[withoutLegalStatus]
   ^short = "Определяет тип медорганизаций без образования юридического лица"
   * system 1..1 MS
-  * system = Canonical(organizational-subordination-institution-cs)
+  * system = "https://terminology.medcore.uz/CodeSystem/organizational-subordination-institution-cs"
   * code 1..1 MS
   * code from organizational-subordination-institution-vs (required)
 
