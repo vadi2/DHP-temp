@@ -45,6 +45,7 @@ Description: "Uzbekistan DHP Practitioner Profile"
   * type from AddressTypeVS (required)
   * use from AddressUseVS (required)
   * use ^short = "Тип адреса, home | temp"
+  * country from ISO3166_2_UZ (required)
 * photo MS
   * url and size MS
 * qualification MS

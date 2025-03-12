@@ -7,6 +7,7 @@
   "title": "Cancer Types",
   "description": "List of cancer types as defined by XX.",
   "url": "http://medcore.uz/CodeSystem/cancer-types-cs",
+  "experimental": true,
   "concept": [
     {
       "code": "cancr0003.00000",
@@ -490,7 +491,7 @@
       "designation": [
         {
           "language": "ru",
-          "value": "GFAP (Glial Fibrillary Acidic Protein): Белок, экспрессируемый в глиальных клетках. "
+          "value": "GFAP (Glial Fibrillary Acidic Protein): Белок, экспрессируемый в глиальных клетках."
         },
         {
           "language": "en",
@@ -644,7 +645,7 @@
       "designation": [
         {
           "language": "ru",
-          "value": "Desmin Белок промежуточных филаментов, экспрессируемый в мышечных клетках. "
+          "value": "Desmin Белок промежуточных филаментов, экспрессируемый в мышечных клетках."
         },
         {
           "language": "en",
@@ -2594,7 +2595,7 @@
         },
         {
           "language": "en",
-          "value": "MUTYH (MutY DNA Glycosylase) A protein involved in base excision repair of DNA. "
+          "value": "MUTYH (MutY DNA Glycosylase) A protein involved in base excision repair of DNA."
         }
       ]
     },
@@ -3826,7 +3827,7 @@
         },
         {
           "language": "en",
-          "value": "WAS (Wiskott-Aldrich Syndrome) A protein involved in the regulation of the actin cytoskeleton. Mutations cause Wiskott-Aldrich syndrome, characterized by immunodeficiency and thrombocytopenia. "
+          "value": "WAS (Wiskott-Aldrich Syndrome) A protein involved in the regulation of the actin cytoskeleton. Mutations cause Wiskott-Aldrich syndrome, characterized by immunodeficiency and thrombocytopenia."
         }
       ]
     },
@@ -3962,7 +3963,7 @@
       "designation": [
         {
           "language": "ru",
-          "value": "Эстроген "
+          "value": "Эстроген"
         },
         {
           "language": "en",
@@ -3976,7 +3977,7 @@
       "designation": [
         {
           "language": "ru",
-          "value": "Прогестерон "
+          "value": "Прогестерон"
         },
         {
           "language": "en",
@@ -4004,7 +4005,7 @@
       "designation": [
         {
           "language": "ru",
-          "value": "Ki-67 "
+          "value": "Ki-67"
         },
         {
           "language": "en",

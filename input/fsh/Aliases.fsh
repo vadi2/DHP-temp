@@ -16,3 +16,4 @@ Alias: $qualification-codes = http://terminology.hl7.org/CodeSystem/v2-0360
 Alias: $specialization = http://medcore.uz/CodeSystem/specialization
 Alias: $subordination-group = http://medcore.uz/CodeSystem/subordination-group
 Alias: $translation-extension = http://hl7.org/fhir/StructureDefinition/translation
+Alias: $iso-3166 = urn:iso:std:iso:3166

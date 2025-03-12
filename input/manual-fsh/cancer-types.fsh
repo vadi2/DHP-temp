@@ -7,6 +7,7 @@ Description: "List of cancer types."
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
 * ^language = #uz
+* ^experimental = true
 * #cancr0003.00000 "IHC nonspesifik_antikorlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "ИГХ неспецифическое_Антитела"
@@ -179,7 +180,7 @@ Description: "List of cancer types."
   * ^designation[=].value = "TTF-1 (Thyroid Transcription Factor-1): A transcription factor expressed in thyroid and lung cells"
 * #cancr0003.00034 "GFAP (Glial fibrilyar kislota oqsili): glial hujayralarda ifodalangan oqsil."
   * ^designation[0].language = #ru
-  * ^designation[=].value = "GFAP (Glial Fibrillary Acidic Protein): Белок, экспрессируемый в глиальных клетках. "
+  * ^designation[=].value = "GFAP (Glial Fibrillary Acidic Protein): Белок, экспрессируемый в глиальных клетках."
   * ^designation[+].language = #en
   * ^designation[=].value = "GFAP (Glial Fibrillary Acidic Protein): A protein expressed in glial cells."
 * #cancr0003.00035 "EGFR (HER-1) Epidermal o'sish omili retseptorlari"
@@ -234,7 +235,7 @@ Description: "List of cancer types."
   * ^designation[=].value = "Vimentin An intermediate filament protein used to identify mesenchymal cells and diagnose sarcomas."
 * #cancr0003.00045 "Desmin Mushak hujayralarida ifodalangan oraliq filament oqsili."
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Desmin Белок промежуточных филаментов, экспрессируемый в мышечных клетках. "
+  * ^designation[=].value = "Desmin Белок промежуточных филаментов, экспрессируемый в мышечных клетках."
   * ^designation[+].language = #en
   * ^designation[=].value = "Desmin An intermediate filament protein expressed in muscle cells."
 * #cancr0003.00046 "Pan-aktin: hujayralardagi aktin filamentlarini aniqlash uchun ishlatiladigan oqsil."
@@ -931,7 +932,7 @@ Description: "List of cancer types."
   * ^designation[0].language = #ru
   * ^designation[=].value = "MUTYH (MutY DNA Glycosylase) Белок, участвующий в базовой эксцизионной репарации ДНК."
   * ^designation[+].language = #en
-  * ^designation[=].value = "MUTYH (MutY DNA Glycosylase) A protein involved in base excision repair of DNA. "
+  * ^designation[=].value = "MUTYH (MutY DNA Glycosylase) A protein involved in base excision repair of DNA."
 * #cancr0005.00113 "NBN (Nibrin) oqsili DNKni tiklashda ishtirok etadi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "NBN (Nibrin) Белок, участвующий в репарации ДНК"
@@ -1371,7 +1372,7 @@ Description: "List of cancer types."
   * ^designation[0].language = #ru
   * ^designation[=].value = "WAS (Wiskott-Aldrich Syndrome)Белок, участвующий в регуляции актинового цитоскелета. Мутации вызывают синдром Вискотта-Олдрича, характеризующийся иммунодефицитом и тромбоцитопенией."
   * ^designation[+].language = #en
-  * ^designation[=].value = "WAS (Wiskott-Aldrich Syndrome) A protein involved in the regulation of the actin cytoskeleton. Mutations cause Wiskott-Aldrich syndrome, characterized by immunodeficiency and thrombocytopenia. "
+  * ^designation[=].value = "WAS (Wiskott-Aldrich Syndrome) A protein involved in the regulation of the actin cytoskeleton. Mutations cause Wiskott-Aldrich syndrome, characterized by immunodeficiency and thrombocytopenia."
 * #cancr0005.00201 "WNT10A (Wnt Oila a'zosi 10A) embrion rivojlanishi va hujayra proliferatsiyasi uchun muhim bo'lgan Wnt signalizatsiya yo'lida ishtirok etadigan oqsil. Mutatsiyalar turli xil rivojlanish anomaliyalari bilan bog'liq bo'lishi mumkin."
   * ^designation[0].language = #ru
   * ^designation[=].value = "WNT10A (Wnt Family Member 10A)Белок, участвующий в сигнальном пути Wnt, важном для эмбрионального развития и клеточной пролиферации. Мутации могут быть связаны с различными аномалиями развития."
@@ -1419,12 +1420,12 @@ Description: "List of cancer types."
   * ^designation[=].value = "IHC specific_Immunohistochemistry hormones"
 * #cancr0012.00001 "Estrogen"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Эстроген "
+  * ^designation[=].value = "Эстроген"
   * ^designation[+].language = #en
   * ^designation[=].value = "Estrogen"
 * #cancr0012.00002 "Progesteron"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Прогестерон "
+  * ^designation[=].value = "Прогестерон"
   * ^designation[+].language = #en
   * ^designation[=].value = "Progesterone"
 * #cancr0012.00003 "har-2 neu"
@@ -1434,7 +1435,7 @@ Description: "List of cancer types."
   * ^designation[=].value = "her-2 neu"
 * #cancr0012.00004 "Ki-67"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Ki-67 "
+  * ^designation[=].value = "Ki-67"
   * ^designation[+].language = #en
   * ^designation[=].value = "Ki-67"
 * #cancr0012.00005 "PD-L1"
