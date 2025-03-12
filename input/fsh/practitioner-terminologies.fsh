@@ -1,7 +1,10 @@
+// Terminologies that are a best fit the Practitioner resource that may be re-used in other profiles
+
 ValueSet: AddressUseVS
 Id: address-use-vs
-Title: "Types of possible addresses"
-Description: "Defines the use of the address in Uzbek and Russian"
+Title: "Types of address registration"
+Description: "Defines type of address registration (`use`) in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/address-use-vs"
 * ^experimental = true
 * include $address-use#home
   * ^designation[0].language = #ru
@@ -18,6 +21,7 @@ ValueSet: IdentifierUseVS
 Id: identifier-use-vs
 Title: "Types of possible identifier uses"
 Description: "Defines the use of an identifier in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/identifier-use-vs"
 * ^experimental = true
 * include $identifier-use#usual
   * ^designation[0].language = #ru
@@ -46,9 +50,10 @@ Description: "Defines the use of an identifier in Uzbek and Russian"
   * ^designation[=].value = "eski"
 
 ValueSet: LicenseCertificateVS
-Id: license-certificate
+Id: license-certificate-vs
 Title: "License, certificate, degree"
 Description: "Defines the type of license, certificate, degree in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/license-certificate-vs"
 * ^experimental = true
 * include $qualification-codes#PN
   * ^designation[0].language = #ru
@@ -289,6 +294,7 @@ ValueSet: IdentifierTypeVS
 Id: identifier-type-vs
 Title: "Types of possible identifiers"
 Description: "Defines Uzbek and Russian translations for identifier types"
+* ^url = "https://terminology.medcore.uz/ValueSet/identifier-type-vs"
 * ^experimental = true
 
 * include $identifier-type#NI 
@@ -380,6 +386,7 @@ ValueSet: NameUseVS
 Id: name-use-vs
 Title: "Types of possible name uses"
 Description: "Defines the different uses of a name in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/name-use-vs"
 * ^experimental = true
 * include $name-use#usual
   * ^designation[0].language = #ru
@@ -418,9 +425,10 @@ Description: "Defines the different uses of a name in Uzbek and Russian"
   * ^designation[=].value = "qiz"
 
 ValueSet: ContactPointSystemVS
-Id: contactpoint-system-vs
+Id: contact-point-system-vs
 Title: "Types of possible contact points"
-Description: "Defines the contact point system types with Uzbek and Russian translations"
+Description: "Defines the contact point `system` types with Uzbek and Russian translations"
+* ^url = "https://terminology.medcore.uz/ValueSet/contact-point-system-vs"
 * ^experimental = true
 * include $contact-point-system#phone
   * ^designation[0].language = #ru
@@ -461,7 +469,8 @@ Description: "Defines the contact point system types with Uzbek and Russian tran
 ValueSet: AddressTypeVS
 Id: address-type-vs
 Title: "Types of possible addresses"
-Description: "Defines the types of addresses with translations in Uzbek and Russian"
+Description: "Defines the types of addresses (`type`) with translations in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/address-type-vs"
 * ^experimental = true
 * include $address-type#postal
   * ^designation[0].language = #ru
@@ -478,3 +487,31 @@ Description: "Defines the types of addresses with translations in Uzbek and Russ
   * ^designation[=].value = "Почтовый и физический адрес"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Pochta va jismoniy manzil"
+
+CodeSystem: GenderOtherCS
+Id: gender-other-cs
+Title: "Differentiation of the administrative gender 'other'"
+Description: "Differentiation of the administrative gender 'other' in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/CodeSystem/gender-other-cs"
+* ^experimental = true
+* ^caseSensitive = true
+* ^hierarchyMeaning = #is-a
+* ^language = #uz
+* #regis0007.00004 "Jinsni ayolga o'zgartirdi"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Сменил пол на женщину"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Changed gender to female"
+* #regis0007.00005 "Jinsni erkakka o'zgartirdi"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Сменил пол на мужчину"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Changed gender to male"
+
+ValueSet: GenderOtherVS
+Id: gender-other-vs
+Title: "Differentiation of the administrative gender 'other'"
+Description: "Defines the differentiation of the administrative gender 'other' in Uzbek and Russian"
+* ^url = "https://terminology.medcore.uz/ValueSet/gender-other-vs"
+* ^experimental = true
+* include codes from system gender-other-cs

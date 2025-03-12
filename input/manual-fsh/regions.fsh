@@ -7,6 +7,7 @@ Description: "List of regions and locations in Uzbekistan"
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
 * ^language = #uz
+* ^experimental = true
 * #"Код СОАТО" "Ob'yektning nomi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Наименование объекта"
@@ -16539,9 +16540,9 @@ Description: "List of regions and locations in Uzbekistan"
   * ^designation[=].value = "Karatau"
 
 ValueSet: RegionsVS
-Id: regions-vs
+Id: Regions
 Title: "Uzbekistan Regions and Locations"
 Description: "List of regions and locations in Uzbekistan"
-Title:
+* ^url = "https://terminology.medcore.uz/ValueSet/Regions"
 * ^experimental = true
 * include codes from system regions-cs
