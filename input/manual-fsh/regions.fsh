@@ -2,17 +2,13 @@ CodeSystem: RegionsCS
 Id: regions-cs
 Title: "Uzbekistan Regions and Locations"
 Description: "List of regions and locations in Uzbekistan"
+* ^url = "https://terminology.medcore.uz/CodeSystem/regions-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
 * ^language = #uz
 * ^experimental = true
-* #"Код СОАТО" "Ob'yektning nomi"
-  * ^designation[0].language = #ru
-  * ^designation[=].value = "Наименование объекта"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Name of the object"
 * #17 "O'zbekiston Respublikasi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Республика Узбекистан"
@@ -20,7 +16,7 @@ Description: "List of regions and locations in Uzbekistan"
   * ^designation[=].value = "Republic of Uzbekistan"
 * #1703 "Andijon viloyati (Markaz -Andijon sh.)"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Андижанская область (Центр -г. Андижан )"
+  * ^designation[=].value = "Андижанская область (Центр -г. Андижан)"
   * ^designation[+].language = #en
   * ^designation[=].value = "Andijan Region (Center - Andijan city)"
 * #1703200 "Andijon viloyatining tumanlari"
@@ -295,7 +291,7 @@ Description: "List of regions and locations in Uzbekistan"
   * ^designation[=].value = "Yorboshi"
 * #1703206 "Baliqchi tumani (Markaz -Baliqchi shaharchasi)"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Балыкчинский район (Центр - гп Баликчи )"
+  * ^designation[=].value = "Балыкчинский район (Центр - гп Баликчи)"
   * ^designation[+].language = #en
   * ^designation[=].value = "Baliqchi District (Center - Baliqchi town)"
 * #1703206550 "Baliqchi tumanining shaharchalari"

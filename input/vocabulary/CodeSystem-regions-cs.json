@@ -6,23 +6,8 @@
   "id": "regions-cs",
   "title": "Uzbekistan Regions and Locations",
   "description": "List of regions and locations in Uzbekistan",
-  "url": "http://medcore.uz/CodeSystem/regions-cs",
-  "experimental": true,
+  "url": "https://terminology.medcore.uz/CodeSystem/regions-cs",
   "concept": [
-    {
-      "code": "Код СОАТО",
-      "display": "Ob'yektning nomi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Наименование объекта"
-        },
-        {
-          "language": "en",
-          "value": "Name of the object"
-        }
-      ]
-    },
     {
       "code": "17",
       "display": "O'zbekiston Respublikasi",
@@ -43,7 +28,7 @@
       "designation": [
         {
           "language": "ru",
-          "value": "Андижанская область (Центр -г. Андижан )"
+          "value": "Андижанская область (Центр -г. Андижан)"
         },
         {
           "language": "en",
@@ -813,7 +798,7 @@
       "designation": [
         {
           "language": "ru",
-          "value": "Балыкчинский район (Центр - гп Баликчи )"
+          "value": "Балыкчинский район (Центр - гп Баликчи)"
         },
         {
           "language": "en",
@@ -46297,5 +46282,6 @@
   "caseSensitive": true,
   "hierarchyMeaning": "is-a",
   "language": "uz",
-  "count": 3306
+  "experimental": true,
+  "count": 3305
 }

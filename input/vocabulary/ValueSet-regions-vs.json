@@ -5,12 +5,13 @@
   "id": "regions-vs",
   "title": "Uzbekistan Regions and Locations",
   "description": "List of regions and locations in Uzbekistan",
-  "url": "http://medcore.uz/ValueSet/regions-vs",
+  "url": "https://terminology.medcore.uz/ValueSet/regions-vs",
   "experimental": true,
+  "language": "uz",
   "compose": {
     "include": [
       {
-        "system": "http://medcore.uz/CodeSystem/regions-cs"
+        "system": "https://terminology.medcore.uz/CodeSystem/regions-cs"
       }
     ]
   }
