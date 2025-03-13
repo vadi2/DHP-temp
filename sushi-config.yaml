@@ -63,8 +63,6 @@ publisher:
 # http://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/master/CodeSystem-ig-parameters.html
 #
 parameters:
-  # special-url:
-  #   - https://terminology.medcore.uz/ValueSet/NameUse
   special-url-base: https://terminology.medcore.uz
 #   excludettl: true
 #   validation: [allow-any-extensions, no-broken-links]
