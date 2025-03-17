@@ -1311,7 +1311,7 @@
       ]
     },
     {
-      "code": "408460008-XXX",
+      "code": "408460008",
       "display": "Jarrohlik-tish-protez stomatologiyasi (protezlash)",
       "designation": [
         {
@@ -1321,20 +1321,6 @@
         {
           "language": "en",
           "value": "Surgery-Dental-Prosthetic dentistry (Prosthodontics)"
-        }
-      ]
-    },
-    {
-      "code": "408460008",
-      "display": "Jarrohlik-tish-jarrohlik-protezlash",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Хирургия-Стоматология-хирургическая-Протезирование"
-        },
-        {
-          "language": "en",
-          "value": "Surgery-Dental-surgical-Prosthodontics"
         }
       ]
     },
@@ -1363,20 +1349,6 @@
         {
           "language": "en",
           "value": "Surgery-Dentistry--surgical"
-        }
-      ]
-    },
-    {
-      "code": "394608004-XXX",
-      "display": "Jarrohlik-stomatologiya-jarrohlik-ortodontiya",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Хирургия-Стоматология-хирургическая-Ортодонтия"
-        },
-        {
-          "language": "en",
-          "value": "Surgery-Dentistry-surgical-Orthodontics"
         }
       ]
     },
@@ -1639,5 +1611,5 @@
   "publisher": "Uzinfocom",
   "language": "uz",
   "caseSensitive": true,
-  "count": 116
+  "count": 114
 }

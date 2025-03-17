@@ -476,16 +476,11 @@ Description: "Defines the specializations of medical professions"
   * ^designation[=].value = "Хирургия-Стоматология-Пародонтальная хирургия"
   * ^designation[+].language = #en
   * ^designation[=].value = "Surgery-Dental-Periodontal surgery"
-* #408460008-XXX "Jarrohlik-tish-protez stomatologiyasi (protezlash)"
+* #408460008 "Jarrohlik-tish-protez stomatologiyasi (protezlash)"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Хирургия-Стоматология-Протезирование (Протезирование)"
   * ^designation[+].language = #en
   * ^designation[=].value = "Surgery-Dental-Prosthetic dentistry (Prosthodontics)"
-* #408460008 "Jarrohlik-tish-jarrohlik-protezlash"
-  * ^designation[0].language = #ru
-  * ^designation[=].value = "Хирургия-Стоматология-хирургическая-Протезирование"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Surgery-Dental-surgical-Prosthodontics"
 * #394606000 "Jarrohlik-stomatologiya-restorativ stomatologiya"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Хирургия-Стоматология-Восстановительная стоматология"
@@ -496,11 +491,6 @@ Description: "Defines the specializations of medical professions"
   * ^designation[=].value = "Хирургия-Стоматология--хирургическая"
   * ^designation[+].language = #en
   * ^designation[=].value = "Surgery-Dentistry--surgical"
-* #394608004-XXX "Jarrohlik-stomatologiya-jarrohlik-ortodontiya"
-  * ^designation[0].language = #ru
-  * ^designation[=].value = "Хирургия-Стоматология-хирургическая-Ортодонтия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Surgery-Dentistry-surgical-Orthodontics"
 * #418018006 "Jarrohlik - Dermatologik jarrohlik"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Хирургия-Дерматологическая хирургия"
