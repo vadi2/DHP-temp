@@ -52,7 +52,7 @@ Description: "Uzbekistan DHP Practitionerrole Profile"
 * code.coding contains role 0..1 MS
 * code.coding[role]
   * system 1..1 MS
-  * system = "https://terminology.medcore.uz/CodeSystem/practitioner-role-cs"
+  * system = "https://terminology.medcore.uz/CodeSystem/position-and-profession-cs"
   * code 1..1 MS
   * code from practitioner-role-vs (required)
 
@@ -66,6 +66,6 @@ Usage: #example
 * active = true
 * practitioner = Reference(Practitioner/example-practitioner)
 * organization = Reference(Organization/example-organization)
-* code = practitioner-role-cs#2212.14 "Vrach ginekolog"
+* code = position-and-profession-cs#2212.14 "Vrach ginekolog"
 * specialty = profession-specialization-cs#394585009 "Akusherlik va ginekologiya"
 * healthcareService = Reference(HealthcareService/example-healthcareservice)
