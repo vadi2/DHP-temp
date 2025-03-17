@@ -15,13 +15,15 @@ Description: "Uzbekistan DHP Location Profile"
 * identifier ^slicing.rules = #open
 * identifier ^slicing.description = "Ways an organization can be categorized"
 * identifier ^slicing.ordered = false
-* identifier contains tax-id 0..1 MS MS
+* identifier contains tax-id 0..1 and unit 0..1 MS
 
-* identifier[tax-id]
+* insert TaxIdentifier
+* identifier[unit]
+  * ^short = "Unique identifier of the location unit (branch, ward, bed)"
   * system 1..1 MS
-  * system = $organization-tax-id-system
+  * system = $location-unit
   * type 1..1 MS
-  * type = $identifier-type#TAX "Tax ID number"
+  * type from IdentifierTypeVS (required)
   * use = #official
   * value 1..1 MS
 
@@ -37,17 +39,12 @@ Description: "Uzbekistan DHP Location Profile"
 * type.coding ^slicing.description = "Type of the location"
 * type.coding ^slicing.ordered = false
 
-* type.coding contains type 0..1 and kind 0..1 MS
+* type.coding contains type 0..1 MS
 * type.coding[type]
   * system 1..1 MS
   * system = "https://terminology.medcore.uz/CodeSystem/location-types-cs"
   * code 1..1 MS
   * code from location-types-vs (required)
-* type.coding[kind]
-  * system 1..1 MS
-  * system = "https://terminology.medcore.uz/CodeSystem/location-kinds-cs"
-  * code 1..1 MS
-  * code from location-kinds-vs (required)
 
 Instance: example-location-1
 InstanceOf: DHPLocation
@@ -93,4 +90,6 @@ Description: "Example of a branch location"
       * valueCode = #en
     * extension[content][+]
       * valueString = "Oncomammology Department No. 1"
-* type.coding[kind] = location-kinds-cs#Branch "Bo'limi"
+* identifier[unit]
+  * type = LocationKindsCS#Branch "Bo'limi"
+  * value = "1"

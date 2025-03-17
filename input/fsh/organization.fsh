@@ -17,13 +17,7 @@ Description: "Uzbekistan DHP Organization Profile"
 * identifier ^slicing.ordered = false
 * identifier contains tax-id 0..1 MS and argoz-id 0..1 MS
 
-* identifier[tax-id]
-  * system 1..1 MS
-  * system = $organization-tax-id-system
-  * type 1..1 MS
-  * type = $identifier-type#TAX "Tax ID number"
-  * use = #official
-  * value 1..1 MS
+* insert TaxIdentifier
 
 * identifier[argoz-id]
   * system 1..1 MS
