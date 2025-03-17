@@ -43,3 +43,30 @@ Description: "Uzbekistan DHP Location Profile"
   * system = "https://terminology.medcore.uz/CodeSystem/location-types-cs"
   * code 1..1 MS
   * code from location-types-vs (required)
+
+Instance: example-location-1
+InstanceOf: DHPLocation
+Description: "Example of a location"
+Usage: #example
+* identifier[tax-id]
+  * value = "200935935"
+* status = #active
+* name = "Respublika onkologiya markazi"
+  * extension[translation][0]
+    * extension[lang][0]
+      * valueCode = #ru
+    * extension[content][+]
+      * valueString = "Республиканский онкологический центр"
+  * extension[translation][+]
+    * extension[lang][0]
+      * valueCode = #en
+    * extension[content][+]
+      * valueString = "Republican Oncology Center"
+* type = location-types-cs#ONCL "Tibbiy onkologiya klinikasi"
+* address
+  * type = #postal
+  * line = "Farobi, 383"
+  * city = "1726"
+  * district = "1726"
+  * country = "UZ"
+* managingOrganization = Reference(Organization/example-organization)
