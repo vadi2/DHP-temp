@@ -16606,7 +16606,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Технолог информационных служб (по видам деятельности)"
   * ^designation[+].language = #en
   * ^designation[=].value = "Information technology (by activity)"
-* #2161 "Arxitektorlar, loyihalovchilar, topograflar va dizaynerlar.  Bino va inshootlar arxitektorlari"
+* #2161 "Arxitektorlar, loyihalovchilar, topograflar va dizaynerlar.  Bino va inshootlar arxitektorlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Архитекторы, чертежники, топографы и дизайнеры. Архитекторы зданий и сооружений"
   * ^designation[+].language = #en
@@ -17246,7 +17246,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Эргономист"
   * ^designation[+].language = #en
   * ^designation[=].value = "Ergonomist"
-* #2211 "Sog'liqni saqlash sohasida professional-mutaxassislar.  Vrachlar.  Umumiy amaliyot vrachlari"
+* #2211 "Sog'liqni saqlash sohasida professional-mutaxassislar.  Vrachlar.  Umumiy amaliyot vrachlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Медицинские работники. Врачи. Врачи общей практики"
   * ^designation[+].language = #en
@@ -18181,7 +18181,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Фитопатолог"
   * ^designation[+].language = #en
   * ^designation[=].value = "Phytopathologist"
-* #2221 "Akusherlik va tibbiy parvarishlash ishi bo'yicha professional-mutaxassislar.  Tibbiy parvarishlash ishi bo'yicha professional-mutaxassislar"
+* #2221 "Akusherlik va tibbiy parvarishlash ishi bo'yicha professional-mutaxassislar.  Tibbiy parvarishlash ishi bo'yicha professional-mutaxassislar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Специалисты акушерства и медицинской помощи. Медицинские работники"
   * ^designation[+].language = #en
@@ -18261,7 +18261,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Старший научный сотрудник"
   * ^designation[+].language = #en
   * ^designation[=].value = "Senior research associate"
-* #2250 "Yuqori malakali tabiblar va an'anaviy va noan'anaviy tibbiyotning amaliyotchilari.  Amaliyotchi paramediklar. Veterinarlar"
+* #2250 "Yuqori malakali tabiblar va an'anaviy va noan'anaviy tibbiyotning amaliyotchilari.  Amaliyotchi paramediklar. Veterinarlar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Высококвалифицированные врачи и практикующие специалисты традиционной и нетрадиционной медицины.Практикующие фельдшеры. Ветеринары"
   * ^designation[+].language = #en
@@ -18316,7 +18316,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Старший научный сотрудник"
   * ^designation[+].language = #en
   * ^designation[=].value = "Senior research associate"
-* #2261 "Sog'liqni saqlash sohasidagi boshqa professional-mutaxassislar.  Vrach-stomotologlar"
+* #2261 "Sog'liqni saqlash sohasidagi boshqa professional-mutaxassislar.  Vrach-stomotologlar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Другие медицинские работники. Стоматологи"
   * ^designation[+].language = #en
@@ -18781,7 +18781,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Фармацевт"
   * ^designation[+].language = #en
   * ^designation[=].value = "Pharmacist"
-* #2310 "Ta'lim sohasidagi professional-mutaxassislar.   Universitet va boshqa oliy o'quv yurtlari o'qituvchilari"
+* #2310 "Ta'lim sohasidagi professional-mutaxassislar.   Universitet va boshqa oliy o'quv yurtlari o'qituvchilari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Профессиональные специалисты в сфере образования. Преподаватели университетов и других высших учебных заведений"
   * ^designation[+].language = #en
@@ -19691,7 +19691,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Эксперт научно-исследовательского института"
   * ^designation[+].language = #en
   * ^designation[=].value = "Expert of the Research Institute"
-* #2411 "Buxgalteriya hisobi sohasidagi professional-mutaxassislar "
+* #2411 "Buxgalteriya hisobi sohasidagi professional-mutaxassislar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Профессиональные специалисты в области бухгалтерского учета"
   * ^designation[+].language = #en
@@ -23776,7 +23776,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Помощник мастера"
   * ^designation[+].language = #en
   * ^designation[=].value = "Assistant Master"
-* #3131 "Qurilish brigadirlari. Boshqa boshlang'ich guruhlarga kirmagan brigadirlar. Texnologik jarayonlarni boshqarish bo'yicha texnik (operatorlar). Elektroenergiya ishlab chiqarish uskunalari operatorlari \n"
+* #3131 "Qurilish brigadirlari. Boshqa boshlang'ich guruhlarga kirmagan brigadirlar. Texnologik jarayonlarni boshqarish bo'yicha texnik (operatorlar). Elektroenergiya ishlab chiqarish uskunalari operatorlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Строительные прорабы. Бригадиры, не включенные в другие первичные группы. Техник по управлению техническими процессами (операторами). Операторы оборудования для производства электроэнергии"
   * ^designation[+].language = #en
@@ -26061,7 +26061,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Риэлтор"
   * ^designation[+].language = #en
   * ^designation[=].value = "Realtor"
-* #3339 "Boshqa boshlang'ich guruhlarga kiritilmagan, tijorat xizmatlari inspektorlari, agentlari "
+* #3339 "Boshqa boshlang'ich guruhlarga kiritilmagan, tijorat xizmatlari inspektorlari, agentlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Инспекторы, агенты коммерческих услуг, не включенные в другие первичные группы"
   * ^designation[+].language = #en
@@ -26161,7 +26161,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Шипчандлер"
   * ^designation[+].language = #en
   * ^designation[=].value = "Shipchandler"
-* #3341 "Ma'muriy-boshqaruv faoliyatida band bo'lgan yordamchi xodimlar. Ma'muriyat ishlarni tashkil etish, ijro etish bo'yicha yordamchi xodimlari "
+* #3341 "Ma'muriy-boshqaruv faoliyatida band bo'lgan yordamchi xodimlar. Ma'muriyat ishlarni tashkil etish, ijro etish bo'yicha yordamchi xodimlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Поддержка работников, занимающихся административно-управленческой деятельностью. Административные помощники по организации и выполнению работ"
   * ^designation[+].language = #en
@@ -27301,7 +27301,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Художник-стилист"
   * ^designation[+].language = #en
   * ^designation[=].value = "Stylist"
-* #3433 "San'at galereyalari, muzeylar va kutubxonalarning yordamchi xodimlari "
+* #3433 "San'at galereyalari, muzeylar va kutubxonalarning yordamchi xodimlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сотрудники художественных галерей, музеев и библиотек"
   * ^designation[+].language = #en
@@ -28586,7 +28586,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Секретарь-стенографистка"
   * ^designation[+].language = #en
   * ^designation[=].value = "Stenographer"
-* #4131 "Klavishli mashinalar operatorlari  Axborotni tayyorlash va uzatish uskunalari yozuvchilari va operatorlari "
+* #4131 "Klavishli mashinalar operatorlari  Axborotni tayyorlash va uzatish uskunalari yozuvchilari va operatorlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Операторы печатных машин Машинистки и операторы оборудования для производства и передачи информации"
   * ^designation[+].language = #en
@@ -29346,7 +29346,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Хронометражист на подземных работах"
   * ^designation[+].language = #en
   * ^designation[=].value = "Chronometer on underground works"
-* #4321 "Sanoat, transport tashuvlari va materiallar hisobi faoliyati bilan band bo'lgan xizmatchilar  Omborlarda moddiy boyliklarni hisobga olish, qabul qilish va berish bilan band bo'lgan xodimlar"
+* #4321 "Sanoat, transport tashuvlari va materiallar hisobi faoliyati bilan band bo'lgan xizmatchilar  Omborlarda moddiy boyliklarni hisobga olish, qabul qilish va berish bilan band bo'lgan xodimlar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Работники, осуществляющие производственную, транспортную и учетную деятельность по материальному учету Работники, осуществляющие учет, прием и выдачу материальных ценностей на складах"
   * ^designation[+].language = #en
@@ -30256,7 +30256,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Техник-инспектор"
   * ^designation[+].language = #en
   * ^designation[=].value = "Technician Inspector"
-* #4419 "Boshqa guruhlarga kiritilmagan shu kabi xodimlar "
+* #4419 "Boshqa guruhlarga kiritilmagan shu kabi xodimlar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Другие работники, не включенные в другие группы"
   * ^designation[+].language = #en
@@ -31286,7 +31286,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Спасатель-противофонтанщик"
   * ^designation[+].language = #en
   * ^designation[=].value = "Lifeguard"
-* #5413 "Ichki-ishlar (militsiya) xodimlari  Tuzatish muassasalari qo'riqchilari "
+* #5413 "Ichki-ishlar (militsiya) xodimlari  Tuzatish muassasalari qo'riqchilari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сотрудники внутренних дел (полиции), охранники исправительных учреждений"
   * ^designation[+].language = #en
@@ -32586,11 +32586,11 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Разъездной рабочий обстановочной бригады"
   * ^designation[+].language = #en
   * ^designation[=].value = "Mobile worker of the rescue brigade"
-* #7119.37 "Pechka va kamin quruvchi‎"
+* #7119.37 "Pechka va kamin quruvchi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ремесленник по кладке печей и каминов"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Stove and fireplace builder‎"
+  * ^designation[=].value = "Stove and fireplace builder"
 * #7119.38 "Binolarning yuqori qismini ta'mirlovchi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ремонтировщик высотных частей зданий"
@@ -36441,7 +36441,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Изготовители и настройщики музыкальных инструментов"
   * ^designation[+].language = #en
   * ^designation[=].value = "Musical instrument makers and tuners"
-* #7312.1 " Klavishali asboblar detallarini tayyorlash bo'yicha avtomatchi"
+* #7312.1 "Klavishali asboblar detallarini tayyorlash bo'yicha avtomatchi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Автоматчик по изготовлению деталей клавишных инструментов"
   * ^designation[+].language = #en
@@ -41911,7 +41911,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Ферментировщик чая"
   * ^designation[+].language = #en
   * ^designation[=].value = "Tea fermenter"
-* #7516 "Tamaki mahsulotlarini ishlab chiqaruvchilar va tayyorlovchilar va navini aniqlovchilar"
+* #7516 "Tamaki mahsulotlarini ishlab chiqaruvchilar va tayyorlovchilar va navini aniqlovchilar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Производители и составители табачных изделий и спецификаторы"
   * ^designation[+].language = #en
@@ -43026,7 +43026,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Чистильщик изделий, полуфабрикатов и материалов"
   * ^designation[+].language = #en
   * ^designation[=].value = "Materials, semi-finished products and items cleaner"
-* #7536 "Poyafzaldo'zlar va turdosh buyumlar tayyorlovchilar "
+* #7536 "Poyafzaldo'zlar va turdosh buyumlar tayyorlovchilar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Обувщики и производители аналогичной продукции"
   * ^designation[+].language = #en
@@ -43186,7 +43186,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Съемщик обуви с колодок"
   * ^designation[+].language = #en
   * ^designation[=].value = "Shoe molder"
-* #7541 "Boshqa faoliyat sohasidagi malakali ishchilar  Suv ostida ishlovchi ishchilar "
+* #7541 "Boshqa faoliyat sohasidagi malakali ishchilar  Suv ostida ishlovchi ishchilar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Квалифицированные рабочие в других сферах деятельности Подводники"
   * ^designation[+].language = #en
@@ -43216,7 +43216,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Кессонщик-электромонтажник"
   * ^designation[+].language = #en
   * ^designation[=].value = "Caisson-electrician"
-* #7542 "Portlatuvchilar   "
+* #7542 "Portlatuvchilar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Взрывчатые вещества"
   * ^designation[+].language = #en
@@ -43841,7 +43841,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Чистильщик дымоходов, боровов и топок"
   * ^designation[+].language = #en
   * ^designation[=].value = "Furnace and chimney cleaner"
-* #8111 "Sanoat uskunalari va mashinalarini yig'uvchilari va operatorlari. Sanoat uskunalari va statsionar qurilmalari operatorlari. Tog'-kon qazib olish va kon boyitish uskunalari operatorlari . Tog' ishchilari va turdosh kasblar ishchilari"
+* #8111 "Sanoat uskunalari va mashinalarini yig'uvchilari va operatorlari. Sanoat uskunalari va statsionar qurilmalari operatorlari. Tog'-kon qazib olish va kon boyitish uskunalari operatorlari . Tog' ishchilari va turdosh kasblar ishchilari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сборщики и операторы промышленного оборудования и техники. Операторы промышленного оборудования и стационарных установок. Операторы горно-обогатительного оборудования. Горнодобывающие рабочие и рабочие смежных профессий"
   * ^designation[+].language = #en
@@ -55381,7 +55381,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Штамповщик"
   * ^designation[+].language = #en
   * ^designation[=].value = "Stamping"
-* #8160 "Taom va analog mahsulotlarga ishlov berish bo'yicha mashinalar operatorlari. Oziq-ovqat mahsulotlarini qayta ishlash uskunalari va shu kabi uskunalarga xizmat ko'rsatuvchi operatorlar "
+* #8160 "Taom va analog mahsulotlarga ishlov berish bo'yicha mashinalar operatorlari. Oziq-ovqat mahsulotlarini qayta ishlash uskunalari va shu kabi uskunalarga xizmat ko'rsatuvchi operatorlar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Операторы машин по переработке пищевых и аналоговых продуктов. Операторы пищевого оборудования и аналогичного оборудования"
   * ^designation[+].language = #en
@@ -59776,7 +59776,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Флипперовщик бортовых колец"
   * ^designation[+].language = #en
   * ^designation[=].value = "Flipper of side rings"
-* #8311 "Ko'chma qurilmalar operatorlari va haydovchilari. Lokomotivlar mashinistlari va turdosh kasb ishchilari  Lokomotiv mashinistlari"
+* #8311 "Ko'chma qurilmalar operatorlari va haydovchilari. Lokomotivlar mashinistlari va turdosh kasb ishchilari  Lokomotiv mashinistlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Операторы и водители мобильных устройств. Машинисты локомотивов и смежные с ними рабочие Машинисты локомотивов"
   * ^designation[+].language = #en
@@ -60106,7 +60106,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Водитель-экспедитор"
   * ^designation[+].language = #en
   * ^designation[=].value = "Car driver-forwarder"
-* #8331 "Yuk tashuvchi avtomobillari va avtobuslar haydovchilari  Avtobus, trolleybus va tramvay haydovchilari"
+* #8331 "Yuk tashuvchi avtomobillari va avtobuslar haydovchilari  Avtobus, trolleybus va tramvay haydovchilari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Водители грузовых автомобилей и автобусов Водители автобусов, троллейбусов и трамваев"
   * ^designation[+].language = #en
@@ -60241,7 +60241,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Машинист самоходной (буксируемой) машины (подметально-уборочной, снегоуборочной)"
   * ^designation[+].language = #en
   * ^designation[=].value = "Self-propelled (snow removal) vehicle driver"
-* #8341 "Ko'chma qurilmalar operatorlari  Qishloq va o'rmon xo'jaligi motorli qurilmalar mashinistlari"
+* #8341 "Ko'chma qurilmalar operatorlari  Qishloq va o'rmon xo'jaligi motorli qurilmalar mashinistlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Операторы мобильной техники Операторы моторизованной техники для сельского и лесного хозяйства"
   * ^designation[+].language = #en
@@ -61146,7 +61146,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Электрорадионавигатор"
   * ^designation[+].language = #en
   * ^designation[=].value = "Electroradionavigator"
-* #9111 "Malakasiz xodimlar  Uy xizmatchichilari va farroshlar  Muassasa, mehmonxona, xizmatchilari va farroshlari  Uy xizmatchilari va xonadonlar farroshlari"
+* #9111 "Malakasiz xodimlar  Uy xizmatchichilari va farroshlar  Muassasa, mehmonxona, xizmatchilari va farroshlari  Uy xizmatchilari va xonadonlar farroshlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Неквалифицированные рабочие Домработницы и уборщицы В учреждениях, гостиницах, горничные и уборщицы Домработницы и уборщицы квартир"
   * ^designation[+].language = #en
@@ -61161,7 +61161,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Рабочий сферы бытовых услуг"
   * ^designation[+].language = #en
   * ^designation[=].value = "Domestic service worker"
-* #9112 "Tashkilotlar va boshqa joylarda xizmatchilari va farroshlar "
+* #9112 "Tashkilotlar va boshqa joylarda xizmatchilari va farroshlar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Служащие и уборщицы в организациях и других местах"
   * ^designation[+].language = #en
@@ -61206,7 +61206,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Уборщик туалетов (в парках, на улицах)"
   * ^designation[+].language = #en
   * ^designation[=].value = "Toilet cleaner (streets, parks)"
-* #9121 "Oyna, kir, transport vositalarini yuvuvchilar va boshqa shu kabi qo'lda tozalovchilar  Qo'lda kir yuvish va dazmollash xizmatlari"
+* #9121 "Oyna, kir, transport vositalarini yuvuvchilar va boshqa shu kabi qo'lda tozalovchilar  Qo'lda kir yuvish va dazmollash xizmatlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мойщики окон, прачечные, автомойки и другие подобные ручные средства для мытья посуды Услуги ручной стирки и глажки"
   * ^designation[+].language = #en
@@ -61246,7 +61246,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Стеклопротирщик"
   * ^designation[+].language = #en
   * ^designation[=].value = "Window wiper"
-* #9211 "Qishloq va o'rmon xo'jaligi, baliqchilik va baliqshunoslikdagi malakasiz ishchilar  O'simlikshunoslik sohasidagi malakasiz ishchilar"
+* #9211 "Qishloq va o'rmon xo'jaligi, baliqchilik va baliqshunoslikdagi malakasiz ishchilar  O'simlikshunoslik sohasidagi malakasiz ishchilar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Неквалифицированные рабочие в сельском и лесном хозяйстве, рыболовстве и рыболовстве Неквалифицированные рабочие в растениеводстве"
   * ^designation[+].language = #en
@@ -61326,7 +61326,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Подсобный рабочий"
   * ^designation[+].language = #en
   * ^designation[=].value = "Gas meter"
-* #9311 "Tog'-kon sanoati, qurilish, qayta ishlash sanoati va transport sohasidagi malakasiz ishchilar  Tog'-kon sanoati va qurilish sohasidagi malakasiz ishchilar  Tog'-kon va ochiq konlarni ishlash sanoati malakasiz ishchilari"
+* #9311 "Tog'-kon sanoati, qurilish, qayta ishlash sanoati va transport sohasidagi malakasiz ishchilar  Tog'-kon sanoati va qurilish sohasidagi malakasiz ishchilar  Tog'-kon va ochiq konlarni ishlash sanoati malakasiz ishchilari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Неквалифицированные рабочие в горнодобывающей промышленности, строительстве, переработке и транспорте Неквалифицированные рабочие в горнодобывающей промышленности и строительстве Неквалифицированные рабочие в горнодобывающей промышленности и открытых горных работах"
   * ^designation[+].language = #en
@@ -61476,7 +61476,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Подсобный рабочий"
   * ^designation[+].language = #en
   * ^designation[=].value = "Accountant-weigher"
-* #9321 "Qo'lda o'rovchilar va ishlov berish sanoatida band bo'lgan boshqa malakasiz ishchilar  Qo'lda o'rash, qadoqlashda band bo'lgan malakasiz ishchilar"
+* #9321 "Qo'lda o'rovchilar va ishlov berish sanoatida band bo'lgan boshqa malakasiz ishchilar  Qo'lda o'rash, qadoqlashda band bo'lgan malakasiz ishchilar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Упаковщики вручную и другие неквалифицированные рабочие, занятые в перерабатывающих отраслях Неквалифицированные рабочие, занятые в ручной упаковке, упаковке"
   * ^designation[+].language = #en
@@ -62351,7 +62351,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Штабелевщик электродов"
   * ^designation[+].language = #en
   * ^designation[=].value = "Electrode stacker"
-* #9331 "Transport va saqlash ishlarida malaka talab etilmaydigan ishchilar  Qo'l va pedalda boshqariladigan transport vositalari haydovchilari "
+* #9331 "Transport va saqlash ishlarida malaka talab etilmaydigan ishchilar  Qo'l va pedalda boshqariladigan transport vositalari haydovchilari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Неквалифицированные рабочие на транспорте и складе. Водители транспортных средств с ручным и педальным управлением."
   * ^designation[+].language = #en
@@ -62491,7 +62491,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Уборщик бытовых помещений"
   * ^designation[+].language = #en
   * ^designation[=].value = "Household cleaner"
-* #9611 "Chiqndilarni yig'uvchi va boshqa malakasiz xodimlar  Chiqindilarni yig'ish bo'yicha malakasiz xodimlar  Chiqindilarni yig'uvchilar va qayta ishlovchilar"
+* #9611 "Chiqndilarni yig'uvchi va boshqa malakasiz xodimlar  Chiqindilarni yig'ish bo'yicha malakasiz xodimlar  Chiqindilarni yig'uvchilar va qayta ishlovchilar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сборщики мусора и другие неквалифицированные рабочие Неквалифицированные сборщики мусора Сборщики и переработчики мусора"
   * ^designation[+].language = #en
@@ -62631,7 +62631,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Уборщик территорий"
   * ^designation[+].language = #en
   * ^designation[=].value = "Area cleaner"
-* #9621 "Boshqa malakasiz xodimlar  Kuryerlar, yuk tashuvchilar, shveysarlar va boshqa shu kabi xodimlar"
+* #9621 "Boshqa malakasiz xodimlar  Kuryerlar, yuk tashuvchilar, shveysarlar va boshqa shu kabi xodimlar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Прочие неквалифицированные рабочие Курьеры, грузчики, сварщики и другие аналогичные работники"
   * ^designation[+].language = #en
