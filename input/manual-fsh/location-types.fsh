@@ -1161,7 +1161,7 @@ Description: "Defines the possible location types in Uzbek and Russian"
   * ^designation[=].value = "Стационарная лаборатория"
   * ^designation[+].language = #en
   * ^designation[=].value = "inpatient laboratory"
-* #organ0001.00110-XX "Tish jarrohlik"
+* #organ0001.00117 "Tish jarrohlik"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Стоматологическая хирургия"
   * ^designation[+].language = #en
