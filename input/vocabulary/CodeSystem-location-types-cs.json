@@ -9,114 +9,16 @@
   "url": "https://terminology.medcore.uz/CodeSystem/location-types-cs",
   "concept": [
     {
-      "code": "DADDR",
-      "display": "Yetkazib berish manzili",
+      "code": "PSYCHF_1",
+      "display": "Psixoterapiya bo'limi",
       "designation": [
         {
           "language": "ru",
-          "value": "Адрес доставки"
+          "value": "Отделение психотерапии"
         },
         {
           "language": "en",
-          "value": "Delivery Address"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00119",
-      "display": "Akusherlik bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Акушерское отделение"
-        },
-        {
-          "language": "en",
-          "value": "Obstetric department"
-        }
-      ]
-    },
-    {
-      "code": "OUTPHARM",
-      "display": "Ambulator dorixona",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Амбулаторная аптека"
-        },
-        {
-          "language": "en",
-          "value": "outpatient pharmacy"
-        }
-      ]
-    },
-    {
-      "code": "OUTLAB",
-      "display": "Ambulatoriya laboratoriyasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Амбулаторная лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "outpatient laboratory"
-        }
-      ]
-    },
-    {
-      "code": "OF",
-      "display": "ambulatoriya muassasasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "амбулаторное учреждение"
-        },
-        {
-          "language": "en",
-          "value": "Outpatient facility"
-        }
-      ]
-    },
-    {
-      "code": "CARD",
-      "display": "ambulatoriya tibbiyot muassasalari; klinika/markaz; Reabilitatsiya: Kardiologiya muassasalari",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "амбулаторные медицинские учреждения; клиника/центр; Реабилитация: Кардиологические учреждения"
-        },
-        {
-          "language": "en",
-          "value": "Ambulatory Health Care Facilities; Clinic/Center; Rehabilitation: Cardiac Facilities"
-        }
-      ]
-    },
-    {
-      "code": "PHARM",
-      "display": "Dorixona",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Аптека"
-        },
-        {
-          "language": "en",
-          "value": "Pharmacy"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00126",
-      "display": "Bakteriologik laboratoriya",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Бактериологическая лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "Bacteriological laboratory"
+          "value": "Department of Psychotherapy"
         }
       ]
     },
@@ -131,90 +33,6 @@
         {
           "language": "en",
           "value": "Biopsy diagnostics"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00133",
-      "display": "Biokimyoviy laboratoriya",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Биохимическая лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "Biochemical laboratory"
-        }
-      ]
-    },
-    {
-      "code": "HOSP",
-      "display": "Kasalxona",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Больница"
-        },
-        {
-          "language": "en",
-          "value": "Hospital"
-        }
-      ]
-    },
-    {
-      "code": "GACH",
-      "display": "Kasalxonalar; Umumiy shoshilinch tibbiy yordam shifoxonasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Больницы; Больница общей неотложной помощи"
-        },
-        {
-          "language": "en",
-          "value": "Hospitals; General Acute Care Hospital"
-        }
-      ]
-    },
-    {
-      "code": "HLAB",
-      "display": "Kasalxona laboratoriyasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Больничная лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "hospital laboratory"
-        }
-      ]
-    },
-    {
-      "code": "HU",
-      "display": "Kasalxona bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Больничное отделение"
-        },
-        {
-          "language": "en",
-          "value": "Hospital unit"
-        }
-      ]
-    },
-    {
-      "code": "MHSP",
-      "display": "Harbiy kasalxona",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Военный госпиталь"
-        },
-        {
-          "language": "en",
-          "value": "Military Hospital"
         }
       ]
     },
@@ -247,230 +65,6 @@
       ]
     },
     {
-      "code": "GIDX",
-      "display": "Gastroenterologik diagnostika yoki terapevtik laboratoriya",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Гастроэнтерологическая диагностическая или терапевтическая лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "Gastroenterology diagnostics or therapeutics lab"
-        }
-      ]
-    },
-    {
-      "code": "GI",
-      "display": "Gastroenterologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Гастроэнтерологическая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Gastroenterology clinic"
-        }
-      ]
-    },
-    {
-      "code": "HEM",
-      "display": "Gematologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Гематологическая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Hematology clinic"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00138",
-      "display": "Genetika laboratoriyasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Генетическая лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "Genetic laboratory"
-        }
-      ]
-    },
-    {
-      "code": "GYN",
-      "display": "Ginekologik klinika",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Гинекологическая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Gynecology clinic"
-        }
-      ]
-    },
-    {
-      "code": "HTN",
-      "display": "Gipertenziya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Гипертоническая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Hypertension clinic"
-        }
-      ]
-    },
-    {
-      "code": "DERM",
-      "display": "Dermatologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Дерматологическая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Dermatology clinic"
-        }
-      ]
-    },
-    {
-      "code": "PEDGI",
-      "display": "Bolalar gastroenterologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Детская гастроэнтерологическая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric gastroenterology clinic"
-        }
-      ]
-    },
-    {
-      "code": "PEDHEM",
-      "display": "Bolalar gematologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Детская гематологическая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric hematology clinic"
-        }
-      ]
-    },
-    {
-      "code": "CANC",
-      "display": "bolalar va o'smirlar nevrologik klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "детская и подростковая неврологическая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Child and adolescent neurology clinic"
-        }
-      ]
-    },
-    {
-      "code": "CAPC",
-      "display": "bolalar va o'smirlar psixiatriya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "детская и подростковая психиатрическая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Child and adolescent psychiatry clinic"
-        }
-      ]
-    },
-    {
-      "code": "PEDID",
-      "display": "Bolalar yuqumli kasalliklar klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Детская инфекционная клиника"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric infectious disease clinic"
-        }
-      ]
-    },
-    {
-      "code": "PEDCARD",
-      "display": "Bolalar kardiologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Детская кардиологическая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric cardiology clinic"
-        }
-      ]
-    },
-    {
-      "code": "PEDE",
-      "display": "Bolalar endokrinologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Детская эндокринологическая клиника"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric endocrinology clinic"
-        }
-      ]
-    },
-    {
-      "code": "PEDU",
-      "display": "Bolalar bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Детское отделение"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric unit"
-        }
-      ]
-    },
-    {
-      "code": "DX",
-      "display": "Diagnostika yoki terapevtik bo'lim",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Диагностическое или терапевтическое отделение"
-        },
-        {
-          "language": "en",
-          "value": "Diagnostics or therapeutics unit"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00004",
       "display": "Akupunktur",
       "designation": [
@@ -485,482 +79,6 @@
       ]
     },
     {
-      "code": "organ0001.00135",
-      "display": "Immunologik laboratoriya",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Иммунологическая лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "Immunological laboratory"
-        }
-      ]
-    },
-    {
-      "code": "INFD",
-      "display": "Yuqumli kasalliklar klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Инфекционная клиника"
-        },
-        {
-          "language": "en",
-          "value": "Infectious disease clinic"
-        }
-      ]
-    },
-    {
-      "code": "OB",
-      "display": "Akusherlik klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника акушерства"
-        },
-        {
-          "language": "en",
-          "value": "Obstetrics clinic"
-        }
-      ]
-    },
-    {
-      "code": "ALL",
-      "display": "allergiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "клиника аллергии"
-        },
-        {
-          "language": "en",
-          "value": "Allergy clinic"
-        }
-      ]
-    },
-    {
-      "code": "INV",
-      "display": "Bepushtlik klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника бесплодия"
-        },
-        {
-          "language": "en",
-          "value": "Infertility clinic"
-        }
-      ]
-    },
-    {
-      "code": "PEDNEPH",
-      "display": "Bolalar nefrologiyasi klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника детской нефрологии"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric nephrology clinic"
-        }
-      ]
-    },
-    {
-      "code": "PEDHO",
-      "display": "Bolalar onkologiyasi klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника детской онкологии"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric oncology clinic"
-        }
-      ]
-    },
-    {
-      "code": "PEDRHEUM",
-      "display": "Bolalar revmatologiyasi klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника детской ревматологии"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric rheumatology clinic"
-        }
-      ]
-    },
-    {
-      "code": "COAG",
-      "display": "Koagulyatsiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника коагуляции"
-        },
-        {
-          "language": "en",
-          "value": "Coagulation clinic"
-        }
-      ]
-    },
-    {
-      "code": "CRS",
-      "display": "Kolorektal jarrohlik klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника колоректальной хирургии"
-        },
-        {
-          "language": "en",
-          "value": "Colon and rectal surgery clinic"
-        }
-      ]
-    },
-    {
-      "code": "MGEN",
-      "display": "Tibbiy genetika klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника медицинской генетики"
-        },
-        {
-          "language": "en",
-          "value": "Medical genetics clinic"
-        }
-      ]
-    },
-    {
-      "code": "ONCL",
-      "display": "Tibbiy onkologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника медицинской онкологии"
-        },
-        {
-          "language": "en",
-          "value": "Medical oncology clinic"
-        }
-      ]
-    },
-    {
-      "code": "BREAST",
-      "display": "ko'krak klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "клиника молочной железы"
-        },
-        {
-          "language": "en",
-          "value": "Breast clinic"
-        }
-      ]
-    },
-    {
-      "code": "NEUR",
-      "display": "Nevrologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника неврологии"
-        },
-        {
-          "language": "en",
-          "value": "Neurology clinic"
-        }
-      ]
-    },
-    {
-      "code": "NEPH",
-      "display": "Nefrologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника нефрологии"
-        },
-        {
-          "language": "en",
-          "value": "Nephrology clinic"
-        }
-      ]
-    },
-    {
-      "code": "OPTC",
-      "display": "Optometriya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника оптометрии"
-        },
-        {
-          "language": "en",
-          "value": "optometry clinic"
-        }
-      ]
-    },
-    {
-      "code": "ORTHO",
-      "display": "Ortopediya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника ортопедии"
-        },
-        {
-          "language": "en",
-          "value": "Orthopedics clinic"
-        }
-      ]
-    },
-    {
-      "code": "OPH",
-      "display": "Oftalmologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника офтальмологии"
-        },
-        {
-          "language": "en",
-          "value": "Opthalmology clinic"
-        }
-      ]
-    },
-    {
-      "code": "PEDC",
-      "display": "Pediatriya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника педиатрии"
-        },
-        {
-          "language": "en",
-          "value": "Pediatrics clinic"
-        }
-      ]
-    },
-    {
-      "code": "PC",
-      "display": "Birlamchi tibbiy yordam klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника первичной медико-санитарной помощи"
-        },
-        {
-          "language": "en",
-          "value": "Primary care clinic"
-        }
-      ]
-    },
-    {
-      "code": "PLS",
-      "display": "Plastik jarrohlik klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника пластической хирургии"
-        },
-        {
-          "language": "en",
-          "value": "Plastic surgery clinic"
-        }
-      ]
-    },
-    {
-      "code": "PROCTO",
-      "display": "Proktologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника проктологии"
-        },
-        {
-          "language": "en",
-          "value": "Proctology clinic"
-        }
-      ]
-    },
-    {
-      "code": "PROS",
-      "display": "Protezlar klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника протезирования"
-        },
-        {
-          "language": "en",
-          "value": "Prosthodontics clinic"
-        }
-      ]
-    },
-    {
-      "code": "PREV",
-      "display": "Tibbiyot profilaktikasi klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника профилактической медицины"
-        },
-        {
-          "language": "en",
-          "value": "Preventive medicine clinic"
-        }
-      ]
-    },
-    {
-      "code": "PSY",
-      "display": "Psixiatriya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника психиатрии"
-        },
-        {
-          "language": "en",
-          "value": "Psychiatry clinic"
-        }
-      ]
-    },
-    {
-      "code": "PSI",
-      "display": "Psixologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника психологии"
-        },
-        {
-          "language": "en",
-          "value": "Psychology clinic"
-        }
-      ]
-    },
-    {
-      "code": "RHEUM",
-      "display": "Revmatologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника ревматологии"
-        },
-        {
-          "language": "en",
-          "value": "Rheumatology clinic"
-        }
-      ]
-    },
-    {
-      "code": "SPMED",
-      "display": "Sport tibbiyoti klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника спортивной медицины"
-        },
-        {
-          "language": "en",
-          "value": "Sports medicine clinic"
-        }
-      ]
-    },
-    {
-      "code": "TR",
-      "display": "Transplantatsiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника трансплантации"
-        },
-        {
-          "language": "en",
-          "value": "Transplant clinic"
-        }
-      ]
-    },
-    {
-      "code": "BMTC",
-      "display": "suyak iligi transplantatsiyasi klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "клиника трансплантации костного мозга"
-        },
-        {
-          "language": "en",
-          "value": "Bone marrow transplant clinic"
-        }
-      ]
-    },
-    {
-      "code": "URO",
-      "display": "Urologiya klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника урологии"
-        },
-        {
-          "language": "en",
-          "value": "Urology clinic"
-        }
-      ]
-    },
-    {
-      "code": "SU",
-      "display": "Jarrohlik klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника хирургии"
-        },
-        {
-          "language": "en",
-          "value": "Surgery clinic"
-        }
-      ]
-    },
-    {
-      "code": "OMS",
-      "display": "Maksillofasiyal jarrohlik klinikasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клиника челюстно-лицевой хирургии"
-        },
-        {
-          "language": "en",
-          "value": "Oral and maxillofacial surgery clinic"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00132",
-      "display": "Klinik diagnostika laboratoriyasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Клинико-диагностическая лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "Clinical diagnostic laboratory"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00005",
       "display": "Klinik farmakologiya",
       "designation": [
@@ -971,20 +89,6 @@
         {
           "language": "en",
           "value": "Clinical pharmacology"
-        }
-      ]
-    },
-    {
-      "code": "CATH",
-      "display": "Yurak kateterizatsiyasi laboratoriyasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Лаборатория катетеризации сердца"
-        },
-        {
-          "language": "en",
-          "value": "Cardiac catheterization lab"
         }
       ]
     },
@@ -1031,20 +135,6 @@
       ]
     },
     {
-      "code": "MBL",
-      "display": "Tibbiy laboratoriya",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Медицинская лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "medical laboratory"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00009",
       "display": "Tibbiy psixologiya",
       "designation": [
@@ -1055,104 +145,6 @@
         {
           "language": "en",
           "value": "Medical Psychology"
-        }
-      ]
-    },
-    {
-      "code": "PTRES",
-      "display": "Bemorning yashash joyi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Место жительства пациента"
-        },
-        {
-          "language": "en",
-          "value": "Patient's Residence"
-        }
-      ]
-    },
-    {
-      "code": "HUSCS",
-      "display": "Namuna yig'ish joyi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Место забора образцов"
-        },
-        {
-          "language": "en",
-          "value": "specimen collection site"
-        }
-      ]
-    },
-    {
-      "code": "ACC",
-      "display": "Voqea joyi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Место происшествия"
-        },
-        {
-          "language": "en",
-          "value": "accident site"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00134",
-      "display": "Mikrobiologik laboratoriya",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Микробиологическая лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "Microbiological laboratory"
-        }
-      ]
-    },
-    {
-      "code": "MOBL",
-      "display": "Mobil qurilma",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Мобильное подразделение"
-        },
-        {
-          "language": "en",
-          "value": "Mobile Unit"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00139",
-      "display": "Molekulyar biologiya laboratoriyasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Молекулярно-биологическая лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "Molecular biological laboratory"
-        }
-      ]
-    },
-    {
-      "code": "RNEU",
-      "display": "Neyroradiologiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Нейрорадиологическое отделение"
-        },
-        {
-          "language": "en",
-          "value": "Neuroradiology unit"
         }
       ]
     },
@@ -1181,20 +173,6 @@
         {
           "language": "en",
           "value": "Operative and Diagnostic Laparoscopy"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00107",
-      "display": "Ortodontiya",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Ортодонтия"
-        },
-        {
-          "language": "en",
-          "value": "Orthodontics"
         }
       ]
     },
@@ -1269,20 +247,6 @@
       ]
     },
     {
-      "code": "organ0001.00123",
-      "display": "Anesteziologiya va neonatal reanimatsiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение анестезиологии и реанимации новорожденных"
-        },
-        {
-          "language": "en",
-          "value": "Department of anesthesiology and resuscitation of newborns"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00017",
       "display": "Vertebrologiya bo'limi",
       "designation": [
@@ -1293,34 +257,6 @@
         {
           "language": "en",
           "value": "Department of Vertebrology"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00144",
-      "display": "Virusologiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение вирусологии"
-        },
-        {
-          "language": "en",
-          "value": "Department of virology"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00120",
-      "display": "Erta tug'ilgan chaqaloqlarni parvarish qilish bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение выхаживания недонощенных новорожденных"
-        },
-        {
-          "language": "en",
-          "value": "Department of nursing premature newborns"
         }
       ]
     },
@@ -1353,20 +289,6 @@
       ]
     },
     {
-      "code": "HD",
-      "display": "Gemodializ bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение гемодиализа"
-        },
-        {
-          "language": "en",
-          "value": "Hemodialysis unit"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00020",
       "display": "Geriatriya bo'limi",
       "designation": [
@@ -1381,20 +303,6 @@
       ]
     },
     {
-      "code": "organ0001.00143",
-      "display": "Ginekologiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение гинекологии"
-        },
-        {
-          "language": "en",
-          "value": "Department of gynecology"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00021",
       "display": "Yiringli jarrohlik bo'limi",
       "designation": [
@@ -1405,20 +313,6 @@
         {
           "language": "en",
           "value": "Purulent Surgery Department"
-        }
-      ]
-    },
-    {
-      "code": "CHEST",
-      "display": "Ko'krak qismi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение грудной клетки"
-        },
-        {
-          "language": "en",
-          "value": "Chest unit"
         }
       ]
     },
@@ -1531,20 +425,6 @@
         {
           "language": "en",
           "value": "Children's and Adolescent Psychiatry Department"
-        }
-      ]
-    },
-    {
-      "code": "PEDICU",
-      "display": "Bolalar intensiv terapiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение детской интенсивной терапии"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric intensive care unit"
         }
       ]
     },
@@ -1745,48 +625,6 @@
       ]
     },
     {
-      "code": "organ0001.00130",
-      "display": "Kunduzgi shifoxona bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение дневного стационара"
-        },
-        {
-          "language": "en",
-          "value": "Day hospital department"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00099",
-      "display": "Immunohistokimyoviy diagnostika bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение иммуногистохимической диагностики"
-        },
-        {
-          "language": "en",
-          "value": "Department of immunohistochemical diagnostics"
-        }
-      ]
-    },
-    {
-      "code": "ICU",
-      "display": "Reanimatsiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение интенсивной терапии"
-        },
-        {
-          "language": "en",
-          "value": "Intensive care unit"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00044",
       "display": "Reanimatsiya bo'limi",
       "designation": [
@@ -1797,20 +635,6 @@
         {
           "language": "en",
           "value": "Department of intensive care"
-        }
-      ]
-    },
-    {
-      "code": "PEDNICU",
-      "display": "Neonatal intensiv terapiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение интенсивной терапии новорожденных"
-        },
-        {
-          "language": "en",
-          "value": "Pediatric neonatal intensive care unit"
         }
       ]
     },
@@ -1913,20 +737,6 @@
       ]
     },
     {
-      "code": "CCU",
-      "display": "Koronar terapiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение коронарной терапии"
-        },
-        {
-          "language": "en",
-          "value": "Coronary care unit"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00052",
       "display": "Radiatsiya terapiyasi bo'limi",
       "designation": [
@@ -1997,20 +807,6 @@
       ]
     },
     {
-      "code": "organ0001.00141",
-      "display": "Narkologiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение наркологии"
-        },
-        {
-          "language": "en",
-          "value": "Department of narcology"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00057",
       "display": "Nevrologiya bo'limi",
       "designation": [
@@ -2021,20 +817,6 @@
         {
           "language": "en",
           "value": "Neurology Department"
-        }
-      ]
-    },
-    {
-      "code": "NCCS",
-      "display": "Nevrologik intensiv terapiya va insult bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение неврологической интенсивной терапии и инсульта"
-        },
-        {
-          "language": "en",
-          "value": "Neurology critical care and stroke unit"
         }
       ]
     },
@@ -2067,20 +849,6 @@
       ]
     },
     {
-      "code": "NS",
-      "display": "Neyroxirurgiya kafedrasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение нейрохирургии"
-        },
-        {
-          "language": "en",
-          "value": "Neurosurgery unit"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00060",
       "display": "Neonatal jarrohlik bo'limi",
       "designation": [
@@ -2091,20 +859,6 @@
         {
           "language": "en",
           "value": "Neonatology Department"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00124",
-      "display": "Neonatal jarrohlik bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение неонатальной хирургии"
-        },
-        {
-          "language": "en",
-          "value": "Department of neonatal surgery"
         }
       ]
     },
@@ -2137,34 +891,6 @@
       ]
     },
     {
-      "code": "ER",
-      "display": "Favqulodda vaziyatlar bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение неотложной помощи"
-        },
-        {
-          "language": "en",
-          "value": "Emergency room"
-        }
-      ]
-    },
-    {
-      "code": "ETU",
-      "display": "Travmatik shoshilinch yordam bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение неотложной помощи при травмах"
-        },
-        {
-          "language": "en",
-          "value": "Emergency trauma unit"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00063",
       "display": "Nefrologiya bo'limi",
       "designation": [
@@ -2175,20 +901,6 @@
         {
           "language": "en",
           "value": "General Oncology Department"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00121",
-      "display": "Neonatal bo'lim",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение новорожденных"
-        },
-        {
-          "language": "en",
-          "value": "Department of newborns"
         }
       ]
     },
@@ -2333,20 +1045,6 @@
       ]
     },
     {
-      "code": "organ0001.00117",
-      "display": "Homiladorlik patologiyasi bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение патологии беременности"
-        },
-        {
-          "language": "en",
-          "value": "Department of pregnancy pathology"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00074",
       "display": "Patologik anatomiya bo'limi",
       "designation": [
@@ -2389,62 +1087,6 @@
       ]
     },
     {
-      "code": "organ0001.00131",
-      "display": "Pozitron emissiya tomografiyasi bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение позитронно-эмиссионной томографии"
-        },
-        {
-          "language": "en",
-          "value": "Department of positron emission tomography"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00128",
-      "display": "Eritmalarni tayyorlash bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение приготовления растворов"
-        },
-        {
-          "language": "en",
-          "value": "Department of solution preparation"
-        }
-      ]
-    },
-    {
-      "code": "PHU",
-      "display": "Psixiatriya shifoxonasi bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение психиатрической больницы"
-        },
-        {
-          "language": "en",
-          "value": "Psychiatric hospital unit"
-        }
-      ]
-    },
-    {
-      "code": "PSYCHF_1",
-      "display": "Psixoterapiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение психотерапии"
-        },
-        {
-          "language": "en",
-          "value": "Department of Psychotherapy"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00077",
       "display": "Pulmonologiya bo'limi",
       "designation": [
@@ -2455,76 +1097,6 @@
         {
           "language": "en",
           "value": "Department of Pulmonology"
-        }
-      ]
-    },
-    {
-      "code": "RADO",
-      "display": "Radiatsion onkologiya kafedrasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение радиационной онкологии"
-        },
-        {
-          "language": "en",
-          "value": "Radiation oncology unit"
-        }
-      ]
-    },
-    {
-      "code": "HRAD",
-      "display": "Radiologiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение радиологии"
-        },
-        {
-          "language": "en",
-          "value": "radiology unit"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00140",
-      "display": "Radionuklid diagnostikasi bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение радионуклидной диагностики"
-        },
-        {
-          "language": "en",
-          "value": "Department of radionuclide diagnostics"
-        }
-      ]
-    },
-    {
-      "code": "SLEEP",
-      "display": "Uyqu buzilishi bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение расстройств сна"
-        },
-        {
-          "language": "en",
-          "value": "Sleep disorders unit"
-        }
-      ]
-    },
-    {
-      "code": "RHU",
-      "display": "Reabilitatsiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение реабилитации"
-        },
-        {
-          "language": "en",
-          "value": "Rehabilitation hospital unit"
         }
       ]
     },
@@ -2585,20 +1157,6 @@
       ]
     },
     {
-      "code": "organ0001.00142",
-      "display": "Terapiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение терапии"
-        },
-        {
-          "language": "en",
-          "value": "Department of therapy"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00082",
       "display": "Toksikologiya bo'limi",
       "designation": [
@@ -2651,20 +1209,6 @@
         {
           "language": "en",
           "value": "Department of Traumatology"
-        }
-      ]
-    },
-    {
-      "code": "BMTU",
-      "display": "Suyak iligi transplantatsiyasi bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение трансплантации костного мозга"
-        },
-        {
-          "language": "en",
-          "value": "Bone marrow transplant unit"
         }
       ]
     },
@@ -2837,20 +1381,6 @@
       ]
     },
     {
-      "code": "organ0001.00125",
-      "display": "Markazlashtirilgan sterilizatsiya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Отделение централизованной стерилизации"
-        },
-        {
-          "language": "en",
-          "value": "Department of centralized sterilization"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00098",
       "display": "Sitologik diagnostika bo'limi",
       "designation": [
@@ -2861,6 +1391,20 @@
         {
           "language": "en",
           "value": "Department of cytological diagnostics"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00099",
+      "display": "Immunohistokimyoviy diagnostika bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение иммуногистохимической диагностики"
+        },
+        {
+          "language": "en",
+          "value": "Department of immunohistochemical diagnostics"
         }
       ]
     },
@@ -2963,30 +1507,16 @@
       ]
     },
     {
-      "code": "EPIL",
-      "display": "Epilepsiya bo'limi",
+      "code": "organ0001.00107",
+      "display": "Ortodontiya",
       "designation": [
         {
           "language": "ru",
-          "value": "Отделение эпилепсии"
+          "value": "Ортодонтия"
         },
         {
           "language": "en",
-          "value": "Epilepsy unit"
-        }
-      ]
-    },
-    {
-      "code": "PROFF",
-      "display": "Xizmat ko'rsatuvchi provayder idorasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Офис поставщика услуг"
-        },
-        {
-          "language": "en",
-          "value": "Provider's Office"
+          "value": "Orthodontics"
         }
       ]
     },
@@ -3005,118 +1535,6 @@
       ]
     },
     {
-      "code": "organ0001.00136",
-      "display": "Patomorfologik laboratoriya",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Патоморфологическая лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "Pathomorphological laboratory"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00129",
-      "display": "Ambulatoriya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Поликлиническое отделение"
-        },
-        {
-          "language": "en",
-          "value": "Outpatient department"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00127",
-      "display": "Kir yuvish bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Прачечное отделение"
-        },
-        {
-          "language": "en",
-          "value": "Laundry department"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00122",
-      "display": "Qabul bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Приемное отделение"
-        },
-        {
-          "language": "en",
-          "value": "Admission department"
-        }
-      ]
-    },
-    {
-      "code": "PSYCHF",
-      "display": "Psixiatriya bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Психиатрическое отделение"
-        },
-        {
-          "language": "en",
-          "value": "Psychatric Care Facility"
-        }
-      ]
-    },
-    {
-      "code": "WORK",
-      "display": "Ish joyi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Рабочее место"
-        },
-        {
-          "language": "en",
-          "value": "work site"
-        }
-      ]
-    },
-    {
-      "code": "SURF",
-      "display": "Giyohvand moddalarni suiiste'mol qilishni reabilitatsiya qilish",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Реабилитация от употребления психоактивных веществ"
-        },
-        {
-          "language": "en",
-          "value": "Substance use rehabilitation facility"
-        }
-      ]
-    },
-    {
-      "code": "RADDX",
-      "display": "Rentgen diagnostikasi yoki terapevtik bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Рентгенологическое диагностическое или терапевтическое отделение"
-        },
-        {
-          "language": "en",
-          "value": "Radiology diagnostics or therapeutics unit"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00109",
       "display": "Reproduktologiya",
       "designation": [
@@ -3131,62 +1549,6 @@
       ]
     },
     {
-      "code": "organ0001.00118",
-      "display": "Tug'ruqxona",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Родильное отделение"
-        },
-        {
-          "language": "en",
-          "value": "Maternity department"
-        }
-      ]
-    },
-    {
-      "code": "FMC",
-      "display": "Oilaviy tibbiy poliklinika",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Семейная медицинская клиника"
-        },
-        {
-          "language": "en",
-          "value": "Family medicine clinic"
-        }
-      ]
-    },
-    {
-      "code": "CVDX",
-      "display": "Yurak-qon tomir diagnostikasi yoki terapevtik bo'limi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Сердечно-сосудистое диагностическое или терапевтическое отделение"
-        },
-        {
-          "language": "en",
-          "value": "Cardiovascular diagnostics or therapeutics unit"
-        }
-      ]
-    },
-    {
-      "code": "AMB",
-      "display": "Tez yordam mashinasi",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Скорая помощь"
-        },
-        {
-          "language": "en",
-          "value": "Ambulance"
-        }
-      ]
-    },
-    {
       "code": "organ0001.00110",
       "display": "Sport tibbiyoti",
       "designation": [
@@ -3197,48 +1559,6 @@
         {
           "language": "en",
           "value": "Sports medicine"
-        }
-      ]
-    },
-    {
-      "code": "INPHARM",
-      "display": "Statsionar dorixona",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Стационарная аптека"
-        },
-        {
-          "language": "en",
-          "value": "inpatient pharmacy"
-        }
-      ]
-    },
-    {
-      "code": "INLAB",
-      "display": "Statsionar laboratoriya",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Стационарная лаборатория"
-        },
-        {
-          "language": "en",
-          "value": "inpatient laboratory"
-        }
-      ]
-    },
-    {
-      "code": "organ0001.00117",
-      "display": "Tish jarrohlik",
-      "designation": [
-        {
-          "language": "ru",
-          "value": "Стоматологическая хирургия"
-        },
-        {
-          "language": "en",
-          "value": "Dental surgery"
         }
       ]
     },
@@ -3327,16 +1647,296 @@
       ]
     },
     {
-      "code": "RHAT",
-      "display": "giyohvandlikni davolash markazi",
+      "code": "organ0001.00117",
+      "display": "Homiladorlik patologiyasi bo'limi",
       "designation": [
         {
           "language": "ru",
-          "value": "центр лечения наркомании"
+          "value": "Отделение патологии беременности"
         },
         {
           "language": "en",
-          "value": "addiction treatment center"
+          "value": "Department of pregnancy pathology"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00145",
+      "display": "Tish jarrohlik",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Стоматологическая хирургия"
+        },
+        {
+          "language": "en",
+          "value": "Dental surgery"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00118",
+      "display": "Tug'ruqxona",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Родильное отделение"
+        },
+        {
+          "language": "en",
+          "value": "Maternity department"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00119",
+      "display": "Akusherlik bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Акушерское отделение"
+        },
+        {
+          "language": "en",
+          "value": "Obstetric department"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00120",
+      "display": "Erta tug'ilgan chaqaloqlarni parvarish qilish bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение выхаживания недонощенных новорожденных"
+        },
+        {
+          "language": "en",
+          "value": "Department of nursing premature newborns"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00121",
+      "display": "Neonatal bo'lim",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение новорожденных"
+        },
+        {
+          "language": "en",
+          "value": "Department of newborns"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00122",
+      "display": "Qabul bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Приемное отделение"
+        },
+        {
+          "language": "en",
+          "value": "Admission department"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00123",
+      "display": "Anesteziologiya va neonatal reanimatsiya bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение анестезиологии и реанимации новорожденных"
+        },
+        {
+          "language": "en",
+          "value": "Department of anesthesiology and resuscitation of newborns"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00124",
+      "display": "Neonatal jarrohlik bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение неонатальной хирургии"
+        },
+        {
+          "language": "en",
+          "value": "Department of neonatal surgery"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00125",
+      "display": "Markazlashtirilgan sterilizatsiya bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение централизованной стерилизации"
+        },
+        {
+          "language": "en",
+          "value": "Department of centralized sterilization"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00126",
+      "display": "Bakteriologik laboratoriya",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Бактериологическая лаборатория"
+        },
+        {
+          "language": "en",
+          "value": "Bacteriological laboratory"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00127",
+      "display": "Kir yuvish bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Прачечное отделение"
+        },
+        {
+          "language": "en",
+          "value": "Laundry department"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00128",
+      "display": "Eritmalarni tayyorlash bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение приготовления растворов"
+        },
+        {
+          "language": "en",
+          "value": "Department of solution preparation"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00129",
+      "display": "Ambulatoriya bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Поликлиническое отделение"
+        },
+        {
+          "language": "en",
+          "value": "Outpatient department"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00130",
+      "display": "Kunduzgi shifoxona bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение дневного стационара"
+        },
+        {
+          "language": "en",
+          "value": "Day hospital department"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00131",
+      "display": "Pozitron emissiya tomografiyasi bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение позитронно-эмиссионной томографии"
+        },
+        {
+          "language": "en",
+          "value": "Department of positron emission tomography"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00132",
+      "display": "Klinik diagnostika laboratoriyasi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Клинико-диагностическая лаборатория"
+        },
+        {
+          "language": "en",
+          "value": "Clinical diagnostic laboratory"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00133",
+      "display": "Biokimyoviy laboratoriya",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Биохимическая лаборатория"
+        },
+        {
+          "language": "en",
+          "value": "Biochemical laboratory"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00134",
+      "display": "Mikrobiologik laboratoriya",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Микробиологическая лаборатория"
+        },
+        {
+          "language": "en",
+          "value": "Microbiological laboratory"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00135",
+      "display": "Immunologik laboratoriya",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Иммунологическая лаборатория"
+        },
+        {
+          "language": "en",
+          "value": "Immunological laboratory"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00136",
+      "display": "Patomorfologik laboratoriya",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Патоморфологическая лаборатория"
+        },
+        {
+          "language": "en",
+          "value": "Pathomorphological laboratory"
         }
       ]
     },
@@ -3355,58 +1955,100 @@
       ]
     },
     {
-      "code": "SCHOOL",
-      "display": "Maktab",
+      "code": "organ0001.00138",
+      "display": "Genetika laboratoriyasi",
       "designation": [
         {
           "language": "ru",
-          "value": "Школа"
+          "value": "Генетическая лаборатория"
         },
         {
           "language": "en",
-          "value": "school"
+          "value": "Genetic laboratory"
         }
       ]
     },
     {
-      "code": "ENDO",
-      "display": "Endokrinologiya klinikasi",
+      "code": "organ0001.00139",
+      "display": "Molekulyar biologiya laboratoriyasi",
       "designation": [
         {
           "language": "ru",
-          "value": "Эндокринологическая клиника"
+          "value": "Молекулярно-биологическая лаборатория"
         },
         {
           "language": "en",
-          "value": "Endocrinology clinic"
+          "value": "Molecular biological laboratory"
         }
       ]
     },
     {
-      "code": "ENDOS",
-      "display": "Endoskopiya laboratoriyasi",
+      "code": "organ0001.00140",
+      "display": "Radionuklid diagnostikasi bo'limi",
       "designation": [
         {
           "language": "ru",
-          "value": "Эндоскопическая лаборатория"
+          "value": "Отделение радионуклидной диагностики"
         },
         {
           "language": "en",
-          "value": "Endoscopy lab"
+          "value": "Department of radionuclide diagnostics"
         }
       ]
     },
     {
-      "code": "ECHO",
-      "display": "Ekokardiyografiya laboratoriyasi",
+      "code": "organ0001.00141",
+      "display": "Narkologiya bo'limi",
       "designation": [
         {
           "language": "ru",
-          "value": "Эхокардиографическая лаборатория"
+          "value": "Отделение наркологии"
         },
         {
           "language": "en",
-          "value": "Echocardiography lab"
+          "value": "Department of narcology"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00142",
+      "display": "Terapiya bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение терапии"
+        },
+        {
+          "language": "en",
+          "value": "Department of therapy"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00143",
+      "display": "Ginekologiya bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение гинекологии"
+        },
+        {
+          "language": "en",
+          "value": "Department of gynecology"
+        }
+      ]
+    },
+    {
+      "code": "organ0001.00144",
+      "display": "Virusologiya bo'limi",
+      "designation": [
+        {
+          "language": "ru",
+          "value": "Отделение вирусологии"
+        },
+        {
+          "language": "en",
+          "value": "Department of virology"
         }
       ]
     }
@@ -3417,5 +2059,5 @@
   "publisher": "Uzinfocom",
   "language": "uz",
   "caseSensitive": true,
-  "count": 243
+  "count": 146
 }

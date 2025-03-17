@@ -34,7 +34,7 @@ Description: "Uzbekistan DHP Location Profile"
 * status from LocationStatusVS (required)
 
 * type.coding ^slicing.discriminator.type = #value
-* type.coding ^slicing.discriminator.path = "system"
+* type.coding ^slicing.discriminator.path = "code"
 * type.coding ^slicing.rules = #open
 * type.coding ^slicing.description = "Type of the location"
 * type.coding ^slicing.ordered = false
@@ -42,7 +42,7 @@ Description: "Uzbekistan DHP Location Profile"
 * type.coding contains type 0..1 MS
 * type.coding[type]
   * system 1..1 MS
-  * system = "https://terminology.medcore.uz/CodeSystem/location-types-cs"
+  // * system = "https://terminology.medcore.uz/CodeSystem/location-types-cs"
   * code 1..1 MS
   * code from location-types-vs (required)
 
@@ -65,7 +65,7 @@ Usage: #example
       * valueCode = #en
     * extension[content][+]
       * valueString = "Republican Oncology Center"
-* type.coding[type] = location-types-cs#ONCL "Tibbiy onkologiya klinikasi"
+* type.coding[type] = $v3-RoleCode#ONCL "Medical oncology clinic"
 * address
   * type = #postal
   * line = "Farobi, 383"
