@@ -648,7 +648,7 @@ Description: "Defines the possible location types in Uzbek and Russian"
   * ^designation[=].value = "Intensive care unit"
 * #organ0001.00044 "Reanimatsiya bo'limi"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Отделение интенсивной терапии "
+  * ^designation[=].value = "Отделение интенсивной терапии"
   * ^designation[+].language = #en
   * ^designation[=].value = "Department of intensive care"
 * #PEDNICU "Neonatal intensiv terapiya bo'limi"
@@ -673,7 +673,7 @@ Description: "Defines the possible location types in Uzbek and Russian"
   * ^designation[=].value = "Department of infectious diseases"
 * #organ0001.00048 "Kardiojarrohlik bo'limi"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Отделение кардиохирургии "
+  * ^designation[=].value = "Отделение кардиохирургии"
   * ^designation[+].language = #en
   * ^designation[=].value = "Department of cardiac surgery"
 * #organ0001.00049 "Klinik patofizyologiya bo'limi"
@@ -713,7 +713,7 @@ Description: "Defines the possible location types in Uzbek and Russian"
   * ^designation[=].value = "Mammology Department"
 * #organ0001.00055 "Mikrojarrohlik bo'limi"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Отделение микрохирургии "
+  * ^designation[=].value = "Отделение микрохирургии"
   * ^designation[+].language = #en
   * ^designation[=].value = "Microsurgery Department"
 * #organ0001.00056 "Ko'z mikroxirurgiyasi bo'limi"
@@ -908,7 +908,7 @@ Description: "Defines the possible location types in Uzbek and Russian"
   * ^designation[=].value = "Sleep disorders unit"
 * #RHU "Reabilitatsiya bo'limi"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Отделение реабилитации "
+  * ^designation[=].value = "Отделение реабилитации"
   * ^designation[+].language = #en
   * ^designation[=].value = "Rehabilitation hospital unit"
 * #organ0001.00078 "Revmatologiya bo'limi"
@@ -1003,7 +1003,7 @@ Description: "Defines the possible location types in Uzbek and Russian"
   * ^designation[=].value = "Department of phthisiourology"
 * #organ0001.00094 "Ftiziojarrohlik bo'limi"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Отделение фтизиохирургии "
+  * ^designation[=].value = "Отделение фтизиохирургии"
   * ^designation[+].language = #en
   * ^designation[=].value = "Department of phthisiosurgery"
 * #organ0001.00095 "Funktsional diagnostika bo'limi"
@@ -1113,7 +1113,7 @@ Description: "Defines the possible location types in Uzbek and Russian"
   * ^designation[=].value = "work site"
 * #SURF "Giyohvand moddalarni suiiste'mol qilishni reabilitatsiya qilish"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Реабилитация от употребления психоактивных веществ "
+  * ^designation[=].value = "Реабилитация от употребления психоактивных веществ"
   * ^designation[+].language = #en
   * ^designation[=].value = "Substance use rehabilitation facility"
 * #RADDX "Rentgen diagnostikasi yoki terapevtik bo'limi"
@@ -1193,7 +1193,7 @@ Description: "Defines the possible location types in Uzbek and Russian"
   * ^designation[=].value = "Ultrasound diagnostics"
 * #organ0001.00116 "Fizioterapiya"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Физиотерапия "
+  * ^designation[=].value = "Физиотерапия"
   * ^designation[+].language = #en
   * ^designation[=].value = "Physiotherapy"
 * #RHAT "giyohvandlikni davolash markazi"
