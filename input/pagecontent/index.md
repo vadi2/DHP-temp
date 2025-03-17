@@ -1,6 +1,6 @@
 # DHP-temp
 
-<div style="display:none">
+<div>
 {% include ip-statements.xhtml %}
 
 {% include cross-version-analysis.xhtml %}
