@@ -37,17 +37,23 @@ Description: "Uzbekistan DHP Location Profile"
 * type.coding ^slicing.description = "Type of the location"
 * type.coding ^slicing.ordered = false
 
-* type.coding contains type 0..1 MS
+* type.coding contains type 0..1 and kind 0..1 MS
 * type.coding[type]
   * system 1..1 MS
   * system = "https://terminology.medcore.uz/CodeSystem/location-types-cs"
   * code 1..1 MS
   * code from location-types-vs (required)
+* type.coding[kind]
+  * system 1..1 MS
+  * system = "https://terminology.medcore.uz/CodeSystem/location-kinds-cs"
+  * code 1..1 MS
+  * code from location-kinds-vs (required)
 
 Instance: example-location-1
 InstanceOf: DHPLocation
-Description: "Example of a location"
+Description: "Example of an organization location"
 Usage: #example
+* language = #uz
 * identifier[tax-id]
   * value = "200935935"
 * status = #active
@@ -62,7 +68,7 @@ Usage: #example
       * valueCode = #en
     * extension[content][+]
       * valueString = "Republican Oncology Center"
-* type = location-types-cs#ONCL "Tibbiy onkologiya klinikasi"
+* type.coding[type] = location-types-cs#ONCL "Tibbiy onkologiya klinikasi"
 * address
   * type = #postal
   * line = "Farobi, 383"
@@ -70,3 +76,21 @@ Usage: #example
   * district = "1726"
   * country = "UZ"
 * managingOrganization = Reference(Organization/example-organization)
+
+Instance: example-location-2
+InstanceOf: DHPLocation
+Description: "Example of a branch location"
+* language = #uz
+* status = #active
+* name = "1-sonli onkomammologiya bo'limi"
+  * extension[translation][0]
+    * extension[lang][0]
+      * valueCode = #ru
+    * extension[content][+]
+      * valueString = "Отделение онкомаммологии №1"
+  * extension[translation][+]
+    * extension[lang][0]
+      * valueCode = #en
+    * extension[content][+]
+      * valueString = "Oncomammology Department No. 1"
+* type.coding[kind] = location-kinds-cs#Branch "Bo'limi"
