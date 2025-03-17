@@ -94,10 +94,7 @@ Description: "Uzbekistan DHP Organization Profile"
   * code 1..1 MS
   * code from organizational-subordination-institution-vs (required)
 
-* name 1..1 MS
-  * ^short = "Наименование организации (на узбекском языке)"
-  * extension contains translation named translation 0..* MS
-    * ^short = "Наименование организации (на русском и английском языках)"
+* insert MultilingualName(организации)
 
 * contact MS
 * partOf MS

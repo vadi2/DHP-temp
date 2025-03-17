@@ -27,3 +27,4 @@ Description: "Uzbekistan DHP Location Profile"
 
 * status and operationalStatus and name and type and contact and address and position and managingOrganization and partOf and hoursOfOperation and endpoint MS
 * insert AddressRules
+* insert MultilingualName(локации)
