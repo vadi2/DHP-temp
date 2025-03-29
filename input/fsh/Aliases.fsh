@@ -2,6 +2,7 @@ Alias: $address-type = http://hl7.org/fhir/address-type
 Alias: $address-use = http://hl7.org/fhir/address-use
 Alias: $contact-point-system = http://hl7.org/fhir/contact-point-system
 Alias: $degree-license-certificate = http://terminology.hl7.org/CodeSystem/v2-0360
+Alias: $dicom-dcm = http://dicom.nema.org/resources/ontology/DCM
 Alias: $identifier-type = http://terminology.hl7.org/CodeSystem/v2-0203
 Alias: $identifier-use = http://hl7.org/fhir/identifier-use
 Alias: $iso-3166 = urn:iso:std:iso:3166
