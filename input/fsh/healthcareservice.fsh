@@ -1,6 +1,6 @@
 Profile: DHPHealthcareService
 Parent: HealthcareService
-Id: dhp-Healthcareservice
+Id: dhp-healthcareservice
 Title: "Uzbekistan DHP HealthcareService Profile"
 Description: "Uzbekistan DHP HealthcareService Profile"
 * ^experimental = true
