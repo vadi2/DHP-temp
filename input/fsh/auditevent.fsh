@@ -11,6 +11,25 @@ Description: "Uzbekistan DHP AuditEvent Profile"
 
 * category and code and action and occurredDateTime and outcome and patient and agent and entity MS
 
+* category.coding ^slicing.discriminator.type = #value
+* category.coding ^slicing.discriminator.path = "system"
+* category.coding ^slicing.rules = #open
+* category.coding ^slicing.description = "Category of audit event"
+* category.coding ^slicing.ordered = false
+
+* category.coding contains
+    dhpCategory 0..1 MS
+
+* category.coding[dhpCategory]
+  * system 1..1 MS
+  * system = $dicom-dcm
+  * code 1..1 MS
+  * code from AuditEventTypeVS (required)
+
+* code from AuditEventSubTypeVS (required)
+
+* action from AuditEventActionVS (required)
+
 * agent
   * type and role and who and authorization MS
 

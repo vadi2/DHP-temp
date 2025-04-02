@@ -1,47 +1,5 @@
 // Terminologies that are a best fit the AuditEvent resource that may be re-used in other profiles
 
-ValueSet: AuditEventSubTypeVS
-Id: audit-event-subtype-vs
-Title: "Audit event subtype"
-Description: "Defines the subtype of event (`category`) that is being recorded in Uzbek and Russian"
-* ^experimental = true
-* ^url = "https://terminology.medcore.uz/ValueSet/audit-event-subtype-vs"
-* ^language = #uz
-* $dicom-dcm#110122
-* $dicom-dcm#110122 ^designation[0].language = #ru
-* $dicom-dcm#110122 ^designation[=].value = "Попытка входа пользователя в систему"
-* $dicom-dcm#110122 ^designation[+].language = #uz
-* $dicom-dcm#110122 ^designation[=].value = "Foydalanuvchiga kirishga urinish"
-* $dicom-dcm#110123
-* $dicom-dcm#110123 ^designation[0].language = #ru
-* $dicom-dcm#110123 ^designation[=].value = "Попытка выхода пользователя из системы"
-* $dicom-dcm#110123 ^designation[+].language = #uz
-* $dicom-dcm#110123 ^designation[=].value = "Foydalanuvchini tizimdan chiqishga urinish"
-* $dicom-dcm#read
-* $dicom-dcm#read ^designation[0].language = #ru
-* $dicom-dcm#read ^designation[=].value = "Чтение "
-* $dicom-dcm#read ^designation[+].language = #uz
-* $dicom-dcm#read ^designation[=].value = "O'qish"
-* $dicom-dcm#update
-* $dicom-dcm#update ^designation[0].language = #ru
-* $dicom-dcm#update ^designation[=].value = "Обновление"
-* $dicom-dcm#update ^designation[+].language = #uz
-* $dicom-dcm#update ^designation[=].value = "Yangilash"
-* $dicom-dcm#create
-* $dicom-dcm#create ^designation[0].language = #ru
-* $dicom-dcm#create ^designation[=].value = "Создание"
-* $dicom-dcm#create ^designation[+].language = #uz
-* $dicom-dcm#create ^designation[=].value = "Yaratilish"
-* $dicom-dcm#delete
-* $dicom-dcm#delete ^designation[0].language = #ru
-* $dicom-dcm#delete ^designation[=].value = "Удаление"
-* $dicom-dcm#delete ^designation[+].language = #uz
-* $dicom-dcm#delete ^designation[=].value = "Olib tashlash"
-* $dicom-dcm#search
-* $dicom-dcm#search ^designation[0].language = #ru
-* $dicom-dcm#search ^designation[=].value = "Поиск"
-* $dicom-dcm#search ^designation[+].language = #uz
-* $dicom-dcm#search ^designation[=].value = "Qidiruv"
 
 ValueSet: AuditEventTypeVS
 Id: audit-event-type-vs
@@ -90,3 +48,80 @@ Description: "Defines the type of event (`code`) that is being recorded in Uzbek
 * $dicom-dcm#110121 ^designation[=].value = "Аутентификация узла"
 * $dicom-dcm#110121 ^designation[+].language = #uz
 * $dicom-dcm#110121 ^designation[=].value = "Tugun autentifikatsiyasi"
+
+ValueSet: AuditEventSubTypeVS
+Id: audit-event-subtype-vs
+Title: "Audit event subtype"
+Description: "Defines the subtype of event (`category`) that is being recorded in Uzbek and Russian"
+* ^experimental = true
+* ^url = "https://terminology.medcore.uz/ValueSet/audit-event-subtype-vs"
+* ^language = #uz
+* $dicom-dcm#110122
+* $dicom-dcm#110122 ^designation[0].language = #ru
+* $dicom-dcm#110122 ^designation[=].value = "Попытка входа пользователя в систему"
+* $dicom-dcm#110122 ^designation[+].language = #uz
+* $dicom-dcm#110122 ^designation[=].value = "Foydalanuvchiga kirishga urinish"
+* $dicom-dcm#110123
+* $dicom-dcm#110123 ^designation[0].language = #ru
+* $dicom-dcm#110123 ^designation[=].value = "Попытка выхода пользователя из системы"
+* $dicom-dcm#110123 ^designation[+].language = #uz
+* $dicom-dcm#110123 ^designation[=].value = "Foydalanuvchini tizimdan chiqishga urinish"
+* $http-interaction#read
+* $http-interaction#read ^designation[0].language = #ru
+* $http-interaction#read ^designation[=].value = "Чтение"
+* $http-interaction#read ^designation[+].language = #uz
+* $http-interaction#read ^designation[=].value = "O'qish"
+* $http-interaction#update
+* $http-interaction#update ^designation[0].language = #ru
+* $http-interaction#update ^designation[=].value = "Обновление"
+* $http-interaction#update ^designation[+].language = #uz
+* $http-interaction#update ^designation[=].value = "Yangilash"
+* $http-interaction#create
+* $http-interaction#create ^designation[0].language = #ru
+* $http-interaction#create ^designation[=].value = "Создание"
+* $http-interaction#create ^designation[+].language = #uz
+* $http-interaction#create ^designation[=].value = "Yaratilish"
+* $http-interaction#delete
+* $http-interaction#delete ^designation[0].language = #ru
+* $http-interaction#delete ^designation[=].value = "Удаление"
+* $http-interaction#delete ^designation[+].language = #uz
+* $http-interaction#delete ^designation[=].value = "Olib tashlash"
+* $http-interaction#search
+* $http-interaction#search ^designation[0].language = #ru
+* $http-interaction#search ^designation[=].value = "Поиск"
+* $http-interaction#search ^designation[+].language = #uz
+* $http-interaction#search ^designation[=].value = "Qidiruv"
+
+
+ValueSet: AuditEventActionVS
+Id: audit-event-action-vs
+Title: "Audit Event Action Value Set"
+Description: "Defines audit event action (`action`) that is being recorded in Uzbek and Russian"
+* ^experimental = true
+* ^url = "https://terminology.medcore.uz/ValueSet/audit-event-action-vs"
+* ^language = #uz
+* $audit-event-action#C
+* $audit-event-action#C ^designation[0].language = #ru
+* $audit-event-action#C ^designation[=].value = "Создать"
+* $audit-event-action#C ^designation[+].language = #uz
+* $audit-event-action#C ^designation[=].value = "Yaratish"
+* $audit-event-action#R
+* $audit-event-action#R ^designation[0].language = #ru
+* $audit-event-action#R ^designation[=].value = "Читать"
+* $audit-event-action#R ^designation[+].language = #uz
+* $audit-event-action#R ^designation[=].value = "O'qing"
+* $audit-event-action#U
+* $audit-event-action#U ^designation[0].language = #ru
+* $audit-event-action#U ^designation[=].value = "Обновить"
+* $audit-event-action#U ^designation[+].language = #uz
+* $audit-event-action#U ^designation[=].value = "Yangilash"
+* $audit-event-action#D
+* $audit-event-action#D ^designation[0].language = #ru
+* $audit-event-action#D ^designation[=].value = "Удалить"
+* $audit-event-action#D ^designation[+].language = #uz
+* $audit-event-action#D ^designation[=].value = "Oʻchirish"
+* $audit-event-action#E
+* $audit-event-action#E ^designation[0].language = #ru
+* $audit-event-action#E ^designation[=].value = "Выполнить"
+* $audit-event-action#E ^designation[+].language = #uz
+* $audit-event-action#E ^designation[=].value = "Bajarish"
