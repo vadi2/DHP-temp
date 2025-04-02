@@ -1,0 +1,34 @@
+Name			Flags		Cardinality	example 1	document	Type	Description & Constraints		ValueSets			
+Consent			TU					DomainResource	Запреты и разрешения на выполнение действий		System	Code	Display	
+identifier			Σ S	  D	1..*			Identifier	Идентификатор		ValueSet/identifier-use	все коды	Вид использования идентификатора	
+	use				0..1	official		code	"Определяет вид использования идентификатора (официальный, вторичный, временный, старый, обычный)
+Binding:https://terminology.medcore.uz/ValueSet/identifier-use (required)"		ValueSet/IdentifierType	все коды	Тип идентификатора	
+	type		Σ S		0..1	NCR		CodeableConcept	"Код типа идентификатора для конкретного согласия пациента
+Binding: https://terminology.medcore.uz/ValueSet/IdentifierType (required)"		ValueSet/Consent State	все коды	Статус согласия	
+	system		S		0..1			uri	http://medcore.uz/NamingSystem/org-tax-id		ValueSet/Consent Category	все коды	Категория согласия	
+	value		Σ C		0..1	ХХХХХХ		string	Значение идентификатора 		ValueSet/Consent Policy	все коды	Правила, устанавливающие базовое согласие	
+status			Σ S		1..1	active		code	"Определяет статус согласия
+Binding: https://terminology.medcore.uz/ValueSet/Consent State (required)"		ValueSet/consent-provision-type	все коды	Решение по согласию	
+category			Σ		0..*	64292-6		CodeableConcept	"Определяет категорию согласия
+Binding: https://terminology.medcore.uz/ValueSet/Consent Category (required)"		ValueSet/consent-action	все коды	Действия по согласию	
+subject			Σ		 0..1	ID Patient		Reference(Patient | Practitioner | Group)	На кого распространяется согласие (на кого дается согласие)		ValueSet-PurposeOfUse	все коды	Цель использования	
+period			Σ		 0..1			Period	Период действия согласия					
+	start		ΣC		 0..1	2025-02-15T14:02:52		dateTime	Дата начала действия согласия					
+	end		ΣC		 0..1	2026-02-15T14:02:52		dateTime	Дата окончания действия согласия					
+grantor			Σ		0..*	ID Patient		Reference(Patient)	От кого получено согласие (Представитель пациента, на которого дается согласие)					
+sourceAttachment					0..*			Attachment	Источник, из которого взято это согласие					
+	url		Σ		0..1	 https://хххххххххххх		url	URL-адрес, где хранится вложение					
+	creation		Σ		0..1	2025-03-15T14:02:52		dateTime	Дата первого создания вложения					
+sourceReference					0..*	ID Consent		Reference(Consent | DocumentReference | Contract | QuestionnaireResponse)	Источник, из которого взято согласие					
+regulatoryBasis					0..*	uz-LRU-547	"Статьи: 19, 24, 25, 26, 28, 34, 45 Закона Руз ""Об охране здоровья граждан"""	CodeableConcept	"Правила, устанавливающие базовое согласие
+Binding: https://terminology.medcore.uz/ValueSet/Consent Policy (required)"					
+decision			Σ S		0..1	permit		code	"Решение по согласию
+Binding: https://terminology.medcore.uz/ValueSet/consent-provision-type (required)"					
+provision								BackboneElement	Правила обеспечения согласия					
+	period							Period	Период действия правил					
+		start	ΣC		 0..1	2025-02-15T14:02:52		dateTime	Дата начала действия правил согласия					
+		end	ΣC		 0..1	2026-02-15T14:02:52		dateTime	Дата окончания действия правил согласия					
+	action		Σ		0..*	disclose		CodeableConcept	"Действия, регулируемые настоящими правилами
+Binding: https://terminology.medcore.uz/ValueSet/consent-action (required)"					
+	purpose		Σ		0..*	RECORDMGT		Coding	"Цель использования
+Binding: https://terminology.medcore.uz/ValueSet-PurposeOfUse (required)"					
