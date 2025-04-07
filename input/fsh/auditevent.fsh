@@ -34,6 +34,11 @@ Description: "Uzbekistan DHP AuditEvent Profile"
 
 * agent
   * type and role and who and authorization MS
+  * type from ParticipationRoleTypeVS (required)
+  * role from SecurityRoleTypeVS (required)
+  * authorization from PurposeOfUseVS (required)
 
 * entity
   * role and what and securityLabel and query MS
+  * role from ObjectRoleVS (required)
+  * securityLabel from SecurityLabelVS (required)
