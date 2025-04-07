@@ -30,6 +30,8 @@ Description: "Uzbekistan DHP AuditEvent Profile"
 
 * action from AuditEventActionVS (required)
 
+* outcome.code from AuditEventOutcomeVS (required)
+
 * agent
   * type and role and who and authorization MS
 

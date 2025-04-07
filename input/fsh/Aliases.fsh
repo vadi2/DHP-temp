@@ -23,3 +23,4 @@ Alias: $specialization = http://medcore.uz/CodeSystem/specialization
 Alias: $subordination-group = http://medcore.uz/CodeSystem/subordination-group
 Alias: $translation-extension = http://hl7.org/fhir/StructureDefinition/translation
 Alias: $v3-RoleCode = http://terminology.hl7.org/CodeSystem/v3-RoleCode
+Alias: $issue-severity = http://hl7.org/fhir/issue-severity
