@@ -65,7 +65,7 @@ Usage: #example
       * valueCode = #en
     * extension[content][+]
       * valueString = "Republican Oncology Center"
-* type.coding[type] = $v3-RoleCode#ONCL "Medical oncology clinic"
+* type.coding[type] = $v3-RoleCode#ONCL
 * address
   * type = #postal
   * line = "Farobi, 383"
