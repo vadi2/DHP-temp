@@ -52,7 +52,7 @@ Usage: #example
 * action = $audit-event-action#E "Execute"
 * category = $dicom-dcm#110114 "User Authentication"
 * code = $dicom-dcm#110122 "Login"
-* outcome.code.code = $issue-severity#success
+* outcome.code = $issue-severity#success
 
 * occurredDateTime = "2023-11-09T15:23:47.123Z"
 * recorded = "2023-11-09T15:23:47.123Z"
@@ -79,7 +79,7 @@ Usage: #example
 
 * category = $dicom-dcm#110112 "Query"
 * code = $http-interaction#search
-* outcome.code.code = $issue-severity#success
+* outcome.code = $issue-severity#success
 * agent
   * role = $sample-security-structural-codes#regulated-health-professionals
   * authorization = $v3-ActReason#TREAT
