@@ -44,7 +44,7 @@ Description: "Uzbekistan DHP Location Profile"
   * system 1..1 MS
   // * system = "https://terminology.medcore.uz/CodeSystem/location-types-cs"
   * code 1..1 MS
-  * code from location-types-vs (required)
+  * code from LocationTypesVS (required)
 
 Instance: example-location-1
 InstanceOf: DHPLocation

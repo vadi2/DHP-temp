@@ -3,7 +3,7 @@
 
 ValueSet: AuditEventTypeVS
 Id: audit-event-type-vs
-Title: "Audit Event Type Value Set"
+Title: "Audit event type"
 Description: "Defines the type of event (`AuditEvent.code`) that is being recorded in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/audit-event-type-vs"
@@ -95,7 +95,7 @@ Description: "Defines the subtype of event (`AuditEvent.category`) that is being
 
 ValueSet: AuditEventActionVS
 Id: audit-event-action-vs
-Title: "Audit Event Action Value Set"
+Title: "Audit event action"
 Description: "Defines audit event action (`AuditEvent.action`) that is being recorded in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/audit-event-action-vs"
@@ -129,7 +129,7 @@ Description: "Defines audit event action (`AuditEvent.action`) that is being rec
 
 ValueSet: AuditEventOutcomeVS
 Id: audit-event-outcome-vs
-Title: "Audit Event Outcome Value Set"
+Title: "Audit event outcome"
 Description: "Defines the outcome of the event (`AuditEvent.outcome.code`) that is being recorded in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/audit-event-outcome-vs"
@@ -162,12 +162,12 @@ Description: "Defines the outcome of the event (`AuditEvent.outcome.code`) that 
 
 ValueSet: ParticipationRoleTypeVS
 Id: participation-role-type-vs
-Title: "Audit Event Role Type Value Set"
+Title: "Audit event role type"
 Description: "Defines how the participant participated (`AuditEvent.agent.type`) in Uzbek and Russian"
 * ^experimental = true
-* ^url = "https://terminology.medcore.uz/ValueSet/audit-event-role-type-vs"
+* ^url = "https://terminology.medcore.uz/ValueSet/participation-role-type-vs"
 * ^language = #uz
-* $security-structural-codes#humanuser
+* $extra-security-role-type#humanuser
   * ^designation[0].language = #ru
   * ^designation[=].value = "Пользователь"
   * ^designation[+].language = #uz
@@ -180,25 +180,25 @@ Description: "Defines how the participant participated (`AuditEvent.agent.type`)
 
 ValueSet: SecurityRoleTypeVS
 Id: security-role-type-vs
-Title: "Security Role Type Value Set"
+Title: "Security role type"
 Description: "Defines the role of the participant (`AuditEvent.agent.role`) that is being recorded in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/security-role-type-vs"
 * ^language = #uz
-* $security-structural-codes#regulated-health-professionals
-* $security-structural-codes#regulated-health-professionals ^designation[0].language = #ru
-* $security-structural-codes#regulated-health-professionals ^designation[=].value = "Регулируемые специалисты здравоохранения"
-* $security-structural-codes#regulated-health-professionals ^designation[+].language = #uz
-* $security-structural-codes#regulated-health-professionals ^designation[=].value = "Tartibga solinadigan sog'liqni saqlash mutaxassislari"
-* $security-structural-codes#non-regulated-health-professionals
-* $security-structural-codes#non-regulated-health-professionals ^designation[0].language = #ru
-* $security-structural-codes#non-regulated-health-professionals ^designation[=].value = "Нерегулируемые специалисты здравоохранения"
-* $security-structural-codes#non-regulated-health-professionals ^designation[+].language = #uz
-* $security-structural-codes#non-regulated-health-professionals ^designation[=].value = "Tartibga solinmagan sog'liqni saqlash mutaxassislari"
+* $sample-security-structural-codes#regulated-health-professionals
+* $sample-security-structural-codes#regulated-health-professionals ^designation[0].language = #ru
+* $sample-security-structural-codes#regulated-health-professionals ^designation[=].value = "Регулируемые специалисты здравоохранения"
+* $sample-security-structural-codes#regulated-health-professionals ^designation[+].language = #uz
+* $sample-security-structural-codes#regulated-health-professionals ^designation[=].value = "Tartibga solinadigan sog'liqni saqlash mutaxassislari"
+* $sample-security-structural-codes#non-regulated-health-professionals
+* $sample-security-structural-codes#non-regulated-health-professionals ^designation[0].language = #ru
+* $sample-security-structural-codes#non-regulated-health-professionals ^designation[=].value = "Нерегулируемые специалисты здравоохранения"
+* $sample-security-structural-codes#non-regulated-health-professionals ^designation[+].language = #uz
+* $sample-security-structural-codes#non-regulated-health-professionals ^designation[=].value = "Tartibga solinmagan sog'liqni saqlash mutaxassislari"
 
 ValueSet: PurposeOfUseVS
 Id: purpose-of-use-vs
-Title: "Purpose of Use Value Set"
+Title: "Purpose of use"
 Description: "Defines agent's the purpose of use (`AuditEvent.agent.authorization`) in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/purpose-of-use-vs"
@@ -266,7 +266,7 @@ Description: "Defines agent's the purpose of use (`AuditEvent.agent.authorizatio
 
 ValueSet: ObjectRoleVS
 Id: object-role-vs
-Title: "Object Role Value Set"
+Title: "Object role"
 Description: "Defines object's role (`AuditEvent.entity.role`) in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/object-role-vs"
@@ -281,6 +281,11 @@ Description: "Defines object's role (`AuditEvent.entity.role`) in Uzbek and Russ
 * $object-role#3 ^designation[=].value = "Отчет"
 * $object-role#3 ^designation[+].language = #uz
 * $object-role#3 ^designation[=].value = "Hisobot"
+* $object-role#4
+* $object-role#4 ^designation[0].language = #ru
+* $object-role#4 ^designation[=].value = "Доменный Ресурс"
+* $object-role#4 ^designation[+].language = #uz
+* $object-role#4 ^designation[=].value = "Domen Resursi"
 * $object-role#6
 * $object-role#6 ^designation[0].language = #ru
 * $object-role#6 ^designation[=].value = "Пользоватедь"
@@ -314,7 +319,7 @@ Description: "Defines object's role (`AuditEvent.entity.role`) in Uzbek and Russ
 
 ValueSet: SecurityLabelVS
 Id: security-label-vs
-Title: "Security Label Value Set"
+Title: "Security label"
 Description: "Defines security label (`AuditEvent.entity.securityLabel`) in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/security-label-vs"
