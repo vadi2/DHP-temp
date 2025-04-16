@@ -44,7 +44,7 @@ Description: "Uzbekistan DHP AuditEvent Profile"
   * role from ObjectRoleVS (required)
   * securityLabel from SecurityLabelVS (required)
 
-Instance: example-auditevent
+Instance: example-auditevent-login
 InstanceOf: DHPAuditEvent
 Description: "Example of an audit event where a user logs in"
 Usage: #example
@@ -67,7 +67,7 @@ Usage: #example
   * observer.display = "Uzbekistan Digital Health Platform"
   * type = $security-source-type#4 "Application Server"
 
-Instance: example-auditevent2
+Instance: example-auditevent-condition-lookup
 InstanceOf: DHPAuditEvent
 Description: "Example of an audit event where a pracititioner looked up the patient's condition"
 Usage: #example
