@@ -2,7 +2,7 @@ Profile: DHPAuditEvent
 Parent: AuditEvent
 Id: dhp-auditevent
 Title: "Uzbekistan DHP AuditEvent Profile"
-Description: "Uzbekistan DHP AuditEvent Profile"
+Description: "Uzbekistan DHP AuditEvent Profile, used to track user and application activity"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
