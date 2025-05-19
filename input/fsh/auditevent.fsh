@@ -34,7 +34,7 @@ Description: "Uzbekistan DHP AuditEvent Profile, used to track user and applicat
 
 * agent
   * type and role and who and authorization MS
-  * type from ParticipationRoleTypeVS (required)
+  * type from AuditParticipationRoleTypeVS (required)
   * role from SecurityRoleTypeVS (required)
   * authorization from PurposeOfUseVS (required)
   * who only Reference (DHPPractitionerRole or Practitioner or Patient or RelatedPerson) 

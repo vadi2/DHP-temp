@@ -160,12 +160,12 @@ Description: "Defines the outcome of the event (`AuditEvent.outcome.code`) that 
 * $issue-severity#success ^designation[+].language = #uz
 * $issue-severity#success ^designation[=].value = "Operatsiya muvaffaqiyatli yakunlandi"
 
-ValueSet: ParticipationRoleTypeVS
-Id: participation-role-type-vs
+ValueSet: AuditParticipationRoleTypeVS
+Id: audit-participation-role-type-vs
 Title: "Audit event role type"
 Description: "Defines how the participant participated (`AuditEvent.agent.type`) in Uzbek and Russian"
 * ^experimental = true
-* ^url = "https://terminology.medcore.uz/ValueSet/participation-role-type-vs"
+* ^url = "https://terminology.medcore.uz/ValueSet/audit-participation-role-type-vs"
 * ^language = #uz
 * $extra-security-role-type#humanuser
   * ^designation[0].language = #ru
