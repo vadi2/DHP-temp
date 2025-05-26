@@ -2,7 +2,7 @@ ValueSet: ISO3166_2_UZ
 Id: iso-3166-2-uz-vs
 Title: "ISO 3166 2 character codes in Uzbek and Russian"
 Description: "Defines Uzbek and Russian translations for ISO 3166 2 character codes"
-* ^url = "https://terminology.medcore.uz/ValueSet/iso-3166-2-uz-vs"
+* ^url = "https://playground.medcore.uz/fhir/Terminology/ValueSet/iso-3166-2-uz-vs" //
 * ^status = #active
 * ^experimental = true
 * ^language = #en
