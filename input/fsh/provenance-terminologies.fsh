@@ -805,22 +805,72 @@ Title: "Provenance Activity Types"
 Description: "Defines the provenance activity types."
 * ^url = "https://terminology.medcore.uz/ValueSet/provenance-activity-types-vs"
 * ^experimental = true
-* ^language = #uz
+* ^language = #en
 * include $v3-DocumentCompletion#LA "legally authenticated"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "юридическое заверение"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "qonuniy tasdiqlangan"
+
+ValueSet: ProvenanceEntityRoleVS
+Id: provenance-entity-role-vs
+Title: "Provenance Entity Role"
+Description: "Defines the provenance entity role."
+* ^url = "https://terminology.medcore.uz/ValueSet/provenance-entity-role-vs"
+* ^experimental = true
+* ^language = #en
+* include $provenance-entity-role#source "source"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "источник"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "manba"
 
 ValueSet: ProvenanceParticipationRoleTypeVS
 Id: provenance-participation-role-type-vs
 Title: "Provenance Participation Role Type"
 Description: "Defines how the participant participated (`Provenance.agent.type`) in Uzbek and Russian"
+* ^experimental = true
+* ^language = #en
+* $provenance-participant-type#legal
+* $provenance-participant-type#legal ^designation[0].language = #ru
+* $provenance-participant-type#legal ^designation[=].value = "Юридический аутентификатор"
+* $provenance-participant-type#legal ^designation[+].language = #uz
+* $provenance-participant-type#legal ^designation[=].value = "Yuridik autentifikatsiya"
+* $provenance-participant-type#author
+* $provenance-participant-type#author ^designation[0].language = #ru
+* $provenance-participant-type#author ^designation[=].value = "Автор"
+* $provenance-participant-type#author ^designation[+].language = #uz
+* $provenance-participant-type#author ^designation[=].value = "Muallif"
+
+CodeSystem: SignatureTypeCS
+Id: signature-type-cs
+Title: "Signature Type"
+Description: "Defines the possible Provenance signature types."
+* ^url = "https://terminology.medcore.uz/CodeSystem/signature-type-cs"
+* ^version = "1.0.0"
 * ^status = #active
+* ^experimental = false
+* ^date = "2025-05-23"
+* ^publisher = "Ministry of Health of Uzbekistan"
+* ^content = #complete
 * ^language = #uz
-* $extra-security-role-type#legal
-* $extra-security-role-type#legal ^designation[0].language = #ru
-* $extra-security-role-type#legal ^designation[=].value = "Юридический аутентификатор"
-* $extra-security-role-type#legal ^designation[+].language = #uz
-* $extra-security-role-type#legal ^designation[=].value = "Yuridik autentifikatsiya"
-* $extra-security-role-type#author
-* $extra-security-role-type#author ^designation[0].language = #ru
-* $extra-security-role-type#author ^designation[=].value = "Автор"
-* $extra-security-role-type#author ^designation[+].language = #uz
-* $extra-security-role-type#author ^designation[=].value = "Muallif"
+* ^caseSensitive = true
+* #biometricAuth "biometrik autentifikatsiya"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "биометрическая аутентификация"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "biometric authentication"
+* #soliqAuth "soliq autentifikatsiyasi va raqamli imzo"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "налоговая аутентификация и цифровая подпись"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "tax authentication and digital signature"
+
+ValueSet: SignatureTypeVS
+Id: signature-type-vs
+Title: "Signature Type"
+Description: "Defines the possible Provenance signature types."
+* ^url = "https://terminology.medcore.uz/ValueSet/signature-type-vs"
+* ^experimental = true
+* ^language = #uz
+* include codes from system signature-type-cs
