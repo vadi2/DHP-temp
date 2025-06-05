@@ -4,7 +4,7 @@ ValueSet: AddressUseVS
 Id: address-use-vs
 Title: "Types of address registration"
 Description: "Defines type of address registration (`use`) in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/ValueSet/address-use-vs"
+* ^url = "https://playground.medcore.uz/fhir/Terminology/ValueSet/address-use-vs" //
 * ^experimental = true
 * include $address-use#home
   * ^designation[0].language = #ru
@@ -21,7 +21,7 @@ ValueSet: IdentifierUseVS
 Id: identifier-use-vs
 Title: "Types of possible identifier uses"
 Description: "Defines the `use` of an identifier in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/ValueSet/identifier-use-vs"
+* ^url = "https://playground.medcore.uz/fhir/Terminology/ValueSet/identifier-use-vs" //
 * ^experimental = true
 * include $identifier-use#usual
   * ^designation[0].language = #ru
@@ -82,7 +82,7 @@ ValueSet: LicenseCertificateVS
 Id: license-certificate-vs
 Title: "License, certificate, degree"
 Description: "Defines the type of license, certificate, degree in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/ValueSet/license-certificate-vs"
+* ^url = "https://playground.medcore.uz/fhir/Terminology/ValueSet/license-certificate-vs" //
 * ^experimental = true
 * include $qualification-codes#PN
   * ^designation[0].language = #ru
@@ -323,7 +323,7 @@ ValueSet: IdentifierTypeVS
 Id: identifier-type-vs
 Title: "Types of possible identifiers"
 Description: "Defines identifier `type`s in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/ValueSet/identifier-type-vs"
+* ^url = "https://playground.medcore.uz/fhir/Terminology/ValueSet/identifier-type-vs" //
 * ^experimental = true
 
 * include $identifier-type#NI 
@@ -416,7 +416,7 @@ ValueSet: NameUseVS
 Id: name-use-vs
 Title: "Types of possible name uses"
 Description: "Defines the different uses of a name in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/ValueSet/name-use-vs"
+* ^url = "https://playground.medcore.uz/fhir/Terminology/ValueSet/name-use-vs" //
 * ^experimental = true
 * include $name-use#usual
   * ^designation[0].language = #ru
@@ -458,7 +458,7 @@ ValueSet: ContactPointSystemVS
 Id: contact-point-system-vs
 Title: "Types of possible contact points"
 Description: "Defines the contact point `system` types ub Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/ValueSet/contact-point-system-vs"
+* ^url = "https://playground.medcore.uz/fhir/Terminology/ValueSet/contact-point-system-vs" //
 * ^experimental = true
 * include $contact-point-system#phone
   * ^designation[0].language = #ru
@@ -500,7 +500,7 @@ ValueSet: AddressTypeVS
 Id: address-type-vs
 Title: "Types of possible addresses"
 Description: "Defines the types of addresses (`type`) with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/ValueSet/address-type-vs"
+* ^url = "https://playground.medcore.uz/fhir/Terminology/ValueSet/address-type-vs" //
 * ^experimental = true
 * include $address-type#postal
   * ^designation[0].language = #ru
