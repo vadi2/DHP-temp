@@ -1,8 +1,8 @@
 Profile: DHPLocation
 Parent: Location
 Id: dhp-location
-Title: "Uzbekistan DHP Location Profile"
-Description: "Uzbekistan DHP Location Profile"
+Title: "Uzbekistan DHP Location profile"
+Description: "Uzbekistan DHP Location profile, used to define locations of healthcare services"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -15,7 +15,7 @@ Description: "Uzbekistan DHP Location Profile"
 * identifier ^slicing.rules = #open
 * identifier ^slicing.description = "Ways an organization can be categorized"
 * identifier ^slicing.ordered = false
-* identifier contains tax-id 0..1 and unit 0..1 MS
+* identifier contains tax-id 0..1 MS and unit 0..1 MS
 
 * insert TaxIdentifier
 * identifier[unit]

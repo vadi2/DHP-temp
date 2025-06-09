@@ -196,12 +196,12 @@ Description: "Defines the role of the participant (`AuditEvent.agent.role`) that
 * $sample-security-structural-codes#non-regulated-health-professionals ^designation[+].language = #uz
 * $sample-security-structural-codes#non-regulated-health-professionals ^designation[=].value = "Tartibga solinmagan sog'liqni saqlash mutaxassislari"
 
-ValueSet: PurposeOfUseVS
-Id: purpose-of-use-vs
+ValueSet: AuditPurposeOfUseVS
+Id: audit-purpose-of-use-vs
 Title: "Purpose of use"
 Description: "Defines agent's the purpose of use (`AuditEvent.agent.authorization`) in Uzbek and Russian"
 * ^experimental = true
-* ^url = "https://terminology.medcore.uz/ValueSet/purpose-of-use-vs"
+* ^url = "https://terminology.medcore.uz/ValueSet/audit-purpose-of-use-vs"
 * ^language = #uz
 * $v3-ActReason#HOPERAT
 * $v3-ActReason#HOPERAT ^designation[0].language = #ru

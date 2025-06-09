@@ -1,7 +1,7 @@
 Profile: DHPProvenance
 Parent: Provenance
 Id: dhp-provenance
-Title: "Uzbekistan DHP Provenance Profile"
+Title: "Uzbekistan DHP Provenance profile"
 Description: "Uzbekistan DHP Provenance Profile, used to digitally sign documents via myID"
 * ^experimental = true
 * ^version = "1.0.0"

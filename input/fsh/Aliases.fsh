@@ -1,8 +1,12 @@
+
 Alias: $address-type = http://hl7.org/fhir/address-type
 Alias: $address-use = http://hl7.org/fhir/address-use
 Alias: $audit-event-action = http://hl7.org/fhir/audit-event-action
 Alias: $condition-clinical = http://terminology.hl7.org/CodeSystem/condition-clinical
 Alias: $condition-ver-status = http://terminology.hl7.org/CodeSystem/condition-ver-status
+Alias: $consent-action = http://terminology.hl7.org/CodeSystem/consentaction
+Alias: $consent-provision-type = http://hl7.org/fhir/consent-provision-type
+Alias: $consent-state-codes = http://hl7.org/fhir/consent-state-codes
 Alias: $contact-point-system = http://hl7.org/fhir/contact-point-system
 Alias: $degree-license-certificate = http://terminology.hl7.org/CodeSystem/v2-0360
 Alias: $dicom-dcm = http://dicom.nema.org/resources/ontology/DCM

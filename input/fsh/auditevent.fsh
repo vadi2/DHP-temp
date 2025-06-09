@@ -1,7 +1,7 @@
 Profile: DHPAuditEvent
 Parent: AuditEvent
 Id: dhp-auditevent
-Title: "Uzbekistan DHP AuditEvent Profile"
+Title: "Uzbekistan DHP AuditEvent profile"
 Description: "Uzbekistan DHP AuditEvent Profile, used to track user and application activity"
 * ^experimental = true
 * ^version = "1.0.0"
@@ -36,7 +36,7 @@ Description: "Uzbekistan DHP AuditEvent Profile, used to track user and applicat
   * type and role and who and authorization MS
   * type from AuditParticipationRoleTypeVS (required)
   * role from SecurityRoleTypeVS (required)
-  * authorization from PurposeOfUseVS (required)
+  * authorization from AuditPurposeOfUseVS (required)
   * who only Reference (DHPPractitionerRole or Practitioner or Patient or RelatedPerson) 
 
 * entity

@@ -1,8 +1,8 @@
 Profile: DHPPractitioner
 Parent: Practitioner
 Id: dhp-practitioner
-Title: "Uzbekistan DHP Practitioner Profile"
-Description: "Uzbekistan DHP Practitioner Profile"
+Title: "Uzbekistan DHP Practitioner profile"
+Description: "Uzbekistan DHP Practitioner profile, used to define healthcare practitioners"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
