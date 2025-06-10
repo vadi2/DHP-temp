@@ -65,7 +65,7 @@ publisher:
 parameters:
   special-url-base: https://terminology.medcore.uz
 
-#   pin-canonicals: pin-all
+  pin-canonicals: pin-all
    
 #   validation: [allow-any-extensions, no-broken-links]
 #
