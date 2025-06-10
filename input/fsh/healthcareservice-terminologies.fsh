@@ -1,5 +1,3 @@
-// Terminologies that are a best fit the HealthcareService resource that may be re-used in other profiles
-
 ValueSet: ServiceCategoriesVS
 Id: service-categories-vs
 Title: "Categories of cancer-related services"

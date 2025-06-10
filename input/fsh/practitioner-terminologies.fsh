@@ -1,5 +1,3 @@
-// Terminologies that are a best fit the Practitioner resource that may be re-used in other profiles
-
 ValueSet: AddressUseVS
 Id: address-use-vs
 Title: "Types of address registration"

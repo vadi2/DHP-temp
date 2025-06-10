@@ -1,5 +1,3 @@
-// Terminologies that are a best fit the PractitionerRole resource that may be re-used in other profiles
-
 ValueSet: ProfessionSpecializationVS
 Id: profession-specialization-vs
 Title: "Profession specializations"

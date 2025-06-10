@@ -1,5 +1,3 @@
-// Terminologies that are a best fit the Location resource that may be re-used in other profiles
-
 ValueSet: LocationStatusVS
 Id: location-status-vs
 Title: "Location status"

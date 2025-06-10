@@ -1,5 +1,3 @@
-// Terminologies that are a best fit the Provenance resource that may be re-used in other profiles
-
 CodeSystem: FhirTypesCS
 Id: fhir-types-cs
 Title: "All FHIR Types"

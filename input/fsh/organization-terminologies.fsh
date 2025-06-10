@@ -1,5 +1,3 @@
-// Terminologies that are a best fit the Organization resource that may be re-used in other profiles
-
 CodeSystem: NomenclatureGroupCS
 Id: nomenclature-group-cs
 Title: "Nomenclature group"
