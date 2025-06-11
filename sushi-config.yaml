@@ -66,6 +66,10 @@ parameters:
   special-url-base: https://terminology.medcore.uz
 
   pin-canonicals: pin-all
+  # openehr: true
+  # i18n-default-lang: en
+  # i18n-lang: 
+  #   - ru
    
 #   validation: [allow-any-extensions, no-broken-links]
 #
