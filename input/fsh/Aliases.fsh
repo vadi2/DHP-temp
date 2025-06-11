@@ -25,6 +25,7 @@ Alias: $name-use = http://hl7.org/fhir/name-use
 Alias: $nomenclature-group = http://medcore.uz/CodeSystem/nomenclature-group
 Alias: $object-role = http://terminology.hl7.org/CodeSystem/object-role
 Alias: $organization-argoz-id-system = https://hrm.argos.uz
+Alias: $organisation-dpm-id-system = https://dpm.uz
 Alias: $organization-tax-id-system = https://soliq.uz
 Alias: $organization-type-cs = http://terminology.hl7.org/CodeSystem/organization-type
 Alias: $organization-type-vs = http://hl7.org/fhir/ValueSet/organization-type
