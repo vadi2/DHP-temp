@@ -1,4 +1,4 @@
-CodeSystem: OrganizationalStructrueCS
+CodeSystem: OrganizationalStructureCS
 Id: organizational-structure-cs
 Title: "Organizational Structure"
 Description: "Defines the organizational structure of a medical institution"

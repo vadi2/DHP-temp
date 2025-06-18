@@ -27,20 +27,28 @@ Description: "Uzbekistan DHP Patient profile, used represent patients administra
   * use = #official
   * value 1..1 MS
 
+* extension contains patient-nationality named nationality 0..1 MS and 
+    patient-citizenship named citizenship 0..1 
+* extension[nationality].extension[code].valueCodeableConcept from NationalityVS (required)
+* extension[citizenship].extension[code].valueCodeableConcept from ISO3166_UZ_citizenship (required)
+
+
 Instance: example-salim
-InstanceOf: DHPPractitioner
+InstanceOf: DHPPatient
 Description: "Example of a patient named Salim"
 Usage: #example
 * language = #ru
 * identifier[national-id]
   * value = "30211975910033"
 * active = true
+* extension[nationality].extension[code].valueCodeableConcept = NationalityCS#23 "Азербайджанцы"
 
 Instance: example-david
-InstanceOf: DHPPractitioner
+InstanceOf: DHPPatient
 Description: "Example of a patient named David"
 Usage: #example
 * language = #ru
 * identifier[national-id]
   * value = "AG1141110" // TODO fix me, this seems to be a drivers identifier
 * active = true
+* extension[nationality].extension[code].valueCodeableConcept = NationalityCS#32 "Армяне"
