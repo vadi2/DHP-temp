@@ -8,6 +8,7 @@ Description: "Education levels in Uzbekistan"
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
 * ^language = #uz
+* ^experimental = true
 * #regis0005.00001 "Uyushmagan (0-3 yosh)"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Неорганизованное (0-3 лет)"

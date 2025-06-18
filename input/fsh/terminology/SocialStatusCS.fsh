@@ -8,6 +8,7 @@ Description: "Social status types in Uzbekistan"
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
 * ^language = #uz
+* ^experimental = true
 * #regis0010.00001 "Talaba"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учащийся"

@@ -7,6 +7,7 @@ Description: "Types of benefits in Uzbekistan"
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
 * ^language = #uz
+* ^experimental = true
 * #regis0004.00001 "Bolalikdan nogironligi bo'lgan shaxslar;"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Инвалиды с детства"
