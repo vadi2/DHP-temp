@@ -1,7 +1,7 @@
 Profile: DHPBenefitsObservation
 Parent: Observation
 Id: dhp-benefits-observation
-Title: "Uzbekistan DHP benefits Observation profile"
+Title: "Uzbekistan DHP benefits Observation"
 Description: "Uzbekistan DHP benefits Observation profile, used represent patients benefits level"
 * ^experimental = true
 * ^version = "1.0.0"

@@ -1,7 +1,7 @@
 Profile: DHPProfessionObservation
 Parent: Observation
 Id: dhp-profession-observation
-Title: "Uzbekistan DHP profession Observation profile"
+Title: "Uzbekistan DHP profession Observation"
 Description: "Uzbekistan DHP profession Observation profile, used represent patients professional level"
 * ^experimental = true
 * ^version = "1.0.0"

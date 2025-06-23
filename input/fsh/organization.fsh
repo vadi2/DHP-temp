@@ -1,7 +1,7 @@
 Profile: DHPOrganization
 Parent: Organization
 Id: dhp-organization
-Title: "Uzbekistan DHP Organization profile"
+Title: "Uzbekistan DHP Organization"
 Description: "Uzbekistan DHP Organization profile, used to define healthcare organizations and sub-units"
 * ^experimental = true
 * ^version = "1.0.0"

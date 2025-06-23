@@ -1,7 +1,7 @@
 Profile: DHPConsent
 Parent: Consent
 Id: dhp-consent
-Title: "Uzbekistan DHP Consent profile"
+Title: "Uzbekistan DHP Consent"
 Description: "Uzbekistan DHP Consent Profile, used to manage patient consent for data sharing and processing"
 * ^experimental = true
 * ^version = "1.0.0"

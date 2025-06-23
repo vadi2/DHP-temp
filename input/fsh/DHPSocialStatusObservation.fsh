@@ -1,7 +1,7 @@
 Profile: DHPSocialStatusObservation
 Parent: Observation
 Id: dhp-social-status-observation
-Title: "Uzbekistan DHP social status Observation profile"
+Title: "Uzbekistan DHP social status Observation"
 Description: "Uzbekistan DHP social status Observation profile, used represent patients social status"
 * ^experimental = true
 * ^version = "1.0.0"
@@ -13,4 +13,4 @@ Description: "Uzbekistan DHP social status Observation profile, used represent p
 * code = $sct#82996008 "Social status"
 
 * value[x] only CodeableConcept
-* value[x] from social-status-vs (required)
+* value[x] from SocialStatusVS (required)

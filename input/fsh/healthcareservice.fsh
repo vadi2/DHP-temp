@@ -1,7 +1,7 @@
 Profile: DHPHealthcareService
 Parent: HealthcareService
 Id: dhp-healthcareservice
-Title: "Uzbekistan DHP HealthcareService profile"
+Title: "Uzbekistan DHP HealthcareService"
 Description: "Uzbekistan DHP HealthcareService profile, used to define healthcare services available"
 * ^experimental = true
 * ^version = "1.0.0"

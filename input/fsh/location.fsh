@@ -1,7 +1,7 @@
 Profile: DHPLocation
 Parent: Location
 Id: dhp-location
-Title: "Uzbekistan DHP Location profile"
+Title: "Uzbekistan DHP Location"
 Description: "Uzbekistan DHP Location profile, used to define locations of healthcare services"
 * ^experimental = true
 * ^version = "1.0.0"

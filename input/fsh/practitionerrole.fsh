@@ -1,7 +1,7 @@
 Profile: DHPPractitionerRole
 Parent: PractitionerRole
 Id: dhp-practitionerrole
-Title: "Uzbekistan DHP PractitionerRole profile"
+Title: "Uzbekistan DHP PractitionerRole"
 Description: "Uzbekistan DHP PractitionerRole profile, used to define roles of practitioners"
 * ^experimental = true
 * ^version = "1.0.0"

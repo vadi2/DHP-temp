@@ -1,7 +1,7 @@
 Profile: DHPPatient
 Parent: Patient
 Id: dhp-patient
-Title: "Uzbekistan DHP Patient profile"
+Title: "Uzbekistan DHP Patient"
 Description: "Uzbekistan DHP Patient profile, used represent patients administrative information"
 * ^experimental = true
 * ^version = "1.0.0"
