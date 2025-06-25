@@ -37,6 +37,7 @@ Description: "Uzbekistan DHP Patient profile, used represent patients administra
   * extension contains GenderOtherUZ named gender-other 0..1 MS
 * obeys gender-other-2
 * insert AddressRules
+* maritalStatus from MaritalStatusVS (required)
 
 Instance: example-salim
 InstanceOf: DHPPatient
