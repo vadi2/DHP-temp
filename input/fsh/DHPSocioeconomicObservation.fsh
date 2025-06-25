@@ -19,7 +19,15 @@ Description: "Uzbekistan DHP socioeconomic observation profile, used to represen
 * subject only Reference(DHPPatient)
 
 * code 1..1 MS
-* code from SocioeconomicObservationCodesVS (required)
+* code.coding ^slicing.discriminator.type = #value
+* code.coding ^slicing.discriminator.path = "system"
+* code.coding ^slicing.rules = #open
+* code.coding ^slicing.description = "Slicing based on the code system to allow different socioeconomic observation types"
+
+* code.coding contains socioeconomicType 1..1 MS
+* code.coding[socioeconomicType] from SocioeconomicObservationCodesVS (required)
+* code.coding[socioeconomicType] ^short = "Required socioeconomic observation type code"
+* code.coding[socioeconomicType] ^definition = "One of the socioeconomic observation type codes (benefits, education, profession, or social status)"
 
 * value[x] only CodeableConcept
 * value[x] from BenefitsVS (example)
@@ -44,23 +52,6 @@ Description: "Uzbekistan DHP socioeconomic observation profile, used to represen
 * effectiveDateTime 1..1 MS
   * ^short = "Date when the socioeconomic data was recorded or applicable"
 
-// Code system for usage context values
-// CodeSystem: DHPSocioeconomicObservationUsage
-// Id: dhp-socioeconomic-observation-usage
-// Title: "DHP Socioeconomic Observation Usage Context"
-// Description: "Usage context codes for DHP socioeconomic observations"
-// * ^url = "http://hl7.org/fhir/dhp/CodeSystem/socioeconomic-observation-usage"
-// * ^experimental = true
-// * ^version = "1.0.0"
-// * ^status = #active
-// * ^date = "2025-06-11"
-// * ^publisher = "Uzinfocom"
-// * ^caseSensitive = true
-// * #benefits "Benefits" "Observation relates to patient benefits"
-// * #education "Education" "Observation relates to patient education level"
-// * #profession "Profession" "Observation relates to patient profession/occupation"
-// * #social-status "Social Status" "Observation relates to patient social status"
-
 // Value set for the observation codes
 ValueSet: SocioeconomicObservationCodesVS
 Id: socioeconomic-observation-codes-vs
@@ -83,7 +74,7 @@ Description: "Example benefits observation for Salim"
 Usage: #example
 * language = #uz
 * status = #final
-* code = $sct#1303306008 "Eligible for benefit"
+* code.coding[socioeconomicType] = $sct#1303306008 "Eligible for benefit"
 * subject = Reference(example-salim)
 * valueCodeableConcept = benefits-cs#regis0004.00002 "Chin yetimlar"
 * effectiveDateTime = "2025-06-11"
@@ -94,7 +85,7 @@ Description: "Example benefits observation for David"
 Usage: #example
 * language = #uz
 * status = #final
-* code = $sct#1303306008 "Eligible for benefit"
+* code.coding[socioeconomicType] = $sct#1303306008 "Eligible for benefit"
 * subject = Reference(example-david)
 * valueCodeableConcept = benefits-cs#regis0004.00011 "Chaqiruv komissiyalarining yo'llanmalari bo'yicha chaqiruv yoshidagi (18 - 27 yoshdagi) shaxslar"
 * effectiveDateTime = "2025-06-11"
@@ -106,7 +97,7 @@ Description: "Example education status for Salim"
 Usage: #example
 * language = #uz
 * status = #final
-* code = $sct#105421008 "Educational achievement"
+* code.coding[socioeconomicType] = $sct#105421008 "Educational achievement"
 * subject = Reference(example-salim)
 * valueCodeableConcept = education-cs#regis0005.00004 "O'rtacha"
 * effectiveDateTime = "2025-06-11"
@@ -117,7 +108,7 @@ Description: "Example education observation for David"
 Usage: #example
 * language = #uz
 * status = #final
-* code = $sct#105421008 "Educational achievement"
+* code.coding[socioeconomicType] = $sct#105421008 "Educational achievement"
 * subject = Reference(example-david)
 * valueCodeableConcept = education-cs#regis0005.00008 "Oliy ma'lumot"
 * effectiveDateTime = "2025-06-11"
@@ -129,7 +120,7 @@ Description: "Example profession observation for Salim"
 Usage: #example
 * language = #uz
 * status = #final
-* code = $sct#14679004 "Occupation"
+* code.coding[socioeconomicType] = $sct#14679004 "Occupation"
 * subject = Reference(example-salim)
 * valueCodeableConcept = position-and-profession-cs#1321.20 "Bosh mexanik"
 * effectiveDateTime = "2025-06-11"
@@ -140,7 +131,7 @@ Description: "Example profession observation for David"
 Usage: #example
 * language = #uz
 * status = #final
-* code = $sct#14679004 "Occupation"
+* code.coding[socioeconomicType] = $sct#14679004 "Occupation"
 * subject = Reference(example-david)
 * valueCodeableConcept = position-and-profession-cs#2351.32 "O'qituvchi"
 * effectiveDateTime = "2025-06-11"
@@ -152,7 +143,7 @@ Description: "Example social status observation for Salim"
 Usage: #example
 * language = #uz
 * status = #final
-* code = $sct#82996008 "Social status"
+* code.coding[socioeconomicType] = $sct#82996008 "Social status"
 * subject = Reference(example-salim)
 * valueCodeableConcept = social-status-cs#regis0010.00003 "Ishlash"
 * effectiveDateTime = "2025-06-11"
@@ -163,7 +154,7 @@ Description: "Example social status observation for David"
 Usage: #example
 * language = #uz
 * status = #final
-* code = $sct#82996008 "Social status"
+* code.coding[socioeconomicType] = $sct#82996008 "Social status"
 * subject = Reference(example-david)
 * valueCodeableConcept = social-status-cs#regis0010.00003 "Ishlash"
 * effectiveDateTime = "2025-06-11"
