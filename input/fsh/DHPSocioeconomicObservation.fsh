@@ -19,13 +19,13 @@ Description: "Uzbekistan DHP socioeconomic observation profile, used to represen
 * subject only Reference(DHPPatient)
 
 * code MS
-* code.coding ^slicing.discriminator.type = #pattern
+* code.coding ^slicing.discriminator.type = #value
 * code.coding ^slicing.discriminator.path = "system"
 * code.coding ^slicing.rules = #open
 * code.coding ^slicing.description = "Slicing based on the code system to allow different socioeconomic observation types"
 
 * code.coding contains socioeconomicType 1..1 MS
-* code.coding[socioeconomicType].system = $sct
+* code.coding[socioeconomicType].system ^patternUri = $sct
 * code.coding[socioeconomicType] from SocioeconomicObservationCodesVS (required)
 * code.coding[socioeconomicType] ^short = "Required socioeconomic observation type code"
 * code.coding[socioeconomicType] ^definition = "One of the socioeconomic observation type codes (benefits, education, profession, or social status)"
