@@ -17,13 +17,29 @@ Description: "Uzbekistan DHP Patient profile, used represent patients administra
 * identifier ^slicing.rules = #open
 * identifier ^slicing.description = "Ways a practitioner can be identified"
 * identifier ^slicing.ordered = false
-* identifier contains national-id 0..1 MS
+* identifier contains national-id 0..1 MS and
+    // passport 0..1 MS and
+    birthcertificate 0..1 MS
+    // driverslicense 0..1 MS and
+    // diplomaticpassport 0..1 MS and
+    // healthcard 0..1 MS and
+    // militaryID 0..1 MS and
+    // socialsecurity 0..1 MS and
+    // penitentiaryinstitution 0..1 MS
 
 * identifier[national-id]
   * system 1..1 MS
   * system = $organisation-dpm-id-system
   * type 1..1 MS
   * type = $identifier-type#NI "National unique individual identifier"
+  * use = #official
+  * value 1..1 MS
+
+* identifier[birthcertificate]
+  * system 1..1 MS
+  * system = $adliya
+  * type 1..1 MS
+  * type = $identifier-type#BR "Birth registry number"
   * use = #official
   * value 1..1 MS
 
@@ -72,7 +88,7 @@ Usage: #example
   * relationship = $v2-0131#N "Next-of-Kin"
   * name.text = "Ваисов Раис"
   * gender = #male
-* maritalStatus = $v3-MaritalStatus#W "Вдова"
+* maritalStatus = $v3-MaritalStatus#W "Вдовец, вдова"
 * extension[nationality].extension[code].valueCodeableConcept = NationalityCS#23 "Азербайджанцы"
 * extension[disability].valueCodeableConcept = DisabilityCS#regis0011.00001 "Группа I"
 
@@ -107,6 +123,6 @@ Usage: #example
   * relationship = $v2-0131#C "Emergency Contact"
   * name.text = "Саидов Саид"
   * gender = #male
-* maritalStatus = $v3-MaritalStatus#M "Женат"
+* maritalStatus = $v3-MaritalStatus#M "Состоит в браке"
 * multipleBirthInteger = 2
 * extension[nationality].extension[code].valueCodeableConcept = NationalityCS#32 "Армяне"

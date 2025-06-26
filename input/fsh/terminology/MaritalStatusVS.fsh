@@ -9,5 +9,5 @@ Description: "Defines Uzbek and Russian translations for marital status codes in
 * ^extension[+].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(NullFlavorCS)
 
-* include codes from system MaritalStatusCS
-* NullFlavorCS#UNK
+* include codes from system $v3-MaritalStatus
+* $v3-NullFlavor#UNK
