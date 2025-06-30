@@ -6,8 +6,8 @@
 id: dhp
 canonical: http://medcore.uz
 name: DHP-temp
-# title: Example Title
-# description: Example Implementation Guide for getting started with SUSHI
+title: Digital Health Platform
+description: DHP implementation guide for Uzbekistan using FHIR R5.
 status: draft # draft | active | retired | unknown
 version: 0.1.0
 fhirVersion: 5.0.0 # https://www.hl7.org/fhir/valueset-FHIR-version.html
@@ -83,6 +83,8 @@ parameters:
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
   Home: index.html
+  FHIR Basics: fhir-basics.html
+  API access: api-access.html
   Artifacts: artifacts.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮

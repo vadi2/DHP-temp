@@ -60,8 +60,8 @@ InstanceOf: DHPPatient
 Description: "Example of a patient named Salim"
 Usage: #example
 * language = #ru
-* identifier[national-id]
-  * value = "30211975910033"
+// * identifier[national-id]
+//   * value = "30211975910033"
 * active = true
 * name
   * use = #usual
@@ -97,8 +97,8 @@ InstanceOf: DHPPatient
 Description: "Example of a patient named David"
 Usage: #example
 * language = #ru
-* identifier[national-id]
-  * value = "AG1141110" // TODO fix me, this seems to be a drivers identifier
+// * identifier[national-id]
+//   * value = "AG1141110" // TODO fix me, this seems to be a drivers identifier
 * active = false
 * name
   * use = #anonymous

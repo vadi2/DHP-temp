@@ -27,6 +27,7 @@ Description: "Uzbekistan DHP Provenance Profile, used to digitally sign document
 
 Instance: example-pdf-document
 InstanceOf: DocumentReference
+Description: "Example ofa PDF document signed with myID"
 Usage: #example
 * status = #current
 * content.attachment
