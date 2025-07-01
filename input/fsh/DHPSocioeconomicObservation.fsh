@@ -9,6 +9,8 @@ Description: "Uzbekistan DHP socioeconomic observation profile, used to represen
 * ^status = #active
 * ^date = "2025-06-11"
 * ^publisher = "Uzinfocom"
+* ^extension[+].url = $imposeProfile
+* ^extension[=].valueCanonical = $ee-mpi-socialhistory-education-level
 
 * subject 1..1 MS
 * subject only Reference(DHPPatient)
