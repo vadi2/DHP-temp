@@ -1,4 +1,4 @@
-# DHP-temp
+# Uzbekistan Digital Health Platform
 
 This FHIR R5 implementation guide (IG) is a work in progress and is not yet ready for production use. It is intended for testing and feedback purposes only of the [Digital Health Platform](https://www.kfw.de/About-KfW/Newsroom/Latest-News/Pressemitteilungen-Details_723328.html) (DHP). The content is subject to change as the IG is developed further.
 
@@ -9,6 +9,10 @@ Current priority is on completing the core resource profiles first to enable the
 *\<to be filled in\>*
 
 ## Background
+
+*\<to be filled in\>*
+
+## Scope
 
 *\<to be filled in\>*
 
