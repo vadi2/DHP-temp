@@ -89,4 +89,10 @@ Description: "Defines identifier `type`s in Uzbek and Russian"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Universal qurilma identifikatori"
 
+* include $identifier-type#BR
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Номер свидетельства о рождении"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Tug'ilganlik haqidagi guvohnoma raqami"
+
 * include codes from system LocationKindsCS

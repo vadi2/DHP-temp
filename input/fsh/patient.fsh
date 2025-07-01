@@ -23,8 +23,8 @@ Description: "Uzbekistan DHP Patient profile, used represent patients administra
     birthcertificate 0..1 MS and
     driverslicense 0..1 MS and
     diplomaticpassport 0..1 MS and
-    healthcardnumber 0..1 MS and
-    militaryIDnumber 0..1 MS and
+    healthcard 0..1 MS and
+    militaryID 0..1 MS and
     // socialsecurity 0..1 MS and
     penitentiaryinstitution 0..1 MS
 
@@ -76,17 +76,17 @@ Description: "Uzbekistan DHP Patient profile, used represent patients administra
   * use = #official
   * value 1..1 MS
 
-* identifier[healthcardnumber]
+* identifier[healthcard]
   * system 1..1 MS
-  * system = $healthcardnumber
+  * system = $healthcard
   * type 1..1 MS
   * type = $identifier-type#HC "Health card number"
   * use = #official
   * value 1..1 MS
 
-* identifier[militaryIDnumber]
+* identifier[militaryID]
   * system 1..1 MS
-  * system = $militaryIDnumber
+  * system = $militaryID
   * type 1..1 MS
   * type = $identifier-type#MI "Military ID number"
   * use = #official
@@ -119,6 +119,22 @@ Usage: #example
 * language = #ru
 * identifier[national-id]
   * value = "30211975910033"
+* identifier[passport-local]
+  * value = "123456"
+* identifier[passport-international]
+  * value = "123456"
+* identifier[birthcertificate]
+  * value = "123456"
+* identifier[driverslicense]
+  * value = "123456"
+* identifier[diplomaticpassport]
+  * value = "123456"
+* identifier[healthcard]
+  * value = "123456"
+* identifier[militaryID]
+  * value = "123456"
+* identifier[penitentiaryinstitution]
+  * value = "123456"
 * active = true
 * name
   * use = #usual

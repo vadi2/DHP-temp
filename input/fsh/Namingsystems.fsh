@@ -167,7 +167,7 @@ Usage: #definition
 * jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
 * usage = "Used for identifying individuals through their health card numbers within the Uzbekistan healthcare system."
 * uniqueId[0].type = #uri
-* uniqueId[=].value = $healthcardnumber
+* uniqueId[=].value = $healthcard
 * uniqueId[=].preferred = true
 * uniqueId[=].comment = "This is the canonical URI for the Uzbekistan health card number system"
 
@@ -186,7 +186,7 @@ Usage: #definition
 * jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
 * usage = "Used for identifying military personnel through their military ID numbers within the Uzbekistan defense system."
 * uniqueId[0].type = #uri
-* uniqueId[=].value = $militaryIDnumber
+* uniqueId[=].value = $militaryID
 * uniqueId[=].preferred = true
 * uniqueId[=].comment = "This is the canonical URI for the Uzbekistan military ID number system"
 
