@@ -57,6 +57,44 @@ Usage: #definition
 * uniqueId[=].preferred = true
 * uniqueId[=].comment = "This is the canonical URI for the Uzbekistan National Unique ID (PINFL) system"
 
+Instance: uzb-passport-local
+InstanceOf: NamingSystem
+Description: "Local passport identifiers assigned by the Uzbekistan Personalization Agency"
+Usage: #definition
+* name = "Uzbekistan_Passport_Local_System"
+* status = #active
+* kind = #identifier
+* date = "2025-04-16"
+* publisher = "Uzinfocom"
+* responsible = "Personalization Agency under the Ministry of Justice of the Republic of Uzbekistan"
+* type = $identifier-type#PPN "Passport number"
+* description = "Naming system for local passport identifiers assigned by the Personalization Agency under the Ministry of Justice of the Republic of Uzbekistan. See https://gov.uz/ru/advice/NaN/document/1628 for legal justification."
+* jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
+* usage = "Used for identifying individuals through their local passport numbers within the Uzbekistan identification system."
+* uniqueId[0].type = #uri
+* uniqueId[=].value = "https://dpm.uz/identifier/passport-local"
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "This is the canonical URI for the Uzbekistan local passport system"
+
+Instance: uzb-passport-international
+InstanceOf: NamingSystem
+Description: "International passport identifiers assigned by the Uzbekistan Personalization Agency"
+Usage: #definition
+* name = "Uzbekistan_Passport_International_System"
+* status = #active
+* kind = #identifier
+* date = "2025-04-16"
+* publisher = "Uzinfocom"
+* responsible = "Personalization Agency under the Ministry of Justice of the Republic of Uzbekistan"
+* type = $identifier-type#PPN "Passport number"
+* description = "Naming system for international passport identifiers assigned by the Personalization Agency under the Ministry of Justice of the Republic of Uzbekistan. See https://gov.uz/ru/advice/NaN/document/1628 for legal justification."
+* jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
+* usage = "Used for identifying individuals through their international passport numbers within the Uzbekistan identification system."
+* uniqueId[0].type = #uri
+* uniqueId[=].value = "https://dpm.uz/identifier/passport-international"
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "This is the canonical URI for the Uzbekistan international passport system"
+
 Instance: location-unit
 InstanceOf: NamingSystem
 Usage: #definition
