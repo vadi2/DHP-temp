@@ -1,8 +1,3 @@
-// Aliases for code systems used in additional bindings
-Alias: $sct = http://snomed.info/sct
-Alias: $uri = http://medcore.uz/StructureDefinition/dhp-socioeconomic-observation
-Alias: $dhp-socioeconomic-cs = http://hl7.org/fhir/dhp/CodeSystem/socioeconomic-observation-usage
-
 Profile: DHPSocioeconomicObservation
 Parent: Observation
 Id: dhp-socioeconomic-observation
