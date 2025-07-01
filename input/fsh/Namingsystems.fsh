@@ -15,7 +15,7 @@ Usage: #definition
 * jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
 * usage = "Used for identifying healthcare providers, facilities, and resources within the Uzbekistan healthcare system"
 * uniqueId[0].type = #uri
-* uniqueId[=].value = "https://hrm.argos.uz"
+* uniqueId[=].value = $organization-argoz-id-system
 * uniqueId[=].preferred = true
 * uniqueId[=].comment = "This is the canonical URI for the Uzbekistan HRM Argoz system"
 
@@ -34,7 +34,7 @@ Usage: #definition
 * jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
 * usage = "Used for identifying individuals, organizations, and entities for tax purposes within Uzbekistan."
 * uniqueId[0].type = #uri
-* uniqueId[=].value = "https://soliq.uz"
+* uniqueId[=].value = $organization-tax-id-system
 * uniqueId[=].preferred = true
 * uniqueId[=].comment = "This is the canonical URI for the Uzbekistan Tax Authority (Soliq) system"
 
@@ -53,7 +53,7 @@ Usage: #definition
 * jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
 * usage = "Used for uniquely identifying individuals (citizens and residents) within the Uzbekistan national identification system."
 * uniqueId[0].type = #uri
-* uniqueId[=].value = "https://dpm.uz/identifier/nationaluniqueID"
+* uniqueId[=].value = $nationaluniqueID
 * uniqueId[=].preferred = true
 * uniqueId[=].comment = "This is the canonical URI for the Uzbekistan National Unique ID (PINFL) system"
 
@@ -72,7 +72,7 @@ Usage: #definition
 * jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
 * usage = "Used for identifying individuals through their local passport numbers within the Uzbekistan identification system."
 * uniqueId[0].type = #uri
-* uniqueId[=].value = "https://dpm.uz/identifier/passport-local"
+* uniqueId[=].value = $passport-local
 * uniqueId[=].preferred = true
 * uniqueId[=].comment = "This is the canonical URI for the Uzbekistan local passport system"
 
@@ -91,9 +91,123 @@ Usage: #definition
 * jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
 * usage = "Used for identifying individuals through their international passport numbers within the Uzbekistan identification system."
 * uniqueId[0].type = #uri
-* uniqueId[=].value = "https://dpm.uz/identifier/passport-international"
+* uniqueId[=].value = $passport-international
 * uniqueId[=].preferred = true
 * uniqueId[=].comment = "This is the canonical URI for the Uzbekistan international passport system"
+
+Instance: uzb-birth-certificate
+InstanceOf: NamingSystem
+Description: "Birth certificate identifiers assigned by the Uzbekistan Personalization Agency"
+Usage: #definition
+* name = "Uzbekistan_Birth_Certificate_System"
+* status = #active
+* kind = #identifier
+* date = "2025-04-16"
+* publisher = "Uzinfocom"
+* responsible = "Personalization Agency under the Ministry of Justice of the Republic of Uzbekistan"
+* type = $identifier-type#BR "Birth registry number"
+* description = "Naming system for birth certificate identifiers assigned by the Personalization Agency under the Ministry of Justice of the Republic of Uzbekistan. See https://gov.uz/ru/advice/58/document/1444 for legal justification."
+* jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
+* usage = "Used for identifying individuals through their birth certificate numbers within the Uzbekistan civil registration system."
+* uniqueId[0].type = #uri
+* uniqueId[=].value = $birthcertificate
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "This is the canonical URI for the Uzbekistan birth certificate system"
+
+Instance: uzb-drivers-license
+InstanceOf: NamingSystem
+Description: "Driver's license identifiers assigned by the Uzbekistan Ministry of Internal Affairs"
+Usage: #definition
+* name = "Uzbekistan_Drivers_License_System"
+* status = #active
+* kind = #identifier
+* date = "2025-04-16"
+* publisher = "Uzinfocom"
+* responsible = "Ministry of Internal Affairs of the Republic of Uzbekistan"
+* type = $identifier-type#DL "Driver's license number"
+* description = "Naming system for driver's license identifiers assigned by the Ministry of Internal Affairs of the Republic of Uzbekistan. See https://gov.uz/ru/advice/616/document/2507 for legal justification."
+* jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
+* usage = "Used for identifying individuals through their driver's license numbers within the Uzbekistan transportation system."
+* uniqueId[0].type = #uri
+* uniqueId[=].value = $driverslicense
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "This is the canonical URI for the Uzbekistan driver's license system"
+
+Instance: uzb-diplomatic-passport
+InstanceOf: NamingSystem
+Description: "Diplomatic passport identifiers assigned by the Uzbekistan Ministry of Foreign Affairs"
+Usage: #definition
+* name = "Uzbekistan_Diplomatic_Passport_System"
+* status = #active
+* kind = #identifier
+* date = "2025-04-16"
+* publisher = "Uzinfocom"
+* responsible = "Ministry of Foreign Affairs of the Republic of Uzbekistan"
+* type = $identifier-type#DP "Diplomatic Passport"
+* description = "Naming system for diplomatic passport identifiers assigned by the Ministry of Foreign Affairs of the Republic of Uzbekistan. See http://fmc.uz/legisl.php?id=dippassport and https://www.lex.uz/acts/670451 for legal justification."
+* jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
+* usage = "Used for identifying diplomatic personnel through their diplomatic passport numbers within the Uzbekistan diplomatic system."
+* uniqueId[0].type = #uri
+* uniqueId[=].value = $diplomaticpassport
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "This is the canonical URI for the Uzbekistan diplomatic passport system"
+
+Instance: uzb-health-card-number
+InstanceOf: NamingSystem
+Description: "Health card number identifiers assigned by the Uzbekistan Ministry of Health"
+Usage: #definition
+* name = "Uzbekistan_Health_Card_Number_System"
+* status = #active
+* kind = #identifier
+* date = "2025-04-16"
+* publisher = "Uzinfocom"
+* responsible = "Ministry of Health of the Republic of Uzbekistan"
+* type = $identifier-type#HC "Health card number"
+* description = "Naming system for health card number identifiers assigned by the Ministry of Health of the Republic of Uzbekistan. See https://yuz.uz/ru/news/elektronne-meditsinskie-kart-prosto-sovremenno-i-kachestvenno and http://old.reestr.uz/view/gir?id=909 for legal justification."
+* jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
+* usage = "Used for identifying individuals through their health card numbers within the Uzbekistan healthcare system."
+* uniqueId[0].type = #uri
+* uniqueId[=].value = $healthcardnumber
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "This is the canonical URI for the Uzbekistan health card number system"
+
+Instance: uzb-military-id-number
+InstanceOf: NamingSystem
+Description: "Military ID number identifiers assigned by the Uzbekistan Ministry of Defense"
+Usage: #definition
+* name = "Uzbekistan_Military_ID_Number_System"
+* status = #active
+* kind = #identifier
+* date = "2025-04-16"
+* publisher = "Uzinfocom"
+* responsible = "Ministry of Defense of the Republic of Uzbekistan"
+* type = $identifier-type#MI "Military ID number"
+* description = "Naming system for military ID number identifiers assigned by the Ministry of Defense of the Republic of Uzbekistan. See https://www.lex.uz/acts/249045 for legal justification."
+* jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
+* usage = "Used for identifying military personnel through their military ID numbers within the Uzbekistan defense system."
+* uniqueId[0].type = #uri
+* uniqueId[=].value = $militaryIDnumber
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "This is the canonical URI for the Uzbekistan military ID number system"
+
+Instance: uzb-penitentiary-institution-number
+InstanceOf: NamingSystem
+Description: "Penitentiary institution number identifiers assigned by the Uzbekistan correctional system"
+Usage: #definition
+* name = "Uzbekistan_Penitentiary_Institution_Number_System"
+* status = #active
+* kind = #identifier
+* date = "2025-04-16"
+* publisher = "Uzinfocom"
+* responsible = "TBD - Responsible authority to be determined"
+* type = $identifier-type#PCN "Penitentiary/correctional institution Number"
+* description = "Naming system for penitentiary/correctional institution number identifiers assigned within the Uzbekistan correctional system. Responsible authority and legal justification to be determined."
+* jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
+* usage = "Used for identifying individuals within the Uzbekistan penitentiary/correctional institution system."
+* uniqueId[0].type = #uri
+* uniqueId[=].value = $penitentiaryinstitution
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "This is the canonical URI for the Uzbekistan penitentiary institution number system"
 
 Instance: location-unit
 InstanceOf: NamingSystem
