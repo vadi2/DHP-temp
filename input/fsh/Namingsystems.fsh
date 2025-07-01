@@ -38,6 +38,25 @@ Usage: #definition
 * uniqueId[=].preferred = true
 * uniqueId[=].comment = "This is the canonical URI for the Uzbekistan Tax Authority (Soliq) system"
 
+Instance: uzb-national-unique-id
+InstanceOf: NamingSystem
+Description: "National unique identifiers (PINFL) assigned by the Uzbekistan Personalization Agency"
+Usage: #definition
+* name = "Uzbekistan_National_Unique_ID_System"
+* status = #active
+* kind = #identifier
+* date = "2025-04-16"
+* publisher = "Uzinfocom"
+* responsible = "Personalization Agency under the Ministry of Justice of the Republic of Uzbekistan"
+* type = $identifier-type#NI "National unique individual identifier"
+* description = "Naming system for national unique identifiers (PINFL - Personal Identification Number for Foreign and Local citizens) assigned by the Personalization Agency under the Ministry of Justice of the Republic of Uzbekistan. See https://legal-force.uz/pinfl and https://lex.uz/docs/444922#444943 for more information."
+* jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
+* usage = "Used for uniquely identifying individuals (citizens and residents) within the Uzbekistan national identification system."
+* uniqueId[0].type = #uri
+* uniqueId[=].value = "https://dpm.uz/identifier/nationaluniqueID"
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "This is the canonical URI for the Uzbekistan National Unique ID (PINFL) system"
+
 Instance: location-unit
 InstanceOf: NamingSystem
 Usage: #definition
