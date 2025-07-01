@@ -2,7 +2,7 @@ Profile: DHPSocioeconomicObservation
 Parent: Observation
 Id: dhp-socioeconomic-observation
 Title: "Uzbekistan DHP Socioeconomic Observation"
-Description: "Uzbekistan DHP socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status"
+Description: "Uzbekistan DHP socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status. "
 * ^url = $uri
 * ^experimental = true
 * ^version = "1.0.0"
@@ -15,6 +15,7 @@ Description: "Uzbekistan DHP socioeconomic observation profile, used to represen
 * subject only Reference(DHPPatient)
 
 * code MS
+  * ^short = "Socioeconomic observation type. Education level code is aligned with EE MPI SocialHistory Education Level profile"
 * code.coding ^slicing.discriminator.type = #value
 * code.coding ^slicing.discriminator.path = "system"
 * code.coding ^slicing.rules = #open
