@@ -18,18 +18,35 @@ Description: "Uzbekistan DHP Patient profile, used represent patients administra
 * identifier ^slicing.description = "Ways a practitioner can be identified"
 * identifier ^slicing.ordered = false
 * identifier contains national-id 0..1 MS and
-    // passport 0..1 MS and
-    birthcertificate 0..1 MS
-    // driverslicense 0..1 MS and
-    // diplomaticpassport 0..1 MS and
-    // healthcard 0..1 MS and
-    // militaryID 0..1 MS and
+    passport-local 0..1 MS and
+    passport-international 0..1 MS and
+    birthcertificate 0..1 MS and
+    driverslicense 0..1 MS and
+    diplomaticpassport 0..1 MS and
+    healthcardnumber 0..1 MS and
+    militaryIDnumber 0..1 MS and
     // socialsecurity 0..1 MS and
-    // penitentiaryinstitution 0..1 MS
+    penitentiaryinstitution 0..1 MS
+
+* identifier[passport-local] 
+  * system 1..1 MS
+  * system = $passport-local
+  * type 1..1 MS
+  * type = $identifier-type#PPN "Passport number"
+  * use = #official
+  * value 1..1 MS
+
+* identifier[passport-international]
+  * system 1..1 MS
+  * system = $passport-international
+  * type 1..1 MS
+  * type = $identifier-type#PPN "Passport number"
+  * use = #official
+  * value 1..1 MS
 
 * identifier[national-id]
   * system 1..1 MS
-  * system = $organisation-dpm-id-system
+  * system = $nationaluniqueID
   * type 1..1 MS
   * type = $identifier-type#NI "National unique individual identifier"
   * use = #official
@@ -37,9 +54,49 @@ Description: "Uzbekistan DHP Patient profile, used represent patients administra
 
 * identifier[birthcertificate]
   * system 1..1 MS
-  * system = $adliya
+  * system = $birthcertificate
   * type 1..1 MS
   * type = $identifier-type#BR "Birth registry number"
+  * use = #official
+  * value 1..1 MS
+
+* identifier[driverslicense]
+  * system 1..1 MS
+  * system = $driverslicense
+  * type 1..1 MS
+  * type = $identifier-type#DL "Driver's license number"
+  * use = #official
+  * value 1..1 MS
+
+* identifier[diplomaticpassport]
+  * system 1..1 MS
+  * system = $diplomaticpassport
+  * type 1..1 MS
+  * type = $identifier-type#DP "Diplomatic Passport"
+  * use = #official
+  * value 1..1 MS
+
+* identifier[healthcardnumber]
+  * system 1..1 MS
+  * system = $healthcardnumber
+  * type 1..1 MS
+  * type = $identifier-type#HC "Health card number"
+  * use = #official
+  * value 1..1 MS
+
+* identifier[militaryIDnumber]
+  * system 1..1 MS
+  * system = $militaryIDnumber
+  * type 1..1 MS
+  * type = $identifier-type#MI "Military ID number"
+  * use = #official
+  * value 1..1 MS
+
+* identifier[penitentiaryinstitution]
+  * system 1..1 MS
+  * system = $penitentiaryinstitution
+  * type 1..1 MS
+  * type = $identifier-type#PCN "Penitentiary/correctional institution Number"
   * use = #official
   * value 1..1 MS
 
@@ -60,8 +117,8 @@ InstanceOf: DHPPatient
 Description: "Example of a patient named Salim"
 Usage: #example
 * language = #ru
-// * identifier[national-id]
-//   * value = "30211975910033"
+* identifier[national-id]
+  * value = "30211975910033"
 * active = true
 * name
   * use = #usual
@@ -97,8 +154,8 @@ InstanceOf: DHPPatient
 Description: "Example of a patient named David"
 Usage: #example
 * language = #ru
-// * identifier[national-id]
-//   * value = "AG1141110" // TODO fix me, this seems to be a drivers identifier
+* identifier[driverslicense]
+  * value = "AG1141110" // TODO fix me, this seems to be a drivers identifier
 * active = false
 * name
   * use = #anonymous
