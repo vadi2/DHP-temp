@@ -8,11 +8,11 @@ Current priority is on completing the core resource profiles first to enable the
 
 *\<to be filled in\>*
 
-## Background
+## Project background
 
 *\<to be filled in\>*
 
-## Scope
+## Areas of coverage
 
 *\<to be filled in\>*
 
