@@ -5,7 +5,7 @@
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: dhp
 canonical: http://medcore.uz
-name: DHP-temp
+name: DHP
 title: Digital Health Platform
 description: DHP implementation guide for Uzbekistan using FHIR R5.
 status: draft # draft | active | retired | unknown
