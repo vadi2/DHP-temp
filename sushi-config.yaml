@@ -20,13 +20,9 @@ publisher:
   url: https://uzinfocom.uz
   email: info@uzinfocom.uz
 
-# The dependencies property corresponds to IG.dependsOn. The key is the
-# package id and the value is the version (or dev/current). For advanced
-# use cases, the value can be an object with keys for id, uri, and version.
-#
-# dependencies:
 
-# the folloowing are for offline use only
+# dependencies:
+# the following are for offline use only
 #  hl7.fhir.uv.tools.r5: 5.2.0
 #  hl7.terminology.r5: 5.2.0
 #  hl7.fhir.uv.extensions.r5: 5.2.0
@@ -64,6 +60,8 @@ publisher:
 #
 parameters:
   special-url-base: https://terminology.medcore.uz
+  excludettl: true
+  shownav: true
 
   pin-canonicals: pin-all
   # openehr: true
