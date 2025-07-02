@@ -9,7 +9,7 @@ Description: "Provenance Entity Role supplement with translations"
 * ^version = "5.0.0"
 * ^language = #en
 * #source
-* ^designation[+].language = #ru
+  * ^designation[0].language = #ru
   * ^designation[=].value = "источник"
   * ^designation[+].language = #uz
   * ^designation[=].value = "manba"

@@ -52,7 +52,8 @@ def process_fsh_file(file_path, output_dir):
     else:
         # Method 2: Check for line-by-line designation syntax
         print(f"Info: 'include' syntax not found. Checking for line-by-line syntax in {file_path.name}.")
-        line_by_line_matches = re.findall(r"^\*\s*\$([^#\s]+)#(\S+)\s*(.*)", content, re.MULTILINE)
+        # This regex is more specific to correctly capture the optional designation part.
+        line_by_line_matches = re.findall(r"^\*\s*\$([^#\s]+)#(\S+)(?:\s+(\^.*))?", content, re.MULTILINE)
 
         if not line_by_line_matches:
             print(f"Skipping {file_path.name}: No 'include' or line-by-line designations found.")
@@ -62,7 +63,7 @@ def process_fsh_file(file_path, output_dir):
         grouped_designations = defaultdict(list)
 
         for system, code, designation_part in line_by_line_matches:
-            if designation_part.strip():
+            if designation_part and designation_part.strip():
                 # Reformat the designation part to be a standalone line for the CS
                 # e.g., from "^designation[=].value = ..." to "  * ^designation[=].value = ..."
                 reformatted_line = f"  * {designation_part.strip()}"
