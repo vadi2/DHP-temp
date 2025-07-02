@@ -1,0 +1,119 @@
+{
+  "id" : "ValueSet-consent-state-codes-vs",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "ValueSet.name",
+          "context" : "A natural language name identifying the value set. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "ConsentStateCodesVS",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.title",
+          "context" : "A short, descriptive, user-friendly title for the value set.",
+          "source" : "Consent State Codes",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the value set.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.description",
+          "context" : "A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.",
+          "source" : "Defines the consent state codes in Uzbek and Russian",
+          "target" : null
+        },
+        {
+          "id" : "Coding.display",
+          "context" : "A representation of the meaning of the code in the system, following the rules of the system.",
+          "source" : "Uzbekistan",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ожидание",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kutilmoqda",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Активно",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Faol",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Неактивно",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Faol emas",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Отказано",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tashlab ketilgan",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Введено по ошибке",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Xatoda kiritilgan",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Неизвестно",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Noma'lum",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

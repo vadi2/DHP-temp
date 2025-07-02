@@ -1,0 +1,121 @@
+
+# A natural language name identifying the value set. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: ValueSet.name
+msgid "SecurityLabelVS"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the value set.
+#: ValueSet.title
+msgid "Security label"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the value set.
+#: ValueSet.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.
+#: ValueSet.description
+msgid "Defines security label (`AuditEvent.entity.securityLabel`) in Uzbek and Russian"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Uzbekistan"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "нормальный"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "normal"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "ограниченный"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "cheklangan"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "чувствительность информации о злоупотреблении психоактивными веществами"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "giyohvand moddalarni suiiste'mol qilish haqidagi ma'lumotlarning sezgirligi"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "психиатрия расстройство информационная чувствительность"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "psixiatriya buzilishi ma'lumotlarga sezgirlik"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "чувствительность информации о заболеваниях, передающихся половым путем"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "jinsiy yo'l bilan yuqadigan kasalliklar haqida ma'lumotlarning sezgirligi"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "не разглашать без разрешения субъекта"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "sub'ektning ruxsatisiz oshkor qilmang"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "нет повторного раскрытия без директивы согласия"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "roziligisiz qayta oshkor qilish yo'q"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "уход"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "g'amxo'rlik"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Экстренная помощь"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Favqulodda yordam"
+msgstr ""
+
