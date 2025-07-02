@@ -2,7 +2,7 @@ CodeSystem: LicenseCertificateCS
 Id: license-certificate-cs
 Title: "License, certificate, degree translations"
 Description: "License, certificate, degree supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/license-certificate-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/license-certificate-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $qualification-codes

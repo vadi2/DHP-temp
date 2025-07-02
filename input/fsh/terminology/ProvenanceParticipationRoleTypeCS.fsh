@@ -2,7 +2,7 @@ CodeSystem: ProvenanceParticipationRoleTypeCS
 Id: provenance-participation-role-type-cs
 Title: "Provenance Participation Role Type translations"
 Description: "Provenance Participation Role Type supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/provenance-participation-role-type-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/provenance-participation-role-type-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $provenance-participant-type

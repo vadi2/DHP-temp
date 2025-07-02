@@ -2,7 +2,7 @@ CodeSystem: AuditEventTypeCS
 Id: audit-event-type-cs
 Title: "Audit event type translations"
 Description: "Audit event type supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/audit-event-type-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/audit-event-type-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $dicom-dcm

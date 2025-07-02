@@ -1,12 +1,12 @@
-CodeSystem: ConsentPurposeOfUseCS
-Id: consent-purpose-of-use-cs
-Title: "Consent purpose of use translations"
-Description: "Consent purpose of use supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/consent-purpose-of-use-vs"
+CodeSystem: ActReasonCS
+Id: actreason-cs
+Title: "Act reason translations"
+Description: "Act reason supplement with translations"
+* ^url = "https://terminology.medcore.uz/CodeSystem/ActReason-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3-ActReason
-* ^version = "5.0.0"
+* ^version = "2.1.0"
 * ^language = #en
 * #RECORDMGT
   * ^designation[0].language = #ru

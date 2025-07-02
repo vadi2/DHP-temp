@@ -5,7 +5,7 @@ Description: "Defines the purposes of use for consent"
 * ^url = "https://terminology.medcore.uz/ValueSet/consent-purpose-of-use-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
-* ^extension[=].valueCanonical = Canonical(ConsentPurposeOfUseCS)
-* ^version = "5.0.0"
+* ^extension[=].valueCanonical = Canonical(ActReasonCS)
+* ^version = "2.0.0"
 
 * include $v3-ActReason#RECORDMGT

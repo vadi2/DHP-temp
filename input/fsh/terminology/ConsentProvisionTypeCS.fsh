@@ -2,7 +2,7 @@ CodeSystem: ConsentProvisionTypeCS
 Id: consent-provision-type-cs
 Title: "Consent provision type translations"
 Description: "Consent provision type supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/consent-provision-type-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/consent-provision-type-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $consent-provision-type

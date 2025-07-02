@@ -2,7 +2,7 @@ CodeSystem: NameUseCS
 Id: name-use-cs
 Title: "possible name uses translations"
 Description: "Types of possible name uses supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/name-use-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/name-use-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $name-use

@@ -2,7 +2,7 @@ CodeSystem: IdentifierUseCS
 Id: identifier-use-cs
 Title: "possible identifier uses translations"
 Description: "Types of possible identifier uses supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/identifier-use-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/identifier-use-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $identifier-use

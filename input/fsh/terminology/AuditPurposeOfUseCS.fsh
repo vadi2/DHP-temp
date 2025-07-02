@@ -2,7 +2,7 @@ CodeSystem: AuditPurposeOfUseCS
 Id: audit-purpose-of-use-cs
 Title: "Purpose of use translations"
 Description: "Purpose of use supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/audit-purpose-of-use-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/audit-purpose-of-use-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3-ActReason

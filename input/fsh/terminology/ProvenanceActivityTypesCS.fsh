@@ -2,7 +2,7 @@ CodeSystem: ProvenanceActivityTypesCS
 Id: provenance-activity-types-cs
 Title: "Provenance Activity Types translations"
 Description: "Provenance Activity Types supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/provenance-activity-types-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/provenance-activity-types-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3-DocumentCompletion

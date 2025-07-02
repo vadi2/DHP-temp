@@ -2,7 +2,7 @@ CodeSystem: ConsentStateCodesCS
 Id: consent-state-codes-cs
 Title: "Consent State Codes translations"
 Description: "Consent State Codes supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/consent-state-codes-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/consent-state-codes-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $consent-state-codes

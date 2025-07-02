@@ -2,7 +2,7 @@ CodeSystem: AuditEventActionCS
 Id: audit-event-action-cs
 Title: "Audit event action translations"
 Description: "Audit event action supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/audit-event-action-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/audit-event-action-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $audit-event-action

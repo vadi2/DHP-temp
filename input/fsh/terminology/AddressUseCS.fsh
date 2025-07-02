@@ -2,7 +2,7 @@ CodeSystem: AddressUseCS
 Id: address-use-cs
 Title: "address registration translations"
 Description: "Types of address registration supplement with translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/address-use-vs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/address-use-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $address-use
