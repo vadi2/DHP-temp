@@ -40,6 +40,7 @@ def process_fsh_file(file_path, output_dir):
     # --- 2. Extract Code System and Designations (handles two syntaxes) ---
     base_system = None
     cs_designations_list = []
+    all_unique_codes = [] # <<< CHANGE: List to store codes for extensional ValueSet
 
     # Method 1: Check for "include" syntax
     include_blocks_raw = re.findall(r"\*\s*include\s*\$(.*?)\#(\S+)\n((?:[\t ]*\*\s*\^designation.*?\n)*)", content)
@@ -48,6 +49,9 @@ def process_fsh_file(file_path, output_dir):
         print(f"Info: Found 'include' syntax in {file_path.name}.")
         base_system = include_blocks_raw[0][0]
         for _, code, designation_block in include_blocks_raw:
+            # <<< CHANGE: Populate the list of unique codes
+            if code not in all_unique_codes:
+                all_unique_codes.append(code)
             cs_designations_list.append(f"* #{code}\n{designation_block.strip()}")
     else:
         # Method 2: Check for line-by-line designation syntax
@@ -63,23 +67,22 @@ def process_fsh_file(file_path, output_dir):
         grouped_designations = defaultdict(list)
 
         for system, code, designation_part in line_by_line_matches:
+            # <<< CHANGE: Populate the list of unique codes
+            if code not in all_unique_codes:
+                all_unique_codes.append(code)
+            
             if designation_part and designation_part.strip():
                 # Reformat the designation part to be a standalone line for the CS
                 # e.g., from "^designation[=].value = ..." to "  * ^designation[=].value = ..."
                 reformatted_line = f"  * {designation_part.strip()}"
                 grouped_designations[code].append(reformatted_line)
         
-        # Get all unique codes in the order they appear to maintain structure
-        unique_codes_in_order = []
-        for _, code, _ in line_by_line_matches:
-            if code not in unique_codes_in_order:
-                unique_codes_in_order.append(code)
-
-        for code in unique_codes_in_order:
+        # The script previously built a unique_codes_in_order list here.
+        # We now use the `all_unique_codes` list created above for the same purpose.
+        for code in all_unique_codes:
             if code in grouped_designations:
                 designation_block = "\n".join(grouped_designations[code])
                 cs_designations_list.append(f"* #{code}\n{designation_block}")
-
 
     if not base_system:
          print(f"Skipping {file_path.name}: Could not determine a base system.")
@@ -108,6 +111,9 @@ Description: "{vs_title.replace("Defines the types of", "").strip()} supplement 
     new_vs_name = vs_name
     other_metadata = re.findall(r"(\*\s*\^experimental.*)", content)
     
+    # <<< CHANGE: Build the extensional include lines
+    vs_include_lines = "\n".join([f"* include ${base_system}#{code}" for code in all_unique_codes])
+    
     vs_content = f"""ValueSet: {new_vs_name}
 Id: {vs_id}
 Title: "{vs_title}"
@@ -118,7 +124,7 @@ Description: "{vs_description}"
 * ^extension[=].valueCanonical = Canonical({cs_name})
 * ^version = "5.0.0"
 
-* include codes from system ${base_system}
+{vs_include_lines}
 """
 
     # --- 5. Write the new files ---
