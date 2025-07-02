@@ -1,7 +1,7 @@
 ValueSet: AuditPurposeOfUseVS
 Id: audit-purpose-of-use-vs
 Title: "Purpose of use"
-Description: "Defines agent's the purpose of use (`AuditEvent.agent.authorization`) in Uzbek and Russian"
+Description: "Defines agent's the purpose of use in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/audit-purpose-of-use-vs"
 * ^language = #uz

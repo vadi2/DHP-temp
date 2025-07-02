@@ -1,7 +1,7 @@
 ValueSet: AuditEventActionVS
 Id: audit-event-action-vs
 Title: "Audit event action"
-Description: "Defines audit event action (`AuditEvent.action`) that is being recorded in Uzbek and Russian"
+Description: "Defines audit event action that is being recorded in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/audit-event-action-vs"
 * ^language = #uz

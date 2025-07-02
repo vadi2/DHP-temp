@@ -1,7 +1,7 @@
 ValueSet: AuditEventTypeVS
 Id: audit-event-type-vs
 Title: "Audit event type"
-Description: "Defines the type of event (`AuditEvent.code`) that is being recorded in Uzbek and Russian"
+Description: "Defines the type of event that is being recorded in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/audit-event-type-vs"
 * ^language = #uz

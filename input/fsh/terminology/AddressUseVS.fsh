@@ -1,7 +1,7 @@
 ValueSet: AddressUseVS
 Id: address-use-vs
 Title: "Types of address registration"
-Description: "Defines type of address registration (`use`) in Uzbek and Russian"
+Description: "Defines type of address registration in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/ValueSet/address-use-vs"
 * ^experimental = true
 * include $address-use#home

@@ -1,7 +1,7 @@
 ValueSet: SecurityRoleTypeVS
 Id: security-role-type-vs
 Title: "Security role type"
-Description: "Defines the role of the participant (`AuditEvent.agent.role`) that is being recorded in Uzbek and Russian"
+Description: "Defines the role of the participant that is being recorded in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/security-role-type-vs"
 * ^language = #uz

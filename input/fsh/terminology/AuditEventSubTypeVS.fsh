@@ -1,7 +1,7 @@
 ValueSet: AuditEventSubTypeVS
 Id: audit-event-subtype-vs
 Title: "Audit event subtype"
-Description: "Defines the subtype of event (`AuditEvent.category`) that is being recorded in Uzbek and Russian"
+Description: "Defines the subtype of event that is being recorded in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/audit-event-subtype-vs"
 * ^language = #uz

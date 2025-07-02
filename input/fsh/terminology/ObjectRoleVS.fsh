@@ -1,7 +1,7 @@
 ValueSet: ObjectRoleVS
 Id: object-role-vs
 Title: "Object role"
-Description: "Defines object's role (`AuditEvent.entity.role`) in Uzbek and Russian"
+Description: "Defines object's role in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/object-role-vs"
 * ^language = #uz

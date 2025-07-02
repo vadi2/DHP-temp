@@ -1,7 +1,7 @@
 ValueSet: SecurityLabelVS
 Id: security-label-vs
 Title: "Security label"
-Description: "Defines security label (`AuditEvent.entity.securityLabel`) in Uzbek and Russian"
+Description: "Defines security label in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/security-label-vs"
 * ^language = #uz

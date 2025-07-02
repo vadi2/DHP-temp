@@ -1,7 +1,7 @@
 ValueSet: ProvenanceParticipationRoleTypeVS
 Id: provenance-participation-role-type-vs
 Title: "Provenance Participation Role Type"
-Description: "Defines how the participant participated (`Provenance.agent.type`) in Uzbek and Russian"
+Description: "Defines how the participant participated in Uzbek and Russian"
 * ^experimental = true
 * ^language = #en
 * $provenance-participant-type#legal

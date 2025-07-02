@@ -1,7 +1,7 @@
 ValueSet: AuditParticipationRoleTypeVS
 Id: audit-participation-role-type-vs
 Title: "Audit event role type"
-Description: "Defines how the participant participated (`AuditEvent.agent.type`) in Uzbek and Russian"
+Description: "Defines how the participant participated in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/audit-participation-role-type-vs"
 * ^language = #uz

@@ -1,7 +1,7 @@
 ValueSet: AuditEventOutcomeVS
 Id: audit-event-outcome-vs
 Title: "Audit event outcome"
-Description: "Defines the outcome of the event (`AuditEvent.outcome.code`) that is being recorded in Uzbek and Russian"
+Description: "Defines the outcome of the event that is being recorded in Uzbek and Russian"
 * ^experimental = true
 * ^url = "https://terminology.medcore.uz/ValueSet/audit-event-outcome-vs"
 * ^language = #uz
