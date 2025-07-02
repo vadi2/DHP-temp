@@ -56,7 +56,7 @@ Description: "Uzbekistan DHP Patient profile, used represent patients administra
   * system 1..1 MS
   * system = $birthcertificate
   * type 1..1 MS
-  * type = $identifier-type#BR "Birth registry number"
+  * type = $identifier-type#BCT "Birth Certificate"
   * use = #official
   * value 1..1 MS
 

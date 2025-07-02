@@ -105,7 +105,7 @@ Usage: #definition
 * date = "2025-04-16"
 * publisher = "Uzinfocom"
 * responsible = "Personalization Agency under the Ministry of Justice of the Republic of Uzbekistan"
-* type = $identifier-type#BR "Birth registry number"
+* type = $identifier-type#BCT "Birth Certificate"
 * description = "Naming system for birth certificate identifiers assigned by the Personalization Agency under the Ministry of Justice of the Republic of Uzbekistan. See https://gov.uz/ru/advice/58/document/1444 for legal justification."
 * jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
 * usage = "Used for identifying individuals through their birth certificate numbers within the Uzbekistan civil registration system."
