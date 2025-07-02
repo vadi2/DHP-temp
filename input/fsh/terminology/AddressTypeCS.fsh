@@ -6,6 +6,7 @@ Description: "Address type supplement with Uzbek and Russian translations"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $address-type
+* ^version = "5.0.0"
 * ^language = #en
 * #postal
   * ^designation[0].language = #ru
