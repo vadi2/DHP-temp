@@ -120,21 +120,21 @@ Usage: #example
 * identifier[national-id]
   * value = "30211975910033"
 * identifier[passport-local]
-  * value = "123456"
+  * value = "AC1234567"
 * identifier[passport-international]
-  * value = "123456"
+  * value = "AA1234567"
 * identifier[birthcertificate]
-  * value = "123456"
+  * value = "I-МЯ №123456"
 * identifier[driverslicense]
-  * value = "123456"
+  * value = "AAA123456"
 * identifier[diplomaticpassport]
-  * value = "123456"
+  * value = "D1234567"
 * identifier[healthcard]
-  * value = "123456"
+  * value = "01234567890123"
 * identifier[militaryID]
-  * value = "123456"
+  * value = "ВБ1234567"
 * identifier[penitentiaryinstitution]
-  * value = "123456"
+  * value = "УИН123456789012"
 * active = true
 * name
   * use = #usual
