@@ -88,7 +88,7 @@ Description: "Types of benefits in Uzbekistan"
   * ^designation[=].value = "Лица, страдающие онкологическими заболеваниями по перечню, утверждаемому Министерством здравоохранения Республики Узбекистан"
   * ^designation[+].language = #en
   * ^designation[=].value = "Persons suffering from oncological diseases on the list approved by the Ministry of Health of the Republic of Uzbekistan"
-* #regis0004.00017 "Dasturli gemodializ oluvchi bemorlar."
+* #regis0004.00017 "Dasturli gemodializ oluvchi bemorlar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Пациенты, проходящие гемодиализ"
   * ^designation[+].language = #en
@@ -98,7 +98,7 @@ Description: "Types of benefits in Uzbekistan"
   * ^designation[=].value = "Семьи погибших и умерших военнослужащих и работников, погибших и умерших в период действия чрезвычайного положения, объявленного Президентом Республики Узбекистан, а также в период ведения боевых (военных) действий, в результате ранения, контузии или увечья, супруги (супруги, находившиеся в законном браке в момент гибели или умерщвления, а также дети)."
   * ^designation[+].language = #en
   * ^designation[=].value = "Families of soldiers and workers killed or died during the state of emergency declared by the President of the Republic of Uzbekistan, as well as during combat (military) operations, as a result of injury, contusion or injury, spouses (spouses who were legally married at the time of death or death, and children)."
-* #regis0004.00019 "Bemor tibbiyot xodimlari"
+* #regis0004.00019 "Tibbiyot xodimlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Медицинские работники"
   * ^designation[+].language = #en

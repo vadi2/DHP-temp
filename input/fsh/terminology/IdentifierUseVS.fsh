@@ -18,7 +18,7 @@ Description: "Defines the `use` of an identifier in Uzbek and Russian"
   * ^designation[0].language = #ru
   * ^designation[=].value = "временный"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "temp"
+  * ^designation[=].value = "vaqtincha"
 * include $identifier-use#secondary
   * ^designation[0].language = #ru
   * ^designation[=].value = "вторичный"

@@ -57,7 +57,7 @@ Description: "Defines identifier `type`s in Uzbek and Russian"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Номер медицинской лицензии"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Nomer meditsinskiy litsenziyasi"
+  * ^designation[=].value = "Tibbiy litsenziya raqami"
 
 * include $identifier-type#EN
   * ^designation[0].language = #ru

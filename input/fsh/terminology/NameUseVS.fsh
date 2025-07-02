@@ -18,7 +18,7 @@ Description: "Defines the different uses of a name in Uzbek and Russian"
   * ^designation[0].language = #ru
   * ^designation[=].value = "временный"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "temp"
+  * ^designation[=].value = "vaqtincha"
 * include $name-use#nickname
   * ^designation[0].language = #ru
   * ^designation[=].value = "прозвище"
@@ -38,4 +38,4 @@ Description: "Defines the different uses of a name in Uzbek and Russian"
   * ^designation[0].language = #ru
   * ^designation[=].value = "девичий"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "qiz"
+  * ^designation[=].value = "qizlikdagi ismi"
