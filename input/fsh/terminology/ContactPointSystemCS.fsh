@@ -1,7 +1,7 @@
 CodeSystem: ContactPointSystemCS
 Id: contact-point-system-cs
 Title: "possible contact points translations"
-Description: "Types of possible contact points supplement with translations"
+Description: "Types of possible contact points supplement with translations in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/CodeSystem/contact-point-system-cs"
 * ^experimental = true
 * ^content = #supplement

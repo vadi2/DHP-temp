@@ -1,7 +1,7 @@
 CodeSystem: ActCodeCS
 Id: actcode-cs
 Title: "Act code translations"
-Description: "Act code supplement with translations"
+Description: "Act code supplement with translations in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/CodeSystem/actcode-cs"
 * ^experimental = true
 * ^content = #supplement

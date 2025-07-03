@@ -1,7 +1,7 @@
 CodeSystem: AddressUseCS
 Id: address-use-cs
 Title: "address registration translations"
-Description: "Types of address registration supplement with translations"
+Description: "Types of address registration supplement with translations in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/CodeSystem/address-use-cs"
 * ^experimental = true
 * ^content = #supplement

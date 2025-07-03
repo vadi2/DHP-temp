@@ -97,7 +97,7 @@ def process_fsh_file(file_path, output_dir):
     cs_content = f"""CodeSystem: {cs_name}
 Id: {cs_id}
 Title: "{vs_title.replace("Types of", "").strip()} translations"
-Description: "{vs_title.replace("Defines the types of", "").strip()} supplement with translations"
+Description: "{vs_title.replace("Defines the types of", "").strip()} supplement with translations in Uzbek and Russian"
 * ^url = "{cs_url}"
 * ^experimental = true
 * ^content = #supplement

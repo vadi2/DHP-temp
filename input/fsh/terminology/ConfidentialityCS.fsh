@@ -1,7 +1,7 @@
 CodeSystem: ConfidentialityCS
 Id: confidentiality-cs
 Title: "Confidentiality translations"
-Description: "Confidentiality supplement with translations"
+Description: "Confidentiality supplement with translations in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/CodeSystem/confidentiality-cs"
 * ^experimental = true
 * ^content = #supplement

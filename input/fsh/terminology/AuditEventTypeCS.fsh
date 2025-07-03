@@ -1,7 +1,7 @@
 CodeSystem: AuditEventTypeCS
 Id: audit-event-type-cs
 Title: "Audit event type translations"
-Description: "Audit event type supplement with translations"
+Description: "Audit event type supplement with translations in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/CodeSystem/audit-event-type-cs"
 * ^experimental = true
 * ^content = #supplement

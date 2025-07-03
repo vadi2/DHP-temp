@@ -1,7 +1,7 @@
 CodeSystem: ConsentStateCodesCS
 Id: consent-state-codes-cs
 Title: "Consent State Codes translations"
-Description: "Consent State Codes supplement with translations"
+Description: "Consent State Codes supplement with translations in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/CodeSystem/consent-state-codes-cs"
 * ^experimental = true
 * ^content = #supplement
