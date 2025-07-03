@@ -6,6 +6,8 @@ Description: "Defines the subtype of event that is being recorded in Uzbek and R
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(HttpInteractionCS)
+* ^extension[+].url = $valueset-supplement
+* ^extension[=].valueCanonical = Canonical(DicomDCMCS)
 * ^version = "5.0.0"
 
 * include $http-interaction#read
@@ -13,3 +15,6 @@ Description: "Defines the subtype of event that is being recorded in Uzbek and R
 * include $http-interaction#create
 * include $http-interaction#delete
 * include $http-interaction#search
+
+* include $dicom-dcm#110122
+* include $dicom-dcm#110123
