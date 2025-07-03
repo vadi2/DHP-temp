@@ -23,7 +23,7 @@ Description: "Uzbekistan DHP Location profile, used to define locations of healt
   * system 1..1 MS
   * system = $location-unit
   * type 1..1 MS
-  * type from IdentifierTypeVS (required)
+  * type from LocationKindsVS (required)
   * use = #official
   * value 1..1 MS
 
