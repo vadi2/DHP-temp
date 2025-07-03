@@ -13,8 +13,8 @@ Description: "Defines security label in Uzbek and Russian"
 * include $v3-ActCode#ETH
 * include $v3-ActCode#PSY
 * include $v3-ActCode#STD
-* include $v3-ActCode#TREAT
-* include $v3-ActCode#ETREAT
+* include $v3-ActReason#TREAT
+* include $v3-ActReason#ETREAT
 * include $v3-ActCode#NOAUTH
 * include $v3-ActCode#NORDSCLCD
 

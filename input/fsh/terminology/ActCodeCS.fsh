@@ -23,16 +23,6 @@ Description: "Act code supplement with translations"
   * ^designation[=].value = "чувствительность информации о заболеваниях, передающихся половым путем"
   * ^designation[+].language = #uz
   * ^designation[=].value = "jinsiy yo'l bilan yuqadigan kasalliklar haqida ma'lumotlarning sezgirligi"
-* #TREAT
-  * ^designation[0].language = #ru
-  * ^designation[=].value = "уход"
-  * ^designation[+].language = #uz
-  * ^designation[=].value = "g'amxo'rlik"
-* #ETREAT
-  * ^designation[0].language = #ru
-  * ^designation[=].value = "Экстренная помощь"
-  * ^designation[+].language = #uz
-  * ^designation[=].value = "Favqulodda yordam"
 * #NOAUTH
   * ^designation[0].language = #ru
   * ^designation[=].value = "не разглашать без разрешения субъекта"
