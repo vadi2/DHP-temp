@@ -30,7 +30,7 @@ Description: "Uzbekistan Core socioeconomic observation profile, used to represe
 
 * value[x] only CodeableConcept
 * value[x] from BenefitsVS (example)
-  * ^short = "One of the sample valuesets that can be used. For all others, see below:"
+  * ^short = "One of the sample valuesets that can be used is BenefitsVS. For all others, see the table:"
   * ^binding.additional[+].purpose = #required
   * ^binding.additional[=].valueSet = Canonical(BenefitsVS)
   * ^binding.additional[=].usage.code = $uri#Observation.code
