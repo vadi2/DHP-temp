@@ -9,7 +9,7 @@ Description: "Uzbekistan DHP Patient profile, used represent patients administra
 * ^date = "2025-06-11"
 * ^publisher = "Uzinfocom"
 
-* identifier MS
+* identifier 1..* MS
 * identifier.use from IdentifierUseVS (required)
 * identifier.type from IdentifierTypeVS (required)
 * identifier ^slicing.discriminator.type = #value
