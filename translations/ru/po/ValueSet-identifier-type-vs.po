@@ -1,0 +1,181 @@
+
+# A natural language name identifying the value set. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: ValueSet.name
+msgid "IdentifierTypeVS"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the value set.
+#: ValueSet.title
+msgid "Types of possible identifiers"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the value set.
+#: ValueSet.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.
+#: ValueSet.description
+msgid "Defines identifier `type`s in Uzbek and Russian"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Uzbekistan"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "ПИНФЛ"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "JShShIR"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Серия и номер паспорта"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Seriya va pasport raqami"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Серия и номер свидетельства о рождении"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Tug'ilganlik haqidagi guvohnomaning seriyasi va raqami"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Серия и номер водительского удостоверения"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Haydovchilik guvohnomasi seriyasi va raqami"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Серия и номер дипломатического паспорта"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Diplomatik pasport seriyasi va raqami"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Номер медицинской карты"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Tibbiy karta raqami"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Серия и номер военного билета"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Harbiy guvohnomaning seriyasi va raqami"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Номер, присваиваемый человеку, находящемуся в заключении"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Qamoqqa olingan shaxsga berilgan raqam"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Номер медицинской лицензии"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Nomer meditsinskiy litsenziyasi"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Номер работодателя"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Ish beruvchi raqami"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Налоговый идентификационный номер"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Soliq identifikatsiya raqami"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Регистрационный номер донора"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Donorning ro'yxatga olish raqami"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Идентификатор доступа"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Kirish identifikatori"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Универсальный идентификатор устройства"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Universal qurilma identifikatori"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Номер свидетельства о рождении"
+msgstr ""
+
+# The text value for this designation.
+#: ValueSet.compose.include.concept.designation.value
+msgid "Tug'ilganlik haqidagi guvohnoma raqami"
+msgstr ""
+

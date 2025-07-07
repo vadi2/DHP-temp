@@ -1,0 +1,3035 @@
+{
+  "id" : "ValueSet-iso-3166-2-uz-vs",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "ValueSet.name",
+          "context" : "A natural language name identifying the value set. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "ISO3166_2_UZ",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.title",
+          "context" : "A short, descriptive, user-friendly title for the value set.",
+          "source" : "ISO 3166 2 character codes in Uzbek and Russian",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the value set.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.description",
+          "context" : "A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.",
+          "source" : "Defines Uzbek and Russian translations for ISO 3166 2 character codes",
+          "target" : null
+        },
+        {
+          "id" : "Coding.display",
+          "context" : "A representation of the meaning of the code in the system, following the rules of the system.",
+          "source" : "Uzbekistan",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Андорра",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Andorra",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Объединенные Арабские Эмираты",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Birlashgan Arab Amirliklari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Афганистан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Afg'oniston",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Антигуа и Барбуда",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Antigua va Barbuda",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ангилья",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Anguilla",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Албания",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Albaniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Армения",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Armaniston",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ангола",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Angola",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Антарктида",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Antarktida",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Аргентина",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Argentina",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Американское Самоа",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Amerika Samoasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Австрия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Avstriya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Австралия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Avstraliya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Аруба",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Aruba",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Эландские острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Eland orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Азербайджан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ozarbayjon",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Босния и Герцеговина",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Bosniya va Gertsegovina",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Барбадос",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Barbados",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Бангладеш",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Bangladesh",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Бельгия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Belgiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Буркина-Фасо",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Burkina-Faso",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Болгария",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Bolgariya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Бахрейн",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Bahrayn",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Бурунди",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Burundi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Бенин",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Benin",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сен-Бартелеми",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sent-Bartilemi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Бермудские острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Bermud orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Бруней-Даруссалам",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Bruney Darussalam",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Боливия, Многонациональное Государство",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Boliviya, Ko'p millatli davlat",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Бонайре, Синт-Эстатиус и Саба",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Bonaire, Sint Eustatius va Saba",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Бразилия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Braziliya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Багамы",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Bagama orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Бутан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Butan",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Остров Буве",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Buvet oroli",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ботсвана",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Botsvana",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Беларусь",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Belarusiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Белиз",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Beliz",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Канада",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kanada",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Кокосовые (Килинг) острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kokos (Kiling) orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Конго, Демократическая Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kongo, Demokratik Respublikasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Центральноафриканская Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Markaziy Afrika Respublikasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Конго",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kongo",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Швейцария",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Shveytsariya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Кот-д'Ивуар",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kot-d'Ivuar",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острова Кука",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kuk orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Чили",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Chili",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Камерун",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kamerun",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Китай",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Xitoy",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Колумбия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kolumbiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Коста-Рика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kosta-Rika",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Куба",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kuba",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Кабо-Верде",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kabo Verde",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Кюрагао",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kuragao",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Остров Рождества",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Rojdestvo oroli",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Кипр",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kipr",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Чехия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Chexiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Германия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Germaniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Джибути",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Jibuti",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Дания",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Daniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Доминика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Dominika",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Доминиканская Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Dominika Respublikasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Алжир",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Jazoir",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Эквадор",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ekvador",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Эстония",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Estoniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Египет",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Misr",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Западная Сахара",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "G'arbiy Sahara",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Эритрея",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Eritreya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Испания",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ispaniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Эфиопия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Efiopiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Финляндия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Finlyandiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Фиджи",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Fiji",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Фолклендские (Мальвинские) острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Folklend orollari (Malvin orollari)",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Микронезия, Федеративные Штаты",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mikroneziya, Federatsiya shtatlari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Фарерские острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Farer orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Франция",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Fransiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Габон",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gabon",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Великобритания",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Birlashgan Qirollik",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гренада",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Grenada",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Грузия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gruziya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Французская Гвиана",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Fransuz Gvianasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гернси",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gernsi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гана",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gana",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гибралтар",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gibraltar",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гренландия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Grenlandiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гамбия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gambiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гвинея",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gvineya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гваделупа",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gvadelupa",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Экваториальная Гвинея",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ekvatorial Gvineya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Греция",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gretsiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Южная Георгия и Южные Сандвичевы острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Janubiy Jorjiya va Janubiy Sandvich orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гватемала",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gvatemala",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гуам",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Guam",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гвинея-Бисау",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gvineya-Bisau",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гайана",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gayana",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гонконг",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gonkong",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Остров Херд и острова Макдональд",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Heard oroli va Makdonald orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гондурас",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gonduras",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Хорватия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Xorvatiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гаити",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gaiti",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Венгрия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Vengriya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Индонезия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Indoneziya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ирландия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Irlandiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Израиль",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Isroil",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Остров Мэн",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Man oroli",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Индия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Hindiston",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Британская территория в Индийском океане",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Britaniya Hind okeani hududi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ирак",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Iroq",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Иран, Исламская Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Eron, Islom Respublikasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Исландия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Islandiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Италия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Italiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Джерси",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Jersi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ямайка",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Yamayka",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Иордания",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Iordaniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Япония",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Yaponiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Кения",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Keniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Кыргызстан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Qirg'iziston",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Камбоджа",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kambodja",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Кирибати",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kiribati",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Коморские острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Komor orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сент-Китс и Невис",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sent-Kitts va Nevis",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Корейская Народно-Демократическая Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Koreya, Xalq Demokratik Respublikasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Корея, Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Koreya Respublikasi,",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Кувейт",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Quvayt",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Каймановы острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Kayman orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Казахстан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Qozog'iston",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лаосская Народно-Демократическая Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laos Xalq Demokratik Respublikasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ливан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Livan",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сент-Люсия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sent-Lyusiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лихтенштейн",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Lixtenshteyn",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Шри-Ланка",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Shri-Lanka",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Либерия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Liberiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лесото",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Lesoto",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Литва",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Litva",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Люксембург",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Lyuksemburg",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Латвия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Latviya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ливия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Liviya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Марокко",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Marokash",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Макао",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Makao",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Монако",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Monako",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Молдова, Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Moldova Respublikasi,",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Черногория",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Chernogoriya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сен-Мартен (французская часть)",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sent-Martin (frantsuz qismi)",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Мадагаскар",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Madagaskar",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Маршалловы острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Marshall orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Македония, бывшая югославская республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Makedoniya, sobiq Yugoslaviya Respublikasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Мали",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mali",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Мьянма",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Myanma",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Монголия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mo'g'uliston",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Северные Марианские острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Shimoliy Mariana orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Мартиника",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Martinika",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Мавритания",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mavritaniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Монтсеррат",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Montserrat",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Мальта",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Malta",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Маврикий",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mavrikiy",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Мальдивы",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Maldiv orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Малави",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Malavi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Мексика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Meksika",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Малайзия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Malayziya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Мозамбик",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mozambik",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Намибия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Namibiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Новая Каледония",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Yangi Kaledoniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Нигер",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Niger",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "остров Норфолк",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Norfolk oroli",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Нигерия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Nigeriya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Никарагуа",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Nikaragua",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Нидерланды",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Niderlandiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Норвегия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Norvegiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Непал",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Nepal",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Науру",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Nauru",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ниуэ",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Niue",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Новая Зеландия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Yangi Zelandiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Оман",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ummon",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Панама",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Panama",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Перу",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Peru",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Французская Полинезия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Fransuz Polineziyasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Папуа-Новая Гвинея",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Papua-Yangi Gvineya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Филиппины",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Filippin",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Пакистан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Pokiston",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Польша",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Polsha",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сен-Пьер и Микелон",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sent-Pyer va Mikelon",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Питкэрн",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Pitkern",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Пуэрто-Рико",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Puerto-Riko",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Палестина, государство",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Falastin, Davlat",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Португалия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Portugaliya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Палау",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Palau",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Парагвай",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Paragvay",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Катар",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Qatar",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Риюньон",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Riunion",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Румыния",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ruminiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сербия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Serbiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Российская Федерация",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Rossiya Federatsiyasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Руанда",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ruanda",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Саудовская Аравия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Saudiya Arabistoni",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Соломоновы острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Solomon orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сейшельские острова",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Seyshel orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Судан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sudan",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Швеция",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Shvetsiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сингапур",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Singapur",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Остров Святой Елены, Вознесения и Тристан-да-Кунья",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Avliyo Yelena, Ko'tarilish va Tristan da Kunya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Словения",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sloveniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Шпицберген и Ян-Майен",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Svalbard va Yan Mayen",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Словакия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Slovakiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сьерра-Леоне",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Syerra-Leone",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сан-Марино",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "San-Marino",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сенегал",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Senegal",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сомали",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Somali",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Суринам",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Surinam",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Южный Судан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Janubiy Sudan",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сан-Томе и Принсипи",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "San-Tome va Prinsipi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сальвадор",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "El Salvador",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Синт-Мартен (голландская часть)",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sint-Marten (Gollandiya qismi)",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сирийская Арабская Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Suriya Arab Respublikasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Свазиленд",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Svazilend",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Острова Теркс и Кайкос",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Turks va Kaykos orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Чад",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Chad",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Французские Южные Территории",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Frantsiyaning janubiy hududlari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Того",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Togo",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Таиланд",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tailand",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Таджикистан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tojikiston",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Токелау",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tokelau",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Восточный Тимор",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Timor-Sharqiy",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Туркменистан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Turkmaniston",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Тунис",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tunis",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Тонга",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tonga",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Турция",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Turkiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Тринидад и Тобаго",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Trinidad va Tobago",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Тувалу",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tuvalu",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Тайвань, провинция Китая",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tayvan, Xitoy provinsiyasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Танзания, Объединенная Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tanzaniya, Birlashgan Respublikasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Украина",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ukraina",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Уганда",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Uganda",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Малые отдаленные острова США",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Amerika Qo'shma Shtatlarining Kichik Chet orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Соединенные Штаты Америки",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Amerika Qo'shma Shtatlari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Уругвай",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Urugvay",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Узбекистан",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "O'zbekiston",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Святой Престол",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Muqaddas Taxt",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сент-Винсент и Гренадины",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sent-Vinsent va Grenadin orollari",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Венесуэла, Боливарианская Республика",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Venesuela, Bolivar Respublikasi",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Виргинские острова, Британские",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Virjiniya orollari, Britaniya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Виргинские острова, США",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Virjiniya orollari, AQSH",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Вьетнам",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Vyetnam",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Вануату",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Vanuatu",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Уоллис и Футуна",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Uollis va Futuna",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Самоа",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Samoa",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Йемен",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Yaman",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Майотта",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mayotte",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЮАР",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Janubiy Afrika",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Замбия",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Zambiya",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Зимбабве",
+          "target" : null
+        },
+        {
+          "id" : "ValueSet.compose.include.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Zimbabve",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
