@@ -1,20 +1,61 @@
 CodeSystem: DicomDCMCS
 Id: dicom-dcs-cs
-Title: "TBD"
-Description: "TBD supplement with translations in Uzbek and Russian"
+Title: "DICOM Controlled Terminology Definitions"
+Description: "DICOM Controlled Terminology Definitions supplement with translations in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/CodeSystem/dicom-dcs-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $dicom-dcm
 * ^language = #en
+* ^version = "2023.1.20230123"
 
+* #110100
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Активность приложения"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Ilova faoliyati"
+* #110101
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Использование журнала аудита"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Audit jurnalidan foydalanish"
+* #110106
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Экспорт"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Eksport"
+* #110107
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Импорт"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Import"
+* #110110
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Запись пациента"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Bemor yozuvi"
+* #110112
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Запрос"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "So'rov"
+* #110114
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Аутентификация пользователя"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Foydalanuvchi autentifikatsiyasi"
+* #110121
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Аутентификация узла"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Tugun autentifikatsiyasi"
 * #110122
-* #110122 ^designation[0].language = #ru
-* #110122 ^designation[=].value = "Попытка входа пользователя в систему"
-* #110122 ^designation[+].language = #uz
-* #110122 ^designation[=].value = "Foydalanuvchiga kirishga urinish"
+  *  ^designation[0].language = #ru
+  *  ^designation[=].value = "Попытка входа пользователя в систему"
+  *  ^designation[+].language = #uz
+  *  ^designation[=].value = "Foydalanuvchiga kirishga urinish"
 * #110123
-* #110123 ^designation[0].language = #ru
-* #110123 ^designation[=].value = "Попытка выхода пользователя из системы"
-* #110123 ^designation[+].language = #uz
-* #110123 ^designation[=].value = "Foydalanuvchini tizimdan chiqishga urinish"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Попытка выхода пользователя из системы"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Foydalanuvchini tizimdan chiqishga urinish"
