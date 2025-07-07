@@ -1,8 +1,8 @@
-Profile: DHPConsent
+Profile: UZCoreConsent
 Parent: Consent
-Id: dhp-consent
-Title: "Uzbekistan DHP Consent"
-Description: "Uzbekistan DHP Consent Profile, used to manage patient consent for data sharing and processing"
+Id: uz-core-consent
+Title: "UZ Core Consent"
+Description: "Uzbekistan Core Consent Profile, used to manage patient consent for data sharing and processing"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -27,7 +27,7 @@ Description: "Uzbekistan DHP Consent Profile, used to manage patient consent for
   * purpose from ConsentPurposeOfUseVS (required)
 
 Instance: example-consent
-InstanceOf: DHPConsent
+InstanceOf: UZCoreConsent
 Description: "Example of a consent"
 Usage: #example
 * language = #uz

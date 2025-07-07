@@ -1,8 +1,8 @@
-Profile: DHPPractitionerRole
+Profile: UZCorePractitionerRole
 Parent: PractitionerRole
-Id: dhp-practitionerrole
-Title: "Uzbekistan DHP PractitionerRole"
-Description: "Uzbekistan DHP PractitionerRole profile, used to define roles of practitioners"
+Id: uz-core-practitioner-role
+Title: "UZ Core PractitionerRole"
+Description: "Uzbekistan Core PractitionerRole profile, used to define roles of practitioners"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -57,7 +57,7 @@ Description: "Uzbekistan DHP PractitionerRole profile, used to define roles of p
   * code from practitioner-role-vs (required)
 
 Instance: example-practitionerrole
-InstanceOf: DHPPractitionerRole
+InstanceOf: UZCorePractitionerRole
 Description: "Example of a practitioner's role"
 Usage: #example
 * language = #uz
