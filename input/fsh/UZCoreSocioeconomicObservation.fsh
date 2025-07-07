@@ -1,8 +1,8 @@
-Profile: DHPSocioeconomicObservation
+Profile: UZCoreSocioeconomicObservation
 Parent: Observation
-Id: dhp-socioeconomic-observation
-Title: "Uzbekistan DHP Socioeconomic Observation"
-Description: "Uzbekistan DHP socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status. "
+Id: uz-core-socioeconomic-observation
+Title: "UZ Core Socioeconomic Observation"
+Description: "Uzbekistan Core socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status. "
 * ^url = $uri
 * ^experimental = true
 * ^version = "1.0.0"
@@ -12,7 +12,7 @@ Description: "Uzbekistan DHP socioeconomic observation profile, used to represen
 
 
 * subject 1..1 MS
-* subject only Reference(DHPPatient)
+* subject only Reference(UZCorePatient)
 
 * code MS
   * ^short = "Socioeconomic observation type. Education level code is aligned with EE MPI SocialHistory Education Level profile"
@@ -68,7 +68,7 @@ Description: "Codes for socioeconomic observations including benefits, education
 
 // Benefits examples
 Instance: example-salim-benefits
-InstanceOf: DHPSocioeconomicObservation
+InstanceOf: UZCoreSocioeconomicObservation
 Description: "Example benefits observation for Salim"
 Usage: #example
 * language = #uz
@@ -79,7 +79,7 @@ Usage: #example
 * effectiveDateTime = "2025-06-11"
 
 Instance: example-david-benefits
-InstanceOf: DHPSocioeconomicObservation
+InstanceOf: UZCoreSocioeconomicObservation
 Description: "Example benefits observation for David"
 Usage: #example
 * language = #uz
@@ -91,7 +91,7 @@ Usage: #example
 
 // Education examples
 Instance: example-salim-education
-InstanceOf: DHPSocioeconomicObservation
+InstanceOf: UZCoreSocioeconomicObservation
 Description: "Example education status for Salim"
 Usage: #example
 * language = #uz
@@ -102,7 +102,7 @@ Usage: #example
 * effectiveDateTime = "2025-06-11"
 
 Instance: example-david-education
-InstanceOf: DHPSocioeconomicObservation
+InstanceOf: UZCoreSocioeconomicObservation
 Description: "Example education observation for David"
 Usage: #example
 * language = #uz
@@ -114,7 +114,7 @@ Usage: #example
 
 // Profession examples
 Instance: example-salim-profession
-InstanceOf: DHPSocioeconomicObservation
+InstanceOf: UZCoreSocioeconomicObservation
 Description: "Example profession observation for Salim"
 Usage: #example
 * language = #uz
@@ -125,7 +125,7 @@ Usage: #example
 * effectiveDateTime = "2025-06-11"
 
 Instance: example-david-profession
-InstanceOf: DHPSocioeconomicObservation
+InstanceOf: UZCoreSocioeconomicObservation
 Description: "Example profession observation for David"
 Usage: #example
 * language = #uz
@@ -137,7 +137,7 @@ Usage: #example
 
 // Social status examples
 Instance: example-salim-social-status
-InstanceOf: DHPSocioeconomicObservation
+InstanceOf: UZCoreSocioeconomicObservation
 Description: "Example social status observation for Salim"
 Usage: #example
 * language = #uz
@@ -148,7 +148,7 @@ Usage: #example
 * effectiveDateTime = "2025-06-11"
 
 Instance: example-david-social-status
-InstanceOf: DHPSocioeconomicObservation
+InstanceOf: UZCoreSocioeconomicObservation
 Description: "Example social status observation for David"
 Usage: #example
 * language = #uz

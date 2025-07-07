@@ -1,8 +1,8 @@
-Profile: DHPHealthcareService
+Profile: UZCoreHealthcareService
 Parent: HealthcareService
-Id: dhp-healthcareservice
-Title: "Uzbekistan DHP HealthcareService"
-Description: "Uzbekistan DHP HealthcareService profile, used to define healthcare services available"
+Id: uz-core-healthcareservice
+Title: "UZ Core HealthcareService"
+Description: "Uzbekistan Core HealthcareService profile, used to define healthcare services available"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -41,7 +41,7 @@ Description: "Uzbekistan DHP HealthcareService profile, used to define healthcar
   * code from ServiceNamesVS (required)
 
 Instance: example-healthcareservice
-InstanceOf: DHPHealthcareService
+InstanceOf: UZCoreHealthcareService
 Description: "Example of a healthcare service"
 Usage: #example
 * active = true

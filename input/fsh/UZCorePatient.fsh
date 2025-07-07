@@ -1,8 +1,8 @@
-Profile: DHPPatient
+Profile: UZCorePatient
 Parent: Patient
-Id: dhp-patient
-Title: "Uzbekistan DHP Patient"
-Description: "Uzbekistan DHP Patient profile, used represent patients administrative information"
+Id: uz-core-patient
+Title: "UZ Core Patient"
+Description: "Uzbekistan Core Patient profile, used represent patients administrative information"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -113,7 +113,7 @@ Description: "Uzbekistan DHP Patient profile, used represent patients administra
 * maritalStatus from MaritalStatusVS (required)
 
 Instance: example-salim
-InstanceOf: DHPPatient
+InstanceOf: UZCorePatient
 Description: "Example of a patient named Salim"
 Usage: #example
 * language = #ru
@@ -166,7 +166,7 @@ Usage: #example
 * extension[disability].valueCodeableConcept = DisabilityCS#regis0011.00001 "Группа I"
 
 Instance: example-david
-InstanceOf: DHPPatient
+InstanceOf: UZCorePatient
 Description: "Example of a patient named David"
 Usage: #example
 * language = #ru

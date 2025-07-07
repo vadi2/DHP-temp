@@ -1,8 +1,8 @@
-Profile: DHPLocation
+Profile: UZCoreLocation
 Parent: Location
-Id: dhp-location
-Title: "Uzbekistan DHP Location"
-Description: "Uzbekistan DHP Location profile, used to define locations of healthcare services"
+Id: uz-core-location
+Title: "UZ Core Location"
+Description: "Uzbekistan Core Location profile, used to define locations of healthcare services"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -47,7 +47,7 @@ Description: "Uzbekistan DHP Location profile, used to define locations of healt
   * code from LocationTypesVS (required)
 
 Instance: example-location-1
-InstanceOf: DHPLocation
+InstanceOf: UZCoreLocation
 Description: "Example of an organization location"
 Usage: #example
 * language = #uz
@@ -75,7 +75,7 @@ Usage: #example
 * managingOrganization = Reference(Organization/example-organization)
 
 Instance: example-location-2
-InstanceOf: DHPLocation
+InstanceOf: UZCoreLocation
 Description: "Example of a branch location"
 * language = #uz
 * status = #active

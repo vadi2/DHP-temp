@@ -1,8 +1,8 @@
-Profile: DHPAuditEvent
+Profile: UZCoreAuditEvent
 Parent: AuditEvent
-Id: dhp-auditevent
-Title: "Uzbekistan DHP AuditEvent"
-Description: "Uzbekistan DHP AuditEvent Profile, used to track user and application activity"
+Id: uz-core-auditevent
+Title: "UZ Core AuditEvent"
+Description: "Uzbekistan Core AuditEvent Profile, used to track user and application activity"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -37,7 +37,7 @@ Description: "Uzbekistan DHP AuditEvent Profile, used to track user and applicat
   * type from AuditParticipationRoleTypeVS (required)
   * role from SecurityRoleTypeVS (required)
   * authorization from AuditPurposeOfUseVS (required)
-  * who only Reference (DHPPractitionerRole or Practitioner or Patient or RelatedPerson) 
+  * who only Reference (UZCorePractitionerRole or UZCorePractitioner or UZCorePatient or RelatedPerson) 
 
 * entity
   * role and what and securityLabel and query MS
@@ -45,7 +45,7 @@ Description: "Uzbekistan DHP AuditEvent Profile, used to track user and applicat
   * securityLabel from SecurityLabelVS (required)
 
 Instance: example-auditevent-login
-InstanceOf: DHPAuditEvent
+InstanceOf: UZCoreAuditEvent
 Description: "Example of an audit event where a user logs in"
 Usage: #example
 * language = #uz
@@ -68,7 +68,7 @@ Usage: #example
   * type = $security-source-type#4 "Application Server"
 
 Instance: example-auditevent-condition-lookup
-InstanceOf: DHPAuditEvent
+InstanceOf: UZCoreAuditEvent
 Description: "Example of an audit event where a pracititioner looked up the patient's condition"
 Usage: #example
 * language = #uz

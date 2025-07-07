@@ -1,8 +1,8 @@
-Profile: DHPPractitioner
+Profile: UZCorePractitioner
 Parent: Practitioner
-Id: dhp-practitioner
-Title: "Uzbekistan DHP Practitioner"
-Description: "Uzbekistan DHP Practitioner profile, used to define healthcare practitioners"
+Id: uz-core-practitioner
+Title: "UZ Core Practitioner"
+Description: "Uzbekistan Core Practitioner profile, used to define healthcare practitioners"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -48,7 +48,7 @@ Description: "Uzbekistan DHP Practitioner profile, used to define healthcare pra
   * code from LicenseCertificateVS (required)
 
 Instance: example-practitioner
-InstanceOf: DHPPractitioner
+InstanceOf: UZCorePractitioner
 Description: "Example of a practitioner"
 Usage: #example
 * language = #uz
@@ -83,7 +83,7 @@ Usage: #example
   * issuer = Reference(example-organization)
 
 Instance: example-practitioner-gender-other
-InstanceOf: DHPPractitioner
+InstanceOf: UZCorePractitioner
 Description: "Example of a practitioner with a gender extension"
 Usage: #example
 * language = #uz

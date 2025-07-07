@@ -1,8 +1,8 @@
-Profile: DHPProvenance
+Profile: UZCoreProvenance
 Parent: Provenance
-Id: dhp-provenance
-Title: "Uzbekistan DHP Provenance"
-Description: "Uzbekistan DHP Provenance Profile, used to digitally sign documents via myID"
+Id: uz-core-provenance
+Title: "UZ Core Provenance"
+Description: "Uzbekistan Core Provenance Profile, used to digitally sign documents via myID"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -36,7 +36,7 @@ Usage: #example
   * title = "Sample Medical Report"
 
 Instance: example-provenance
-InstanceOf: DHPProvenance
+InstanceOf: UZCoreProvenance
 Description: "Example of a provenance event"
 Usage: #example
 * language = #uz

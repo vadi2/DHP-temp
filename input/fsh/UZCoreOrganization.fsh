@@ -1,8 +1,8 @@
-Profile: DHPOrganization
+Profile: UZCoreOrganization
 Parent: Organization
-Id: dhp-organization
-Title: "Uzbekistan DHP Organization"
-Description: "Uzbekistan DHP Organization profile, used to define healthcare organizations and sub-units"
+Id: uz-core-organization
+Title: "UZ Core Organization"
+Description: "Uzbekistan Core Organization profile, used to define healthcare organizations and sub-units"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -95,7 +95,7 @@ Description: "Uzbekistan DHP Organization profile, used to define healthcare org
 * endpoint MS
 
 Instance: example-organization
-InstanceOf: DHPOrganization
+InstanceOf: UZCoreOrganization
 Description: "Example of a hospital organization"
 Usage: #example
 * language = #uz
@@ -129,7 +129,7 @@ Usage: #example
       * valueString = "Republican Oncology Center"
 
 Instance: tashkent-diseases-hospital
-InstanceOf: DHPOrganization
+InstanceOf: UZCoreOrganization
 Description: "Example of a hospital organization"
 Usage: #example
 * active = true
