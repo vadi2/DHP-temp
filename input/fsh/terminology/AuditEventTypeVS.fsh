@@ -7,7 +7,6 @@ Description: "Defines the type of event that is being recorded in Uzbek and Russ
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(DicomDCMCS)
 * ^version = "5.0.0"
-* ^language = #uz
 
 * include $dicom-dcm#110100
 * include $dicom-dcm#110101

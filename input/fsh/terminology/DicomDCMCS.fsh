@@ -59,3 +59,9 @@ Description: "DICOM Controlled Terminology Definitions supplement with translati
   * ^designation[=].value = "Попытка выхода пользователя из системы"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Foydalanuvchini tizimdan chiqishga urinish"
+
+* #110150
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Приложение"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Ilova"
