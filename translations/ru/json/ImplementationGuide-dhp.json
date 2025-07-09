@@ -74,7 +74,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines audit event action (`AuditEvent.action`) that is being recorded in Uzbek and Russian",
+          "source" : "Defines audit event action that is being recorded in Uzbek and Russian",
           "target" : null
         },
         {
@@ -86,7 +86,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines the outcome of the event (`AuditEvent.outcome.code`) that is being recorded in Uzbek and Russian",
+          "source" : "Defines the outcome of the event that is being recorded in Uzbek and Russian",
           "target" : null
         },
         {
@@ -98,7 +98,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines how the participant participated (`AuditEvent.agent.type`) in Uzbek and Russian",
+          "source" : "Defines how the participant participated in Uzbek and Russian",
           "target" : null
         },
         {
@@ -110,7 +110,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines the subtype of event (`AuditEvent.category`) that is being recorded in Uzbek and Russian",
+          "source" : "Defines the subtype of event that is being recorded in Uzbek and Russian",
           "target" : null
         },
         {
@@ -122,7 +122,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines the type of event (`AuditEvent.code`) that is being recorded in Uzbek and Russian",
+          "source" : "Defines the type of event that is being recorded in Uzbek and Russian",
           "target" : null
         },
         {
@@ -758,7 +758,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines object's role (`AuditEvent.entity.role`) in Uzbek and Russian",
+          "source" : "Defines object's role in Uzbek and Russian",
           "target" : null
         },
         {
@@ -894,12 +894,6 @@
           "target" : null
         },
         {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines how the participant participated (`Provenance.agent.type`) in Uzbek and Russian",
-          "target" : null
-        },
-        {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Purpose of use",
@@ -908,7 +902,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines agent's the purpose of use (`AuditEvent.agent.authorization`) in Uzbek and Russian",
+          "source" : "Defines agent's the purpose of use in Uzbek and Russian",
           "target" : null
         },
         {
@@ -920,7 +914,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines security label (`AuditEvent.entity.securityLabel`) in Uzbek and Russian",
+          "source" : "Defines security label in Uzbek and Russian",
           "target" : null
         },
         {
@@ -932,7 +926,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines the role of the participant (`AuditEvent.agent.role`) that is being recorded in Uzbek and Russian",
+          "source" : "Defines the role of the participant that is being recorded in Uzbek and Russian",
           "target" : null
         },
         {
@@ -986,7 +980,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines type of address registration (`use`) in Uzbek and Russian",
+          "source" : "Defines type of address registration in Uzbek and Russian",
           "target" : null
         },
         {
@@ -1010,7 +1004,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines the types of addresses (`type`) with translations in Uzbek and Russian",
+          "source" : "Defines the types of addresses with translations in Uzbek and Russian",
           "target" : null
         },
         {
@@ -1059,6 +1053,126 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the different uses of a name in Uzbek and Russian",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core AuditEvent",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core AuditEvent Profile, used to track user and application activity",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core Consent",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core Consent Profile, used to manage patient consent for data sharing and processing",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core HealthcareService",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core HealthcareService profile, used to define healthcare services available",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core Location",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core Location profile, used to define locations of healthcare services",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core Organization",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core Organization profile, used to define healthcare organizations and sub-units",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core Patient",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core Patient profile, used represent patients administrative information",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core Practitioner",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core Practitioner profile, used to define healthcare practitioners",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core PractitionerRole",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core PractitionerRole profile, used to define roles of practitioners",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core Provenance",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core Provenance Profile, used to digitally sign documents via myID",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core Socioeconomic Observation",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status.",
           "target" : null
         },
         {
@@ -1191,126 +1305,6 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Tax identification numbers and other identifiers assigned by the Uzbekistan Tax Authority (Soliq)",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uzbekistan DHP AuditEvent",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan DHP AuditEvent Profile, used to track user and application activity",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uzbekistan DHP Consent",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan DHP Consent Profile, used to manage patient consent for data sharing and processing",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uzbekistan DHP HealthcareService",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan DHP HealthcareService profile, used to define healthcare services available",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uzbekistan DHP Location",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan DHP Location profile, used to define locations of healthcare services",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uzbekistan DHP Organization",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan DHP Organization profile, used to define healthcare organizations and sub-units",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uzbekistan DHP Patient",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan DHP Patient profile, used represent patients administrative information",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uzbekistan DHP Practitioner",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan DHP Practitioner profile, used to define healthcare practitioners",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uzbekistan DHP PractitionerRole",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan DHP PractitionerRole profile, used to define roles of practitioners",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uzbekistan DHP Provenance",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan DHP Provenance Profile, used to digitally sign documents via myID",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uzbekistan DHP Socioeconomic Observation",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan DHP socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status.",
           "target" : null
         },
         {

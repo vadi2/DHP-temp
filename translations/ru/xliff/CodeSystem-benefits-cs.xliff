@@ -385,7 +385,7 @@
              <notes>
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
-        <source>Dasturli gemodializ oluvchi bemorlar.</source>
+        <source>Dasturli gemodializ oluvchi bemorlar</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-benefits-cs" resname="CodeSystem.concept.designation.value">
@@ -427,7 +427,7 @@
              <notes>
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
-        <source>Bemor tibbiyot xodimlari</source>
+        <source>Tibbiyot xodimlari</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-benefits-cs" resname="CodeSystem.concept.designation.value">

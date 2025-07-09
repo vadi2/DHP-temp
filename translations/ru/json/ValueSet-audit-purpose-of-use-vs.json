@@ -32,7 +32,7 @@
         {
           "id" : "ValueSet.description",
           "context" : "A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.",
-          "source" : "Defines agent's the purpose of use (`AuditEvent.agent.authorization`) in Uzbek and Russian",
+          "source" : "Defines agent's the purpose of use in Uzbek and Russian",
           "target" : null
         },
         {

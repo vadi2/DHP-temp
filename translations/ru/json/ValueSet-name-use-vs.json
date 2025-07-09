@@ -74,7 +74,7 @@
         {
           "id" : "ValueSet.compose.include.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "temp",
+          "source" : "vaqtincha",
           "target" : null
         },
         {
@@ -122,7 +122,7 @@
         {
           "id" : "ValueSet.compose.include.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "qiz",
+          "source" : "qizlikdagi ismi",
           "target" : null
         }
       ]

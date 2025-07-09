@@ -21,7 +21,7 @@ msgstr ""
 
 # A representation of the meaning of the code in the system, following the rules of the system.
 #: Coding.display
-msgid "Birth registry number"
+msgid "Birth Certificate"
 msgstr ""
 
 # A free text natural language description of the naming system from a consumer's perspective. Details about what the namespace identifies including scope, granularity, version labeling, etc.

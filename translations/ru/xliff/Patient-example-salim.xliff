@@ -35,7 +35,7 @@
              <notes>
                <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
              </notes>
-        <source>Birth registry number</source>
+        <source>Birth Certificate</source>
         <target></target>
       </trans-unit>
       <trans-unit id="Patient-example-salim" resname="Coding.display">

@@ -116,7 +116,7 @@ msgstr ""
 
 # The text value for this designation.
 #: ValueSet.compose.include.concept.designation.value
-msgid "Nomer meditsinskiy litsenziyasi"
+msgid "Tibbiy litsenziya raqami"
 msgstr ""
 
 # The text value for this designation.
@@ -167,15 +167,5 @@ msgstr ""
 # The text value for this designation.
 #: ValueSet.compose.include.concept.designation.value
 msgid "Universal qurilma identifikatori"
-msgstr ""
-
-# The text value for this designation.
-#: ValueSet.compose.include.concept.designation.value
-msgid "Номер свидетельства о рождении"
-msgstr ""
-
-# The text value for this designation.
-#: ValueSet.compose.include.concept.designation.value
-msgid "Tug'ilganlik haqidagi guvohnoma raqami"
 msgstr ""
 

@@ -35,7 +35,7 @@
              <notes>
                <note id="n1">A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.</note>
              </notes>
-        <source>Defines agent's the purpose of use (`AuditEvent.agent.authorization`) in Uzbek and Russian</source>
+        <source>Defines agent's the purpose of use in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ValueSet-audit-purpose-of-use-vs" resname="Coding.display">

@@ -26,7 +26,7 @@ msgstr ""
 
 # A free text natural language description of the naming system from a consumer's perspective. Details about what the namespace identifies including scope, granularity, version labeling, etc.
 #: NamingSystem.description
-msgid "Naming system for health card number identifiers assigned by the Ministry of Health of the Republic of Uzbekistan. See https://yuz.uz/ru/news/elektronne-meditsinskie-kart-prosto-sovremenno-i-kachestvenno and http://old.reestr.uz/view/gir?id=909 for legal justification."
+msgid "Naming system for health card number identifiers assigned by the Ministry of Health of the Republic of Uzbekistan. See https://yuz.uz/ru/news/elektronne-meditsinskie-kart-prosto-sovremenno-i-kachestvennofor legal justification."
 msgstr ""
 
 # A representation of the meaning of the code in the system, following the rules of the system.

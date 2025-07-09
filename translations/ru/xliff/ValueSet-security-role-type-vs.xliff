@@ -35,7 +35,7 @@
              <notes>
                <note id="n1">A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.</note>
              </notes>
-        <source>Defines the role of the participant (`AuditEvent.agent.role`) that is being recorded in Uzbek and Russian</source>
+        <source>Defines the role of the participant that is being recorded in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ValueSet-security-role-type-vs" resname="Coding.display">

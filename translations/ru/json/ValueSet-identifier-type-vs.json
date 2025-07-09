@@ -146,7 +146,7 @@
         {
           "id" : "ValueSet.compose.include.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Nomer meditsinskiy litsenziyasi",
+          "source" : "Tibbiy litsenziya raqami",
           "target" : null
         },
         {
@@ -207,18 +207,6 @@
           "id" : "ValueSet.compose.include.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Universal qurilma identifikatori",
-          "target" : null
-        },
-        {
-          "id" : "ValueSet.compose.include.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Номер свидетельства о рождении",
-          "target" : null
-        },
-        {
-          "id" : "ValueSet.compose.include.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tug'ilganlik haqidagi guvohnoma raqami",
           "target" : null
         }
       ]

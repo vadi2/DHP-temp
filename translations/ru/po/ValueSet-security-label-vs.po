@@ -21,7 +21,7 @@ msgstr ""
 
 # A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.
 #: ValueSet.description
-msgid "Defines security label (`AuditEvent.entity.securityLabel`) in Uzbek and Russian"
+msgid "Defines security label in Uzbek and Russian"
 msgstr ""
 
 # A representation of the meaning of the code in the system, following the rules of the system.

@@ -38,7 +38,7 @@
         {
           "id" : "NamingSystem.description",
           "context" : "A free text natural language description of the naming system from a consumer's perspective. Details about what the namespace identifies including scope, granularity, version labeling, etc.",
-          "source" : "Naming system for diplomatic passport identifiers assigned by the Ministry of Foreign Affairs of the Republic of Uzbekistan. See http://fmc.uz/legisl.php?id=dippassport and https://www.lex.uz/acts/670451 for legal justification.",
+          "source" : "Naming system for diplomatic passport identifiers assigned by the Ministry of Foreign Affairs of the Republic of Uzbekistan. See http://fmc.uz/legisl.php?id=dippasport and https://www.lex.uz/acts/670451 for legal justification.",
           "target" : null
         },
         {

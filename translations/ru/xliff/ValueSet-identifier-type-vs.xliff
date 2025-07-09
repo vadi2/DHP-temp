@@ -168,7 +168,7 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Nomer meditsinskiy litsenziyasi</source>
+        <source>Tibbiy litsenziya raqami</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ValueSet-identifier-type-vs" resname="ValueSet.compose.include.concept.designation.value">
@@ -239,20 +239,6 @@
                <note id="n1">The text value for this designation.</note>
              </notes>
         <source>Universal qurilma identifikatori</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ValueSet-identifier-type-vs" resname="ValueSet.compose.include.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Номер свидетельства о рождении</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ValueSet-identifier-type-vs" resname="ValueSet.compose.include.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Tug'ilganlik haqidagi guvohnoma raqami</source>
         <target></target>
       </trans-unit>
     </body>

@@ -332,7 +332,7 @@
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Dasturli gemodializ oluvchi bemorlar.",
+          "source" : "Dasturli gemodializ oluvchi bemorlar",
           "target" : null
         },
         {
@@ -368,7 +368,7 @@
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bemor tibbiyot xodimlari",
+          "source" : "Tibbiyot xodimlari",
           "target" : null
         },
         {

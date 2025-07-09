@@ -56,7 +56,7 @@ msgstr ""
 
 # The text value for this designation.
 #: ValueSet.compose.include.concept.designation.value
-msgid "temp"
+msgid "vaqtincha"
 msgstr ""
 
 # The text value for this designation.

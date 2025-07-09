@@ -271,7 +271,7 @@ msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Dasturli gemodializ oluvchi bemorlar."
+msgid "Dasturli gemodializ oluvchi bemorlar"
 msgstr ""
 
 # The text value for this designation.
@@ -301,7 +301,7 @@ msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bemor tibbiyot xodimlari"
+msgid "Tibbiyot xodimlari"
 msgstr ""
 
 # The text value for this designation.

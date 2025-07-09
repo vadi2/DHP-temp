@@ -84,7 +84,7 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>temp</source>
+        <source>vaqtincha</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ValueSet-identifier-use-vs" resname="ValueSet.compose.include.concept.designation.value">

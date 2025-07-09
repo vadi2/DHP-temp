@@ -84,7 +84,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines audit event action (`AuditEvent.action`) that is being recorded in Uzbek and Russian</source>
+        <source>Defines audit event action that is being recorded in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -98,7 +98,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines the outcome of the event (`AuditEvent.outcome.code`) that is being recorded in Uzbek and Russian</source>
+        <source>Defines the outcome of the event that is being recorded in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -112,7 +112,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines how the participant participated (`AuditEvent.agent.type`) in Uzbek and Russian</source>
+        <source>Defines how the participant participated in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -126,7 +126,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines the subtype of event (`AuditEvent.category`) that is being recorded in Uzbek and Russian</source>
+        <source>Defines the subtype of event that is being recorded in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -140,7 +140,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines the type of event (`AuditEvent.code`) that is being recorded in Uzbek and Russian</source>
+        <source>Defines the type of event that is being recorded in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -882,7 +882,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines object's role (`AuditEvent.entity.role`) in Uzbek and Russian</source>
+        <source>Defines object's role in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -1039,13 +1039,6 @@
         <source>Provenance Participation Role Type</source>
         <target></target>
       </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Defines how the participant participated (`Provenance.agent.type`) in Uzbek and Russian</source>
-        <target></target>
-      </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
              <notes>
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
@@ -1057,7 +1050,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines agent's the purpose of use (`AuditEvent.agent.authorization`) in Uzbek and Russian</source>
+        <source>Defines agent's the purpose of use in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -1071,7 +1064,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines security label (`AuditEvent.entity.securityLabel`) in Uzbek and Russian</source>
+        <source>Defines security label in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -1085,7 +1078,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines the role of the participant (`AuditEvent.agent.role`) that is being recorded in Uzbek and Russian</source>
+        <source>Defines the role of the participant that is being recorded in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -1148,7 +1141,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines type of address registration (`use`) in Uzbek and Russian</source>
+        <source>Defines type of address registration in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -1176,7 +1169,7 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
-        <source>Defines the types of addresses (`type`) with translations in Uzbek and Russian</source>
+        <source>Defines the types of addresses with translations in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -1233,6 +1226,146 @@
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
         <source>Defines the different uses of a name in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core AuditEvent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core AuditEvent Profile, used to track user and application activity</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core Consent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core Consent Profile, used to manage patient consent for data sharing and processing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core HealthcareService</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core HealthcareService profile, used to define healthcare services available</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core Location</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core Location profile, used to define locations of healthcare services</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core Organization</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core Organization profile, used to define healthcare organizations and sub-units</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core Patient</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core Patient profile, used represent patients administrative information</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core Practitioner</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core Practitioner profile, used to define healthcare practitioners</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core PractitionerRole</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core PractitionerRole profile, used to define roles of practitioners</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core Provenance</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core Provenance Profile, used to digitally sign documents via myID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core Socioeconomic Observation</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status.</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
@@ -1387,146 +1520,6 @@
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
         <source>Tax identification numbers and other identifiers assigned by the Uzbekistan Tax Authority (Soliq)</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>Uzbekistan DHP AuditEvent</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Uzbekistan DHP AuditEvent Profile, used to track user and application activity</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>Uzbekistan DHP Consent</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Uzbekistan DHP Consent Profile, used to manage patient consent for data sharing and processing</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>Uzbekistan DHP HealthcareService</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Uzbekistan DHP HealthcareService profile, used to define healthcare services available</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>Uzbekistan DHP Location</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Uzbekistan DHP Location profile, used to define locations of healthcare services</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>Uzbekistan DHP Organization</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Uzbekistan DHP Organization profile, used to define healthcare organizations and sub-units</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>Uzbekistan DHP Patient</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Uzbekistan DHP Patient profile, used represent patients administrative information</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>Uzbekistan DHP Practitioner</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Uzbekistan DHP Practitioner profile, used to define healthcare practitioners</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>Uzbekistan DHP PractitionerRole</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Uzbekistan DHP PractitionerRole profile, used to define roles of practitioners</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>Uzbekistan DHP Provenance</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Uzbekistan DHP Provenance Profile, used to digitally sign documents via myID</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>Uzbekistan DHP Socioeconomic Observation</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Uzbekistan DHP socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status.</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-dhp" resname="ImplementationGuide.definition.resource.name">
