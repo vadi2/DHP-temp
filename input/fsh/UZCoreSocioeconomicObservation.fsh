@@ -3,7 +3,7 @@ Parent: Observation
 Id: uz-core-socioeconomic-observation
 Title: "UZ Core Socioeconomic Observation"
 Description: "Uzbekistan Core socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status. "
-* ^url = $uri
+* ^url = $socieeconomic-observation
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -33,19 +33,19 @@ Description: "Uzbekistan Core socioeconomic observation profile, used to represe
   * ^short = "One of the sample valuesets that can be used is BenefitsVS. For all others, see the table:"
   * ^binding.additional[+].purpose = #required
   * ^binding.additional[=].valueSet = Canonical(BenefitsVS)
-  * ^binding.additional[=].usage.code = $uri#Observation.code
+  * ^binding.additional[=].usage.code = $socieeconomic-observation#Observation.code
   * ^binding.additional[=].usage.valueCodeableConcept = $sct#1303306008 "Eligible for benefit"
   * ^binding.additional[+].purpose = #required
   * ^binding.additional[=].valueSet = Canonical(EducationVS)
-  * ^binding.additional[=].usage.code = $uri#Observation.code
+  * ^binding.additional[=].usage.code = $socieeconomic-observation#Observation.code
   * ^binding.additional[=].usage.valueCodeableConcept = $sct#105421008 "Educational achievement"
   * ^binding.additional[+].purpose = #required
   * ^binding.additional[=].valueSet = Canonical(PositionAndProfessionVS)
-  * ^binding.additional[=].usage.code = $uri#Observation.code
+  * ^binding.additional[=].usage.code = $socieeconomic-observation#Observation.code
   * ^binding.additional[=].usage.valueCodeableConcept = $sct#14679004 "Occupation"
   * ^binding.additional[+].purpose = #required
   * ^binding.additional[=].valueSet = Canonical(SocialStatusVS)
-  * ^binding.additional[=].usage.code = $uri#Observation.code
+  * ^binding.additional[=].usage.code = $socieeconomic-observation#Observation.code
   * ^binding.additional[=].usage.valueCodeableConcept = $sct#82996008 "Social status"
 
 * effectiveDateTime 1..1 MS
