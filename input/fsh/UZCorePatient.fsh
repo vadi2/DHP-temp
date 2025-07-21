@@ -10,6 +10,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
 * ^publisher = "Uzinfocom"
 
 * identifier 1..* MS
+  * extension contains data-absent-reason named data-absent-reason 0..1 MS
 * identifier.use from IdentifierUseVS (required)
 * identifier.type from IdentifierTypeVS (required)
 * identifier ^slicing.discriminator.type = #value
@@ -171,7 +172,7 @@ Description: "Example of a patient named David"
 Usage: #example
 * language = #ru
 * identifier[driverslicense]
-  * value = "AG1141110" // TODO fix me, this seems to be a drivers identifier
+  * value = "AG1141110"
 * active = false
 * name
   * use = #anonymous
