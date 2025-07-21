@@ -145,22 +145,16 @@ Usage: #example
   * value = "22640"
 * language = #uz
 * name = "Toshkent viloyati yuqumli kasalliklar shifoxonasi"
-  * extension[0]
-    * extension[0]
-      * url = "lang"
+  * extension[translation][0]
+    * extension[lang] 
       * valueCode = #ru
-    * extension[+]
-      * url = "content"
+    * extension[content][+]
       * valueString = "Ташкентская областная инфекционная больница"
-    * url = "http://hl7.org/fhir/StructureDefinition/translation"
-  * extension[+]
-    * extension[0]
-      * url = "lang"
+  * extension[translation][+]
+    * extension[lang][0]
       * valueCode = #en
-    * extension[+]
-      * url = "content"
+    * extension[content][+]
       * valueString = "Tashkent Region Infectious Diseases Hospital"
-    * url = "http://hl7.org/fhir/StructureDefinition/translation"
 * type
   * coding[0] = $organization-type-cs#prov "Healthcare Provider"
   * coding[+] = organizational-subordination-group-cs#I_2 "Hududiy boshqaruv tarkibidagi"
