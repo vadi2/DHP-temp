@@ -88,6 +88,7 @@ menu:
   FHIR Basics: fhir-basics.html
   API access: api-access.html
   Artifacts: artifacts.html
+  Services: services.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
 # │  Uncomment the properties below to configure additional properties on the ImplementationGuide  │
