@@ -14,7 +14,8 @@ Current priority is on completing the core resource profiles first to enable the
 
 ## Areas of coverage
 
-*\<to be filled in\>*
+* Core profiles
+* Birth and death registry
 
 ## Authors
 
