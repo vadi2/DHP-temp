@@ -114,9 +114,9 @@ menu:
 # of profile URLs. If a value is an id or name, SUSHI will replace
 # it with the correct canonical when generating the IG JSON.
 #
-# global:
-#   Patient: http://example.org/fhir/StructureDefinition/my-patient-profile
-#   Encounter: http://example.org/fhir/StructureDefinition/my-encounter-profile
+global:
+  Patient: http://example.org/fhir/StructureDefinition/my-patient-profile
+  Encounter: http://example.org/fhir/StructureDefinition/my-encounter-profile
 #
 #
 # The resources property corresponds to IG.definition.resource.
