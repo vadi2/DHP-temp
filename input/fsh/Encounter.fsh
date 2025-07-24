@@ -10,7 +10,7 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 
 //Status
 * status 1..1
-* status from http://hl7.org/fhir/ValueSet/encounter-status (required)
+* status from EncounterStatusVS (required)
 * status ^short = "Текущее состояние встречи"
 * status ^definition = "Binding: http://hl7.org/fhir/ValueSet/encounter-status — planned, in-progress, completed, cancelled, entered-in-error, other"
 
