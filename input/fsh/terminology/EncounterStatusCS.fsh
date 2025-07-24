@@ -9,33 +9,44 @@ Description: "Encounter status codes with English, Uzbek, and Russian translatio
 * ^supplements = $encounter-status
 * ^language = #en
 
-* #planned 
+* #planned "Planned"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Rejalashtirilmoqda"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Планируется"
-* #in-progress 
+
+* #in-progress "In Progress"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Jarayonda"
   * ^designation[+].language = #ru
   * ^designation[=].value = "В процессе"
-* #completed 
+
+* #completed "Completed"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Tugallangan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Завершенный"
-* #cancelled 
+
+* #cancelled "Cancelled"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Bekor qilingan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Отменено"
-* #entered-in-error 
+
+* #entered-in-error "Entered in Error"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Xato kiritilgan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Введено с ошибкой"
-* #unknown 
+
+* #unknown "Unknown"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Noma'lum"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Неизвестный"
+
+* #other "Other"
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Boshqa"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Другое"
