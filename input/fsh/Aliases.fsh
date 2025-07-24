@@ -14,6 +14,7 @@ Alias: $dicom-dcm = http://dicom.nema.org/resources/ontology/DCM
 Alias: $diplomaticpassport = https://gov.uz/mfa/identifier/diplomaticpassport
 Alias: $driverslicense = https://gov.uz/iiv/identifier/driverslicense
 Alias: $ee-mpi-socialhistory-education-level = https://fhir.ee/mpi/StructureDefinition/ee-mpi-socialhistory-education-level
+Alias: $encounter-priority = https://terminology.medcore.uz/ValueSet/encounter-priority
 Alias: $encounter-class =https://terminology.medcore.uz/ValueSet/encounter-class
 Alias: $encounter-status = http://hl7.org/fhir/encounter-status
 Alias: $extra-security-role-type = http://terminology.hl7.org/CodeSystem/extra-security-role-type
