@@ -4,9 +4,9 @@ Id: encounter-uz
 Title: "UZ Encounter Profile"
 Description: "This profile defines an Encounter resource adapted to the healthcare system in Uzbekistan."
 * ^experimental = true
-* implicitRules 0..0
-* contained 0..0
-* modifierExtension 0..0
+// * implicitRules 0..0
+// * contained 0..0
+// * modifierExtension 0..0
 
 //Status
 * status 1..1
