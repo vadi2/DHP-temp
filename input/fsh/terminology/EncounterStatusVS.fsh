@@ -7,4 +7,9 @@ Description: "Defines Uzbek and Russian translations for encounter status codes 
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterStatusCS)
 
-* include codes from system $encounter-status
+* $encounter-status#planned
+* $encounter-status#in-progress
+* $encounter-status#completed
+* $encounter-status#cancelled
+* $encounter-status#entered-in-error
+* $encounter-status#other
