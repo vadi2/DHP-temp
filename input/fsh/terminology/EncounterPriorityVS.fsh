@@ -6,3 +6,10 @@ Description: "Defines Uzbek and Russian translations for encounter priority code
 * ^experimental = true
 * ^extension[0].url = $valueset-priority
 * ^extension[=].valueCanonical = Canonical(EncounterPriorityCS)
+
+* $encounter-priority#gencl.0002.00001
+* $encounter-priority#gencl.0002.00002
+* $encounter-priority#gencl.0002.00003
+* $encounter-priority#EM
+* $encounter-priority#P
+* $encounter-priority#PRN
