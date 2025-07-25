@@ -9,33 +9,32 @@ Description: "Encounter priority supplement with Uzbek and Russian translations"
 * ^language = #en
 
 * #gencl.0002.00001 "gencl.0002.00001"
-    * ^designation[0].language = #uz
-    * ^designation[=].value = "Yuqori"
-    * ^designation[+].language = #ru
-    * ^designation[=].value = "Высокий"
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Yuqori"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Высокий"
 * #gencl.0002.00002 "gencl.0002.00002"
-    * ^designation[0].language = #uz
-    * ^designation[=].value = "O'rtacha"
-    * ^designation[+].language = #ru
-    * ^designation[=].value = "Средний"
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "O'rtacha"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Средний"
 * #gencl.0002.00003 "gencl.0002.00003"
-    * ^designation[0].language = #uz
-    * ^designation[=].value = "Past"
-    * ^designation[+].language = #ru
-    * ^designation[=].value = "Низкий"
-
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Past"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Низкий"
 * #EM "EM"
-    * ^designation[0].language = #uz
-    * ^designation[=].value = "Favqulodda vaziyat"
-    * ^designation[+].language = #ru
-    * ^designation[=].value = "Чрезвычайная ситуация"
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Favqulodda vaziyat"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Чрезвычайная ситуация"
 * #P "P"
-    * ^designation[0].language = #uz
-    * ^designation[=].value = "Operatsiyadan oldingi"
-    * ^designation[+].language = #ru
-    * ^designation[=].value = "Предоперационный"   
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Operatsiyadan oldingi"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Предоперационный"   
 * #PRN "PRN"
-    * ^designation[0].language = #uz
-    * ^designation[=].value = "Zaruratga qarab"
-    * ^designation[+].language = #ru
-    * ^designation[=].value = "По мере необходимости"
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Zaruratga qarab"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "По мере необходимости"

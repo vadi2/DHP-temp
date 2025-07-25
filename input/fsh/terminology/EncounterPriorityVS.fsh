@@ -4,7 +4,7 @@ Title: "Encounter priority translations"
 Description: "Defines Uzbek and Russian translations for encounter priority codes in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/ValueSet/encounter-priority-vs"
 * ^experimental = true
-* ^extension[0].url = $valueset-priority
+* ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterPriorityCS)
 
 * $encounter-priority#gencl.0002.00001
