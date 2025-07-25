@@ -23,7 +23,7 @@ Description: "Encounter status supplement with Uzbek and Russian translations"
   * ^designation[=].value = "Tugallangan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Завершенный"
-* * #cancelled "Cancelled"
+* #cancelled "Cancelled"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Bekor qilingan"
   * ^designation[+].language = #ru
