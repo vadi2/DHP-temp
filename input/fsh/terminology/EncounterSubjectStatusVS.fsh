@@ -5,6 +5,7 @@ Description: "Defines Uzbek and Russian translations for encounter subject statu
 * ^url = "https://terminology.medcore.uz/ValueSet/encounter-subject-status-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
+* ^extension[=].valueCanonical = Canonical(EncounterSubjectStatusCS)
 
 * $encounter-subject-status#gencl.0003.00001
 * $encounter-subject-status#gencl.0003.00002

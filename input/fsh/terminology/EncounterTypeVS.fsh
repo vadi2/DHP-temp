@@ -7,6 +7,7 @@ Description: "Defines Uzbek and Russian translations for encounter type codes in
 * ^url = "https://terminology.medcore.uz/ValueSet/encounter-type-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
+* ^extension[=].valueCanonical = Canonical(EncounterTypeCS)
 
 * $encounter-type#gencl.0002.00001
 * $encounter-type#gencl.0002.00002
