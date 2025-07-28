@@ -8,3 +8,12 @@ Description: "Defines Uzbek and Russian translations for encounter type codes in
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 
+* $encounter-type#gencl.0002.00001
+* $encounter-type#gencl.0002.00002
+* $encounter-type#gencl.0002.00003
+* $encounter-type#gencl.0002.00004
+* $encounter-type#gencl.0002.00005
+* $encounter-type#gencl.0002.00006
+* $encounter-type#gencl.0002.00007
+
+
