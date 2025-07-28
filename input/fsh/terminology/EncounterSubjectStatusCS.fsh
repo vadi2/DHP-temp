@@ -1,4 +1,4 @@
-CodeSystem: EncouneterSubjectStatusCS
+CodeSystem: EncounterSubjectStatusCS
 Id: encounter-subject-status-cs
 Title: "Encouneter subject status translations"
 Description: "Encouneter subject status supplement with Uzbek and Russian translations"

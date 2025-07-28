@@ -5,7 +5,7 @@ Description: "Encounter class supplement with Uzbek and Russian translations"
 * ^url = "https://terminology.medcore.uz/CodeSystem/encounter-class-cs"
 * ^experimental = true
 * ^content = #supplement
-* ^supplements = $encounter-class
+* ^supplements = $v3-ActCode
 * ^language = #en
 
 * #IMP "IMP"
