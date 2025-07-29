@@ -69,3 +69,4 @@ Alias: $v3-MaritalStatus = http://terminology.hl7.org/CodeSystem/v3-MaritalStatu
 Alias: $v3-NullFlavor = http://terminology.hl7.org/CodeSystem/v3-NullFlavor
 Alias: $v3-RoleCode = http://terminology.hl7.org/CodeSystem/v3-RoleCode
 Alias: $valueset-supplement = http://hl7.org/fhir/StructureDefinition/valueset-supplement
+Alias: $encounter-reason-use = https://terminology.medcore.uz/ValueSet/encounter-reason-use
