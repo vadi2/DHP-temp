@@ -11,12 +11,16 @@ including diagnoses, symptoms and diseases , along with their characteristics(on
 * ^publisher = "Uzinfocom"
 //rules
 * clinicalStatus 1..1 MS
+* clinicalStatus from ClinicalStatusVS (required)
 * verificationStatus 0..1 MS
+* verificationStatus from VerificationStatusVS (required)
 * severity 0..1 MS
+* severity from SeverityVS (required)
 * code 0..1 MS
 //DiagnosisType(extension)
+* extension contains DiagnosisType named diagnosisType 0..1 MS
 * bodySite 0..* MS
-* bodySite from http://hl7.org/fhir/ValueSet/body-site(extensible) //не определено binding strength  экзеле по этому написал extensible . Еще фиш не видель Aliases поэтому написал таким образом
+* bodySite from $bodySite-condition (extensible)
 * subject 1..1 MS
 * subject only Reference(UZCorePatient)
 * encounter 0..1 MS
@@ -29,6 +33,7 @@ including diagnoses, symptoms and diseases , along with their characteristics(on
 * asserter 0..1 MS
 * asserter only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or RelatedPerson or Device)
 */
+//элемент asserter на fhir r5 не доступно поэтому ипшеспользовал  participant
 * participant  0..1 MS
 * participant.actor  only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or RelatedPerson or Device)
 * note 0..* MS
