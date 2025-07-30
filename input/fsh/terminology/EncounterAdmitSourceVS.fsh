@@ -2,7 +2,7 @@ ValueSet: EncounterAdmitSourceVS
 Id: encounter-admit-source-vs
 Title: "Encounter admit source translations"
 Description: "Defines Uzbek and Russian translations for Encounter admit source codes in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/ValueSet/marital-status-vs"
+* ^url = "https://terminology.medcore.uz/ValueSet/marital-status-vs" //
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterAdmitSourceCS)
@@ -13,4 +13,4 @@ Description: "Defines Uzbek and Russian translations for Encounter admit source 
 * $encounter-admit-source#born
 * $encounter-admit-source#psych
 * $encounter-admit-source#other
-* $admit-source-home#home
+* $admit-source-home#mserv.0003.00001
