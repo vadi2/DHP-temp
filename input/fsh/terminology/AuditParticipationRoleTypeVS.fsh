@@ -11,5 +11,5 @@ Description: "Defines how the participant participated in Uzbek and Russian"
 * ^extension[=].valueCanonical = Canonical(SecurityRoleTypeCS|0.2.0)
 * ^version = "5.0.0"
 
-* include SecurityRoleTypeCS#humanuser
+* include $extra-security-role-type#humanuser
 * include $dicom-dcm#110150
