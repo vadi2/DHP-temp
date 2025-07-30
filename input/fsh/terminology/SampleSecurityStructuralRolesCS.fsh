@@ -2,7 +2,7 @@ CodeSystem: SampleSecurityStructuralRolesCS
 Id: sample-security-structural-roles-cs
 Title: "Sample security structural roles"
 Description: "Sample security structural roles with translations in Uzbek and Russian, used in DHP as actual codes"
-* ^url = "https://terminology.medcore.uz/CodeSystem/security-role-type-cs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/sample-security-structural-roles-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $sample-security-structural-codes
