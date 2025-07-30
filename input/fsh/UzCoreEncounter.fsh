@@ -132,7 +132,10 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 * length 0..1
 * length ^short = "Учрашув давомийлиги"
 
-* diagnosis.extension contains http://example.org/fhir/StructureDefinition/diagnosis-type named type 0..1
+* diagnosis 0..*
+* diagnosis.condition only CodeableReference(Condition)
+* diagnosis.use 0..1
+* diagnosis.use from http://hl7.org/fhir/ValueSet/encounter-diagnosis-use
 
 * account 0..* 
 * account only Reference(Account)
@@ -143,16 +146,16 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 * admission.origin only Reference(Location or Organization)
 * admission.origin ^short = "Қабул манбаси (манба ташкилот ёки жой)"
 * admission.admitSource 0..1
-* admission.admitSource from http://example.org/fhir/ValueSet/admit-source (preferred)
+* admission.admitSource from https://terminology.medcore.uz/ValueSet/encounter-reAdmission(preferred)
 * admission.admitSource ^short = "Қабул манбаи (напр. emd)"
 * admission.reAdmission 0..1
-* admission.reAdmission from http://example.org/fhir/ValueSet/readmission (preferred)
+* admission.reAdmission from https://terminology.medcore.uz/ValueSet/encounter-reAdmission (preferred)
 * admission.reAdmission ^short = "Қайта қабул ҳолати (напр. R)"
 * admission.destination 0..1
 * admission.destination only Reference(Location or Organization)
 * admission.destination ^short = "Жўнатилган жой"
 * admission.dischargeDisposition 0..1
-* admission.dischargeDisposition from http://example.org/fhir/ValueSet/discharge-disposition (preferred)
+* admission.dischargeDisposition from https://terminology.medcore.uz/ValueSet/encounter-reAdmission (preferred)
 * admission.dischargeDisposition ^short = "Чиқарилиш ҳолати (напр. home)"
 
 * location 1..*

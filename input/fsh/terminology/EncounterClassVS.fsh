@@ -7,6 +7,7 @@ Description: "Defines Uzbek and Russian translations for encounter class codes i
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterClassCS)
 
+* codes from system EncounterClassCS
 * $v3-ActCode#IMP
 * $v3-ActCode#AMB
 * $v3-ActCode#EMER
