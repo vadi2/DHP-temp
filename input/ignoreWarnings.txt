@@ -5,13 +5,7 @@
 # See https://github.com/FHIR/sample-ig/blob/master/input/ignoreWarnings.txt for examples
 
 # This recommendation does not apply to these examples as they are not clinical observations.
-Best Practice Recommendation: In general, all observations should have a performer
-
-# IG Publisher can't process ISO 3166 validation just yet - known issue, reported
-Error from https://tx.fhir.org/r5: Unable to provide support for code system https://terminology.medcore.uz/CodeSystem/iso3166-two-letter-cs 
-
-# IG Publisher error for additional bindings - known issue, reported
-A definition for CodeSystem 'http://medcore.uz/StructureDefinition/uz-core-socioeconomic-observation' could not be found, so the code cannot be validated
+Best Practice Recommendation: In general, all observations should have a performer 
 
 # No R5 DICOM package exists yet, but we have to depend on it for our DICOM supplement to resolve correctly - known issue, reported
 This IG is version 5.0.0, while the IG 'fhir.dicom' is from version 4.0.1 
