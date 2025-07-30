@@ -8,27 +8,27 @@ Description: "Encouneter subject status supplement with Uzbek and Russian transl
 * ^supplements = $encounter-subject-status
 * ^language = #en
 
-* #gencl.0003.00001 "gencl.0003.00001"
+* #gencl.0003.00001 "Awake"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Hushida"
   * ^designation[+].language = #ru
   * ^designation[=].value = "В сознании "
-* #gencl.0003.00002 "gencl.0003.00002"
+* #gencl.0003.00002 "Unconscious"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Hushsiz"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Без сознания"
-* #gencl.0003.00003 "gencl.0003.00003"
+* #gencl.0003.00003 "Stable"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Barqaror"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Стабильный" 
-* #gencl.0003.00004 "gencl.0003.00004"
+* #gencl.0003.00004 "Critical"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Kritik holat"
   * ^designation[+].language = #ru
   * ^designation[=].value = "НестабильКритическое"
-* #gencl.0003.00005 "gencl.0003.00005"
+* #gencl.0003.00005 "Under Observation"
   * ^designation[0].language = #uz
   * ^designation[=].value = "TerminaKuzatuv ostidal"
   * ^designation[+].language = #ru

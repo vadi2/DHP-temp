@@ -8,32 +8,32 @@ Description: "Encounter priority supplement with Uzbek and Russian translations"
 * ^supplements = $encounter-priority
 * ^language = #en
 
-* #gencl.0002.00001 "gencl.0002.00001"
+* #gencl.0002.00001 "High"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Yuqori"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Высокий"
-* #gencl.0002.00002 "gencl.0002.00002"
+* #gencl.0002.00002 "Medium"
   * ^designation[0].language = #uz
   * ^designation[=].value = "O'rtacha"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Средний"
-* #gencl.0002.00003 "gencl.0002.00003"
+* #gencl.0002.00003 "Low"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Past"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Низкий"
-* #EM "EM"
+* #EM "Emergency"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Favqulodda vaziyat"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Чрезвычайная ситуация"
-* #P "P"
+* #P "Preop"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Operatsiyadan oldingi"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Предоперационный"   
-* #PRN "PRN"
+* #PRN "As needed"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Zaruratga qarab"
   * ^designation[+].language = #ru

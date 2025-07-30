@@ -8,27 +8,27 @@ Description: "Encounter class supplement with Uzbek and Russian translations"
 * ^supplements = $v3-ActCode
 * ^language = #en
 
-* #IMP "IMP"
+* #IMP "Inpatient"
   * ^designation[0].language = #uz 
   * ^designation[=].value = "Statsionar"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Cтационарная встреча"
-* #AMB "AMB"
+* #AMB "Ambulatory"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Ambulator"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Амбулаторный" 
-* #EMER "EMER"
+* #EMER "Emergency"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Tez yordam (03)"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Неотложная помощь (03)" 
-* #VR "VR"
+* #VR "Virtual"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Virtual (telemeditsina)"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Bиртуальный (телемедицина)"
-* #HH "HH" 
+* #HH "Home visit" 
   * ^designation[0].language = #uz
   * ^designation[=].value = "Uyga tashrif (patronaj)"
   * ^designation[+].language = #ru
