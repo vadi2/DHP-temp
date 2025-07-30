@@ -7,8 +7,12 @@
 # This recommendation does not apply to these examples as they are not clinical observations.
 Best Practice Recommendation: In general, all observations should have a performer
 
-# IG Publisher can't process ISO 3166 validation just yet
+# IG Publisher can't process ISO 3166 validation just yet - known issue, reported
 Error from https://tx.fhir.org/r5: Unable to provide support for code system https://terminology.medcore.uz/CodeSystem/iso3166-two-letter-cs 
 
-# IG Publisher error for additional bindings
+# IG Publisher error for additional bindings - known issue, reported
 A definition for CodeSystem 'http://medcore.uz/StructureDefinition/uz-core-socioeconomic-observation' could not be found, so the code cannot be validated
+
+# No R5 DICOM package exists yet, but we have to depend on it for our DICOM supplement to resolve correctly - known issue, reported
+This IG is version 5.0.0, while the IG 'fhir.dicom' is from version 4.0.1 
+The ImplementationGuide is based on FHIR version 5.0.0 but package fhir.dicom#2025.2.20250411 is based on FHIR version 4.0.1. In general, this version mismatch should be avoided - some tools will try to make this work with variable degrees of success, but others will not even try 
