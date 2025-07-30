@@ -8,7 +8,7 @@ Description: "Defines how the participant participated in Uzbek and Russian"
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(DicomDCMCS)
 * ^extension[+].url = $valueset-supplement
-* ^extension[=].valueCanonical = Canonical(SecurityRoleTypeCS|0.2.0)
+* ^extension[=].valueCanonical = Canonical(SecurityRoleTypeCS)
 * ^version = "5.0.0"
 
 * include $extra-security-role-type#humanuser
