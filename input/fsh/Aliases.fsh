@@ -72,3 +72,4 @@ Alias: $valueset-supplement = http://hl7.org/fhir/StructureDefinition/valueset-s
 Alias: $encounter-reason-use = https://terminology.medcore.uz/ValueSet/encounter-reason-use
 Alias: $encounter-admit-source = http://terminology.hl7.org/CodeSystem/admit-source
 Alias: $admit-source-home = https://terminology.medcore.uz/CodeSystem/admit-source-home-cs
+Alias: $v2-admission = http://terminology.hl7.org/CodeSystem/v2-0092
