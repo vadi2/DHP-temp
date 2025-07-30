@@ -9,6 +9,7 @@ Best Practice Recommendation: In general, all observations should have a perform
 
 # IG Publisher can't process ISO 3166 validation just yet
 Error from https://tx.fhir.org/r5: Unable to provide support for code system https://terminology.medcore.uz/CodeSystem/iso3166-two-letter-cs 
+Required supplement not found: https://terminology.medcore.uz/CodeSystem/iso3166-two-letter-cs|0.1.0 (and Error from https://tx.fhir.org/r5: Required supplement not found: https://terminology.medcore.uz/CodeSystem/iso3166-two-letter-cs|0.1.0) 
 
 # IG Publisher error for additional bindings
 A definition for CodeSystem 'http://medcore.uz/StructureDefinition/uz-core-socioeconomic-observation' could not be found, so the code cannot be validated
