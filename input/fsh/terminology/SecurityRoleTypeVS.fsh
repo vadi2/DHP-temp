@@ -5,7 +5,7 @@ Description: "Defines the role of the participant that is being recorded in Uzbe
 * ^url = "https://terminology.medcore.uz/ValueSet/security-role-type-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
-* ^extension[=].valueCanonical = Canonical(SecurityRoleTypeCS)
+* ^extension[=].valueCanonical = Canonical(SampleSecurityStructuralRolesCS)
 * ^version = "5.0.0"
 
 * include $sample-security-structural-codes#regulated-health-professionals
