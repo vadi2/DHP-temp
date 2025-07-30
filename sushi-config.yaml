@@ -72,6 +72,9 @@ parameters:
   # shownav: true
 
   pin-canonicals: pin-all
+  apply-version: false # don't override the version in the knowledge resources
+  default-version: true
+
   # openehr: true
 
   # multi-lingual support
