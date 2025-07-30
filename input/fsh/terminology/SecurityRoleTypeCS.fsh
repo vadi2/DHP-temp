@@ -8,16 +8,6 @@ Description: "Security role type supplement with translations in Uzbek and Russi
 * ^supplements = $extra-security-role-type
 * ^version = "0.2.0"
 * ^language = #en
-* #regulated-health-professionals
-  * ^designation[0].language = #ru
-  * ^designation[=].value = "Регулируемые специалисты здравоохранения"
-  * ^designation[+].language = #uz
-  * ^designation[=].value = "Tartibga solinadigan sog'liqni saqlash mutaxassislari"
-* #non-regulated-health-professionals
-  * ^designation[0].language = #ru
-  * ^designation[=].value = "Нерегулируемые специалисты здравоохранения"
-  * ^designation[+].language = #uz
-  * ^designation[=].value = "Tartibga solinmagan sog'liqni saqlash mutaxassislari"
 * #humanuser
   * ^designation[0].language = #ru
   * ^designation[=].value = "Пользователь"
