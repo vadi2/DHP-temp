@@ -35,5 +35,5 @@ including diagnoses, symptoms and diseases , along with their characteristics(on
 */
 //элемент asserter на fhir r5 не доступно поэтому ипшеспользовал  participant
 * participant  0..1 MS
-* participant.actor  only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or RelatedPerson or Device)
+* participant.actor  only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or UZCoreRelatedPerson or Device)
 * note 0..* MS
