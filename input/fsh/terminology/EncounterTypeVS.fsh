@@ -1,7 +1,5 @@
-//will check on Monday
-
 ValueSet: EncounterTypeVS
-Id: encounter-type-vs
+Id: encounter-type
 Title: "Encounter type translations"
 Description: "Defines Uzbek and Russian translations for encounter type codes in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/ValueSet/encounter-type-vs"

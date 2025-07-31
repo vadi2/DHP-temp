@@ -1,6 +1,6 @@
-ValueSet: EncounterAdmissionVS
-Id: encounter-admission-vs
-Title: "Marital status translations"
+ValueSet: EncounterReAdmissionVS
+Id: encounter-reAdmission-vs
+Title: "Encounter admission translations"
 Description: "Defines Uzbek and Russian translations for encounter admission codes in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/ValueSet/encounter-reAdmission"
 * ^experimental = true
