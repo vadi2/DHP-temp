@@ -7,12 +7,12 @@ Description: "Differentiation of the administrative gender 'other' in Uzbek and 
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
 * ^language = #uz
-* #regis0007.00004 "Jinsni ayolga o'zgartirdi"
+* #regis0007-00004 "Jinsni ayolga o'zgartirdi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сменил пол на женщину"
   * ^designation[+].language = #en
   * ^designation[=].value = "Changed gender to female"
-* #regis0007.00005 "Jinsni erkakka o'zgartirdi"
+* #regis0007-00005 "Jinsni erkakka o'zgartirdi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сменил пол на мужчину"
   * ^designation[+].language = #en
