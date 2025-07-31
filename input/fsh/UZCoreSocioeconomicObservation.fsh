@@ -60,7 +60,7 @@ Usage: #example
 * status = #final
 * code.coding[socioeconomicType] = $sct#1303306008 "Eligible for benefit"
 * subject = Reference(example-salim)
-* valueCodeableConcept = benefits-cs#regis0004.00002 "Chin yetimlar"
+* valueCodeableConcept = benefits-cs#regis0004-00002 "Chin yetimlar"
 * effectiveDateTime = "2025-06-11"
 
 Instance: example-david-benefits
@@ -71,7 +71,7 @@ Usage: #example
 * status = #final
 * code.coding[socioeconomicType] = $sct#1303306008 "Eligible for benefit"
 * subject = Reference(example-david)
-* valueCodeableConcept = benefits-cs#regis0004.00011 "Chaqiruv komissiyalarining yo'llanmalari bo'yicha chaqiruv yoshidagi (18 - 27 yoshdagi) shaxslar"
+* valueCodeableConcept = benefits-cs#regis0004-00011 "Chaqiruv komissiyalarining yo'llanmalari bo'yicha chaqiruv yoshidagi (18 - 27 yoshdagi) shaxslar"
 * effectiveDateTime = "2025-06-11"
 
 // Education examples
@@ -83,7 +83,7 @@ Usage: #example
 * status = #final
 * code.coding[socioeconomicType] = $sct#105421008 "Educational achievement"
 * subject = Reference(example-salim)
-* valueCodeableConcept = education-cs#regis0005.00004 "O'rtacha"
+* valueCodeableConcept = education-cs#regis0005-00004 "O'rtacha"
 * effectiveDateTime = "2025-06-11"
 
 Instance: example-david-education
@@ -94,7 +94,7 @@ Usage: #example
 * status = #final
 * code.coding[socioeconomicType] = $sct#105421008 "Educational achievement"
 * subject = Reference(example-david)
-* valueCodeableConcept = education-cs#regis0005.00008 "Oliy ma'lumot"
+* valueCodeableConcept = education-cs#regis0005-00008 "Oliy ma'lumot"
 * effectiveDateTime = "2025-06-11"
 
 // Profession examples
@@ -129,7 +129,7 @@ Usage: #example
 * status = #final
 * code.coding[socioeconomicType] = $sct#82996008 "Social status"
 * subject = Reference(example-salim)
-* valueCodeableConcept = social-status-cs#regis0010.00003 "Ishlash"
+* valueCodeableConcept = social-status-cs#regis0010-00003 "Ishlash"
 * effectiveDateTime = "2025-06-11"
 
 Instance: example-david-social-status
@@ -140,5 +140,5 @@ Usage: #example
 * status = #final
 * code.coding[socioeconomicType] = $sct#82996008 "Social status"
 * subject = Reference(example-david)
-* valueCodeableConcept = social-status-cs#regis0010.00003 "Ishlash"
+* valueCodeableConcept = social-status-cs#regis0010-00003 "Ishlash"
 * effectiveDateTime = "2025-06-11"
