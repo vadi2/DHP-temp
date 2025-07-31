@@ -58,9 +58,9 @@ Usage: #example
 * recorded = "2023-11-09T15:23:47.123Z"
 
 * agent
+  * type = $extra-security-role-type#humanuser
   * role = $sample-security-structural-codes#regulated-health-professionals
   * authorization = $v3-ActReason#TREAT
-  * type = $extra-security-role-type#humanuser
   * who = Reference(example-practitionerrole)
 
 * source
@@ -81,9 +81,9 @@ Usage: #example
 * code = $http-interaction#search
 * outcome.code = $issue-severity#success
 * agent
+  * type = $extra-security-role-type#humanuser
   * role = $sample-security-structural-codes#regulated-health-professionals
   * authorization = $v3-ActReason#TREAT
-  * type = $extra-security-role-type#humanuser
   * who = Reference(example-practitionerrole)
 * entity
   * what = Reference(example-condition)

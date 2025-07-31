@@ -6,6 +6,7 @@ Description: "ISO 3166-1 2-letter supplement with Uzbek and Russian translations
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = "urn:iso:std:iso:3166"
+* ^version = "1.0.0"
 * ^language = #en
 * #AD "Andorra"
 * #AD ^designation[0].language = #ru
