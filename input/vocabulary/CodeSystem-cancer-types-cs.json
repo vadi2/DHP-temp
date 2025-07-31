@@ -10,7 +10,7 @@
   "experimental": true,
   "concept": [
     {
-      "code": "cancr0003.00000",
+      "code": "cancr0003-00000",
       "display": "IHC nonspesifik_antikorlari",
       "designation": [
         {
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "code": "cancr0003.00001",
+      "code": "cancr0003-00001",
       "display": "pS2 (TFF1, Trefoil Factor 1)",
       "designation": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "code": "cancr0003.00002",
+      "code": "cancr0003-00002",
       "display": "Bcl-2 (B-hujayrali limfoma 2)",
       "designation": [
         {
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "code": "cancr0003.00003",
+      "code": "cancr0003-00003",
       "display": "P53 (o'simta oqsili 53)",
       "designation": [
         {
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "code": "cancr0003.00004",
+      "code": "cancr0003-00004",
       "display": "CD3 (oqsil kompleksi)",
       "designation": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "code": "cancr0003.00005",
+      "code": "cancr0003-00005",
       "display": "OIV / OITS bilan kasallangan bemorlarda CD4 (glikoprotein).",
       "designation": [
         {
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "code": "cancr0003.00006",
+      "code": "cancr0003-00006",
       "display": "CD5 (oqsil)",
       "designation": [
         {
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "code": "cancr0003.00007",
+      "code": "cancr0003-00007",
       "display": "CD8 (glikoprotein)",
       "designation": [
         {
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "code": "cancr0003.00008",
+      "code": "cancr0003-00008",
       "display": "CD10 (membran oqsili)",
       "designation": [
         {
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "code": "cancr0003.00009",
+      "code": "cancr0003-00009",
       "display": "CD15 (sirt antijeni)",
       "designation": [
         {
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "code": "cancr0003.00010",
+      "code": "cancr0003-00010",
       "display": "CD20 (B limfotsitlari yuzasida ifodalangan oqsil)",
       "designation": [
         {
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "code": "cancr0003.00011",
+      "code": "cancr0003-00011",
       "display": "CD23 (ba'zi B limfotsitlarida ifodalangan sirt antijeni)",
       "designation": [
         {
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "code": "cancr0003.00012",
+      "code": "cancr0003-00012",
       "display": "CD30 (faollashgan limfotsitlarda ifodalangan membrana oqsili)",
       "designation": [
         {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "code": "cancr0003.00013",
+      "code": "cancr0003-00013",
       "display": "CD79 a (B-hujayra antijeni retseptorlarining tarkibiy qismi bo'lgan oqsil)",
       "designation": [
         {
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "code": "cancr0003.00014",
+      "code": "cancr0003-00014",
       "display": "CD99 (Ewing sarkomasi va boshqa ibtidoiy neyroektodermal o'smalarni tashxislash uchun marker sifatida ishlatiladigan membrana oqsili)",
       "designation": [
         {
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "code": "cancr0003.00015",
+      "code": "cancr0003-00015",
       "display": "CD117 (protein, c-Kit deb ham ataladi)",
       "designation": [
         {
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "code": "cancr0003.00016",
+      "code": "cancr0003-00016",
       "display": "CD138 (membran oqsili, sindikan-1 sifatida ham tanilgan)",
       "designation": [
         {
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "code": "cancr0003.00017",
+      "code": "cancr0003-00017",
       "display": "CD34 (poya va progenitor hujayralarda ifodalangan glikoprotein. Gematopoetik ildiz hujayralarini aniqlash uchun ishlatiladi)",
       "designation": [
         {
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "code": "cancr0003.00018",
+      "code": "cancr0003-00018",
       "display": "CD45 (OLA) (Oq qon hujayralarining barcha turlarida ifodalangan oqsil. Oq qon hujayralarini aniqlash va o'rganish uchun ishlatiladi.",
       "designation": [
         {
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "code": "cancr0003.00019",
+      "code": "cancr0003-00019",
       "display": "Pan-B (barcha B hujayralarini aniqlash uchun Pan B hujayra belgisi ishlatiladi)",
       "designation": [
         {
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "code": "cancr0003.00020",
+      "code": "cancr0003-00020",
       "display": "Pan-T Pan-T hujayra belgisi barcha T-limfotsitlarni aniqlash uchun ishlatiladi",
       "designation": [
         {
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "code": "cancr0003.00021",
+      "code": "cancr0003-00021",
       "display": "BLA-36 B hujayralari va ba'zi limfomalar uchun maxsus marker.",
       "designation": [
         {
@@ -318,7 +318,7 @@
       ]
     },
     {
-      "code": "cancr0003.00022",
+      "code": "cancr0003-00022",
       "display": "TDT (terminal deoksinukleotidil transferaza) Limfoid hujayralar rivojlanishining boshida ifodalangan oqsil",
       "designation": [
         {
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "code": "cancr0003.00023",
+      "code": "cancr0003-00023",
       "display": "l zanjirlari (Immunoglobulinlarning engil zanjirlari B hujayrali malign o'smalarda klonallikni aniqlash uchun ishlatiladi)",
       "designation": [
         {
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "code": "cancr0003.00024",
+      "code": "cancr0003-00024",
       "display": "k zanjirlari (Immunoglobulin engil zanjirlari B hujayrali malign o'smalarda klonallikni aniqlash uchun ishlatiladi)",
       "designation": [
         {
@@ -360,7 +360,7 @@
       ]
     },
     {
-      "code": "cancr0003.00025",
+      "code": "cancr0003-00025",
       "display": "Siklin D1 Protein hujayra siklini tartibga solishda ishtirok etadi",
       "designation": [
         {
@@ -374,7 +374,7 @@
       ]
     },
     {
-      "code": "cancr0003.00026",
+      "code": "cancr0003-00026",
       "display": "Bcl-2 apoptozni inhibe qiluvchi proto-onkogen",
       "designation": [
         {
@@ -388,7 +388,7 @@
       ]
     },
     {
-      "code": "cancr0003.00027",
+      "code": "cancr0003-00027",
       "display": "Bcl-6 B hujayralarini tartibga solishda ishtirok etadigan transkripsiya omili",
       "designation": [
         {
@@ -402,7 +402,7 @@
       ]
     },
     {
-      "code": "cancr0003.00028",
+      "code": "cancr0003-00028",
       "display": "MPO (Myeloperoksidaza): Granulotsitlarda ifodalangan ferment.",
       "designation": [
         {
@@ -416,7 +416,7 @@
       ]
     },
     {
-      "code": "cancr0003.00029",
+      "code": "cancr0003-00029",
       "display": "CD68 Makrofaglarda ifodalangan oqsil",
       "designation": [
         {
@@ -430,7 +430,7 @@
       ]
     },
     {
-      "code": "cancr0003.00030",
+      "code": "cancr0003-00030",
       "display": "Sitokeratin-Pan: marker barcha turdagi epiteliya hujayralarini aniqlash uchun ishlatiladi.",
       "designation": [
         {
@@ -444,7 +444,7 @@
       ]
     },
     {
-      "code": "cancr0003.00031",
+      "code": "cancr0003-00031",
       "display": "EMA (epitelial membrana antijeni): epiteliya o'smalarini aniqlash uchun ishlatiladigan marker.",
       "designation": [
         {
@@ -458,7 +458,7 @@
       ]
     },
     {
-      "code": "cancr0003.00032",
+      "code": "cancr0003-00032",
       "display": "BER-EP-4 Antikor epiteliya hujayralarini aniqlashda, ayniqsa karsinomalarni tashxislashda ishlatiladi.",
       "designation": [
         {
@@ -472,7 +472,7 @@
       ]
     },
     {
-      "code": "cancr0003.00033",
+      "code": "cancr0003-00033",
       "display": "TTF-1 (Tiroid transkripsiya faktor-1): Qalqonsimon bez va o'pka hujayralarida ifodalangan transkripsiya omili",
       "designation": [
         {
@@ -486,7 +486,7 @@
       ]
     },
     {
-      "code": "cancr0003.00034",
+      "code": "cancr0003-00034",
       "display": "GFAP (Glial fibrilyar kislota oqsili): glial hujayralarda ifodalangan oqsil.",
       "designation": [
         {
@@ -500,7 +500,7 @@
       ]
     },
     {
-      "code": "cancr0003.00035",
+      "code": "cancr0003-00035",
       "display": "EGFR (HER-1) Epidermal o'sish omili retseptorlari",
       "designation": [
         {
@@ -514,7 +514,7 @@
       ]
     },
     {
-      "code": "cancr0003.00036",
+      "code": "cancr0003-00036",
       "display": "Sitokeratin 7: adenokarsinoma va boshqa epiteliya o'smalarini tashxislash uchun ishlatiladigan marker.",
       "designation": [
         {
@@ -528,7 +528,7 @@
       ]
     },
     {
-      "code": "cancr0003.00037",
+      "code": "cancr0003-00037",
       "display": "Sitokeratin 8: Turli xil karsinomalarni tashxislash uchun ishlatiladigan marker.",
       "designation": [
         {
@@ -542,7 +542,7 @@
       ]
     },
     {
-      "code": "cancr0003.00038",
+      "code": "cancr0003-00038",
       "display": "Sitokeratin 19: Marker metastatik karsinomalarni tashxislash uchun ishlatiladi.",
       "designation": [
         {
@@ -556,7 +556,7 @@
       ]
     },
     {
-      "code": "cancr0003.00039",
+      "code": "cancr0003-00039",
       "display": "Sitokeratin 20: Kolorektal va boshqa adenokarsinomalarni tashxislash uchun ishlatiladigan marker.",
       "designation": [
         {
@@ -570,7 +570,7 @@
       ]
     },
     {
-      "code": "cancr0003.00040",
+      "code": "cancr0003-00040",
       "display": "Sitokeratin-skuamoz: skuamoz hujayrali karsinomalarni tashxislash uchun marker.",
       "designation": [
         {
@@ -584,7 +584,7 @@
       ]
     },
     {
-      "code": "cancr0003.00041",
+      "code": "cancr0003-00041",
       "display": "CEA (Carcinoembrionic Antigen): saraton kasalligini tashxislash va monitoring qilish uchun o'simta belgisi sifatida ishlatiladigan oqsil.",
       "designation": [
         {
@@ -598,7 +598,7 @@
       ]
     },
     {
-      "code": "cancr0003.00042",
+      "code": "cancr0003-00042",
       "display": "PSA (prostata o'ziga xos antigen): prostata saratoni tashxisi va monitoringi uchun marker sifatida ishlatiladigan protein.",
       "designation": [
         {
@@ -612,7 +612,7 @@
       ]
     },
     {
-      "code": "cancr0003.00043",
+      "code": "cancr0003-00043",
       "display": "AR (Androgen retseptorlari): prostata saratoni tashxisi va tadqiqoti uchun ishlatiladigan androgen retseptorlari.",
       "designation": [
         {
@@ -626,7 +626,7 @@
       ]
     },
     {
-      "code": "cancr0003.00044",
+      "code": "cancr0003-00044",
       "display": "Vimentin Mezenxima hujayralarini aniqlash va sarkomalarni tashxislash uchun ishlatiladigan oraliq filament oqsili.",
       "designation": [
         {
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "code": "cancr0003.00045",
+      "code": "cancr0003-00045",
       "display": "Desmin Mushak hujayralarida ifodalangan oraliq filament oqsili.",
       "designation": [
         {
@@ -654,7 +654,7 @@
       ]
     },
     {
-      "code": "cancr0003.00046",
+      "code": "cancr0003-00046",
       "display": "Pan-aktin: hujayralardagi aktin filamentlarini aniqlash uchun ishlatiladigan oqsil.",
       "designation": [
         {
@@ -668,7 +668,7 @@
       ]
     },
     {
-      "code": "cancr0003.00047",
+      "code": "cancr0003-00047",
       "display": "a-aktin SM (a-Smooth Muscle Actin): silliq mushak o'smalarini tashxislash uchun ishlatiladigan silliq mushak hujayralari belgisi.",
       "designation": [
         {
@@ -682,7 +682,7 @@
       ]
     },
     {
-      "code": "cancr0003.00048",
+      "code": "cancr0003-00048",
       "display": "E-kaderin: adenokarsinomalarni tashxislash uchun ishlatiladigan adezyon oqsili.",
       "designation": [
         {
@@ -696,7 +696,7 @@
       ]
     },
     {
-      "code": "cancr0003.00049",
+      "code": "cancr0003-00049",
       "display": "P63 Transkripsiya omili skuamoz hujayrali karsinoma va boshqa o'smalarni tashxislashda qo'llaniladi.",
       "designation": [
         {
@@ -710,7 +710,7 @@
       ]
     },
     {
-      "code": "cancr0003.00050",
+      "code": "cancr0003-00050",
       "display": "Kollagen IV Bazal membrana kasalliklarini tashxislash uchun ishlatiladigan protein.",
       "designation": [
         {
@@ -724,7 +724,7 @@
       ]
     },
     {
-      "code": "cancr0003.00051",
+      "code": "cancr0003-00051",
       "display": "NF (neyrofilament): neyronlarda ifodalangan oqsil. Neyron o'smalarini tashxislash uchun ishlatiladi.(",
       "designation": [
         {
@@ -738,7 +738,7 @@
       ]
     },
     {
-      "code": "cancr0003.00052",
+      "code": "cancr0003-00052",
       "display": "MBP (Myoglobin): Mushaklarning shikastlanishini tashxislash uchun ishlatiladigan protein.",
       "designation": [
         {
@@ -752,7 +752,7 @@
       ]
     },
     {
-      "code": "cancr0003.00053",
+      "code": "cancr0003-00053",
       "display": "NSE (neyronga xos enolaza): neyroendokrin o'smalarini tashxislash uchun ishlatiladigan oqsil.",
       "designation": [
         {
@@ -766,7 +766,7 @@
       ]
     },
     {
-      "code": "cancr0003.00054",
+      "code": "cancr0003-00054",
       "display": "S100 Protein melanoma va boshqa o'smalarni tashxislash uchun ishlatiladi.",
       "designation": [
         {
@@ -780,7 +780,7 @@
       ]
     },
     {
-      "code": "cancr0003.00055",
+      "code": "cancr0003-00055",
       "display": "HMB-45 antikori melanoma tashxisi uchun ishlatiladi.",
       "designation": [
         {
@@ -794,7 +794,7 @@
       ]
     },
     {
-      "code": "cancr0003.00056",
+      "code": "cancr0003-00056",
       "display": "a-1-AChT (a-1-Antitripsin): Jigar va o'pka kasalliklarini tashxislash uchun ishlatiladigan oqsil.",
       "designation": [
         {
@@ -808,7 +808,7 @@
       ]
     },
     {
-      "code": "cancr0003.00057",
+      "code": "cancr0003-00057",
       "display": "NBME-1 antikori mezotelyoma tashxisi uchun ishlatiladi.",
       "designation": [
         {
@@ -822,7 +822,7 @@
       ]
     },
     {
-      "code": "cancr0003.00058",
+      "code": "cancr0003-00058",
       "display": "Kalsitonin: qalqonsimon bezning medullar saratonini tashxislash uchun ishlatiladigan gormon.",
       "designation": [
         {
@@ -836,7 +836,7 @@
       ]
     },
     {
-      "code": "cancr0003.00059",
+      "code": "cancr0003-00059",
       "display": "Tiroglobulin: qalqonsimon bez saratonini kuzatish uchun ishlatiladigan protein.",
       "designation": [
         {
@@ -850,7 +850,7 @@
       ]
     },
     {
-      "code": "cancr0003.00060",
+      "code": "cancr0003-00060",
       "display": "Sinaptofizin: Neyroendokrin o'smalarni tashxislash uchun ishlatiladigan oqsil.",
       "designation": [
         {
@@ -864,7 +864,7 @@
       ]
     },
     {
-      "code": "cancr0003.00061",
+      "code": "cancr0003-00061",
       "display": "Xromogranin Neyroendokrin hujayralarda ifodalangan glikoprotein.",
       "designation": [
         {
@@ -878,7 +878,7 @@
       ]
     },
     {
-      "code": "cancr0003.00062",
+      "code": "cancr0003-00062",
       "display": "AFP AFP, alfa-fetoprotein) Odatda homilaning jigari va sarig'i qopchasi tomonidan ishlab chiqariladigan oqsil.",
       "designation": [
         {
@@ -892,7 +892,7 @@
       ]
     },
     {
-      "code": "cancr0003.00063",
+      "code": "cancr0003-00063",
       "display": "PLAP (platsenta ishqoriy fosfataza) platsentada ifodalangan ferment",
       "designation": [
         {
@@ -906,7 +906,7 @@
       ]
     },
     {
-      "code": "cancr0003.00064",
+      "code": "cancr0003-00064",
       "display": "VEGF (qon tomir endotelial o'sish omili) yangi qon tomirlarining o'sishini rag'batlantiradigan oqsil.",
       "designation": [
         {
@@ -920,7 +920,7 @@
       ]
     },
     {
-      "code": "cancr0003.00065",
+      "code": "cancr0003-00065",
       "display": "VEGFR (qon tomir endotelial o'sish omili retseptorlari) angiogenezda ishtirok etadigan VEGF retseptorlari",
       "designation": [
         {
@@ -934,7 +934,7 @@
       ]
     },
     {
-      "code": "cancr0003.00066",
+      "code": "cancr0003-00066",
       "display": "ALK (anaplastik limfoma kinaz) hujayra o'sishida ishtirok etadigan tirozin kinaz",
       "designation": [
         {
@@ -948,7 +948,7 @@
       ]
     },
     {
-      "code": "cancr0003.00067",
+      "code": "cancr0003-00067",
       "display": "p16 (Siklinga bog'liq kinaz inhibitori 2A) Hujayra bo'linish siklini inhibe qiluvchi oqsil",
       "designation": [
         {
@@ -962,7 +962,7 @@
       ]
     },
     {
-      "code": "cancr0003.00068",
+      "code": "cancr0003-00068",
       "display": "Amacr Amacr (Alpha-Methylacyl-CoA Racemase) yog 'kislotalari almashinuvida ishtirok etadigan ferment",
       "designation": [
         {
@@ -976,7 +976,7 @@
       ]
     },
     {
-      "code": "cancr0003.00069",
+      "code": "cancr0003-00069",
       "display": "Androgen R (Androgen retseptorlari) Androgen retseptorlari erkaklarning jinsiy xususiyatlarini tartibga solishda ishtirok etadilar.",
       "designation": [
         {
@@ -990,7 +990,7 @@
       ]
     },
     {
-      "code": "cancr0003.00070",
+      "code": "cancr0003-00070",
       "display": "Annexin A1 Yallig'lanish jarayonlarida va apoptozni tartibga solishda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -1004,7 +1004,7 @@
       ]
     },
     {
-      "code": "cancr0003.00071",
+      "code": "cancr0003-00071",
       "display": "Arginaza-1 fermenti arginin almashinuvida ishtirok etadi",
       "designation": [
         {
@@ -1018,7 +1018,7 @@
       ]
     },
     {
-      "code": "cancr0005.00000",
+      "code": "cancr0005-00000",
       "display": "Molekulyar genetik tadqiqotlar markerlari",
       "designation": [
         {
@@ -1032,7 +1032,7 @@
       ]
     },
     {
-      "code": "cancr0005.00001",
+      "code": "cancr0005-00001",
       "display": "ABCB11 ATP-bog'lovchi kassetali B sub-familiyasi a'zosi 11) Protein, jigarda o't kislotalarini tashuvchisi",
       "designation": [
         {
@@ -1046,7 +1046,7 @@
       ]
     },
     {
-      "code": "cancr0005.00002",
+      "code": "cancr0005-00002",
       "display": "ABRAXAS1 (FAM175A) DNKni tiklashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -1060,7 +1060,7 @@
       ]
     },
     {
-      "code": "cancr0005.00003",
+      "code": "cancr0005-00003",
       "display": "ACD (adrenokortikal displazi homologi) telomerni saqlashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1074,7 +1074,7 @@
       ]
     },
     {
-      "code": "cancr0005.00004",
+      "code": "cancr0005-00004",
       "display": "AIP (Aril uglevodorod retseptorlari bilan o'zaro ta'sir qiluvchi protein) aril uglevodorod retseptorlari funktsiyalarini tartibga soluvchi oqsil",
       "designation": [
         {
@@ -1088,7 +1088,7 @@
       ]
     },
     {
-      "code": "cancr0005.00005",
+      "code": "cancr0005-00005",
       "display": "AKT1 (AKT Serin/Treonin Kinaz 1) Kinaz hujayra o'sishi va omon qolishini tartibga soluvchi signal yo'llarida ishtirok etadi",
       "designation": [
         {
@@ -1102,7 +1102,7 @@
       ]
     },
     {
-      "code": "cancr0005.00006",
+      "code": "cancr0005-00006",
       "display": "ALK (anaplastik limfoma kinaz) hujayra o'sishida ishtirok etadigan tirozin kinaz",
       "designation": [
         {
@@ -1116,7 +1116,7 @@
       ]
     },
     {
-      "code": "cancr0005.00007",
+      "code": "cancr0005-00007",
       "display": "ANKRD26 (Ankyrin Repeat Domain 26) Noma'lum aniq funktsiyaga ega protein, ammo mutatsiyalar trombotsitopeniya va miyeloid neoplaziyaning irsiy shakllari bilan bog'liq.",
       "designation": [
         {
@@ -1130,7 +1130,7 @@
       ]
     },
     {
-      "code": "cancr0005.00008",
+      "code": "cancr0005-00008",
       "display": "APC (Adenomatous Polyposis Coli) Hujayra siklini tartibga solishda ishtirok etadigan o'simta bostiruvchi oqsil.",
       "designation": [
         {
@@ -1144,7 +1144,7 @@
       ]
     },
     {
-      "code": "cancr0005.00009",
+      "code": "cancr0005-00009",
       "display": "AR (Androgen retseptorlari) Androgen retseptorlari erkaklarning jinsiy xususiyatlarini tartibga solishda ishtirok etadilar",
       "designation": [
         {
@@ -1158,7 +1158,7 @@
       ]
     },
     {
-      "code": "cancr0005.00010",
+      "code": "cancr0005-00010",
       "display": "ASCC1 (Faollashtiruvchi Signal Kointegrator 1 Kompleks Subunit 1) Transkripsiya va DNK ta'mirlashni tartibga solishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1172,7 +1172,7 @@
       ]
     },
     {
-      "code": "cancr0005.00011",
+      "code": "cancr0005-00011",
       "display": "ASXL1 (1 kabi qo'shimcha jinsiy taroq) Transkripsiyani tartibga solishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1186,7 +1186,7 @@
       ]
     },
     {
-      "code": "cancr0005.00012",
+      "code": "cancr0005-00012",
       "display": "ATM (ataksiya telangiektaziyasi mutatsiyaga uchragan) oqsil DNKni tiklash va hujayra siklini tartibga solishda muhim rol o'ynaydi.",
       "designation": [
         {
@@ -1200,7 +1200,7 @@
       ]
     },
     {
-      "code": "cancr0005.00013",
+      "code": "cancr0005-00013",
       "display": "ATP8B1 (ATPase Fosfolipidni tashuvchi 8B1) Fosfolipidlarni tashishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1214,7 +1214,7 @@
       ]
     },
     {
-      "code": "cancr0005.00014",
+      "code": "cancr0005-00014",
       "display": "ATR (ATR Serin / Treonin Kinaz) kinaz DNKning shikastlanishiga javob berish va tiklashda muhim rol o'ynaydi.",
       "designation": [
         {
@@ -1228,7 +1228,7 @@
       ]
     },
     {
-      "code": "cancr0005.00015",
+      "code": "cancr0005-00015",
       "display": "AXIN2 (Axis Inhibition Protein 2) Wnt signalizatsiya yo'lini tartibga solishda ishtirok etadigan oqsil. Mutatsiyalar kolorektal saraton xavfining oshishi bilan bog'liq.",
       "designation": [
         {
@@ -1242,7 +1242,7 @@
       ]
     },
     {
-      "code": "cancr0005.00016",
+      "code": "cancr0005-00016",
       "display": "BAP1 (BRCA1 Associated Protein 1) Deubiquitinase hujayra siklini tartibga solish va DNKni tiklashda ishtirok etadi",
       "designation": [
         {
@@ -1256,7 +1256,7 @@
       ]
     },
     {
-      "code": "cancr0005.00017",
+      "code": "cancr0005-00017",
       "display": "BARD1 (BRCA1 Associated RING Domain 1) DNKni tiklashda ishtirok etadigan BRCA1 bilan o'zaro ta'sir qiluvchi protein",
       "designation": [
         {
@@ -1270,7 +1270,7 @@
       ]
     },
     {
-      "code": "cancr0005.00018",
+      "code": "cancr0005-00018",
       "display": "BLM (Bloom sindromi, RecQ Helicase-like) DNKni tiklashda ishtirok etadigan helikaz.",
       "designation": [
         {
@@ -1284,7 +1284,7 @@
       ]
     },
     {
-      "code": "cancr0005.00019",
+      "code": "cancr0005-00019",
       "display": "BMPR1A (Suyak morfogenetik oqsil retseptorlari turi 1A) o'sish va rivojlanishni tartibga solishda ishtirok etadigan suyak morfogenetik oqsil retseptorlari",
       "designation": [
         {
@@ -1298,7 +1298,7 @@
       ]
     },
     {
-      "code": "cancr0005.00020",
+      "code": "cancr0005-00020",
       "display": "BRAF (B-Raf Proto-Onkogen, Serin/Treonin Kinaz) MAPK/ERK signalizatsiya yo'lida ishtirok etadi.",
       "designation": [
         {
@@ -1312,7 +1312,7 @@
       ]
     },
     {
-      "code": "cancr0005.00021",
+      "code": "cancr0005-00021",
       "display": "BRCA1 (Ko'krak bezi saratoni 1) DNKni tiklashda ishtirok etadigan o'simtani bostiruvchi oqsil",
       "designation": [
         {
@@ -1326,7 +1326,7 @@
       ]
     },
     {
-      "code": "cancr0005.00022",
+      "code": "cancr0005-00022",
       "display": "BRCA2 (ko'krak bezi saratoni 2) DNKni tiklashda ishtirok etadigan o'simtani bostiruvchi oqsil.",
       "designation": [
         {
@@ -1340,7 +1340,7 @@
       ]
     },
     {
-      "code": "cancr0005.00023",
+      "code": "cancr0005-00023",
       "display": "BRIP1 (BRCA1 o'zaro ta'sir qiluvchi protein C-terminal helikaz 1) BRCA1 bilan o'zaro ta'sir qiluvchi va DNKni tiklashda ishtirok etadigan helikaz",
       "designation": [
         {
@@ -1354,7 +1354,7 @@
       ]
     },
     {
-      "code": "cancr0005.00024",
+      "code": "cancr0005-00024",
       "display": "BTNL2 (Butirofilinga o'xshash 2) protein immun javobini tartibga solishda ishtirok etadi",
       "designation": [
         {
@@ -1368,7 +1368,7 @@
       ]
     },
     {
-      "code": "cancr0005.00025",
+      "code": "cancr0005-00025",
       "display": "BUB1B (BUB1 Mitotik nazorat punkti Serin/Treonin Kinaz B) Mitotik nazorat punktida rol o'ynaydigan kinaz",
       "designation": [
         {
@@ -1382,7 +1382,7 @@
       ]
     },
     {
-      "code": "cancr0005.00026",
+      "code": "cancr0005-00026",
       "display": "CBL (Casitas B-Lineage Lymphoma) Ubiquitin ligaza oqsil degradatsiyasini tartibga solishda ishtirok etadi.",
       "designation": [
         {
@@ -1396,7 +1396,7 @@
       ]
     },
     {
-      "code": "cancr0005.00027",
+      "code": "cancr0005-00027",
       "display": "CDC73 (Hujayra bo'linish sikli 73) Hujayra siklini tartibga solish va o'smalarni bostirishda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -1410,7 +1410,7 @@
       ]
     },
     {
-      "code": "cancr0005.00028",
+      "code": "cancr0005-00028",
       "display": "CDH1 (Cadherin 1) Hujayra yopishqoqligini saqlashda muhim rol o'ynaydigan hujayra yopishish oqsili",
       "designation": [
         {
@@ -1424,7 +1424,7 @@
       ]
     },
     {
-      "code": "cancr0005.00029",
+      "code": "cancr0005-00029",
       "display": "CDK4 (Cyclin Dependent Kinase 4) Hujayra siklini tartibga soluvchi kinaz.",
       "designation": [
         {
@@ -1438,7 +1438,7 @@
       ]
     },
     {
-      "code": "cancr0005.00030",
+      "code": "cancr0005-00030",
       "display": "CDKN1B (Cyclin Dependent Kinase Inhibitor 1B) Hujayra siklini tartibga soluvchi kinazalarning inhibitori",
       "designation": [
         {
@@ -1452,7 +1452,7 @@
       ]
     },
     {
-      "code": "cancr0005.00031",
+      "code": "cancr0005-00031",
       "display": "CDKN1C (Cyclin Dependent Kinase Inhibitor 1C) Hujayra siklini tartibga soluvchi kinazalarning inhibitori",
       "designation": [
         {
@@ -1466,7 +1466,7 @@
       ]
     },
     {
-      "code": "cancr0005.00032",
+      "code": "cancr0005-00032",
       "display": "CDKN2A (Cyclin Dependent Kinase Inhibitor 2A) Hujayra siklini tartibga soluvchi kinazalarning inhibitori",
       "designation": [
         {
@@ -1480,7 +1480,7 @@
       ]
     },
     {
-      "code": "cancr0005.00033",
+      "code": "cancr0005-00033",
       "display": "CEBPA (CCAAT Enhancer Binding Protein Alpha) Hujayra differentsiatsiyasi va proliferatsiyasini tartibga soluvchi transkripsiya omili.",
       "designation": [
         {
@@ -1494,7 +1494,7 @@
       ]
     },
     {
-      "code": "cancr0005.00034",
+      "code": "cancr0005-00034",
       "display": "CEP57 (Centrosomal Protein 57) Mikrotubulalar tashkil etilishida ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1508,7 +1508,7 @@
       ]
     },
     {
-      "code": "cancr0005.00035",
+      "code": "cancr0005-00035",
       "display": "CFTR (kistik fibroz transmembran o'tkazuvchanlik regulyatori) xlorid ionlarining tashishini tartibga soluvchi ion kanali",
       "designation": [
         {
@@ -1522,7 +1522,7 @@
       ]
     },
     {
-      "code": "cancr0005.00036",
+      "code": "cancr0005-00036",
       "display": "CHEK2 (Checkpoint Kinase 2) Kinaz hujayra siklini tartibga solish va DNKning shikastlanishiga javob berishda ishtirok etadi",
       "designation": [
         {
@@ -1536,7 +1536,7 @@
       ]
     },
     {
-      "code": "cancr0005.00037",
+      "code": "cancr0005-00037",
       "display": "CTC1 (CST Telomer replikatsiya kompleksi komponenti 1) Telomerni saqlashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1550,7 +1550,7 @@
       ]
     },
     {
-      "code": "cancr0005.00038",
+      "code": "cancr0005-00038",
       "display": "CTHRC1 (Kollagen Triple Helix Repeat Containing 1) hujayradan tashqari matritsani qayta qurishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1564,7 +1564,7 @@
       ]
     },
     {
-      "code": "cancr0005.00039",
+      "code": "cancr0005-00039",
       "display": "CTNNA1 (Catenin Alpha 1) Protein hujayra yopishishi va signalizatsiya yo'llarida ishtirok etadi",
       "designation": [
         {
@@ -1578,7 +1578,7 @@
       ]
     },
     {
-      "code": "cancr0005.00040",
+      "code": "cancr0005-00040",
       "display": "CTRC (Chymotrypsin C) Ovqat hazm qilishda ishtirok etadigan ferment",
       "designation": [
         {
@@ -1592,7 +1592,7 @@
       ]
     },
     {
-      "code": "cancr0005.00041",
+      "code": "cancr0005-00041",
       "display": "CYLD (silindromatoz) hujayra siklini va apoptozni tartibga solishda ishtirok etadigan o'simta bostiruvchi oqsil",
       "designation": [
         {
@@ -1606,7 +1606,7 @@
       ]
     },
     {
-      "code": "cancr0005.00042",
+      "code": "cancr0005-00042",
       "display": "CYP21A2 (Sitoxrom P450 oilasi 21 kichik oila A a'zosi 2) Ukol gormonlar sintezida ishtirok etadigan ferment",
       "designation": [
         {
@@ -1620,7 +1620,7 @@
       ]
     },
     {
-      "code": "cancr0005.00043",
+      "code": "cancr0005-00043",
       "display": "DCLRE1C (DNK Cross-Link Repair 1C) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1634,7 +1634,7 @@
       ]
     },
     {
-      "code": "cancr0005.00044",
+      "code": "cancr0005-00044",
       "display": "DDB2 (Zararga xos DNKni bog'lovchi protein 2) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1648,7 +1648,7 @@
       ]
     },
     {
-      "code": "cancr0005.00045",
+      "code": "cancr0005-00045",
       "display": "DDX41 (DEAD-Box Helicase 41) Helikaz RNK metabolizmida ishtirok etadi",
       "designation": [
         {
@@ -1662,7 +1662,7 @@
       ]
     },
     {
-      "code": "cancr0005.00046",
+      "code": "cancr0005-00046",
       "display": "DICER1 (Dicer 1, Ribonuklease III) mikroRNK biogenezida ishtirok etadigan ferment",
       "designation": [
         {
@@ -1676,7 +1676,7 @@
       ]
     },
     {
-      "code": "cancr0005.00047",
+      "code": "cancr0005-00047",
       "display": "DIS3L2 (DIS3 kabi 3'-5' ekzoribonukleaza 2) RNK degradatsiyasida ishtirok etadigan ekzoribonukleaza",
       "designation": [
         {
@@ -1690,7 +1690,7 @@
       ]
     },
     {
-      "code": "cancr0005.00048",
+      "code": "cancr0005-00048",
       "display": "DKC1 (Dyskerin Pseudouridin Synthase 1) Protein ribosoma RNKni o'zgartirish va telomerlarni saqlashda ishtirok etadi.",
       "designation": [
         {
@@ -1704,7 +1704,7 @@
       ]
     },
     {
-      "code": "cancr0005.00049",
+      "code": "cancr0005-00049",
       "display": "DOCK8 (Cytokinesis 8 dedicator) Aktinni tartibga solishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1718,7 +1718,7 @@
       ]
     },
     {
-      "code": "cancr0005.00050",
+      "code": "cancr0005-00050",
       "display": "EGFR (Epidermal o'sish omili retseptorlari) hujayra o'sishi va differentsiatsiyasini tartibga solishda ishtirok etadigan epidermal o'sish omili retseptorlari",
       "designation": [
         {
@@ -1732,7 +1732,7 @@
       ]
     },
     {
-      "code": "cancr0005.00051",
+      "code": "cancr0005-00051",
       "display": "EGLN1 (Egl-9 oilasi gipoksiya qo'zg'atuvchi omil 1) gipoksiyaga javobni tartibga solishda ishtirok etadigan ferment",
       "designation": [
         {
@@ -1746,7 +1746,7 @@
       ]
     },
     {
-      "code": "cancr0005.00052",
+      "code": "cancr0005-00052",
       "display": "ELAC2 (ElaC Ribonuklease Z 2) tRNKdan oldingi ishlov berishda ishtirok etadigan ferment",
       "designation": [
         {
@@ -1760,7 +1760,7 @@
       ]
     },
     {
-      "code": "cancr0005.00053",
+      "code": "cancr0005-00053",
       "display": "ELANE (elastaz, neytrofil ifodalangan) hujayradan tashqari matritsa oqsillarining parchalanishida ishtirok etadigan ferment.",
       "designation": [
         {
@@ -1774,7 +1774,7 @@
       ]
     },
     {
-      "code": "cancr0005.00054",
+      "code": "cancr0005-00054",
       "display": "EPCAM (epitelial hujayra yopishish molekulasi) oqsil hujayra yopishishi va signalizatsiya yo'llarida ishtirok etadi",
       "designation": [
         {
@@ -1788,7 +1788,7 @@
       ]
     },
     {
-      "code": "cancr0005.00055",
+      "code": "cancr0005-00055",
       "display": "ERBB2 (Erb-B2 retseptorlari tirozin kinaz 2, HER2 nomi bilan ham tanilgan) Hujayra o'sishini tartibga solishda ishtirok etadigan tirozin kinaz retseptorlari.",
       "designation": [
         {
@@ -1802,7 +1802,7 @@
       ]
     },
     {
-      "code": "cancr0005.00056",
+      "code": "cancr0005-00056",
       "display": "ERCC1 (ERCC Excision Repair 1, Endonuklease Non-Catalitic Subunit) DNKning nukleotid eksizyonini tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1816,7 +1816,7 @@
       ]
     },
     {
-      "code": "cancr0005.00057",
+      "code": "cancr0005-00057",
       "display": "ERCC2 (ERCC Excision Repair 2, TFIIH Core Complex Helicase Subunit, shuningdek XPD nomi bilan tanilgan) Helikaz DNK nukleotid eksizyonini tiklashda ishtirok etadi",
       "designation": [
         {
@@ -1830,7 +1830,7 @@
       ]
     },
     {
-      "code": "cancr0005.00058",
+      "code": "cancr0005-00058",
       "display": "ERCC3 (ERCC Excision Repair 3, shuningdek XPB nomi bilan ham tanilgan) DNK nukleotid eksizyonini tiklashda ishtirok etgan helikaz.",
       "designation": [
         {
@@ -1844,7 +1844,7 @@
       ]
     },
     {
-      "code": "cancr0005.00059",
+      "code": "cancr0005-00059",
       "display": "ERCC4 (ERCC Excision Repair 4, shuningdek XPF nomi bilan ham tanilgan) DNK nukleotidlarining eksizyonini tiklashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -1858,7 +1858,7 @@
       ]
     },
     {
-      "code": "cancr0005.00060",
+      "code": "cancr0005-00060",
       "display": "ERCC5 (ERCC Excision Repair 5, shuningdek, XPG nomi bilan ham tanilgan) DNK nukleotid eksizyonini tiklashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -1872,7 +1872,7 @@
       ]
     },
     {
-      "code": "cancr0005.00061",
+      "code": "cancr0005-00061",
       "display": "ETV6 (ETS Variant Transkripsiya Faktori 6) Gematopoezni tartibga solishda ishtirok etadigan transkripsiya omili",
       "designation": [
         {
@@ -1886,7 +1886,7 @@
       ]
     },
     {
-      "code": "cancr0005.00062",
+      "code": "cancr0005-00062",
       "display": "EXT1 (Exostosin Glycosyltransferase 1) Glikosiltransferaza geparan sulfat sintezida ishtirok etadi.",
       "designation": [
         {
@@ -1900,7 +1900,7 @@
       ]
     },
     {
-      "code": "cancr0005.00063",
+      "code": "cancr0005-00063",
       "display": "EXT2 (Exostosin Glycosyltransferase 2) Glikosiltransferaza geparan sulfat sintezida ishtirok etadi.",
       "designation": [
         {
@@ -1914,7 +1914,7 @@
       ]
     },
     {
-      "code": "cancr0005.00064",
+      "code": "cancr0005-00064",
       "display": "EZH2 (Enhancer Of Zeste 2 Polycomb Repressive Complex 2 Subunit) Xromatin modifikatsiyasi orqali transkripsiyani tartibga solishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1928,7 +1928,7 @@
       ]
     },
     {
-      "code": "cancr0005.00065",
+      "code": "cancr0005-00065",
       "display": "FANCA (Fanconi Anemia Complementation Group A) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1942,7 +1942,7 @@
       ]
     },
     {
-      "code": "cancr0005.00066",
+      "code": "cancr0005-00066",
       "display": "FANCB (Fanconi anemiya komplementatsiyasi guruhi B): DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1956,7 +1956,7 @@
       ]
     },
     {
-      "code": "cancr0005.00067",
+      "code": "cancr0005-00067",
       "display": "FANCC (Fanconi Anemia Complementation Group C) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1970,7 +1970,7 @@
       ]
     },
     {
-      "code": "cancr0005.00068",
+      "code": "cancr0005-00068",
       "display": "FANCD2 (Fanconi anemiya komplementatsiyasi guruhi D2) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1984,7 +1984,7 @@
       ]
     },
     {
-      "code": "cancr0005.00069",
+      "code": "cancr0005-00069",
       "display": "FANCE (Fanconi Anemia Complementation Group E) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -1998,7 +1998,7 @@
       ]
     },
     {
-      "code": "cancr0005.00070",
+      "code": "cancr0005-00070",
       "display": "FANCF (Fanconi Anemia Complementation Group F) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2012,7 +2012,7 @@
       ]
     },
     {
-      "code": "cancr0005.00071",
+      "code": "cancr0005-00071",
       "display": "FANCG (Fanconi Anemia Complementation Group G) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2026,7 +2026,7 @@
       ]
     },
     {
-      "code": "cancr0005.00072",
+      "code": "cancr0005-00072",
       "display": "FANCI (Fanconi Anemia Complementation Group I) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2040,7 +2040,7 @@
       ]
     },
     {
-      "code": "cancr0005.00073",
+      "code": "cancr0005-00073",
       "display": "FANCL (Fanconi Anemia Complementation Group L) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2054,7 +2054,7 @@
       ]
     },
     {
-      "code": "cancr0005.00074",
+      "code": "cancr0005-00074",
       "display": "FANCM (Fanconi Anemia Complementation Group M) DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2068,7 +2068,7 @@
       ]
     },
     {
-      "code": "cancr0005.00075",
+      "code": "cancr0005-00075",
       "display": "Apoptozni tartibga soluvchi FAS (Fas Cell Surface Death Receptor) retseptorlari",
       "designation": [
         {
@@ -2082,7 +2082,7 @@
       ]
     },
     {
-      "code": "cancr0005.00076",
+      "code": "cancr0005-00076",
       "display": "FASLG (Fas Ligand) Fas retseptorlari ligand apoptozni qo'zg'atishda ishtirok etadi.",
       "designation": [
         {
@@ -2096,7 +2096,7 @@
       ]
     },
     {
-      "code": "cancr0005.00077",
+      "code": "cancr0005-00077",
       "display": "FH (Fumarat gidrataz) Limon kislotasi aylanishida ishtirok etadigan ferment.",
       "designation": [
         {
@@ -2110,7 +2110,7 @@
       ]
     },
     {
-      "code": "cancr0005.00078",
+      "code": "cancr0005-00078",
       "display": "FLCN (Follikulin) O'simtani bostiruvchi oqsil",
       "designation": [
         {
@@ -2124,7 +2124,7 @@
       ]
     },
     {
-      "code": "cancr0005.00079",
+      "code": "cancr0005-00079",
       "display": "GALNT12 (polipeptid N-asetilgalaktozaminiltransferaza 12) glikosiltransferaza O-glikozillanishda ishtirok etadi",
       "designation": [
         {
@@ -2138,7 +2138,7 @@
       ]
     },
     {
-      "code": "cancr0005.00080",
+      "code": "cancr0005-00080",
       "display": "GATA2 (GATA bog'lovchi oqsil 2) gematopoezni tartibga solishda ishtirok etadigan transkripsiya omili",
       "designation": [
         {
@@ -2152,7 +2152,7 @@
       ]
     },
     {
-      "code": "cancr0005.00081",
+      "code": "cancr0005-00081",
       "display": "GEN1 (GEN1 Holliday Junction 5' Flap Endonuklease) oqsili DNKni tiklashda ishtirok etadi",
       "designation": [
         {
@@ -2166,7 +2166,7 @@
       ]
     },
     {
-      "code": "cancr0005.00082",
+      "code": "cancr0005-00082",
       "display": "GNAS (GNAS Complex Locus) G protein signalizatsiya yo'llarida ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -2180,7 +2180,7 @@
       ]
     },
     {
-      "code": "cancr0005.00083",
+      "code": "cancr0005-00083",
       "display": "GPC3 (Glypican 3) Proteoglikan hujayra o'sishini tartibga solishda ishtirok etadi",
       "designation": [
         {
@@ -2194,7 +2194,7 @@
       ]
     },
     {
-      "code": "cancr0005.00084",
+      "code": "cancr0005-00084",
       "display": "GREM1 (Gremlin 1, DAN oilasi BMP antagonisti) Suyak morfogenezini tartibga solishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2208,7 +2208,7 @@
       ]
     },
     {
-      "code": "cancr0005.00085",
+      "code": "cancr0005-00085",
       "display": "HNF1A (gepatotsit yadro omili 1 alfa) glyukoza metabolizmini tartibga solishda ishtirok etadigan transkripsiya omili",
       "designation": [
         {
@@ -2222,7 +2222,7 @@
       ]
     },
     {
-      "code": "cancr0005.00086",
+      "code": "cancr0005-00086",
       "display": "HNF1B (gepatotsit yadro omili 1 beta) glyukoza metabolizmini va organlar rivojlanishini tartibga solishda ishtirok etadigan transkripsiya omili",
       "designation": [
         {
@@ -2236,7 +2236,7 @@
       ]
     },
     {
-      "code": "cancr0005.00087",
+      "code": "cancr0005-00087",
       "display": "HOXB13 (Homeobox B13) Prostata rivojlanishida ishtirok etadigan transkripsiya omili",
       "designation": [
         {
@@ -2250,7 +2250,7 @@
       ]
     },
     {
-      "code": "cancr0005.00088",
+      "code": "cancr0005-00088",
       "display": "HER2 (inson epidermal o'sish omili retseptorlari 2, shuningdek, ERBB2 sifatida ham tanilgan) Hujayra o'sishini tartibga solishda ishtirok etadigan tirozin kinaz retseptorlari.",
       "designation": [
         {
@@ -2264,7 +2264,7 @@
       ]
     },
     {
-      "code": "cancr0005.00089",
+      "code": "cancr0005-00089",
       "display": "HRAS (HRas Proto-Oncogene, GTPase) oqsil hujayra o'sishi va differentsiatsiyasining signalizatsiya yo'llarida ishtirok etadi",
       "designation": [
         {
@@ -2278,7 +2278,7 @@
       ]
     },
     {
-      "code": "cancr0005.00090",
+      "code": "cancr0005-00090",
       "display": "IFNGR1 (Interferon Gamma Receptor 1) Immunitetni tartibga solish va virusga qarshi mudofaa bilan shug'ullanadigan interferon gamma retseptorlari",
       "designation": [
         {
@@ -2292,7 +2292,7 @@
       ]
     },
     {
-      "code": "cancr0005.00091",
+      "code": "cancr0005-00091",
       "display": "IKZF1 (IKAROS Family Sinc Finger 1) Limfotsitlar rivojlanishini tartibga soluvchi transkripsiya omili.",
       "designation": [
         {
@@ -2306,7 +2306,7 @@
       ]
     },
     {
-      "code": "cancr0005.00092",
+      "code": "cancr0005-00092",
       "display": "JAK2 (Janus Kinase 2) tirozin kinaz sitokinlardan hujayra yadrosiga signal uzatishda ishtirok etadi",
       "designation": [
         {
@@ -2320,7 +2320,7 @@
       ]
     },
     {
-      "code": "cancr0005.00093",
+      "code": "cancr0005-00093",
       "display": "JAK3 (Janus Kinase 3) Tirozin kinaz sitokinlardan hujayra yadrosiga, ayniqsa immun hujayralarida signal o'tkazishda ishtirok etadi.",
       "designation": [
         {
@@ -2334,7 +2334,7 @@
       ]
     },
     {
-      "code": "cancr0005.00094",
+      "code": "cancr0005-00094",
       "display": "KDR (Kinase Insert Domain Receptor, VEGFR2 nomi bilan ham tanilgan) Angiogenezda ishtirok etadigan tomir endotelial o'sish omili (VEGF) uchun tirozin kinaz retseptorlari",
       "designation": [
         {
@@ -2348,7 +2348,7 @@
       ]
     },
     {
-      "code": "cancr0005.00095",
+      "code": "cancr0005-00095",
       "display": "KIF1B (Kinesin oilasi a'zosi 1B) Organellalarni mikronaychalar bo'ylab tashishda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -2362,7 +2362,7 @@
       ]
     },
     {
-      "code": "cancr0005.00096",
+      "code": "cancr0005-00096",
       "display": "KIT (KIT proto-onkogen, retseptor tirozin kinaz) hujayra o'sishi va differentsiatsiyasini tartibga solishda ishtirok etadigan retseptor tirozin kinaz",
       "designation": [
         {
@@ -2376,7 +2376,7 @@
       ]
     },
     {
-      "code": "cancr0005.00097",
+      "code": "cancr0005-00097",
       "display": "KRAS (KRAS proto-onkogen, GTPaz) oqsili hujayra o'sishi signalizatsiya yo'llarida ishtirok etadi",
       "designation": [
         {
@@ -2390,7 +2390,7 @@
       ]
     },
     {
-      "code": "cancr0005.00098",
+      "code": "cancr0005-00098",
       "display": "LIG4 (DNK Ligase IV) Ligaza ikki zanjirli DNK uzilishlarini tiklashda ishtirok etadi",
       "designation": [
         {
@@ -2404,7 +2404,7 @@
       ]
     },
     {
-      "code": "cancr0005.00099",
+      "code": "cancr0005-00099",
       "display": "LZTR1 (Leucine Zipper Like Transkripsiya regulyatori 1) Hujayra o'sishi va apoptozni tartibga solishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2418,7 +2418,7 @@
       ]
     },
     {
-      "code": "cancr0005.00100",
+      "code": "cancr0005-00100",
       "display": "MAX (MYC Associated Factor X) Hujayra o'sishi va apoptozni tartibga solishda ishtirok etadigan transkripsiya omili.",
       "designation": [
         {
@@ -2432,7 +2432,7 @@
       ]
     },
     {
-      "code": "cancr0005.00101",
+      "code": "cancr0005-00101",
       "display": "MC1R (Melanokortin 1 retseptorlari) teri pigmentatsiyasini tartibga solishda ishtirok etadigan retseptorlari",
       "designation": [
         {
@@ -2446,7 +2446,7 @@
       ]
     },
     {
-      "code": "cancr0005.00102",
+      "code": "cancr0005-00102",
       "display": "MEN1 (Menin 1) Hujayra o'sishini tartibga solishda ishtirok etadigan o'simta bostiruvchi oqsil.",
       "designation": [
         {
@@ -2460,7 +2460,7 @@
       ]
     },
     {
-      "code": "cancr0005.00103",
+      "code": "cancr0005-00103",
       "display": "MET (MET proto-onkogen, retseptor tirozin kinaz) hujayra o'sishi, yashashi va migratsiyasini tartibga solishda ishtirok etadigan retseptor tirozin kinaz",
       "designation": [
         {
@@ -2474,7 +2474,7 @@
       ]
     },
     {
-      "code": "cancr0005.00104",
+      "code": "cancr0005-00104",
       "display": "MITF (Mikroftalmiya bilan bog'liq transkripsiya omili) melanotsitlar rivojlanishida ishtirok etadigan transkripsiya omili",
       "designation": [
         {
@@ -2488,7 +2488,7 @@
       ]
     },
     {
-      "code": "cancr0005.00105",
+      "code": "cancr0005-00105",
       "display": "MLH1 (MutL Homolog 1) DNK nomuvofiqligini tuzatishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2502,7 +2502,7 @@
       ]
     },
     {
-      "code": "cancr0005.00106",
+      "code": "cancr0005-00106",
       "display": "MLH3 (MutL Homolog 3) DNK nomuvofiqligini tuzatishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2516,7 +2516,7 @@
       ]
     },
     {
-      "code": "cancr0005.00107",
+      "code": "cancr0005-00107",
       "display": "MRE11 (MRE11 homologi, ikki zanjirli uzilishni tiklovchi nukleaz) Ikki zanjirli DNK uzilishlarini tiklash va genomik barqarorlikni saqlashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -2530,7 +2530,7 @@
       ]
     },
     {
-      "code": "cancr0005.00108",
+      "code": "cancr0005-00108",
       "display": "MSH2 (MutS Homolog 2) DNK nomuvofiqligini tiklashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -2544,7 +2544,7 @@
       ]
     },
     {
-      "code": "cancr0005.00109",
+      "code": "cancr0005-00109",
       "display": "MSH3 (MutS Homolog 3) DNK nomuvofiqligini tuzatishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2558,7 +2558,7 @@
       ]
     },
     {
-      "code": "cancr0005.00110",
+      "code": "cancr0005-00110",
       "display": "MSH6 (MutS Homolog 6) DNK nomuvofiqligini tuzatishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2572,7 +2572,7 @@
       ]
     },
     {
-      "code": "cancr0005.00111",
+      "code": "cancr0005-00111",
       "display": "MSR1 (Makrofaglarni tozalash retseptorlari 1) immun javob va oksidlangan lipidlarni tozalashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -2586,7 +2586,7 @@
       ]
     },
     {
-      "code": "cancr0005.00112",
+      "code": "cancr0005-00112",
       "display": "MUTYH (MutY DNK glycosylase) DNKning bazal eksizyonini tiklashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -2600,7 +2600,7 @@
       ]
     },
     {
-      "code": "cancr0005.00113",
+      "code": "cancr0005-00113",
       "display": "NBN (Nibrin) oqsili DNKni tiklashda ishtirok etadi",
       "designation": [
         {
@@ -2614,7 +2614,7 @@
       ]
     },
     {
-      "code": "cancr0005.00114",
+      "code": "cancr0005-00114",
       "display": "NF1 (neyrofibromin 1) Ras signalizatsiyasini tartibga soluvchi o'simta bostiruvchi oqsil",
       "designation": [
         {
@@ -2628,7 +2628,7 @@
       ]
     },
     {
-      "code": "cancr0005.00115",
+      "code": "cancr0005-00115",
       "display": "NF2 (neyrofibromin 2, Merlin) Hujayra shakli va harakatini tartibga soluvchi o'simta bostiruvchi oqsil",
       "designation": [
         {
@@ -2642,7 +2642,7 @@
       ]
     },
     {
-      "code": "cancr0005.00116",
+      "code": "cancr0005-00116",
       "display": "NHEJ1 (Gomolog bo'lmagan oxirgi qo'shilish omili) ikki zanjirli DNK uzilishlarini tiklash jarayonida gomologik bo'lmagan rekombinatsiyada ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2656,7 +2656,7 @@
       ]
     },
     {
-      "code": "cancr0005.00117",
+      "code": "cancr0005-00117",
       "display": "NHP2 (NHP2 Ribonukleoprotein) Protein ribosoma biogenezi va telomerlarda ishtirok etadi.",
       "designation": [
         {
@@ -2670,7 +2670,7 @@
       ]
     },
     {
-      "code": "cancr0005.00118",
+      "code": "cancr0005-00118",
       "display": "NOP10 (NOP10 Ribonukleoprotein) Protein ribosoma biogenezi va telomerlarda ishtirok etadi",
       "designation": [
         {
@@ -2684,7 +2684,7 @@
       ]
     },
     {
-      "code": "cancr0005.00119",
+      "code": "cancr0005-00119",
       "display": "NRAS (NRAS proto-onkogen, GTPaz) oqsil hujayra o'sishi signalizatsiya yo'llarida ishtirok etadi",
       "designation": [
         {
@@ -2698,7 +2698,7 @@
       ]
     },
     {
-      "code": "cancr0005.00120",
+      "code": "cancr0005-00120",
       "display": "NSD1 (Nuclear Receptor Binding SET Domain Protein 1) transkripsiyani tartibga solishda ishtirok etadigan histon metiltransferaza",
       "designation": [
         {
@@ -2712,7 +2712,7 @@
       ]
     },
     {
-      "code": "cancr0005.00121",
+      "code": "cancr0005-00121",
       "display": "NTHL1 (DNK glikozilaza 1 kabi N) DNKning bazal eksizyonini tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2726,7 +2726,7 @@
       ]
     },
     {
-      "code": "cancr0005.00122",
+      "code": "cancr0005-00122",
       "display": "PALB2 (BRCA2 hamkori va lokalizatori) BRCA2 bilan o'zaro ta'sir qiluvchi va DNKni tiklashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2740,7 +2740,7 @@
       ]
     },
     {
-      "code": "cancr0005.00123",
+      "code": "cancr0005-00123",
       "display": "PALLD (Palladin) Hujayra shakli va harakatini tartibga solishda ishtirok etadigan sitoskeletal oqsil.",
       "designation": [
         {
@@ -2754,7 +2754,7 @@
       ]
     },
     {
-      "code": "cancr0005.00124",
+      "code": "cancr0005-00124",
       "display": "PARN (Poli(A)-maxsus ribonukleaza) mRNKni qayta ishlashda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -2768,7 +2768,7 @@
       ]
     },
     {
-      "code": "cancr0005.00125",
+      "code": "cancr0005-00125",
       "display": "PAX5 (Paired Box 5) B hujayralari rivojlanishida ishtirok etadigan transkripsiya omili",
       "designation": [
         {
@@ -2782,7 +2782,7 @@
       ]
     },
     {
-      "code": "cancr0005.00126",
+      "code": "cancr0005-00126",
       "display": "PDGFRA (trombotsitlardan olingan o'sish omili retseptorlari alfa) hujayra o'sishi va rivojlanishini tartibga solishda ishtirok etadigan tirozin kinaz retseptorlari",
       "designation": [
         {
@@ -2796,7 +2796,7 @@
       ]
     },
     {
-      "code": "cancr0005.00127",
+      "code": "cancr0005-00127",
       "display": "PDGFRB (trombotsitlardan olingan o'sish omili retseptorlari beta) hujayra o'sishi va rivojlanishini tartibga solishda ishtirok etadigan retseptor tirozin kinaz",
       "designation": [
         {
@@ -2810,7 +2810,7 @@
       ]
     },
     {
-      "code": "cancr0005.00128",
+      "code": "cancr0005-00128",
       "display": "PHOX2B (Homeobox 2b kabi juftlangan) Neyrorivojlanish uchun muhim transkripsiya omili.",
       "designation": [
         {
@@ -2824,7 +2824,7 @@
       ]
     },
     {
-      "code": "cancr0005.00129",
+      "code": "cancr0005-00129",
       "display": "PIK3CA (Fosfatidilinositol-4,5-Bisfosfat 3-Kinaz Katalitik Subunit Alpha) PI3K ning katalitik bo'linmasi hujayra o'sishi signalizatsiyasida ishtirok etadi",
       "designation": [
         {
@@ -2838,7 +2838,7 @@
       ]
     },
     {
-      "code": "cancr0005.00130",
+      "code": "cancr0005-00130",
       "display": "PIK3CD (Fosfatidilinositol-4,5-Bisfosfat 3-Kinaz Katalitik Subunit Delta) PI3K ning katalitik subuniti immun javobini tartibga solishda ishtirok etadi.",
       "designation": [
         {
@@ -2852,7 +2852,7 @@
       ]
     },
     {
-      "code": "cancr0005.00131",
+      "code": "cancr0005-00131",
       "display": "PIK3R1 (Fosfoinositid-3-Kinaz regulatory subunit 1) Hujayra o'sishi signalizatsiyasida ishtirok etadigan PI3K ning tartibga soluvchi subbirligi",
       "designation": [
         {
@@ -2866,7 +2866,7 @@
       ]
     },
     {
-      "code": "cancr0005.00132",
+      "code": "cancr0005-00132",
       "display": "PMS1 (PMS1 homologi 1, nomuvofiqlikni tiklash tizimining komponenti) DNK nomuvofiqligini tuzatishda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -2880,7 +2880,7 @@
       ]
     },
     {
-      "code": "cancr0005.00133",
+      "code": "cancr0005-00133",
       "display": "PMS2 (PMS1 homologi 2, nomuvofiqlikni tiklash tizimining komponenti) DNK nomuvofiqligini tuzatishda ishtirok etgan oqsil",
       "designation": [
         {
@@ -2894,7 +2894,7 @@
       ]
     },
     {
-      "code": "cancr0005.00134",
+      "code": "cancr0005-00134",
       "display": "POLD1 (DNK Polimeraza Delta 1, Katalitik Subbirlik) DNK polimeraza deltasining katalitik bo'linmasi DNKni ta'mirlash va replikatsiya qilishda ishtirok etadi",
       "designation": [
         {
@@ -2908,7 +2908,7 @@
       ]
     },
     {
-      "code": "cancr0005.00135",
+      "code": "cancr0005-00135",
       "display": "POLE (DNK Polimeraza Epsilon, Katalitik Subbirlik) DNK polimeraza epsilonning katalitik bo'linmasi DNKni tiklash va replikatsiya qilishda ishtirok etadi",
       "designation": [
         {
@@ -2922,7 +2922,7 @@
       ]
     },
     {
-      "code": "cancr0005.00136",
+      "code": "cancr0005-00136",
       "display": "POLH (DNK polimeraza Eta) DNK polimeraza translatsiya sintezida ishtirok etadi",
       "designation": [
         {
@@ -2936,7 +2936,7 @@
       ]
     },
     {
-      "code": "cancr0005.00137",
+      "code": "cancr0005-00137",
       "display": "POT1 (Telomerlarni himoya qilish 1) Telomerlarni parchalanishdan himoya qiluvchi va ularning uzunligini saqlashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -2950,7 +2950,7 @@
       ]
     },
     {
-      "code": "cancr0005.00138",
+      "code": "cancr0005-00138",
       "display": "PRF1 (Perforin 1) maqsadli hujayralarning lizisini keltirib chiqaradigan hujayra immunitetida ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -2964,7 +2964,7 @@
       ]
     },
     {
-      "code": "cancr0005.00139",
+      "code": "cancr0005-00139",
       "display": "PRKAR1A (Protein kinazasi CAMP-ga bog'liq bo'lgan I turdagi tartibga soluvchi subbirlik alfa) Protein kinaz turli xil hujayra jarayonlarida ishtirok etadigan tartibga soluvchi subbirlik.",
       "designation": [
         {
@@ -2978,7 +2978,7 @@
       ]
     },
     {
-      "code": "cancr0005.00140",
+      "code": "cancr0005-00140",
       "display": "PRSS1 (Proteaz, Serin 1) Tripsinogen, oshqozon osti bezi fermenti",
       "designation": [
         {
@@ -2992,7 +2992,7 @@
       ]
     },
     {
-      "code": "cancr0005.00141",
+      "code": "cancr0005-00141",
       "display": "PTCH1 (Yamalgan 1) Kirpi signalizatsiyasida ishtirok etgan o'simta bostiruvchi oqsil",
       "designation": [
         {
@@ -3006,7 +3006,7 @@
       ]
     },
     {
-      "code": "cancr0005.00142",
+      "code": "cancr0005-00142",
       "display": "PTCH2 (Yamalgan 2) PTCH1 ga o'xshash protein Kirpi signalizatsiyasida ishtirok etadi",
       "designation": [
         {
@@ -3020,7 +3020,7 @@
       ]
     },
     {
-      "code": "cancr0005.00143",
+      "code": "cancr0005-00143",
       "display": "PTEN (fosfataza va tensin homologi) Hujayra o'sishi va omon qolishini tartibga solishda rol o'ynaydigan fosfataza.",
       "designation": [
         {
@@ -3034,7 +3034,7 @@
       ]
     },
     {
-      "code": "cancr0005.00144",
+      "code": "cancr0005-00144",
       "display": "PTPN11 (11-toifali protein tirozin fosfataza retseptorlari bo'lmagan) fosfataza hujayra o'sishi va differentsiatsiya signalizatsiya yo'llarida ishtirok etadi",
       "designation": [
         {
@@ -3048,7 +3048,7 @@
       ]
     },
     {
-      "code": "cancr0005.00145",
+      "code": "cancr0005-00145",
       "display": "RAD50 (RAD50 Double Strand Break Repair Protein) Ikki zanjirli DNK uzilishlarini tiklash va genomik barqarorlikni saqlashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -3062,7 +3062,7 @@
       ]
     },
     {
-      "code": "cancr0005.00146",
+      "code": "cancr0005-00146",
       "display": "RAD51 (RAD51 rekombinaz) Gomologik rekombinatsiya va DNKni tiklashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -3076,7 +3076,7 @@
       ]
     },
     {
-      "code": "cancr0005.00147",
+      "code": "cancr0005-00147",
       "display": "RAD51C (RAD51 Paralog C) Gomologik rekombinatsiya va DNKni tiklashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -3090,7 +3090,7 @@
       ]
     },
     {
-      "code": "cancr0005.00148",
+      "code": "cancr0005-00148",
       "display": "RAD51D (RAD51 Paralog D) Gomologik rekombinatsiya va DNKni tiklashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -3104,7 +3104,7 @@
       ]
     },
     {
-      "code": "cancr0005.00149",
+      "code": "cancr0005-00149",
       "display": "RAF1 (Raf-1 proto-onkogen, serin/treonin kinaz) kinaz hujayra o'sishi va differentsiatsiyasini tartibga solishda ishtirok etadi.",
       "designation": [
         {
@@ -3118,7 +3118,7 @@
       ]
     },
     {
-      "code": "cancr0005.00150",
+      "code": "cancr0005-00150",
       "display": "RASAL1 (RAS Protein faollashtiruvchisi kabi) Ras signalizatsiya yo'llarini salbiy tartibga soluvchi protein",
       "designation": [
         {
@@ -3132,7 +3132,7 @@
       ]
     },
     {
-      "code": "cancr0005.00151",
+      "code": "cancr0005-00151",
       "display": "RB1 (RB Transkripsiyali Korepressor 1) Hujayra siklini tartibga soluvchi o'simta bostiruvchi oqsil.",
       "designation": [
         {
@@ -3146,7 +3146,7 @@
       ]
     },
     {
-      "code": "cancr0005.00152",
+      "code": "cancr0005-00152",
       "display": "RECQL (RecQ Like Helicase) Helikaz DNKni tiklash va genomik barqarorlikni saqlashda ishtirok etadi",
       "designation": [
         {
@@ -3160,7 +3160,7 @@
       ]
     },
     {
-      "code": "cancr0005.00153",
+      "code": "cancr0005-00153",
       "display": "RECQL4 (RecQ Like Helicase 4) Helikaz DNKni tiklashda ishtirok etadi",
       "designation": [
         {
@@ -3174,7 +3174,7 @@
       ]
     },
     {
-      "code": "cancr0005.00154",
+      "code": "cancr0005-00154",
       "display": "REST (RE1 o'chirish transkripsiya faktori) asab tizimi uchun muhim genlar ifodasini tartibga soluvchi transkripsiya omili",
       "designation": [
         {
@@ -3188,7 +3188,7 @@
       ]
     },
     {
-      "code": "cancr0005.00155",
+      "code": "cancr0005-00155",
       "display": "RET (Ret proto-onkogen) tirozin kinaz retseptorlari asab tizimi va buyraklar rivojlanishida ishtirok etadi.",
       "designation": [
         {
@@ -3202,7 +3202,7 @@
       ]
     },
     {
-      "code": "cancr0005.00156",
+      "code": "cancr0005-00156",
       "display": "RHBDF2 (Rhomboid 5 Gomolog 2) Yallig'lanish reaktsiyasini va yarani davolashni tartibga solishda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -3216,7 +3216,7 @@
       ]
     },
     {
-      "code": "cancr0005.00157",
+      "code": "cancr0005-00157",
       "display": "RINT1 (RAD50 Interactor 1) DNKni tiklash va genomik barqarorlikni saqlashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -3230,7 +3230,7 @@
       ]
     },
     {
-      "code": "cancr0005.00158",
+      "code": "cancr0005-00158",
       "display": "RNASEL (ribonukleaz L) Endonukleaz antiviral javobda ishtirok etadi",
       "designation": [
         {
@@ -3244,7 +3244,7 @@
       ]
     },
     {
-      "code": "cancr0005.00159",
+      "code": "cancr0005-00159",
       "display": "RNF43 (Ring Finger Protein 43) E3 ubiquitin ligaza oqsili bo'lib, Wnt signalizatsiya yo'lini tartibga solishda ishtirok etadi.",
       "designation": [
         {
@@ -3258,7 +3258,7 @@
       ]
     },
     {
-      "code": "cancr0005.00160",
+      "code": "cancr0005-00160",
       "display": "RPS20 (Ribosomal Protein S20) Protein ribosoma biogenezida ishtirok etadi",
       "designation": [
         {
@@ -3272,7 +3272,7 @@
       ]
     },
     {
-      "code": "cancr0005.00161",
+      "code": "cancr0005-00161",
       "display": "RRAS (Related RAS Viral (R-Ras) onkogen homologi) Hujayra o'sishi va differentsiatsiyasini tartibga solishda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -3286,7 +3286,7 @@
       ]
     },
     {
-      "code": "cancr0005.00162",
+      "code": "cancr0005-00162",
       "display": "RTEL1 (Telomer cho'zilishi helikazining regulyatori 1) Helikaz telomer uzunligi va DNKni ta'mirlashda ishtirok etadi.",
       "designation": [
         {
@@ -3300,7 +3300,7 @@
       ]
     },
     {
-      "code": "cancr0005.00163",
+      "code": "cancr0005-00163",
       "display": "RUNX1 (Runt bilan bog'liq transkripsiya omili 1) gematopoetik tizimning rivojlanishida muhim rol o'ynaydigan transkripsiya omili",
       "designation": [
         {
@@ -3314,7 +3314,7 @@
       ]
     },
     {
-      "code": "cancr0005.00164",
+      "code": "cancr0005-00164",
       "display": "Hujayra o'sishi va ko'payishini tartibga solishda ishtirok etadigan SAMD9L (9-o'xshash Steril Alpha Motif Domeni) oqsili",
       "designation": [
         {
@@ -3328,7 +3328,7 @@
       ]
     },
     {
-      "code": "cancr0005.00165",
+      "code": "cancr0005-00165",
       "display": "SBDS (Shvachman-Bodian-Diamond sindromi) ribosoma biogenezi va hujayra o'sishida ishtirok etadigan oqsil",
       "designation": [
         {
@@ -3342,7 +3342,7 @@
       ]
     },
     {
-      "code": "cancr0005.00166",
+      "code": "cancr0005-00166",
       "display": "SCG5 (Secretogranin V) Neyropeptidlar va gormonlarni qayta ishlash va saralashda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -3356,7 +3356,7 @@
       ]
     },
     {
-      "code": "cancr0005.00167",
+      "code": "cancr0005-00167",
       "display": "SDHA (Suksinat dehidrogenaza kompleksi Flavoprotein subbirligi A) Krebs sikli va nafas olish zanjiridagi asosiy ferment bo'lgan suksinat dehidrogenazning sub birligi.",
       "designation": [
         {
@@ -3370,7 +3370,7 @@
       ]
     },
     {
-      "code": "cancr0005.00168",
+      "code": "cancr0005-00168",
       "display": "SDHAF2 (Suksinatdehidrogenaza kompleksining yig'ilish omili 2) Suksinat dehidrogenaza yig'ilishida ishtirok etadigan oqsil",
       "designation": [
         {
@@ -3384,7 +3384,7 @@
       ]
     },
     {
-      "code": "cancr0005.00169",
+      "code": "cancr0005-00169",
       "display": "SDHB (suksinat dehidrogenaza kompleksi temir oltingugurt bo'linmasi B) suksinat dehidrogenaza subbirligi",
       "designation": [
         {
@@ -3398,7 +3398,7 @@
       ]
     },
     {
-      "code": "cancr0005.00170",
+      "code": "cancr0005-00170",
       "display": "SDHC (suksinat dehidrogenaza kompleksi sub birligi C) suksinat dehidrogenaza subbirligi",
       "designation": [
         {
@@ -3412,7 +3412,7 @@
       ]
     },
     {
-      "code": "cancr0005.00171",
+      "code": "cancr0005-00171",
       "display": "SDHD (suksinat dehidrogenaza kompleksi bo'linmasi D) suksinat dehidrogenaza subbirligi",
       "designation": [
         {
@@ -3426,7 +3426,7 @@
       ]
     },
     {
-      "code": "cancr0005.00172",
+      "code": "cancr0005-00172",
       "display": "SEC23B (Sec23 Homolog B) Vesikulyar tashishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -3440,7 +3440,7 @@
       ]
     },
     {
-      "code": "cancr0005.00173",
+      "code": "cancr0005-00173",
       "display": "SH2D1A (SH2 domenini o'z ichiga olgan 1A) protein immun hujayra signalizatsiyasida ishtirok etadi",
       "designation": [
         {
@@ -3454,7 +3454,7 @@
       ]
     },
     {
-      "code": "cancr0005.00174",
+      "code": "cancr0005-00174",
       "display": "Ras-MAPK signalizatsiya yo'lida ishtirok etadigan SHOC2 (SHOC2 Leucine Rich Repeat Scaffold Protein) oqsili",
       "designation": [
         {
@@ -3468,7 +3468,7 @@
       ]
     },
     {
-      "code": "cancr0005.00175",
+      "code": "cancr0005-00175",
       "display": "SLX4 (SLX4 tuzilmasiga xos endonukleaz subunit) DNK taʼmirida va xromosomalarning kesishishida ishtirok etadigan oqsil",
       "designation": [
         {
@@ -3482,7 +3482,7 @@
       ]
     },
     {
-      "code": "cancr0005.00176",
+      "code": "cancr0005-00176",
       "display": "SMAD4 (SMAD oila a'zosi 4) TGF-beta signalizatsiya yo'lida ishtirok etadigan transkripsiya omili.",
       "designation": [
         {
@@ -3496,7 +3496,7 @@
       ]
     },
     {
-      "code": "cancr0005.00177",
+      "code": "cancr0005-00177",
       "display": "SMARCA4 (SWI/SNF bilan bog'liq, matritsa bilan bog'liq, xromatinning aktinga bog'liq regulyatori, A subfamily, a'zo 4) Xromatinni qayta qurishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -3510,7 +3510,7 @@
       ]
     },
     {
-      "code": "cancr0005.00178",
+      "code": "cancr0005-00178",
       "display": "SMARCB1 (SWI/SNF bilan bog'liq, matritsa bilan bog'liq, xromatinning aktinga bog'liq regulyatori, B subfamily, a'zo 1) Xromatinni qayta qurishda ishtirok etadigan oqsil",
       "designation": [
         {
@@ -3524,7 +3524,7 @@
       ]
     },
     {
-      "code": "cancr0005.00179",
+      "code": "cancr0005-00179",
       "display": "SMARCE1 (SWI/SNF bilan bog'liq, matritsa bilan bog'liq, xromatinning aktinga bog'liq regulyatori, E subfamily, a'zo 1) Xromatinni qayta qurishda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -3538,7 +3538,7 @@
       ]
     },
     {
-      "code": "cancr0005.00180",
+      "code": "cancr0005-00180",
       "display": "SOS1 (SOS Ras/Rac Guanin Nukleotid almashinuvi omili 1) Ras faollashuvida ishtirok etadigan oqsil. Mutatsiyalar Noonan sindromi bilan bog'liq.",
       "designation": [
         {
@@ -3552,7 +3552,7 @@
       ]
     },
     {
-      "code": "cancr0005.00181",
+      "code": "cancr0005-00181",
       "display": "SOS2 (SOS Ras/Rac guanin nukleotid almashinuvi omili 2) Ras faollashuvida ishtirok etgan oqsil",
       "designation": [
         {
@@ -3566,7 +3566,7 @@
       ]
     },
     {
-      "code": "cancr0005.00182",
+      "code": "cancr0005-00182",
       "display": "SPINK1 (Serine Peptidase Inhibitor Kazal Type 1) Serin proteazalarini inhibe qiluvchi oqsil.",
       "designation": [
         {
@@ -3580,7 +3580,7 @@
       ]
     },
     {
-      "code": "cancr0005.00183",
+      "code": "cancr0005-00183",
       "display": "SPRED1 (Sprouty Related EVH1 Domain Containing 1) Ras/MAPK signalizatsiya yo'lini inhibe qiluvchi oqsil. Mutatsiyalar Legus sindromi bilan bog'liq.",
       "designation": [
         {
@@ -3594,7 +3594,7 @@
       ]
     },
     {
-      "code": "cancr0005.00184",
+      "code": "cancr0005-00184",
       "display": "SRGAP1 (SLIT-ROBO Rho GTPase faollashtiruvchi oqsil 1) Aktin sitoskeletini va hujayra migratsiyasini tartibga solishda ishtirok etadigan oqsil.",
       "designation": [
         {
@@ -3608,7 +3608,7 @@
       ]
     },
     {
-      "code": "cancr0005.00185",
+      "code": "cancr0005-00185",
       "display": "SRP72 (Signal Recognition Particle 72) Ribosoma biogenezi va translyatsiyasida ishtirok etadigan oqsil. Mutatsiyalar aplastik anemiya bilan bog'liq bo'lishi mumkin.",
       "designation": [
         {
@@ -3622,7 +3622,7 @@
       ]
     },
     {
-      "code": "cancr0005.00186",
+      "code": "cancr0005-00186",
       "display": "STAT3 (Signal Transducer and activator Of Transkripsiya 3) Hujayra o'sishi va omon qolishini tartibga solishda ishtirok etadigan transkripsiya omili. Mutatsiyalar giper IgE sindromi (Job sindromi) va turli xil saraton turlari bilan bog'liq.",
       "designation": [
         {
@@ -3636,7 +3636,7 @@
       ]
     },
     {
-      "code": "cancr0005.00187",
+      "code": "cancr0005-00187",
       "display": "STK11 (Serin/Treonin Kinaz 11) Uyali metabolizm va o'sishda rol o'ynaydigan kinaz. Mutatsiyalar Peutz-Jegers sindromini keltirib chiqaradi va turli xil saraton kasalliklari xavfini oshiradi.",
       "designation": [
         {
@@ -3650,7 +3650,7 @@
       ]
     },
     {
-      "code": "cancr0005.00188",
+      "code": "cancr0005-00188",
       "display": "SUFU (eritilgan gomologni bostiruvchi) Kirpi signalizatsiya yo'lini inhibe qiluvchi oqsil. Mutatsiyalar medulloblastomalar va boshqa o'smalar bilan bog'liq.",
       "designation": [
         {
@@ -3664,7 +3664,7 @@
       ]
     },
     {
-      "code": "cancr0005.00189",
+      "code": "cancr0005-00189",
       "display": "TERC telomeraza RNK komponenti) telomera uzunligini saqlashda rol o'ynaydigan telomeraza komponenti. Mutatsiyalar diskeroz konjenit va boshqa telomeropatiyalar bilan bog'liq bo'lishi mumkin.",
       "designation": [
         {
@@ -3678,7 +3678,7 @@
       ]
     },
     {
-      "code": "cancr0005.00190",
+      "code": "cancr0005-00190",
       "display": "TERT (telomeraza teskari transkriptaza) telomerazaning katalitik sub birligi. Mutatsiyalar saratonning turli shakllari va telomerlarning qisqarishi bilan bog'liq kasalliklar bilan bog'liq.",
       "designation": [
         {
@@ -3692,7 +3692,7 @@
       ]
     },
     {
-      "code": "cancr0005.00191",
+      "code": "cancr0005-00191",
       "display": "TINF2 (TERF1-O'zaro ta'sir qiluvchi yadro omili 2) Telomer tuzilishini saqlashda ishtirok etadigan oqsil. Mutatsiyalar diskerozli konjenit va boshqa telomeropatiyalarga olib kelishi mumkin.",
       "designation": [
         {
@@ -3706,7 +3706,7 @@
       ]
     },
     {
-      "code": "cancr0005.00192",
+      "code": "cancr0005-00192",
       "display": "TJP2 (Tight Junction Protein 2) Qattiq hujayralararo birikmalar hosil bo'lishida ishtirok etadigan oqsil. Mutatsiyalar progressiv oilaviy kolestaz bilan bog'liq.",
       "designation": [
         {
@@ -3720,7 +3720,7 @@
       ]
     },
     {
-      "code": "cancr0005.00193",
+      "code": "cancr0005-00193",
       "display": "TMEM127 (Transmembran oqsili 127) Hujayra o'sishini tartibga solishda rol o'ynaydigan oqsil. Mutatsiyalar feokromotsitomalar va paragangliomalar bilan bog'liq.",
       "designation": [
         {
@@ -3734,7 +3734,7 @@
       ]
     },
     {
-      "code": "cancr0005.00194",
+      "code": "cancr0005-00194",
       "display": "TP53 (Tumor Protein p53) O'smani bostirish, hujayra siklini tartibga solish va apoptozda asosiy rol o'ynaydigan transkripsiya omili. Mutatsiyalar saratonning ko'plab shakllari bilan bog'liq.",
       "designation": [
         {
@@ -3748,7 +3748,7 @@
       ]
     },
     {
-      "code": "cancr0005.00195",
+      "code": "cancr0005-00195",
       "display": "TSC1 (tuberoz skleroz 1) Hujayra o'sishi va bo'linishini tartibga solishda ishtirok etadigan oqsil. Mutatsiyalar turli organlarda yaxshi xulqli o'smalar bilan ajralib turadigan tuberous sklerozni keltirib chiqaradi.",
       "designation": [
         {
@@ -3762,7 +3762,7 @@
       ]
     },
     {
-      "code": "cancr0005.00196",
+      "code": "cancr0005-00196",
       "display": "TSC2 (Tuberous sklerosis 2) mTOR signalizatsiya yo'lini inhibe qilish uchun TSC1 bilan o'zaro ta'sir qiluvchi oqsil. Mutatsiyalar ham tuberous sklerozga olib keladi.",
       "designation": [
         {
@@ -3776,7 +3776,7 @@
       ]
     },
     {
-      "code": "cancr0005.00197",
+      "code": "cancr0005-00197",
       "display": "UBE2T (Ubiquitin Conjugating Enzyme E2 T) Ubiquitinatsiya jarayonida ishtirok etadigan, oqsil parchalanishi va hujayra jarayonlarini tartibga solish uchun muhim bo'lgan oqsil. Mutatsiyalar Fankoni anemiya sindromi bilan bog'liq.",
       "designation": [
         {
@@ -3790,7 +3790,7 @@
       ]
     },
     {
-      "code": "cancr0005.00198",
+      "code": "cancr0005-00198",
       "display": "UROD (uroporfirinogen dekarboksilaza) Gem biosintezida ishtirok etadigan ferment. Mutatsiyalar porfiriya kutana tardega olib keladi.",
       "designation": [
         {
@@ -3804,7 +3804,7 @@
       ]
     },
     {
-      "code": "cancr0005.00199",
+      "code": "cancr0005-00199",
       "display": "VHL (Von Hippel-Lindau o'simtalarini bostiruvchi) gipoksiyani tartibga solishda ishtirok etadigan o'simta bostiruvchi oqsil. Mutatsiyalar fon Hippel-Lindau kasalligini keltirib chiqaradi, bu ko'plab o'smalar bilan tavsiflanadi.",
       "designation": [
         {
@@ -3818,7 +3818,7 @@
       ]
     },
     {
-      "code": "cancr0005.00200",
+      "code": "cancr0005-00200",
       "display": "WAS (Wiskott-Aldrich sindromi) - aktin sitoskeletini tartibga solishda ishtirok etadigan oqsil. Mutatsiyalar immunitet tanqisligi va trombotsitopeniya bilan tavsiflangan Wiskott-Aldrich sindromini keltirib chiqaradi.",
       "designation": [
         {
@@ -3832,7 +3832,7 @@
       ]
     },
     {
-      "code": "cancr0005.00201",
+      "code": "cancr0005-00201",
       "display": "WNT10A (Wnt Oila a'zosi 10A) embrion rivojlanishi va hujayra proliferatsiyasi uchun muhim bo'lgan Wnt signalizatsiya yo'lida ishtirok etadigan oqsil. Mutatsiyalar turli xil rivojlanish anomaliyalari bilan bog'liq bo'lishi mumkin.",
       "designation": [
         {
@@ -3846,7 +3846,7 @@
       ]
     },
     {
-      "code": "cancr0005.00202",
+      "code": "cancr0005-00202",
       "display": "WRAP53 (TP53ga WD Repeat Containing Antisense to TP53) Telomeraza stabilizatsiyasi va lokalizatsiyasini tartibga soluvchi, shuningdek, DNKni tiklash jarayonida rol o'ynaydigan oqsil. Mutatsiyalar turli kasalliklar, jumladan, diskeroz konjenit bilan bog'liq.",
       "designation": [
         {
@@ -3860,7 +3860,7 @@
       ]
     },
     {
-      "code": "cancr0005.00203",
+      "code": "cancr0005-00203",
       "display": "WRN Verner sindromi RecQ Helicase kabi) Helikaz genomik barqarorlikni saqlashda ishtirok etadi. Mutatsiyalar Verner sindromini keltirib chiqaradi, bu erta qarish va saraton xavfining oshishi bilan tavsiflanadi.",
       "designation": [
         {
@@ -3874,7 +3874,7 @@
       ]
     },
     {
-      "code": "cancr0005.00204",
+      "code": "cancr0005-00204",
       "display": "WT1 (Wilms Tumor 1) Buyrak va jinsiy bez rivojlanishida rol o'ynaydigan transkripsiya omili. Mutatsiyalar Wilms shishi va boshqa sindromlar bilan bog'liq.",
       "designation": [
         {
@@ -3888,7 +3888,7 @@
       ]
     },
     {
-      "code": "cancr0005.00205",
+      "code": "cancr0005-00205",
       "display": "XPA (Xeroderma Pigmentosum, Komplementatsiya guruhi A) ultrabinafsha nurlanish natijasida kelib chiqqan DNK shikastlanishini tiklashda ishtirok etadigan oqsil. Mutatsiyalar ultrabinafsha nurlanishiga yuqori sezuvchanlik va teri saratoni xavfi bilan tavsiflangan kseroderma pigmentozini keltirib chiqaradi.",
       "designation": [
         {
@@ -3902,7 +3902,7 @@
       ]
     },
     {
-      "code": "cancr0005.00206",
+      "code": "cancr0005-00206",
       "display": "XPC (Xeroderma Pigmentosum, Komplementatsiya guruhi C) DNKning nukleotidlar eksizyonini tiklash jarayonida ishtirok etadigan oqsil. Mutatsiyalar kseroderma pigmentozini ham keltirib chiqaradi.",
       "designation": [
         {
@@ -3916,7 +3916,7 @@
       ]
     },
     {
-      "code": "cancr0005.00207",
+      "code": "cancr0005-00207",
       "display": "XRCC2 (X-Ray Repair Cross Complementing 2) Gomologik rekombinatsiya va DNKni tiklashda ishtirok etadigan oqsil. Mutatsiyalar turli xil saraton turlarini rivojlanish xavfi bilan bog'liq bo'lishi mumkin.",
       "designation": [
         {
@@ -3930,7 +3930,7 @@
       ]
     },
     {
-      "code": "cancr0005.00208",
+      "code": "cancr0005-00208",
       "display": "XRCC3 (X-Ray Repair Cross Complementing 3) Gomologik rekombinatsiya va DNKni tiklashda ishtirok etadigan oqsil. Mutatsiyalar, shuningdek, saratonning har xil turlarini rivojlanish xavfi bilan bog'liq bo'lishi mumkin.",
       "designation": [
         {
@@ -3944,7 +3944,7 @@
       ]
     },
     {
-      "code": "cancr0012.00000",
+      "code": "cancr0012-00000",
       "display": "IHCga xos gormonlar immunohistokimyosi",
       "designation": [
         {
@@ -3958,7 +3958,7 @@
       ]
     },
     {
-      "code": "cancr0012.00001",
+      "code": "cancr0012-00001",
       "display": "Estrogen",
       "designation": [
         {
@@ -3972,7 +3972,7 @@
       ]
     },
     {
-      "code": "cancr0012.00002",
+      "code": "cancr0012-00002",
       "display": "Progesteron",
       "designation": [
         {
@@ -3986,7 +3986,7 @@
       ]
     },
     {
-      "code": "cancr0012.00003",
+      "code": "cancr0012-00003",
       "display": "har-2 neu",
       "designation": [
         {
@@ -4000,7 +4000,7 @@
       ]
     },
     {
-      "code": "cancr0012.00004",
+      "code": "cancr0012-00004",
       "display": "Ki-67",
       "designation": [
         {
@@ -4014,7 +4014,7 @@
       ]
     },
     {
-      "code": "cancr0012.00005",
+      "code": "cancr0012-00005",
       "display": "PD-L1",
       "designation": [
         {
@@ -4028,7 +4028,7 @@
       ]
     },
     {
-      "code": "cancr0013.00000",
+      "code": "cancr0013-00000",
       "display": "Tadqiqot nomi",
       "designation": [
         {
@@ -4042,7 +4042,7 @@
       ]
     },
     {
-      "code": "cancr0013.00001",
+      "code": "cancr0013-00001",
       "display": "IHC-ga xos",
       "designation": [
         {
@@ -4056,7 +4056,7 @@
       ]
     },
     {
-      "code": "cancr0013.00002",
+      "code": "cancr0013-00002",
       "display": "IHC o'ziga xos bo'lmagan",
       "designation": [
         {
@@ -4070,7 +4070,7 @@
       ]
     },
     {
-      "code": "cancr0013.00003",
+      "code": "cancr0013-00003",
       "display": "TNM tasnifi",
       "designation": [
         {
@@ -4084,7 +4084,7 @@
       ]
     },
     {
-      "code": "cancr0013.00004",
+      "code": "cancr0013-00004",
       "display": "Molekulyar genetik tadqiqotlar",
       "designation": [
         {
@@ -4098,7 +4098,7 @@
       ]
     },
     {
-      "code": "cancr0022.00000",
+      "code": "cancr0022-00000",
       "display": "Onkologik operatsiyalar",
       "designation": [
         {
@@ -4112,7 +4112,7 @@
       ]
     },
     {
-      "code": "cancr0022.00001",
+      "code": "cancr0022-00001",
       "display": "oddiy sut amputatsiyasi",
       "designation": [
         {
@@ -4126,7 +4126,7 @@
       ]
     },
     {
-      "code": "cancr0022.00002",
+      "code": "cancr0022-00002",
       "display": "limfa tugunlari bilan ko'krakning radikal rezektsiyasi",
       "designation": [
         {
@@ -4140,7 +4140,7 @@
       ]
     },
     {
-      "code": "cancr0022.00003",
+      "code": "cancr0022-00003",
       "display": "ko'krak lumpektomiyasi",
       "designation": [
         {
@@ -4154,7 +4154,7 @@
       ]
     },
     {
-      "code": "cancr0022.00004",
+      "code": "cancr0022-00004",
       "display": "limfa tugunlari diseksiyasi bilan ko'krakning palliativ amputatsiyasi",
       "designation": [
         {
@@ -4168,7 +4168,7 @@
       ]
     },
     {
-      "code": "cancr0022.00005",
+      "code": "cancr0022-00005",
       "display": "radikal rezektsiyadan keyin TDL qopqog'i bilan plastik jarrohlik",
       "designation": [
         {
@@ -4182,7 +4182,7 @@
       ]
     },
     {
-      "code": "cancr0022.00006",
+      "code": "cancr0022-00006",
       "display": "xo'ppoz yoki kist bo'shlig'ini drenajlash",
       "designation": [
         {
@@ -4196,7 +4196,7 @@
       ]
     },
     {
-      "code": "cancr0022.00007",
+      "code": "cancr0022-00007",
       "display": "adrenalektomiya",
       "designation": [
         {
@@ -4210,7 +4210,7 @@
       ]
     },
     {
-      "code": "cancr0022.00008",
+      "code": "cancr0022-00008",
       "display": "gastrektomiya",
       "designation": [
         {
@@ -4224,7 +4224,7 @@
       ]
     },
     {
-      "code": "cancr0022.00009",
+      "code": "cancr0022-00009",
       "display": "jigar rezektsiyasi",
       "designation": [
         {
@@ -4238,7 +4238,7 @@
       ]
     },
     {
-      "code": "cancr0022.00010",
+      "code": "cancr0022-00010",
       "display": "ostoma",
       "designation": [
         {
@@ -4252,7 +4252,7 @@
       ]
     },
     {
-      "code": "cancr0022.00011",
+      "code": "cancr0022-00011",
       "display": "o'n ikki barmoqli ichak rezektsiyasi",
       "designation": [
         {
@@ -4266,7 +4266,7 @@
       ]
     },
     {
-      "code": "cancr0022.00012",
+      "code": "cancr0022-00012",
       "display": "ingichka ichak rezektsiyasi",
       "designation": [
         {
@@ -4280,7 +4280,7 @@
       ]
     },
     {
-      "code": "cancr0022.00013",
+      "code": "cancr0022-00013",
       "display": "kengaytirilgan gastrektomiya",
       "designation": [
         {
@@ -4294,7 +4294,7 @@
       ]
     },
     {
-      "code": "cancr0022.00014",
+      "code": "cancr0022-00014",
       "display": "kengaytirilgan gastrektomiya, qizilo'ngachning n/3 qismini rezektsiya qilish",
       "designation": [
         {
@@ -4308,7 +4308,7 @@
       ]
     },
     {
-      "code": "cancr0022.00015",
+      "code": "cancr0022-00015",
       "display": "hemigeptektomiya",
       "designation": [
         {
@@ -4322,7 +4322,7 @@
       ]
     },
     {
-      "code": "cancr0022.00016",
+      "code": "cancr0022-00016",
       "display": "jigardan tashqari kanallarni rezektsiya qilish",
       "designation": [
         {
@@ -4336,7 +4336,7 @@
       ]
     },
     {
-      "code": "cancr0022.00017",
+      "code": "cancr0022-00017",
       "display": "kombinatsiyalangan gastrektomiya",
       "designation": [
         {
@@ -4350,7 +4350,7 @@
       ]
     },
     {
-      "code": "cancr0022.00018",
+      "code": "cancr0022-00018",
       "display": "qizilo'ngachning n/3 qismini rezektsiya qilish bilan kombinatsiyalangan gastrektomiya",
       "designation": [
         {
@@ -4364,7 +4364,7 @@
       ]
     },
     {
-      "code": "cancr0022.00019",
+      "code": "cancr0022-00019",
       "display": "retroperitoneal noorgan o'smalarini olib tashlash",
       "designation": [
         {
@@ -4378,7 +4378,7 @@
       ]
     },
     {
-      "code": "cancr0022.00020",
+      "code": "cancr0022-00020",
       "display": "distal subtotal gastrektomiya",
       "designation": [
         {
@@ -4392,7 +4392,7 @@
       ]
     },
     {
-      "code": "cancr0022.00021",
+      "code": "cancr0022-00021",
       "display": "oshqozon osti bezi dumini rezektsiya qilish + splenektomiya",
       "designation": [
         {
@@ -4406,7 +4406,7 @@
       ]
     },
     {
-      "code": "cancr0022.00022",
+      "code": "cancr0022-00022",
       "display": "proksimal subtotal gastrektomiya",
       "designation": [
         {
@@ -4420,7 +4420,7 @@
       ]
     },
     {
-      "code": "cancr0022.00023",
+      "code": "cancr0022-00023",
       "display": "qorin old devori shishini olib tashlash",
       "designation": [
         {
@@ -4434,7 +4434,7 @@
       ]
     },
     {
-      "code": "cancr0022.00024",
+      "code": "cancr0022-00024",
       "display": "laparotomiya, yopishishlarni ajratish (yopishqoqlarni ajratish)",
       "designation": [
         {
@@ -4448,7 +4448,7 @@
       ]
     },
     {
-      "code": "cancr0022.00025",
+      "code": "cancr0022-00025",
       "display": "oshqozon devorining iqtisodiy rezektsiyasi",
       "designation": [
         {
@@ -4462,7 +4462,7 @@
       ]
     },
     {
-      "code": "cancr0022.00026",
+      "code": "cancr0022-00026",
       "display": "oshqozon osti bezining rezektsiyasi, pankreato-gastroanastomoz",
       "designation": [
         {
@@ -4476,7 +4476,7 @@
       ]
     },
     {
-      "code": "cancr0022.00027",
+      "code": "cancr0022-00027",
       "display": "Oshqozonni sun'iy almashtirish rezervuarini yaratish bilan gastrektomiya (1-toifa)",
       "designation": [
         {
@@ -4490,7 +4490,7 @@
       ]
     },
     {
-      "code": "cancr0022.00028",
+      "code": "cancr0022-00028",
       "display": "sun'iy oshqozonni almashtirish rezervuarini yaratish bilan gastrektomiya (2-toifa)",
       "designation": [
         {
@@ -4504,7 +4504,7 @@
       ]
     },
     {
-      "code": "cancr0022.00029",
+      "code": "cancr0022-00029",
       "display": "tikuvchi o'simta teshilishi",
       "designation": [
         {
@@ -4518,7 +4518,7 @@
       ]
     },
     {
-      "code": "cancr0022.00030",
+      "code": "cancr0022-00030",
       "display": "oshqozon bo'g'inining kombinatsiyalangan ekstirpatsiyasi",
       "designation": [
         {
@@ -4532,7 +4532,7 @@
       ]
     },
     {
-      "code": "cancr0022.00031",
+      "code": "cancr0022-00031",
       "display": "oshqozon po'stlog'ining ekstirpatsiyasi",
       "designation": [
         {
@@ -4546,7 +4546,7 @@
       ]
     },
     {
-      "code": "cancr0022.00032",
+      "code": "cancr0022-00032",
       "display": "oshqozonning 2/3 qismini rezektsiya qilish",
       "designation": [
         {
@@ -4560,7 +4560,7 @@
       ]
     },
     {
-      "code": "cancr0022.00033",
+      "code": "cancr0022-00033",
       "display": "palliativ gastrektomiya",
       "designation": [
         {
@@ -4574,7 +4574,7 @@
       ]
     },
     {
-      "code": "cancr0022.00034",
+      "code": "cancr0022-00034",
       "display": "palliativ distal subtotal gastrektomiya",
       "designation": [
         {
@@ -4588,7 +4588,7 @@
       ]
     },
     {
-      "code": "cancr0022.00035",
+      "code": "cancr0022-00035",
       "display": "pankreatoduodenal rezektsiya (PDR)",
       "designation": [
         {
@@ -4602,7 +4602,7 @@
       ]
     },
     {
-      "code": "cancr0022.00036",
+      "code": "cancr0022-00036",
       "display": "relaparotomiya, qorin bo'shlig'ining sanitariyasi, stoma",
       "designation": [
         {
@@ -4616,7 +4616,7 @@
       ]
     },
     {
-      "code": "cancr0022.00037",
+      "code": "cancr0022-00037",
       "display": "splenektomiya",
       "designation": [
         {
@@ -4630,7 +4630,7 @@
       ]
     },
     {
-      "code": "cancr0022.00038",
+      "code": "cancr0022-00038",
       "display": "perkutan transhepatik xolangiostomiya (PTCHS)",
       "designation": [
         {
@@ -4644,7 +4644,7 @@
       ]
     },
     {
-      "code": "cancr0022.00039",
+      "code": "cancr0022-00039",
       "display": "transduodenal papillektomiya",
       "designation": [
         {
@@ -4658,7 +4658,7 @@
       ]
     },
     {
-      "code": "cancr0022.00040",
+      "code": "cancr0022-00040",
       "display": "xoletsistektomiya",
       "designation": [
         {
@@ -4672,7 +4672,7 @@
       ]
     },
     {
-      "code": "cancr0022.00041",
+      "code": "cancr0022-00041",
       "display": "qizilo'ngach-jejunal anastomozning rezektsiyasi",
       "designation": [
         {
@@ -4686,7 +4686,7 @@
       ]
     },
     {
-      "code": "cancr0022.00042",
+      "code": "cancr0022-00042",
       "display": "transanal rektal o'smani olib tashlash",
       "designation": [
         {
@@ -4700,7 +4700,7 @@
       ]
     },
     {
-      "code": "cancr0022.00043",
+      "code": "cancr0022-00043",
       "display": "ileo-ko'ndalang anastomoz bilan o'ng hemikolektomiya",
       "designation": [
         {
@@ -4714,7 +4714,7 @@
       ]
     },
     {
-      "code": "cancr0022.00044",
+      "code": "cancr0022-00044",
       "display": "transvers-rektal anastomoz bilan chap tomonlama hemikolektomiya",
       "designation": [
         {
@@ -4728,7 +4728,7 @@
       ]
     },
     {
-      "code": "cancr0022.00045",
+      "code": "cancr0022-00045",
       "display": "ileo-sigma anastomozi bilan subtotal kolektomiya",
       "designation": [
         {
@@ -4742,7 +4742,7 @@
       ]
     },
     {
-      "code": "cancr0022.00046",
+      "code": "cancr0022-00046",
       "display": "dessendo-rektal anastomoz bilan sigmoidektomiya",
       "designation": [
         {
@@ -4756,7 +4756,7 @@
       ]
     },
     {
-      "code": "cancr0022.00047",
+      "code": "cancr0022-00047",
       "display": "Hartman operatsiyasi",
       "designation": [
         {
@@ -4770,7 +4770,7 @@
       ]
     },
     {
-      "code": "cancr0022.00048",
+      "code": "cancr0022-00048",
       "display": "bir barrelli kolostoma bilan oldingi rektal rezektsiya",
       "designation": [
         {
@@ -4784,7 +4784,7 @@
       ]
     },
     {
-      "code": "cancr0022.00049",
+      "code": "cancr0022-00049",
       "display": "reduksiya bilan to'g'ri ichakning abdominal-anal rezektsiyasi",
       "designation": [
         {
@@ -4798,7 +4798,7 @@
       ]
     },
     {
-      "code": "cancr0022.00050",
+      "code": "cancr0022-00050",
       "display": "to'g'ri ichakning abdominoperineal ekstirpatsiyasi",
       "designation": [
         {
@@ -4812,7 +4812,7 @@
       ]
     },
     {
-      "code": "cancr0022.00051",
+      "code": "cancr0022-00051",
       "display": "ileostomiya bilan umumiy kolektomiya",
       "designation": [
         {
@@ -4826,7 +4826,7 @@
       ]
     },
     {
-      "code": "cancr0022.00052",
+      "code": "cancr0022-00052",
       "display": "ileostomiya bilan umumiy kolproektomiya",
       "designation": [
         {
@@ -4840,7 +4840,7 @@
       ]
     },
     {
-      "code": "cancr0022.00053",
+      "code": "cancr0022-00053",
       "display": "kolostomani anastomoz bilan yopish",
       "designation": [
         {
@@ -4854,7 +4854,7 @@
       ]
     },
     {
-      "code": "cancr0022.00054",
+      "code": "cancr0022-00054",
       "display": "ileorektal anastomoz bilan umumiy kolektomiya",
       "designation": [
         {
@@ -4868,7 +4868,7 @@
       ]
     },
     {
-      "code": "cancr0022.00055",
+      "code": "cancr0022-00055",
       "display": "umumiy kolektomiyadan keyin ingichka ichakdan rezervuarlar yaratish (j-naych w-naych)",
       "designation": [
         {
@@ -4882,7 +4882,7 @@
       ]
     },
     {
-      "code": "cancr0022.00056",
+      "code": "cancr0022-00056",
       "display": "to'g'ri ichakning abdominoperineal ekstirpatsiyasidan keyin neorektum, neosfinkterni yaratish",
       "designation": [
         {
@@ -4896,7 +4896,7 @@
       ]
     },
     {
-      "code": "cancr0022.00057",
+      "code": "cancr0022-00057",
       "display": "dumaloq stapler yordamida anastomoz bilan to'g'ri ichakning oldingi ultra-past rezektsiyasi",
       "designation": [
         {
@@ -4910,7 +4910,7 @@
       ]
     },
     {
-      "code": "cancr0022.00058",
+      "code": "cancr0022-00058",
       "display": "kolostomani, ileostomiyani olib tashlash",
       "designation": [
         {
@@ -4924,7 +4924,7 @@
       ]
     },
     {
-      "code": "cancr0022.00059",
+      "code": "cancr0022-00059",
       "display": "limfa tugunlarini kesish bilan radikal nefrektomiya",
       "designation": [
         {
@@ -4938,7 +4938,7 @@
       ]
     },
     {
-      "code": "cancr0022.00060",
+      "code": "cancr0022-00060",
       "display": "limfa tugunlari diseksiyasi bilan radikal nefrektomiya, trombektomiya",
       "designation": [
         {
@@ -4952,7 +4952,7 @@
       ]
     },
     {
-      "code": "cancr0022.00061",
+      "code": "cancr0022-00061",
       "display": "buyrak rezektsiyasi",
       "designation": [
         {
@@ -4966,7 +4966,7 @@
       ]
     },
     {
-      "code": "cancr0022.00062",
+      "code": "cancr0022-00062",
       "display": "palliativ nefrektomiya",
       "designation": [
         {
@@ -4980,7 +4980,7 @@
       ]
     },
     {
-      "code": "cancr0022.00063",
+      "code": "cancr0022-00063",
       "display": "siydik pufagi rezektsiyasi bilan nefroureterektomiya",
       "designation": [
         {
@@ -4994,7 +4994,7 @@
       ]
     },
     {
-      "code": "cancr0022.00064",
+      "code": "cancr0022-00064",
       "display": "diagnostik laparotomiya. qayta ko'rib chiqish. drenaj.",
       "designation": [
         {
@@ -5008,7 +5008,7 @@
       ]
     },
     {
-      "code": "cancr0022.00065",
+      "code": "cancr0022-00065",
       "display": "diagnostik laparotomiya. qayta ko'rib chiqish. drenaj. biopsiya.",
       "designation": [
         {
@@ -5022,7 +5022,7 @@
       ]
     },
     {
-      "code": "cancr0022.00066",
+      "code": "cancr0022-00066",
       "display": "diagnostik laparoskopiya. qayta ko'rib chiqish. drenaj.",
       "designation": [
         {
@@ -5036,7 +5036,7 @@
       ]
     },
     {
-      "code": "cancr0022.00067",
+      "code": "cancr0022-00067",
       "display": "diagnostik laparoskopiya. qayta ko'rib chiqish. drenaj. biopsiya",
       "designation": [
         {
@@ -5050,7 +5050,7 @@
       ]
     },
     {
-      "code": "cancr0022.00068",
+      "code": "cancr0022-00068",
       "display": "relaparotomiya. qayta ko'rib chiqish. qayta tashkil etish drenaj.",
       "designation": [
         {
@@ -5064,7 +5064,7 @@
       ]
     },
     {
-      "code": "cancr0022.00069",
+      "code": "cancr0022-00069",
       "display": "Quviqning TUR",
       "designation": [
         {
@@ -5078,7 +5078,7 @@
       ]
     },
     {
-      "code": "cancr0022.00070",
+      "code": "cancr0022-00070",
       "display": "Quviq reTUR",
       "designation": [
         {
@@ -5092,7 +5092,7 @@
       ]
     },
     {
-      "code": "cancr0022.00071",
+      "code": "cancr0022-00071",
       "display": "siydik pufagining rezektsiyasi. epitsistostomiya.",
       "designation": [
         {
@@ -5106,7 +5106,7 @@
       ]
     },
     {
-      "code": "cancr0022.00072",
+      "code": "cancr0022-00072",
       "display": "siydik pufagini qayta ko'rib chiqish. biopsiya. epitsistostomiya.",
       "designation": [
         {
@@ -5120,7 +5120,7 @@
       ]
     },
     {
-      "code": "cancr0022.00073",
+      "code": "cancr0022-00073",
       "display": "Ikki tomondan kistprostatektomiya, ureterokutoneostomiya (UX)",
       "designation": [
         {
@@ -5134,7 +5134,7 @@
       ]
     },
     {
-      "code": "cancr0022.00074",
+      "code": "cancr0022-00074",
       "display": "kistprostatektomiya. g'isht ustidagi urostomiyaning shakllanishi",
       "designation": [
         {
@@ -5148,7 +5148,7 @@
       ]
     },
     {
-      "code": "cancr0022.00075",
+      "code": "cancr0022-00075",
       "display": "kistprostatektomiya. yo'g'on ichakdan siydik rezervuarining shakllanishi. appendikostomiya.",
       "designation": [
         {
@@ -5162,7 +5162,7 @@
       ]
     },
     {
-      "code": "cancr0022.00076",
+      "code": "cancr0022-00076",
       "display": "Ikki tomondan sistektomiya, ureterokutoneostomiya (Buyuk Britaniya)",
       "designation": [
         {
@@ -5176,7 +5176,7 @@
       ]
     },
     {
-      "code": "cancr0022.00077",
+      "code": "cancr0022-00077",
       "display": "sistektomiya. yo'g'on ichakdan siydik rezervuarining shakllanishi. appendikostomiya.",
       "designation": [
         {
@@ -5190,7 +5190,7 @@
       ]
     },
     {
-      "code": "cancr0022.00078",
+      "code": "cancr0022-00078",
       "display": "sistektomiya. Briker urostomiyasi shakllanishi",
       "designation": [
         {
@@ -5204,7 +5204,7 @@
       ]
     },
     {
-      "code": "cancr0022.00079",
+      "code": "cancr0022-00079",
       "display": "ikkala tomonning tos a'zolarining oldingi ichini tozalash, ureterokutoneostomiya (UC)",
       "designation": [
         {
@@ -5218,7 +5218,7 @@
       ]
     },
     {
-      "code": "cancr0022.00080",
+      "code": "cancr0022-00080",
       "display": "tos a'zolarining oldingi ichi chiqishi. Bricker bo'yicha urostomiyaning shakllanishi.",
       "designation": [
         {
@@ -5232,7 +5232,7 @@
       ]
     },
     {
-      "code": "cancr0022.00081",
+      "code": "cancr0022-00081",
       "display": "tos a'zolarining oldingi ichi chiqishi. yo'g'on ichakdan siydik rezervuarining shakllanishi. appendikostomiya.",
       "designation": [
         {
@@ -5246,7 +5246,7 @@
       ]
     },
     {
-      "code": "cancr0022.00082",
+      "code": "cancr0022-00082",
       "display": "limfa tugunlari diseksiyasi bilan radikal prostatektomiya.",
       "designation": [
         {
@@ -5260,7 +5260,7 @@
       ]
     },
     {
-      "code": "cancr0022.00083",
+      "code": "cancr0022-00083",
       "display": "ekskursiya adenomasi",
       "designation": [
         {
@@ -5274,7 +5274,7 @@
       ]
     },
     {
-      "code": "cancr0022.00084",
+      "code": "cancr0022-00084",
       "display": "adenomektomiya. epitsistostomiya.",
       "designation": [
         {
@@ -5288,7 +5288,7 @@
       ]
     },
     {
-      "code": "cancr0022.00085",
+      "code": "cancr0022-00085",
       "display": "orxofunikulektomiya",
       "designation": [
         {
@@ -5302,7 +5302,7 @@
       ]
     },
     {
-      "code": "cancr0022.00086",
+      "code": "cancr0022-00086",
       "display": "Chevassu operatsiyasi",
       "designation": [
         {
@@ -5316,7 +5316,7 @@
       ]
     },
     {
-      "code": "cancr0022.00087",
+      "code": "cancr0022-00087",
       "display": "retroperitoneal limfadenektomiya",
       "designation": [
         {
@@ -5330,7 +5330,7 @@
       ]
     },
     {
-      "code": "cancr0022.00088",
+      "code": "cancr0022-00088",
       "display": "2 tomonlama orxiektomiya",
       "designation": [
         {
@@ -5344,7 +5344,7 @@
       ]
     },
     {
-      "code": "cancr0022.00089",
+      "code": "cancr0022-00089",
       "display": "penektomiya",
       "designation": [
         {
@@ -5358,7 +5358,7 @@
       ]
     },
     {
-      "code": "cancr0022.00090",
+      "code": "cancr0022-00090",
       "display": "siydik pufagidagi toshlarning transuretral sistolitotripsi",
       "designation": [
         {
@@ -5372,7 +5372,7 @@
       ]
     },
     {
-      "code": "cancr0022.00091",
+      "code": "cancr0022-00091",
       "display": "tashqi genitoüriner organlarning shakllanishi uchun minimal invaziv jarrohlik (polipektomiya va boshqalar).",
       "designation": [
         {
@@ -5386,7 +5386,7 @@
       ]
     },
     {
-      "code": "cancr0022.00092",
+      "code": "cancr0022-00092",
       "display": "ureteral toshlarning transuretral ureterolitotripsi",
       "designation": [
         {
@@ -5400,7 +5400,7 @@
       ]
     },
     {
-      "code": "cancr0022.00093",
+      "code": "cancr0022-00093",
       "display": "ureteropyeloskopiya (biopsiya)",
       "designation": [
         {
@@ -5414,7 +5414,7 @@
       ]
     },
     {
-      "code": "cancr0022.00094",
+      "code": "cancr0022-00094",
       "display": "nefroskopiya",
       "designation": [
         {
@@ -5428,7 +5428,7 @@
       ]
     },
     {
-      "code": "cancr0022.00095",
+      "code": "cancr0022-00095",
       "display": "SC nefrostomiyasi",
       "designation": [
         {
@@ -5442,7 +5442,7 @@
       ]
     },
     {
-      "code": "cancr0022.00096",
+      "code": "cancr0022-00096",
       "display": "SC sistostomiyasi",
       "designation": [
         {
@@ -5456,7 +5456,7 @@
       ]
     },
     {
-      "code": "cancr0022.00097",
+      "code": "cancr0022-00097",
       "display": "SC nefrolitotomiya",
       "designation": [
         {
@@ -5470,7 +5470,7 @@
       ]
     },
     {
-      "code": "cancr0022.00098",
+      "code": "cancr0022-00098",
       "display": "ureteroplastika",
       "designation": [
         {
@@ -5484,7 +5484,7 @@
       ]
     },
     {
-      "code": "cancr0022.00099",
+      "code": "cancr0022-00099",
       "display": "siydik yo'llarining stentlanishi",
       "designation": [
         {
@@ -5498,7 +5498,7 @@
       ]
     },
     {
-      "code": "cancr0022.00100",
+      "code": "cancr0022-00100",
       "display": "uretral rezektsiya. uretroplastika",
       "designation": [
         {
@@ -5512,7 +5512,7 @@
       ]
     },
     {
-      "code": "cancr0022.00101",
+      "code": "cancr0022-00101",
       "display": "ureterosistneoanastamoz bilan gemisistektomiya. Epitsistostomiya",
       "designation": [
         {
@@ -5526,7 +5526,7 @@
       ]
     },
     {
-      "code": "cancr0022.00102",
+      "code": "cancr0022-00102",
       "display": "ureterosistneoanastomoz",
       "designation": [
         {
@@ -5540,7 +5540,7 @@
       ]
     },
     {
-      "code": "cancr0022.00103",
+      "code": "cancr0022-00103",
       "display": "sunnat",
       "designation": [
         {
@@ -5554,7 +5554,7 @@
       ]
     },
     {
-      "code": "cancr0022.00104",
+      "code": "cancr0022-00104",
       "display": "ileo-obturator limfa tugunlarining diseksiyasi",
       "designation": [
         {
@@ -5568,7 +5568,7 @@
       ]
     },
     {
-      "code": "cancr0022.00105",
+      "code": "cancr0022-00105",
       "display": "yo'g'on ichakning uzluksizligini tiklash uchun rekonstruktiv jarrohlik",
       "designation": [
         {
@@ -5582,7 +5582,7 @@
       ]
     },
     {
-      "code": "cancr0022.00106",
+      "code": "cancr0022-00106",
       "display": "kolostoma va ileostomiyani yopish",
       "designation": [
         {
@@ -5596,7 +5596,7 @@
       ]
     },
     {
-      "code": "cancr0022.00107",
+      "code": "cancr0022-00107",
       "display": "bachadon bo'yni konizatsiyasi",
       "designation": [
         {
@@ -5610,7 +5610,7 @@
       ]
     },
     {
-      "code": "cancr0022.00108",
+      "code": "cancr0022-00108",
       "display": "laparosentez",
       "designation": [
         {
@@ -5624,7 +5624,7 @@
       ]
     },
     {
-      "code": "cancr0022.00109",
+      "code": "cancr0022-00109",
       "display": "vulvektomiya",
       "designation": [
         {
@@ -5638,7 +5638,7 @@
       ]
     },
     {
-      "code": "cancr0022.00110",
+      "code": "cancr0022-00110",
       "display": "kengaytirilgan vulvektomiya (vulvektomiya va Duquesne operatsiyasi)",
       "designation": [
         {
@@ -5652,7 +5652,7 @@
       ]
     },
     {
-      "code": "cancr0022.00111",
+      "code": "cancr0022-00111",
       "display": "tubovariektomiya",
       "designation": [
         {
@@ -5666,7 +5666,7 @@
       ]
     },
     {
-      "code": "cancr0022.00112",
+      "code": "cancr0022-00112",
       "display": "bachadon va qo'shimchalarning amputatsiyasi",
       "designation": [
         {
@@ -5680,7 +5680,7 @@
       ]
     },
     {
-      "code": "cancr0022.00113",
+      "code": "cancr0022-00113",
       "display": "qo'shimchalarsiz bachadon amputatsiyasi",
       "designation": [
         {
@@ -5694,7 +5694,7 @@
       ]
     },
     {
-      "code": "cancr0022.00114",
+      "code": "cancr0022-00114",
       "display": "bachadonni qo'shimchalar bilan ekstirpatsiya qilish",
       "designation": [
         {
@@ -5708,7 +5708,7 @@
       ]
     },
     {
-      "code": "cancr0022.00115",
+      "code": "cancr0022-00115",
       "display": "qo'shimchalarsiz histerektomiya",
       "designation": [
         {
@@ -5722,7 +5722,7 @@
       ]
     },
     {
-      "code": "cancr0022.00116",
+      "code": "cancr0022-00116",
       "display": "bachadonni qo'shimchalar bilan ekstirpatsiya qilish, omentektomiya",
       "designation": [
         {
@@ -5736,7 +5736,7 @@
       ]
     },
     {
-      "code": "cancr0022.00117",
+      "code": "cancr0022-00117",
       "display": "bachadonni qo'shimchalar bilan uzaytirish (Vertheim operatsiyasi)",
       "designation": [
         {
@@ -5750,7 +5750,7 @@
       ]
     },
     {
-      "code": "cancr0022.00118",
+      "code": "cancr0022-00118",
       "display": "tuxumdonlarning transpozitsiyasi bilan kengaytirilgan histerektomiya",
       "designation": [
         {
@@ -5764,7 +5764,7 @@
       ]
     },
     {
-      "code": "cancr0022.00119",
+      "code": "cancr0022-00119",
       "display": "traxelektomiya",
       "designation": [
         {
@@ -5778,7 +5778,7 @@
       ]
     },
     {
-      "code": "cancr0022.00120",
+      "code": "cancr0022-00120",
       "display": "tashqi ayol jinsiy a'zolarining kriyodestruktsiyasi",
       "designation": [
         {
@@ -5792,7 +5792,7 @@
       ]
     },
     {
-      "code": "cancr0022.00121",
+      "code": "cancr0022-00121",
       "display": "bachadon bo'yni bo'g'inining ekstirpatsiyasi",
       "designation": [
         {
@@ -5806,7 +5806,7 @@
       ]
     },
     {
-      "code": "cancr0022.00122",
+      "code": "cancr0022-00122",
       "display": "teri o'smalarining eksizyoni",
       "designation": [
         {
@@ -5820,7 +5820,7 @@
       ]
     },
     {
-      "code": "cancr0022.00123",
+      "code": "cancr0022-00123",
       "display": "takroriy va metastatik teri o'smalarini olib tashlash",
       "designation": [
         {
@@ -5834,7 +5834,7 @@
       ]
     },
     {
-      "code": "cancr0022.00124",
+      "code": "cancr0022-00124",
       "display": "bepul plastik jarrohlik yo'li bilan teri shishini olib tashlash",
       "designation": [
         {
@@ -5848,7 +5848,7 @@
       ]
     },
     {
-      "code": "cancr0022.00125",
+      "code": "cancr0022-00125",
       "display": "Duquesne operatsiyasi",
       "designation": [
         {
@@ -5862,7 +5862,7 @@
       ]
     },
     {
-      "code": "cancr0022.00126",
+      "code": "cancr0022-00126",
       "display": "Melnikov operatsiyasi",
       "designation": [
         {
@@ -5876,7 +5876,7 @@
       ]
     },
     {
-      "code": "cancr0022.00127",
+      "code": "cancr0022-00127",
       "display": "aksiller limfadenektomiya",
       "designation": [
         {
@@ -5890,7 +5890,7 @@
       ]
     },
     {
-      "code": "cancr0022.00128",
+      "code": "cancr0022-00128",
       "display": "operatsiyadan keyingi nuqsonni almashtirish uchun terini bepul payvandlash",
       "designation": [
         {
@@ -5904,7 +5904,7 @@
       ]
     },
     {
-      "code": "cancr0022.00129",
+      "code": "cancr0022-00129",
       "display": "yumshoq to'qimalarning o'simtasini olib tashlash",
       "designation": [
         {
@@ -5918,7 +5918,7 @@
       ]
     },
     {
-      "code": "cancr0022.00130",
+      "code": "cancr0022-00130",
       "display": "takroriy yumshoq to'qimalar o'simtasini kesish yoki o'simta metastazini kesish",
       "designation": [
         {
@@ -5932,7 +5932,7 @@
       ]
     },
     {
-      "code": "cancr0022.00131",
+      "code": "cancr0022-00131",
       "display": "tomir protezlari bilan o'simtani olib tashlash",
       "designation": [
         {
@@ -5946,7 +5946,7 @@
       ]
     },
     {
-      "code": "cancr0022.00132",
+      "code": "cancr0022-00132",
       "display": "nuqsonni tomir pedikulyar qopqog'i bilan almashtirish bilan o'simtani kesish",
       "designation": [
         {
@@ -5960,7 +5960,7 @@
       ]
     },
     {
-      "code": "cancr0022.00133",
+      "code": "cancr0022-00133",
       "display": "o'smaning ekskokleatsiyasi",
       "designation": [
         {
@@ -5974,7 +5974,7 @@
       ]
     },
     {
-      "code": "cancr0022.00134",
+      "code": "cancr0022-00134",
       "display": "qovurg'a rezektsiyasi",
       "designation": [
         {
@@ -5988,7 +5988,7 @@
       ]
     },
     {
-      "code": "cancr0022.00135",
+      "code": "cancr0022-00135",
       "display": "sternum rezektsiyasi",
       "designation": [
         {
@@ -6002,7 +6002,7 @@
       ]
     },
     {
-      "code": "cancr0022.00136",
+      "code": "cancr0022-00136",
       "display": "klavikula rezektsiyasi",
       "designation": [
         {
@@ -6016,7 +6016,7 @@
       ]
     },
     {
-      "code": "cancr0022.00137",
+      "code": "cancr0022-00137",
       "display": "skapula rezektsiyasi",
       "designation": [
         {
@@ -6030,7 +6030,7 @@
       ]
     },
     {
-      "code": "cancr0022.00138",
+      "code": "cancr0022-00138",
       "display": "skapulektomiya",
       "designation": [
         {
@@ -6044,7 +6044,7 @@
       ]
     },
     {
-      "code": "cancr0022.00139",
+      "code": "cancr0022-00139",
       "display": "otoplastika bilan distal humerus rezektsiyasi",
       "designation": [
         {
@@ -6058,7 +6058,7 @@
       ]
     },
     {
-      "code": "cancr0022.00140",
+      "code": "cancr0022-00140",
       "display": "metakarpal rezektsiya",
       "designation": [
         {
@@ -6072,7 +6072,7 @@
       ]
     },
     {
-      "code": "cancr0022.00141",
+      "code": "cancr0022-00141",
       "display": "tos suyaklarini rezektsiya qilish va sakrumni rezektsiya qilish",
       "designation": [
         {
@@ -6086,7 +6086,7 @@
       ]
     },
     {
-      "code": "cancr0022.00142",
+      "code": "cancr0022-00142",
       "display": "fibula rezektsiyasi",
       "designation": [
         {
@@ -6100,7 +6100,7 @@
       ]
     },
     {
-      "code": "cancr0022.00143",
+      "code": "cancr0022-00143",
       "display": "segmental suyak rezektsiyasi",
       "designation": [
         {
@@ -6114,7 +6114,7 @@
       ]
     },
     {
-      "code": "cancr0022.00144",
+      "code": "cancr0022-00144",
       "display": "marginal suyak rezektsiyasi",
       "designation": [
         {
@@ -6128,7 +6128,7 @@
       ]
     },
     {
-      "code": "cancr0022.00145",
+      "code": "cancr0022-00145",
       "display": "spacerni o'rnatish bilan segmental suyak rezektsiyasi",
       "designation": [
         {
@@ -6142,7 +6142,7 @@
       ]
     },
     {
-      "code": "cancr0022.00146",
+      "code": "cancr0022-00146",
       "display": "metall osteosintezi bilan suyaklarni qayta joylashtirish",
       "designation": [
         {
@@ -6156,7 +6156,7 @@
       ]
     },
     {
-      "code": "cancr0022.00147",
+      "code": "cancr0022-00147",
       "display": "o'simta ekskokleatsiyasi + kriyo + sementoplastika",
       "designation": [
         {
@@ -6170,7 +6170,7 @@
       ]
     },
     {
-      "code": "cancr0022.00148",
+      "code": "cancr0022-00148",
       "display": "o'simta ekskokleatsiyasi + kriyo + tsementoplastika + metall osteosintezi",
       "designation": [
         {
@@ -6184,7 +6184,7 @@
       ]
     },
     {
-      "code": "cancr0022.00149",
+      "code": "cancr0022-00149",
       "display": "sementoplastika bilan o'simtani ekskokletsiya qilish",
       "designation": [
         {
@@ -6198,7 +6198,7 @@
       ]
     },
     {
-      "code": "cancr0022.00150",
+      "code": "cancr0022-00150",
       "display": "autoplastika bilan o'simtaning ekskokleatsiyasi",
       "designation": [
         {
@@ -6212,7 +6212,7 @@
       ]
     },
     {
-      "code": "cancr0022.00151",
+      "code": "cancr0022-00151",
       "display": "pastki oyoq amputatsiyasi",
       "designation": [
         {
@@ -6226,7 +6226,7 @@
       ]
     },
     {
-      "code": "cancr0022.00152",
+      "code": "cancr0022-00152",
       "display": "oyoq amputatsiyasi",
       "designation": [
         {
@@ -6240,7 +6240,7 @@
       ]
     },
     {
-      "code": "cancr0022.00153",
+      "code": "cancr0022-00153",
       "display": "yuqori oyoq amputatsiyasi",
       "designation": [
         {
@@ -6254,7 +6254,7 @@
       ]
     },
     {
-      "code": "cancr0022.00154",
+      "code": "cancr0022-00154",
       "display": "bilak amputatsiyasi",
       "designation": [
         {
@@ -6268,7 +6268,7 @@
       ]
     },
     {
-      "code": "cancr0022.00155",
+      "code": "cancr0022-00155",
       "display": "qo'lning amputatsiyasi",
       "designation": [
         {
@@ -6282,7 +6282,7 @@
       ]
     },
     {
-      "code": "cancr0022.00156",
+      "code": "cancr0022-00156",
       "display": "oyoq amputatsiyasi",
       "designation": [
         {
@@ -6296,7 +6296,7 @@
       ]
     },
     {
-      "code": "cancr0022.00157",
+      "code": "cancr0022-00157",
       "display": "yuqori oyoq-qo'llarning disartikulyatsiyasi",
       "designation": [
         {
@@ -6310,7 +6310,7 @@
       ]
     },
     {
-      "code": "cancr0022.00158",
+      "code": "cancr0022-00158",
       "display": "pastki oyoq-qo'llarning disartikulyatsiyasi",
       "designation": [
         {
@@ -6324,7 +6324,7 @@
       ]
     },
     {
-      "code": "cancr0022.00159",
+      "code": "cancr0022-00159",
       "display": "bilakning dezartikulyatsiyasi",
       "designation": [
         {
@@ -6338,7 +6338,7 @@
       ]
     },
     {
-      "code": "cancr0022.00160",
+      "code": "cancr0022-00160",
       "display": "qo'lning dezartikulyatsiyasi",
       "designation": [
         {
@@ -6352,7 +6352,7 @@
       ]
     },
     {
-      "code": "cancr0022.00161",
+      "code": "cancr0022-00161",
       "display": "barmoq amputatsiyasi",
       "designation": [
         {
@@ -6366,7 +6366,7 @@
       ]
     },
     {
-      "code": "cancr0022.00162",
+      "code": "cancr0022-00162",
       "display": "barmoqlarning disartikulyatsiyasi",
       "designation": [
         {
@@ -6380,7 +6380,7 @@
       ]
     },
     {
-      "code": "cancr0022.00163",
+      "code": "cancr0022-00163",
       "display": "tizza bo'g'imi darajasida disartikulyatsiya",
       "designation": [
         {
@@ -6394,7 +6394,7 @@
       ]
     },
     {
-      "code": "cancr0022.00164",
+      "code": "cancr0022-00164",
       "display": "oyoq Bilagi zo'r bo'g'im darajasida disartikulyatsiya",
       "designation": [
         {
@@ -6408,7 +6408,7 @@
       ]
     },
     {
-      "code": "cancr0022.00165",
+      "code": "cancr0022-00165",
       "display": "elka artroplastikasi",
       "designation": [
         {
@@ -6422,7 +6422,7 @@
       ]
     },
     {
-      "code": "cancr0022.00166",
+      "code": "cancr0022-00166",
       "display": "tirsakni almashtirish",
       "designation": [
         {
@@ -6436,7 +6436,7 @@
       ]
     },
     {
-      "code": "cancr0022.00167",
+      "code": "cancr0022-00167",
       "display": "tos suyaklarining endoprostetikasi",
       "designation": [
         {
@@ -6450,7 +6450,7 @@
       ]
     },
     {
-      "code": "cancr0022.00168",
+      "code": "cancr0022-00168",
       "display": "sonni almashtirish",
       "designation": [
         {
@@ -6464,7 +6464,7 @@
       ]
     },
     {
-      "code": "cancr0022.00169",
+      "code": "cancr0022-00169",
       "display": "tizzani almashtirish",
       "designation": [
         {
@@ -6478,7 +6478,7 @@
       ]
     },
     {
-      "code": "cancr0022.00170",
+      "code": "cancr0022-00170",
       "display": "oyoq Bilagi zo'r almashtirish",
       "designation": [
         {
@@ -6492,7 +6492,7 @@
       ]
     },
     {
-      "code": "cancr0022.00171",
+      "code": "cancr0022-00171",
       "display": "diafiz suyaklarining endoprostetikasi",
       "designation": [
         {
@@ -6506,7 +6506,7 @@
       ]
     },
     {
-      "code": "cancr0022.00172",
+      "code": "cancr0022-00172",
       "display": "bilak qo'shimchasini almashtirish",
       "designation": [
         {
@@ -6520,7 +6520,7 @@
       ]
     },
     {
-      "code": "cancr0022.00173",
+      "code": "cancr0022-00173",
       "display": "radial suyakni almashtirish",
       "designation": [
         {
@@ -6534,7 +6534,7 @@
       ]
     },
     {
-      "code": "cancr0022.00174",
+      "code": "cancr0022-00174",
       "display": "endoprotezni olib tashlash",
       "designation": [
         {
@@ -6548,7 +6548,7 @@
       ]
     },
     {
-      "code": "cancr0022.00175",
+      "code": "cancr0022-00175",
       "display": "qayta endoprotez bilan endoprotezni olib tashlash",
       "designation": [
         {
@@ -6562,7 +6562,7 @@
       ]
     },
     {
-      "code": "cancr0022.00176",
+      "code": "cancr0022-00176",
       "display": "endoprotezni qayta tiklash",
       "designation": [
         {
@@ -6576,7 +6576,7 @@
       ]
     },
     {
-      "code": "cancr0022.00177",
+      "code": "cancr0022-00177",
       "display": "oqma eksiziyasi",
       "designation": [
         {
@@ -6590,7 +6590,7 @@
       ]
     },
     {
-      "code": "cancr0022.00178",
+      "code": "cancr0022-00178",
       "display": "ochiq suyak shishi biopsiyasi",
       "designation": [
         {
@@ -6604,7 +6604,7 @@
       ]
     },
     {
-      "code": "cancr0022.00179",
+      "code": "cancr0022-00179",
       "display": "yumshoq to'qimalar o'simtasining ochiq biopsiyasi",
       "designation": [
         {
@@ -6618,7 +6618,7 @@
       ]
     },
     {
-      "code": "cancr0022.00180",
+      "code": "cancr0022-00180",
       "display": "eksizyonel biopsiya",
       "designation": [
         {
@@ -6632,7 +6632,7 @@
       ]
     },
     {
-      "code": "cancr0022.00181",
+      "code": "cancr0022-00181",
       "display": "trefin biopsiyasi",
       "designation": [
         {
@@ -6646,7 +6646,7 @@
       ]
     },
     {
-      "code": "cancr0022.00182",
+      "code": "cancr0022-00182",
       "display": "hemipelviektomiya",
       "designation": [
         {
@@ -6660,7 +6660,7 @@
       ]
     },
     {
-      "code": "cancr0022.00183",
+      "code": "cancr0022-00183",
       "display": "intramedullar pinni o'rnatish bilan segmental suyak rezektsiyasi",
       "designation": [
         {
@@ -6674,7 +6674,7 @@
       ]
     },
     {
-      "code": "cancr0022.00184",
+      "code": "cancr0022-00184",
       "display": "otoplastika bilan segmental suyak rezektsiyasi",
       "designation": [
         {
@@ -6688,7 +6688,7 @@
       ]
     },
     {
-      "code": "cancr0022.00185",
+      "code": "cancr0022-00185",
       "display": "interskapular torakal rezektsiya",
       "designation": [
         {
@@ -6702,7 +6702,7 @@
       ]
     },
     {
-      "code": "cancr0022.00186",
+      "code": "cancr0022-00186",
       "display": "interskapular torakal amputatsiya",
       "designation": [
         {
@@ -6716,7 +6716,7 @@
       ]
     },
     {
-      "code": "cancr0022.00187",
+      "code": "cancr0022-00187",
       "display": "orqa miya o'smalarini eksizyon qilish",
       "designation": [
         {
@@ -6730,7 +6730,7 @@
       ]
     },
     {
-      "code": "cancr0022.00188",
+      "code": "cancr0022-00188",
       "display": "umurtqa pog'onasining o'murtqa jarayonlarini rezektsiya qilish",
       "designation": [
         {
@@ -6744,7 +6744,7 @@
       ]
     },
     {
-      "code": "cancr0022.00189",
+      "code": "cancr0022-00189",
       "display": "umurtqa pog'onasining lateral jarayonlarini rezektsiya qilish",
       "designation": [
         {
@@ -6758,7 +6758,7 @@
       ]
     },
     {
-      "code": "cancr0022.00190",
+      "code": "cancr0022-00190",
       "display": "qafasni o'rnatish bilan vertebra tanasini rezektsiya qilish",
       "designation": [
         {
@@ -6772,7 +6772,7 @@
       ]
     },
     {
-      "code": "cancr0022.00191",
+      "code": "cancr0022-00191",
       "display": "transpedikulyar fiksatorlarni o'rnatish",
       "designation": [
         {
@@ -6786,7 +6786,7 @@
       ]
     },
     {
-      "code": "cancr0022.00192",
+      "code": "cancr0022-00192",
       "display": "ajratgichni olib tashlash",
       "designation": [
         {
@@ -6800,7 +6800,7 @@
       ]
     },
     {
-      "code": "cancr0022.00193",
+      "code": "cancr0022-00193",
       "display": "skapula rezektsiyasi",
       "designation": [
         {
@@ -6814,7 +6814,7 @@
       ]
     },
     {
-      "code": "cancr0022.00194",
+      "code": "cancr0022-00194",
       "display": "sternumektomiya",
       "designation": [
         {
@@ -6828,7 +6828,7 @@
       ]
     },
     {
-      "code": "cancr0022.00195",
+      "code": "cancr0022-00195",
       "display": "parotid tuprik bezining rezektsiyasi",
       "designation": [
         {
@@ -6842,7 +6842,7 @@
       ]
     },
     {
-      "code": "cancr0022.00196",
+      "code": "cancr0022-00196",
       "display": "tashqi submandibular kirish yordamida parotid tuprik bezining faringeal jarayonini rezektsiya qilish",
       "designation": [
         {
@@ -6856,7 +6856,7 @@
       ]
     },
     {
-      "code": "cancr0022.00197",
+      "code": "cancr0022-00197",
       "display": "parotid tuprik bezining subtotal rezektsiyasi",
       "designation": [
         {
@@ -6870,7 +6870,7 @@
       ]
     },
     {
-      "code": "cancr0022.00198",
+      "code": "cancr0022-00198",
       "display": "parotidektomiya",
       "designation": [
         {
@@ -6884,7 +6884,7 @@
       ]
     },
     {
-      "code": "cancr0022.00199",
+      "code": "cancr0022-00199",
       "display": "submandibular tuprik bezining ekstirpatsiyasi",
       "designation": [
         {
@@ -6898,7 +6898,7 @@
       ]
     },
     {
-      "code": "cancr0022.00200",
+      "code": "cancr0022-00200",
       "display": "hemitiroidektomiya",
       "designation": [
         {
@@ -6912,7 +6912,7 @@
       ]
     },
     {
-      "code": "cancr0022.00201",
+      "code": "cancr0022-00201",
       "display": "qalqonsimon bezning subtotal rezektsiyasi",
       "designation": [
         {
@@ -6926,7 +6926,7 @@
       ]
     },
     {
-      "code": "cancr0022.00202",
+      "code": "cancr0022-00202",
       "display": "tiroidektomiya",
       "designation": [
         {
@@ -6940,7 +6940,7 @@
       ]
     },
     {
-      "code": "cancr0022.00203",
+      "code": "cancr0022-00203",
       "display": "Halqum xordektomiyasi",
       "designation": [
         {
@@ -6954,7 +6954,7 @@
       ]
     },
     {
-      "code": "cancr0022.00204",
+      "code": "cancr0022-00204",
       "display": "anterolateral laringektomiya",
       "designation": [
         {
@@ -6968,7 +6968,7 @@
       ]
     },
     {
-      "code": "cancr0022.00205",
+      "code": "cancr0022-00205",
       "display": "halqumning supraglottik gorizontal rezektsiyasi",
       "designation": [
         {
@@ -6982,7 +6982,7 @@
       ]
     },
     {
-      "code": "cancr0022.00206",
+      "code": "cancr0022-00206",
       "display": "laringektomiya",
       "designation": [
         {
@@ -6996,7 +6996,7 @@
       ]
     },
     {
-      "code": "cancr0022.00207",
+      "code": "cancr0022-00207",
       "display": "yuqori jag'ning rezektsiyasi",
       "designation": [
         {
@@ -7010,7 +7010,7 @@
       ]
     },
     {
-      "code": "cancr0022.00208",
+      "code": "cancr0022-00208",
       "display": "yuqori jag'ning estrodiol rezektsiyasi",
       "designation": [
         {
@@ -7024,7 +7024,7 @@
       ]
     },
     {
-      "code": "cancr0022.00209",
+      "code": "cancr0022-00209",
       "display": "o'simta biopsiyasi bilan diagnostik maksiller sinusotomiya",
       "designation": [
         {
@@ -7038,7 +7038,7 @@
       ]
     },
     {
-      "code": "cancr0022.00210",
+      "code": "cancr0022-00210",
       "display": "o'simtani olib tashlash bilan maksiller sinusotomiya",
       "designation": [
         {
@@ -7052,7 +7052,7 @@
       ]
     },
     {
-      "code": "cancr0022.00211",
+      "code": "cancr0022-00211",
       "display": "o'simta biopsiyasi bilan diagnostik rinotomiya",
       "designation": [
         {
@@ -7066,7 +7066,7 @@
       ]
     },
     {
-      "code": "cancr0022.00212",
+      "code": "cancr0022-00212",
       "display": "o'simtani olib tashlash bilan rinotomiya",
       "designation": [
         {
@@ -7080,7 +7080,7 @@
       ]
     },
     {
-      "code": "cancr0022.00213",
+      "code": "cancr0022-00213",
       "display": "o'simta biopsiyasi bilan diagnostik etmoidotomiya",
       "designation": [
         {
@@ -7094,7 +7094,7 @@
       ]
     },
     {
-      "code": "cancr0022.00214",
+      "code": "cancr0022-00214",
       "display": "o'simtani olib tashlash bilan etmoidotomiya",
       "designation": [
         {
@@ -7108,7 +7108,7 @@
       ]
     },
     {
-      "code": "cancr0022.00215",
+      "code": "cancr0022-00215",
       "display": "o'simta biopsiyasi bilan diagnostik faringotomiya",
       "designation": [
         {
@@ -7122,7 +7122,7 @@
       ]
     },
     {
-      "code": "cancr0022.00216",
+      "code": "cancr0022-00216",
       "display": "o'smani olib tashlash bilan faringotomiya",
       "designation": [
         {
@@ -7136,7 +7136,7 @@
       ]
     },
     {
-      "code": "cancr0022.00217",
+      "code": "cancr0022-00217",
       "display": "farenks rezektsiyasi bilan laringektomiya",
       "designation": [
         {
@@ -7150,7 +7150,7 @@
       ]
     },
     {
-      "code": "cancr0022.00218",
+      "code": "cancr0022-00218",
       "display": "laringofaringektomiya",
       "designation": [
         {
@@ -7164,7 +7164,7 @@
       ]
     },
     {
-      "code": "cancr0022.00219",
+      "code": "cancr0022-00219",
       "display": "qizilo'ngach rezektsiyasi bilan laringofaringektomiya",
       "designation": [
         {
@@ -7178,7 +7178,7 @@
       ]
     },
     {
-      "code": "cancr0022.00220",
+      "code": "cancr0022-00220",
       "display": "yarim til rezektsiyasi",
       "designation": [
         {
@@ -7192,7 +7192,7 @@
       ]
     },
     {
-      "code": "cancr0022.00221",
+      "code": "cancr0022-00221",
       "display": "tilning kombinatsiyalangan rezektsiyasi",
       "designation": [
         {
@@ -7206,7 +7206,7 @@
       ]
     },
     {
-      "code": "cancr0022.00222",
+      "code": "cancr0022-00222",
       "display": "og'iz tubining rezektsiyasi",
       "designation": [
         {
@@ -7220,7 +7220,7 @@
       ]
     },
     {
-      "code": "cancr0022.00223",
+      "code": "cancr0022-00223",
       "display": "og'iz yonoqlarini rezektsiya qilish",
       "designation": [
         {
@@ -7234,7 +7234,7 @@
       ]
     },
     {
-      "code": "cancr0022.00224",
+      "code": "cancr0022-00224",
       "display": "pastki jagning marginal rezektsiyasi",
       "designation": [
         {
@@ -7248,7 +7248,7 @@
       ]
     },
     {
-      "code": "cancr0022.00225",
+      "code": "cancr0022-00225",
       "display": "pastki jag'ning segmental rezektsiyasi",
       "designation": [
         {
@@ -7262,7 +7262,7 @@
       ]
     },
     {
-      "code": "cancr0022.00226",
+      "code": "cancr0022-00226",
       "display": "pastki jag'ning subtotal rezektsiyasi",
       "designation": [
         {
@@ -7276,7 +7276,7 @@
       ]
     },
     {
-      "code": "cancr0022.00227",
+      "code": "cancr0022-00227",
       "display": "hemimandibulektomiya (pastki jag'ning yarim rezektsiyasi)",
       "designation": [
         {
@@ -7290,7 +7290,7 @@
       ]
     },
     {
-      "code": "cancr0022.00228",
+      "code": "cancr0022-00228",
       "display": "og'iz bo'shlig'i o'smalari uchun rekonstruktiv jarrohlik",
       "designation": [
         {
@@ -7304,7 +7304,7 @@
       ]
     },
     {
-      "code": "cancr0022.00229",
+      "code": "cancr0022-00229",
       "display": "yuqori jag'ning o'smalari uchun rekonstruktiv operatsiyalar",
       "designation": [
         {
@@ -7318,7 +7318,7 @@
       ]
     },
     {
-      "code": "cancr0022.00230",
+      "code": "cancr0022-00230",
       "display": "og'iz o'smalari uchun plastik jarrohlik",
       "designation": [
         {
@@ -7332,7 +7332,7 @@
       ]
     },
     {
-      "code": "cancr0022.00231",
+      "code": "cancr0022-00231",
       "display": "yuqori jag'ning o'smalari uchun plastik jarrohlik",
       "designation": [
         {
@@ -7346,7 +7346,7 @@
       ]
     },
     {
-      "code": "cancr0022.00232",
+      "code": "cancr0022-00232",
       "display": "teri shishini plastik jarrohlik bilan olib tashlash",
       "designation": [
         {
@@ -7360,7 +7360,7 @@
       ]
     },
     {
-      "code": "cancr0022.00233",
+      "code": "cancr0022-00233",
       "display": "bosh va bo'yin hududida yumshoq to'qimalarning shishlarini radikal tarzda olib tashlash",
       "designation": [
         {
@@ -7374,7 +7374,7 @@
       ]
     },
     {
-      "code": "cancr0022.00234",
+      "code": "cancr0022-00234",
       "display": "traxeostomiya",
       "designation": [
         {
@@ -7388,7 +7388,7 @@
       ]
     },
     {
-      "code": "cancr0022.00235",
+      "code": "cancr0022-00235",
       "display": "tashqi uyqu arteriyasini bog'lash",
       "designation": [
         {
@@ -7402,7 +7402,7 @@
       ]
     },
     {
-      "code": "cancr0022.00236",
+      "code": "cancr0022-00236",
       "display": "selektiv servikal limfa tugunlarining diseksiyasi",
       "designation": [
         {
@@ -7416,7 +7416,7 @@
       ]
     },
     {
-      "code": "cancr0022.00237",
+      "code": "cancr0022-00237",
       "display": "bachadon bo'yni limfa tugunlarining radikal diseksiyasi",
       "designation": [
         {
@@ -7430,7 +7430,7 @@
       ]
     },
     {
-      "code": "cancr0022.00238",
+      "code": "cancr0022-00238",
       "display": "yumshoq to'qimalarning o'simta takrorlanishining eksizyoni",
       "designation": [
         {
@@ -7444,7 +7444,7 @@
       ]
     },
     {
-      "code": "cancr0022.00239",
+      "code": "cancr0022-00239",
       "display": "limfa tugunlari va o'smaning ochiq biopsiyasi",
       "designation": [
         {
@@ -7458,7 +7458,7 @@
       ]
     },
     {
-      "code": "cancr0022.00240",
+      "code": "cancr0022-00240",
       "display": "metastatik o'smani olib tashlash",
       "designation": [
         {
@@ -7472,7 +7472,7 @@
       ]
     },
     {
-      "code": "cancr0022.00241",
+      "code": "cancr0022-00241",
       "display": "o'simta biopsiyasi bilan laringotomiya",
       "designation": [
         {
@@ -7486,7 +7486,7 @@
       ]
     },
     {
-      "code": "cancr0022.00242",
+      "code": "cancr0022-00242",
       "display": "laringoplastika",
       "designation": [
         {
@@ -7500,7 +7500,7 @@
       ]
     },
     {
-      "code": "cancr0022.00243",
+      "code": "cancr0022-00243",
       "display": "limfogemangiomaning bog'lanishi va sklerozi",
       "designation": [
         {
@@ -7514,7 +7514,7 @@
       ]
     },
     {
-      "code": "cancr0022.00244",
+      "code": "cancr0022-00244",
       "display": "yuqori yoki pastki labni plastik jarrohlik bilan rezektsiya qilish",
       "designation": [
         {
@@ -7528,7 +7528,7 @@
       ]
     },
     {
-      "code": "cancr0022.00245",
+      "code": "cancr0022-00245",
       "display": "bolalarda orbital shishlarning ponksiyon biopsiyasi",
       "designation": [
         {
@@ -7542,7 +7542,7 @@
       ]
     },
     {
-      "code": "cancr0022.00246",
+      "code": "cancr0022-00246",
       "display": "orbital yumshoq to'qimalarning o'smalaridan biopsiya",
       "designation": [
         {
@@ -7556,7 +7556,7 @@
       ]
     },
     {
-      "code": "cancr0022.00247",
+      "code": "cancr0022-00247",
       "display": "kon'yunktiva va terining o'smalaridan biopsiya",
       "designation": [
         {
@@ -7570,7 +7570,7 @@
       ]
     },
     {
-      "code": "cancr0022.00248",
+      "code": "cancr0022-00248",
       "display": "orbital operatsiya",
       "designation": [
         {
@@ -7584,7 +7584,7 @@
       ]
     },
     {
-      "code": "cancr0022.00249",
+      "code": "cancr0022-00249",
       "display": "ko'z olmasining enukleatsiyasi",
       "designation": [
         {
@@ -7598,7 +7598,7 @@
       ]
     },
     {
-      "code": "cancr0022.00250",
+      "code": "cancr0022-00250",
       "display": "kon'yunktiva va sklerada jarrohlik",
       "designation": [
         {
@@ -7612,7 +7612,7 @@
       ]
     },
     {
-      "code": "cancr0022.00251",
+      "code": "cancr0022-00251",
       "display": "ko'z qopqog'i terisi operatsiyasi",
       "designation": [
         {
@@ -7626,7 +7626,7 @@
       ]
     },
     {
-      "code": "cancr0022.00252",
+      "code": "cancr0022-00252",
       "display": "orbital eksenteratsiya",
       "designation": [
         {
@@ -7640,7 +7640,7 @@
       ]
     },
     {
-      "code": "cancr0022.00253",
+      "code": "cancr0022-00253",
       "display": "kengaytirilgan orbital eksenteratsiya",
       "designation": [
         {
@@ -7654,7 +7654,7 @@
       ]
     },
     {
-      "code": "cancr0022.00254",
+      "code": "cancr0022-00254",
       "display": "sklerotomiya, ko'z ichi o'simtasini olib tashlash bilan",
       "designation": [
         {
@@ -7668,7 +7668,7 @@
       ]
     },
     {
-      "code": "cancr0022.00255",
+      "code": "cancr0022-00255",
       "display": "o'pkaning o'simtasi bilan o'pkaning atipik rezektsiyasi bilan biopsiya",
       "designation": [
         {
@@ -7682,7 +7682,7 @@
       ]
     },
     {
-      "code": "cancr0022.00256",
+      "code": "cancr0022-00256",
       "display": "mediastin va plevraning o'simta biopsiyasi bilan diagnostik torakoskopiya;",
       "designation": [
         {
@@ -7696,7 +7696,7 @@
       ]
     },
     {
-      "code": "cancr0022.00257",
+      "code": "cancr0022-00257",
       "display": "kengaytirilgan (yoki + kombinatsiyalangan) lobektomiya yoki bilobektomiya;",
       "designation": [
         {
@@ -7710,7 +7710,7 @@
       ]
     },
     {
-      "code": "cancr0022.00258",
+      "code": "cancr0022-00258",
       "display": "kengaytirilgan (yoki + kombinatsiyalangan) segmentektomiya yoki o'pkaning atipik rezektsiyasi;",
       "designation": [
         {
@@ -7724,7 +7724,7 @@
       ]
     },
     {
-      "code": "cancr0022.00259",
+      "code": "cancr0022-00259",
       "display": "o'pka o'simtasini (metastaz, tuberkulyoma, xondroma, hamartoxondroma, kist va boshqalar) olib tashlash (yoki + kombinatsiyalangan)",
       "designation": [
         {
@@ -7738,7 +7738,7 @@
       ]
     },
     {
-      "code": "cancr0022.00260",
+      "code": "cancr0022-00260",
       "display": "kengaytirilgan pnevmonektomiya",
       "designation": [
         {
@@ -7752,7 +7752,7 @@
       ]
     },
     {
-      "code": "cancr0022.00261",
+      "code": "cancr0022-00261",
       "display": "kengaytirilgan kombinatsiyalangan pnevmonektomiya",
       "designation": [
         {
@@ -7766,7 +7766,7 @@
       ]
     },
     {
-      "code": "cancr0022.00262",
+      "code": "cancr0022-00262",
       "display": "o'pka dekortikatsiyasi bilan plevrektomiya",
       "designation": [
         {
@@ -7780,7 +7780,7 @@
       ]
     },
     {
-      "code": "cancr0022.00263",
+      "code": "cancr0022-00263",
       "display": "torakomioplastika bilan qovurg'a rezektsiyasi",
       "designation": [
         {
@@ -7794,7 +7794,7 @@
       ]
     },
     {
-      "code": "cancr0022.00264",
+      "code": "cancr0022-00264",
       "display": "torakomioplastika bilan sternum rezektsiyasi",
       "designation": [
         {
@@ -7808,7 +7808,7 @@
       ]
     },
     {
-      "code": "cancr0022.00265",
+      "code": "cancr0022-00265",
       "display": "traxeyaning dumaloq rezektsiyasi",
       "designation": [
         {
@@ -7822,7 +7822,7 @@
       ]
     },
     {
-      "code": "cancr0022.00266",
+      "code": "cancr0022-00266",
       "display": "torakotomiya orqali mediastinal shishlarni olib tashlash",
       "designation": [
         {
@@ -7836,7 +7836,7 @@
       ]
     },
     {
-      "code": "cancr0022.00267",
+      "code": "cancr0022-00267",
       "display": "sternotomiya orqali mediastinal shishlarni olib tashlash",
       "designation": [
         {
@@ -7850,7 +7850,7 @@
       ]
     },
     {
-      "code": "cancr0022.00268",
+      "code": "cancr0022-00268",
       "display": "torakomioplastika bilan qovurg'alar va sternum rezektsiyasi",
       "designation": [
         {
@@ -7864,7 +7864,7 @@
       ]
     },
     {
-      "code": "cancr0022.00269",
+      "code": "cancr0022-00269",
       "display": "Lyuis operatsiyasi",
       "designation": [
         {
@@ -7878,7 +7878,7 @@
       ]
     },
     {
-      "code": "cancr0022.00270",
+      "code": "cancr0022-00270",
       "display": "Garlok-Osava operatsiyasi",
       "designation": [
         {
@@ -7892,7 +7892,7 @@
       ]
     },
     {
-      "code": "cancr0022.00271",
+      "code": "cancr0022-00271",
       "display": "qizilo'ngachning abdominoservikal ekstirpatsiyasini qizilo'ngachgastroplastika, bo'yniga EGA qo'llash",
       "designation": [
         {
@@ -7906,7 +7906,7 @@
       ]
     },
     {
-      "code": "cancr0022.00272",
+      "code": "cancr0022-00272",
       "display": "Makkeyn operatsiyasi (3 marta qizilo'ngachning ekstirpatsiyasi).",
       "designation": [
         {
@@ -7920,7 +7920,7 @@
       ]
     },
     {
-      "code": "cancr0022.00273",
+      "code": "cancr0022-00273",
       "display": "Garlok operatsiyasi",
       "designation": [
         {
@@ -7934,7 +7934,7 @@
       ]
     },
     {
-      "code": "cancr0022.00274",
+      "code": "cancr0022-00274",
       "display": "eksplorativ torakotomiya",
       "designation": [
         {
@@ -7948,7 +7948,7 @@
       ]
     },
     {
-      "code": "cancr0022.00275",
+      "code": "cancr0022-00275",
       "display": "retorakotomiya",
       "designation": [
         {
@@ -7962,7 +7962,7 @@
       ]
     },
     {
-      "code": "cancr0022.00276",
+      "code": "cancr0022-00276",
       "display": "torasentez, plevra bo'shlig'ini drenajlash",
       "designation": [
         {
@@ -7976,7 +7976,7 @@
       ]
     },
     {
-      "code": "cancr0043.00000",
+      "code": "cancr0043-00000",
       "display": "Boshqa ta'sir turlari",
       "designation": [
         {
@@ -7990,7 +7990,7 @@
       ]
     },
     {
-      "code": "cancr0043.00001",
+      "code": "cancr0043-00001",
       "display": "Gipertermiya",
       "designation": [
         {
@@ -8004,7 +8004,7 @@
       ]
     },
     {
-      "code": "cancr0043.00002",
+      "code": "cancr0043-00002",
       "display": "Giperglikemiya",
       "designation": [
         {
@@ -8018,7 +8018,7 @@
       ]
     },
     {
-      "code": "cancr0043.00003",
+      "code": "cancr0043-00003",
       "display": "Magnetoterapiya",
       "designation": [
         {
@@ -8032,7 +8032,7 @@
       ]
     },
     {
-      "code": "cancr0043.00004",
+      "code": "cancr0043-00004",
       "display": "Fotodinamik terapiya",
       "designation": [
         {
@@ -8046,7 +8046,7 @@
       ]
     },
     {
-      "code": "cancr0043.00005",
+      "code": "cancr0043-00005",
       "display": "Radiochastota ablasyonu (RFA)",
       "designation": [
         {
@@ -8060,7 +8060,7 @@
       ]
     },
     {
-      "code": "cancr0043.00006",
+      "code": "cancr0043-00006",
       "display": "Mahalliy kimyoterapiya",
       "designation": [
         {
@@ -8074,7 +8074,7 @@
       ]
     },
     {
-      "code": "cancr0043.00007",
+      "code": "cancr0043-00007",
       "display": "Lazer ta'siri (TTT)",
       "designation": [
         {
@@ -8088,7 +8088,7 @@
       ]
     },
     {
-      "code": "cancr0043.00008",
+      "code": "cancr0043-00008",
       "display": "Elektrokoagulyatsiya",
       "designation": [
         {
@@ -8102,7 +8102,7 @@
       ]
     },
     {
-      "code": "cancr0043.00009",
+      "code": "cancr0043-00009",
       "display": "Elektrokimyoviy lizis",
       "designation": [
         {
@@ -8116,7 +8116,7 @@
       ]
     },
     {
-      "code": "cancr0043.00010",
+      "code": "cancr0043-00010",
       "display": "Mikroto'lqinli ablasyon (MWA)",
       "designation": [
         {
@@ -8130,7 +8130,7 @@
       ]
     },
     {
-      "code": "cancr0043.00011",
+      "code": "cancr0043-00011",
       "display": "IV lazerli qon nurlanishi (ILBI)",
       "designation": [
         {
@@ -8144,7 +8144,7 @@
       ]
     },
     {
-      "code": "cancr0043.00012",
+      "code": "cancr0043-00012",
       "display": "Dendritik hujayralarni in'ektsiya qilish",
       "designation": [
         {
@@ -8158,7 +8158,7 @@
       ]
     },
     {
-      "code": "cancr0043.00013",
+      "code": "cancr0043-00013",
       "display": "BMC Mirena",
       "designation": [
         {
@@ -8172,7 +8172,7 @@
       ]
     },
     {
-      "code": "cancr0043.00014",
+      "code": "cancr0043-00014",
       "display": "CAR-T terapiyasi",
       "designation": [
         {
@@ -8186,7 +8186,7 @@
       ]
     },
     {
-      "code": "cancr0043.00015",
+      "code": "cancr0043-00015",
       "display": "Qonni almashtirish terapiyasi",
       "designation": [
         {
