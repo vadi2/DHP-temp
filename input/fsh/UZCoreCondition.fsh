@@ -25,6 +25,7 @@ including diagnoses, symptoms and diseases , along with their characteristics(on
 * subject only Reference(UZCorePatient)
 * encounter 0..1 MS
 // Позже можно заменить на UzCoreEncounter
+//test
 * encounter only Reference(Encounter)
 * onset[x] 0..1 MS
 * abatement[x] 0..1 MS
