@@ -91,4 +91,4 @@ Usage: #example
   * value = "9876543211"
 * active = true
 * gender = #other
-* gender.extension[gender-other].valueCoding = GenderOtherCS#regis0007.00005 "Jinsni erkakka o'zgartirdi"
+* gender.extension[gender-other].valueCoding = GenderOtherCS#regis0007-00005 "Jinsni erkakka o'zgartirdi"
