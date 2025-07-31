@@ -2,7 +2,7 @@ CodeSystem: ActReasonCS
 Id: actreason-cs
 Title: "Act reason translations"
 Description: "Act reason supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/actreason-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/actreason-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3-ActReason

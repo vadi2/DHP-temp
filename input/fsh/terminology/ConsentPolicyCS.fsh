@@ -2,7 +2,7 @@ CodeSystem: ConsentPolicyCS
 Id: consent-policy-cs
 Title: "Consent policies"
 Description: "Defines the regulatory basis for consent"
-* ^url = "https://terminology.medcore.uz/CodeSystem/consent-policy-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/consent-policy-cs"
 * ^status = #active
 * ^experimental = true
 * ^content = #complete

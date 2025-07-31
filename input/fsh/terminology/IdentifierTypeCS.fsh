@@ -2,7 +2,7 @@ CodeSystem: IdentifierTypeCS
 Id: identifier-type-cs
 Title: "possible identifiers translations"
 Description: "Types of possible identifiers supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/identifier-type-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/identifier-type-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $identifier-type

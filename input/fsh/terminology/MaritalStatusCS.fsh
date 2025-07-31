@@ -2,7 +2,7 @@ CodeSystem: MaritalStatusCS
 Id: marital-status-cs
 Title: "Marital status translations"
 Description: "Marital status supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/marital-status-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/marital-status-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3-MaritalStatus

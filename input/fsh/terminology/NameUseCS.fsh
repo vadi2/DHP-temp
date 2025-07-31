@@ -2,7 +2,7 @@ CodeSystem: NameUseCS
 Id: name-use-cs
 Title: "possible name uses translations"
 Description: "Types of possible name uses supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/name-use-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/name-use-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $name-use

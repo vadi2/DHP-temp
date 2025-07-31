@@ -2,7 +2,7 @@ ValueSet: ConsentActionVS
 Id: consent-action-vs
 Title: "Possible consent actions"
 Description: "Determines the actions that can be taken with consent"
-* ^url = "https://terminology.medcore.uz/ValueSet/consent-action-vs"
+* ^url = "https://terminology.dhp.uz/ValueSet/consent-action-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ConsentActionCS)

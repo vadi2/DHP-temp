@@ -2,7 +2,7 @@ CodeSystem: RegionsCS
 Id: regions-cs
 Title: "Uzbekistan Regions and Locations"
 Description: "List of regions and locations in Uzbekistan"
-* ^url = "https://terminology.medcore.uz/CodeSystem/regions-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/regions-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true

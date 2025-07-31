@@ -2,7 +2,7 @@ CodeSystem: DicomDCMCS
 Id: dicom-dcs-cs
 Title: "DICOM Controlled Terminology Definitions"
 Description: "DICOM Controlled Terminology Definitions supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/dicom-dcs-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/dicom-dcs-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $dicom-dcm

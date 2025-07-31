@@ -5,13 +5,13 @@
   "id": "iso-3166-2-uz-vs",
   "title": "ISO 3166 2 character codes in Uzbek and Russian",
   "description": "Defines Uzbek and Russian translations for ISO 3166 2 character codes",
-  "url": "https://terminology.medcore.uz/ValueSet/iso-3166-2-uz-vs",
+  "url": "https://terminology.dhp.uz/ValueSet/iso-3166-2-uz-vs",
   "experimental": true,
   "language": "en",
   "extension" : [
     {
       "url" : "http://hl7.org/fhir/StructureDefinition/valueset-supplement",
-      "valueCanonical" : "https://terminology.medcore.uz/CodeSystem/iso3166-two-letter-cs"
+      "valueCanonical" : "https://terminology.dhp.uz/CodeSystem/iso3166-two-letter-cs"
     }
   ],
   "compose": {

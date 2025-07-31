@@ -2,7 +2,7 @@ CodeSystem: LocationStatusCS
 Id: location-status-cs
 Title: "Location status translations"
 Description: "Location status supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/location-status-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/location-status-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $location-status
