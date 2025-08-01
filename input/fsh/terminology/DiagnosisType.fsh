@@ -1,6 +1,6 @@
 Extension: DiagnosisType
 Id: diagnosis-type
-Title: "Diagnosis Type"
+Title: "Diagnosis type"
 Description: "Type of local diagnosis: Main diagnosis, Concomitant diagnosis"
 * ^context.type = #element
 * ^context.expression = "Condition"
