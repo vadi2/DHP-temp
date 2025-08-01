@@ -2,8 +2,7 @@ Profile: UZCoreCondition
 Parent: Condition
 Id: uz-core-condition 
 Title: "Uz Core Condition"
-Description: "Uzbekistan core Condition Profile, used for documenting a patient's clinical conditions,
-including diagnoses, symptoms and diseases , along with their characteristics(onset, severity, anatomy, status)."
+Description: "Uzbekistan Core Condition Profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics.
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
