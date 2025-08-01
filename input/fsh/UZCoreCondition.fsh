@@ -23,7 +23,7 @@ Description: "Uzbekistan Core Condition Profile, used for documenting a patient'
 * subject 1..1 MS
 * subject only Reference(UZCorePatient)
 * encounter 0..1 MS
-// Позже можно заменить на UzCoreEncounter
+// TODO Позже можно заменить на UzCoreEncounter
 * encounter only Reference(Encounter)
 * onset[x] 0..1 MS
 * abatement[x] 0..1 MS
