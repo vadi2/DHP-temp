@@ -9,7 +9,7 @@ Description: "Uzbekistan Core Condition Profile, used for documenting a patient'
 * ^date = "2025-07-29"
 * ^publisher = "Uzinfocom"
 //rules
-* clinicalStatus 1..1 MS
+* clinicalStatus MS
 * clinicalStatus from ClinicalStatusVS (required)
 * verificationStatus 0..1 MS
 * verificationStatus from VerificationStatusVS (required)
