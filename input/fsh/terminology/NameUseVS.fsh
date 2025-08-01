@@ -4,6 +4,7 @@ Title: "Types of possible name uses"
 Description: "Defines the different uses of a name in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/ValueSet/name-use-vs"
 * ^experimental = true
+<<<<<<< HEAD
 * include $name-use#usual
   * ^designation[0].language = #ru
   * ^designation[=].value = "обычный"
@@ -39,3 +40,10 @@ Description: "Defines the different uses of a name in Uzbek and Russian"
   * ^designation[=].value = "девичий"
   * ^designation[+].language = #uz
   * ^designation[=].value = "nikoh uchun ism o‘zgartirildi"
+=======
+* ^extension[0].url = $valueset-supplement
+* ^extension[=].valueCanonical = Canonical(NameUseCS)
+* ^version = "5.0.0"
+
+* include codes from system $name-use
+>>>>>>> upstream

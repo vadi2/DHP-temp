@@ -66,7 +66,7 @@ Description: "Uzbekistan Core Organization profile, used to define healthcare or
 * type.coding[organizationType] 
   ^short = "Вид организации"
   * system 1..1 MS
-  * system = Canonical($organization-type-cs)
+  * system = $organization-type-cs
   * code 1..1 MS
   * code from $organization-type-vs (required)
 * type.coding[specialization] 
