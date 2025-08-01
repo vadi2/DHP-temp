@@ -1,0 +1,8 @@
+ValueSet: DiagnosisTypeVS
+Id: diagnosis-type-vs
+Title: "Diagnosis Type"
+Description: "Diagnosis types in Uzbekistan"
+* ^url = "https://terminology.medcore.uz/ValueSet/diagnosis-type-vs"
+* ^experimental = true
+* ^language = #uz
+* include codes from system diagnosis-type-cs
