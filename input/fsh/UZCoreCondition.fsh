@@ -15,12 +15,11 @@ Description: "Uzbekistan Core Condition Profile, used for documenting a patient'
 * verificationStatus from VerificationStatusVS (required)
 * severity MS
 * severity from SeverityVS (required)
-* code MS
-
+* code from $icd-10-vs (required)
 * extension contains DiagnosisType named diagnosisType 0..1 MS
-* bodySite 0..* MS
+* bodySite MS
 * bodySite from $bodySite-condition (preferred)
-* subject 1..1 MS
+* subject MS
 * subject only Reference(UZCorePatient)
 * encounter MS
 // TODO Позже можно заменить на UzCoreEncounter
@@ -31,4 +30,6 @@ Description: "Uzbekistan Core Condition Profile, used for documenting a patient'
 //элемент asserter на fhir r5 не доступно поэтому ипшеспользовал  participant
 * participant  0..1 MS
 * participant.actor  only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or RelatedPerson or Device)
+* participant.function MS
+* participant.function from ParticipationRoleTypeVS (extensible)
 * note MS

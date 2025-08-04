@@ -65,3 +65,5 @@ Alias: $v3-NullFlavor = http://terminology.hl7.org/CodeSystem/v3-NullFlavor
 Alias: $v3-RoleCode = http://terminology.hl7.org/CodeSystem/v3-RoleCode
 Alias: $valueset-supplement = http://hl7.org/fhir/StructureDefinition/valueset-supplement
 Alias: $bodySite-condition = http://hl7.org/fhir/ValueSet/body-site
+Alias: $icd-10-vs = http://hl7.org/fhir/ValueSet/icd-10
+Alias: $participation-role-type = http://hl7.org/fhir/ValueSet/participation-role-type
