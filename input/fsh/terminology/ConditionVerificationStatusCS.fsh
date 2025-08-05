@@ -1,7 +1,7 @@
-CodeSystem: VerificationStatusCS
-Id: verification-status-cs
+CodeSystem: ConditionVerificationStatusCS
+Id: condition-verification-status-cs
 Title: "Verification status types"
-Description: "Verification status in Uzbekistan"
+Description: "Verification status supplement with translations in Uzbek and Russian"
 * ^url = "https://terminology.medcore.uz/CodeSystem/verification-status-cs"
 * ^status = #active
 * ^content = #complete

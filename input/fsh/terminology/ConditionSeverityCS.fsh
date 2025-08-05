@@ -1,8 +1,8 @@
-CodeSystem: SeverityCS
-Id: severity-cs
+CodeSystem: ConditionSeverityCS
+Id: condition-severity-cs
 Title: "Severity types"
 Description: "Severity status in Uzbekistan"
-* ^url = "https://terminology.medcore.uz/CodeSystem/severity-cs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/condition-severity-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
