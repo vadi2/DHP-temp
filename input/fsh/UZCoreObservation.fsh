@@ -80,7 +80,7 @@ Usage: #example
 * performer = Reference(example-practitioner)
 //* device = Reference(example-device)
 //* specimen = Reference(example-specimen)
-* valueString = "Blood pressure within normal limits"
+* valueString = "Blood pressure within normal  limits"
 * interpretation = $observation-interpretation#N "Normal"
 * note.text = "Patient was calm and seated for 5 minutes before measurement."
 * dataAbsentReason = $observation-dataAbsentReason#not-applicable "Not Applicable"
