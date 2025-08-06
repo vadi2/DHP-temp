@@ -44,7 +44,7 @@ Usage: #example
 * verificationStatus = $condition-ver-status#confirmed "Confirmed"
 * severity = $sct#255604002 "Mild" 
 * code = $icd-10#R51 "Headache"
-//у нас еще не работает "https://terminology.medcore.uz/CodeSystem/diagnosis-type-cs" этот ссылка поэтому я использовал ID код-система diagnosis-type-cs 
+//у нас еще не работает "https://terminology.dhp.uz/CodeSystem/diagnosis-type-cs" этот ссылка поэтому я использовал ID код-система diagnosis-type-cs 
 * extension[diagnosisType].valueCodeableConcept = diagnosis-type-cs#gencl-0001-00001 "Diagnosis of the referring institution"
 * bodySite = $sct#67169006 "Head of first metatarsal bone"
 * subject = Reference(example-patient)

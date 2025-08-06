@@ -2,7 +2,7 @@ CodeSystem: DiagnosisTypeCS
 Id: diagnosis-type-cs
 Title: "Diagnosis Types"
 Description: "Diagnosis types in Uzbekistan"
-* ^url = "https://terminology.medcore.uz/CodeSystem/diagnosis-type-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/diagnosis-type-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
