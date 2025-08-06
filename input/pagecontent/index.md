@@ -25,7 +25,7 @@ While an artifact is in development and not yet ready for production use, it wil
 
 A maturity model for testing artifacts in the real world will be introduced in the future, but for now, all artifacts are considered `draft` until they are ready for production use.
 
-The only exception to versioning are translation supplements of official [THO](https://terminology.hl7.org) codesystems, which follow the versioning of the original codesystem. For example, if the THO codesystem version is at `2.1.0`, the supplement will be at `2.1.0` as well, regardless of the IG version. If the THO codesystme is updated to `2.2.0`, the supplement will be updated to `2.2.0` as well. If a supplement needs to be updated while the THO codesystem remains unchanged an extra version number will be added to the supplement, e.g. `2.2.0.1`.
+The only exception to versioning are translation supplements of official [THO](https://terminology.hl7.org) codesystems, which follow the versioning of the original codesystem. For example, if the THO codesystem version is at `2.1.0`, the supplement will be at `2.1.0` as well, regardless of the IG version. If the THO codesystem is updated to `2.2.0`, the supplement will be updated to `2.2.0` as well. If a supplement needs to be updated while the THO codesystem remains unchanged an extra version number will be added to the supplement, e.g. `2.2.0.1`.
 
 ### Development version of IG: 0.x.x
 - IG status: `draft`
