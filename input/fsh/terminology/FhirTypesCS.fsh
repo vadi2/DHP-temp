@@ -60,7 +60,7 @@ Description: "One of the types defined as part of this version of FHIR with Uzbe
   * ^designation[0].language = #ru
   * ^designation[=].value = "Базовый вариант используется для обработки концепций, еще не определенных в FHIR, ресурсов, содержащих только повествование и не соответствующих существующему ресурсу, а также пользовательских ресурсов, не подлежащих включению в спецификацию FHIR."
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Basic FHIRda hali aniqlanmagan tushunchalarni, mavjud resursga mos kelmaydigan faqat hikoyaviy resurslarni va FHIR spetsifikatsiyasiga kiritish uchun mos bo‘lmagan maxsus resurslarni boshqarish uchun ishlatiladi."
+  * ^designation[=].value = "Basic FHIRda hali aniqlanmagan tushunchalarni, mavjud resursga mos kelmaydigan faqat hikoyaviy resurslarni va FHIR spetsifikatsiyasiga kiritish uchun mos bo'lmagan maxsus resurslarni boshqarish uchun ishlatiladi."
 * #Binary "A resource that represents the data of a single raw artifact as digital content accessible in its native format. A Binary resource can contain any content, whether text, image, pdf, zip archive, etc."
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ресурс, представляющий данные одного необработанного артефакта в виде цифрового контента, доступного в его собственном формате. Двоичный ресурс может содержать любой контент, будь то текст, изображение, pdf, zip-архив и т. д."
@@ -180,7 +180,7 @@ Description: "One of the types defined as part of this version of FHIR with Uzbe
   * ^designation[0].language = #ru
   * ^designation[=].value = "Запись выбора потребителя медицинских услуг или выбора, сделанного от его имени третьей стороной, которая разрешает или запрещает идентифицированному получателю (получателям) или роли (ролям) получателя выполнять одно или несколько действий в рамках заданного политического контекста для определенных целей и периодов времени."
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Belgilangan qabul qiluvchi(lar) yoki oluvchi rol(lar)iga ma’lum bir siyosat kontekstida, ma’lum maqsadlar va vaqt oralig‘ida bir yoki bir nechta amallarni bajarishga ruxsat beruvchi yoki rad etadigan, sog‘liqni saqlash iste’molchisining uchinchi shaxs tomonidan o‘z nomidan qilgan tanlovlari yoki tanlovlari qaydi."
+  * ^designation[=].value = "Belgilangan qabul qiluvchi(lar) yoki oluvchi rol(lar)iga ma’lum bir siyosat kontekstida, ma’lum maqsadlar va vaqt oralig'ida bir yoki bir nechta amallarni bajarishga ruxsat beruvchi yoki rad etadigan, sog'liqni saqlash iste’molchisining uchinchi shaxs tomonidan o'z nomidan qilgan tanlovlari yoki tanlovlari qaydi."
 * #Contract "Legally enforceable, formally recorded unilateral or bilateral directive i.e., a policy or agreement."
   * ^designation[0].language = #ru
   * ^designation[=].value = "Юридически осуществимая, официально зафиксированная односторонняя или двусторонняя директива, т. е. политика или соглашение."
@@ -265,7 +265,7 @@ Description: "One of the types defined as part of this version of FHIR with Uzbe
   * ^designation[0].language = #ru
   * ^designation[=].value = "Технические детали конечной точки, которые могут использоваться для электронных услуг, например, для веб-служб, предоставляющих XDS.b, конечной точки REST для другого сервера FHIR или адреса электронной почты как/Mime. Это может включать любую информацию о контексте безопасности."
   * ^designation[+].language = #uz
-  * ^designation[=].value = "XDS.b ni taqdim etuvchi veb-xizmatlar, boshqa FHIR serveri uchun REST so‘nggi nuqtasi yoki as/Mime elektron pochta manzili kabi elektron xizmatlar uchun ishlatilishi mumkin bo‘lgan so‘nggi nuqtaning texnik tafsilotlari. Bu har qanday xavfsizlik konteksti ma'lumotlarini o'z ichiga olishi mumkin."
+  * ^designation[=].value = "XDS.b ni taqdim etuvchi veb-xizmatlar, boshqa FHIR serveri uchun REST so'nggi nuqtasi yoki as/Mime elektron pochta manzili kabi elektron xizmatlar uchun ishlatilishi mumkin bo'lgan so'nggi nuqtaning texnik tafsilotlari. Bu har qanday xavfsizlik konteksti ma'lumotlarini o'z ichiga olishi mumkin."
 * #EnrollmentRequest "This resource provides the insurance enrollment details to the insurer regarding a specified coverage."
   * ^designation[0].language = #ru
   * ^designation[=].value = "Этот ресурс предоставляет страховщику данные о страховании в отношении определенного страхового покрытия."
@@ -410,12 +410,12 @@ Description: "One of the types defined as part of this version of FHIR with Uzbe
   * ^designation[0].language = #ru
   * ^designation[=].value = "Счет-фактура, содержащий собранные ChargeItems со счета с рассчитанной индивидуальной и общей ценой для целей выставления счета."
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Hisob-kitob qilish maqsadida hisoblangan individual va umumiy narx bilan hisobdan yig‘ilgan ChargeItemsni o‘z ichiga olgan invoys."
+  * ^designation[=].value = "Hisob-kitob qilish maqsadida hisoblangan individual va umumiy narx bilan hisobdan yig'ilgan ChargeItemsni o'z ichiga olgan invoys."
 * #Library "The Library resource is a general-purpose container for knowledge asset definitions. It can be used to describe and expose existing knowledge assets such as logic libraries and information model descriptions, as well as to describe a collection of knowledge assets."
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ресурс Library — это универсальный контейнер для определений активов знаний. Его можно использовать для описания и раскрытия существующих активов знаний, таких как библиотеки логики и описания информационных моделей, а также для описания коллекции активов знаний."
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Kutubxona resursi bilim aktivlari taʼriflari uchun umumiy maqsadli konteynerdir. Undan mantiqiy kutubxonalar va axborot modeli tavsiflari kabi mavjud bilim aktivlarini tavsiflash va ochish, shuningdek, bilim aktivlari to‘plamini tavsiflash uchun foydalanish mumkin."
+  * ^designation[=].value = "Kutubxona resursi bilim aktivlari taʼriflari uchun umumiy maqsadli konteynerdir. Undan mantiqiy kutubxonalar va axborot modeli tavsiflari kabi mavjud bilim aktivlarini tavsiflash va ochish, shuningdek, bilim aktivlari to'plamini tavsiflash uchun foydalanish mumkin."
 * #Linkage "Identifies two or more records (resource instances) that refer to the same real-world \"occurrence\"."
   * ^designation[0].language = #ru
   * ^designation[=].value = "Идентифицирует две или более записей (экземпляров ресурсов), которые относятся к одному и тому же реальному «событию»."
