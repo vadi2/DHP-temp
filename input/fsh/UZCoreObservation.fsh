@@ -63,3 +63,44 @@ Description: "This profile defines constraints on the FHIR Observation resource 
 * component.value[x] from $observation-codes
 * component.dataAbsentReason from DataAbsentReasonVS (extensible)
 * component.interpretation from ObservationInterpretationVS (extensible)
+
+Instance: example-uzcoreobservation-blood-pressure
+InstanceOf: UZCoreObservation
+Title: "Example Uz Core Observation - Blood Pressure"
+Description: "Example instance of a blood pressure measurement for a patient"
+Usage: #example
+
+* status = #final
+* category = $observation-category#vital-signs "Vital Signs"
+* code = $loinc#85354-9 "Blood pressure panel with all children optional"
+* subject = Reference(example-patient)
+//* encounter = Reference(example-encounter)
+* effectiveDateTime = "2025-08-01T10:00:00Z"
+* issued = "2025-08-01T10:01:00Z"
+* performer = Reference(example-practitioner)
+//* device = Reference(example-device)
+//* specimen = Reference(example-specimen)
+* valueString = "Blood pressure within normal limits"
+* interpretation = $observation-interpretation#N "Normal"
+* note.text = "Patient was calm and seated for 5 minutes before measurement."
+* dataAbsentReason = $observation-dataAbsentReason#not-applicable "Not Applicable"
+
+* referenceRange
+  * low.value = 90
+  * low.unit = "mmHg"
+  * high.value = 120
+  * high.unit = "mmHg"
+  * type = $reference-meaning#normal "Normal Range"
+  * text = "Normal systolic blood pressure for adults"
+
+* component[0]
+  * code = $loinc#8480-6 "Systolic blood pressure"
+  * valueQuantity.value = 117
+  * valueQuantity.unit = "mmHg"
+  * interpretation = $observation-interpretation#N "Normal"
+
+* component[1]
+  * code = $loinc#8462-4 "Diastolic blood pressure"
+  * valueQuantity.value = 78
+  * valueQuantity.unit = "mmHg"
+  * interpretation = $observation-interpretation#N "Normal"
