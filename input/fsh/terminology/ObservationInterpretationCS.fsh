@@ -4,7 +4,7 @@ Title: "UZCore data absent reason code sytem"
 Description: "Data absent reason suplement"
 * ^url = "https://terminology.medcore.uz/CodeSystem/observation-interpretation-cs"
 * ^experimental = true
-* ^content = #suplement
+* ^content = #supplement
 * ^supplements = $observation-interpretation
 * ^version = "3.0.0"
 * ^language = #en
