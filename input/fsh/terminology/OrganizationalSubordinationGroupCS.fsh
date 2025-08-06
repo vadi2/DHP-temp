@@ -2,7 +2,7 @@ CodeSystem: OrganizationalSubordinationGroupCS
 Id: organizational-subordination-group-cs
 Title: "Organizational subordination group"
 Description: "Defines the subordination group of the medical organization"
-* ^url = "https://terminology.medcore.uz/CodeSystem/organizational-subordination-group-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/organizational-subordination-group-cs"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = false

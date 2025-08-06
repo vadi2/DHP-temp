@@ -2,7 +2,7 @@ CodeSystem: FhirTypesCS
 Id: fhir-types-cs
 Title: "All FHIR Types"
 Description: "One of the types defined as part of this version of FHIR with Uzbek and Russian translations."
-* ^url = "https://terminology.medcore.uz/CodeSystem/fhir-types-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/fhir-types-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $fhir-types
