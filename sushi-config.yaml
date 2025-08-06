@@ -100,7 +100,7 @@ menu:
   API access: api-access.html
   Artifacts: artifacts.html
   Components: components.html
-  Change log: changelog.html
+  Changelog: changelog.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
 # │  Uncomment the properties below to configure additional properties on the ImplementationGuide  │
