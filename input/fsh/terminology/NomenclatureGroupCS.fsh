@@ -3,7 +3,6 @@ Id: nomenclature-group-cs
 Title: "Nomenclature group"
 Description: "Defines a nomenclature group (grouping of institutions)"
 * ^url = "https://terminology.medcore.uz/CodeSystem/nomenclature-group-cs"
-* ^version = "1.0.0"
 * ^status = #active
 * ^experimental = true
 * ^date = "2025-02-24"
