@@ -6,6 +6,5 @@ Description: "Defines the different uses of a name in Uzbek and Russian"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(NameUseCS)
-* ^version = "5.0.0"
 
 * include codes from system $name-use

@@ -8,7 +8,6 @@ Description: "Defines the subtype of event that is being recorded in Uzbek and R
 * ^extension[=].valueCanonical = Canonical(DicomDCMCS)
 * ^extension[+].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(HttpInteractionCS)
-* ^version = "5.0.0"
 
 * include $http-interaction#read
 * include $http-interaction#update

@@ -6,6 +6,5 @@ Description: "Defines the type of license, certificate, degree in Uzbek and Russ
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(LicenseCertificateCS)
-* ^version = "5.0.0"
 
 * include codes from system $qualification-codes
