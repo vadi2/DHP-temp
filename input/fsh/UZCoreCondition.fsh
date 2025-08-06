@@ -18,7 +18,7 @@ Description: "Uzbekistan Core Condition Profile, used for documenting a patient'
 * code from $icd-10-vs (required)
 * extension contains DiagnosisType named diagnosisType 0..1 MS
 * bodySite MS
-* bodySite from $bodySite-condition (preferred)
+* bodySite from $bodysite (preferred)
 * subject MS
 * subject only Reference(UZCorePatient)
 * encounter MS
