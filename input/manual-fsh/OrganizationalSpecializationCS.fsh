@@ -2,7 +2,7 @@ CodeSystem: OrganizationalSpecializationCS
 Id: organizational-specialization-cs
 Title: "Organizational specialization"
 Description: "Determines the specialization of a medical organization"
-* ^url = "https://terminology.medcore.uz/CodeSystem/organizational-specialization-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/organizational-specialization-cs"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = true

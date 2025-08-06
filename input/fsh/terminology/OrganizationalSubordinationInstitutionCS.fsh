@@ -2,7 +2,7 @@ CodeSystem: OrganizationalSubordinationInstitutionCS
 Id: organizational-subordination-institution-cs
 Title: "Organizational subordination institution"
 Description: "Defines the type of medical organizations without forming a legal entity"
-* ^url = "https://terminology.medcore.uz/CodeSystem/organizational-subordination-institution-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/organizational-subordination-institution-cs"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = false

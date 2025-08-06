@@ -2,7 +2,7 @@ CodeSystem: ConsentProvisionTypeCS
 Id: consent-provision-type-cs
 Title: "Consent provision type translations"
 Description: "Consent provision type supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/consent-provision-type-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/consent-provision-type-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $consent-provision-type

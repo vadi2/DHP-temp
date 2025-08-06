@@ -2,7 +2,7 @@ CodeSystem: ProvenanceParticipationRoleTypeCS
 Id: provenance-participation-role-type-cs
 Title: "Provenance Participation Role Type translations"
 Description: "Provenance Participation Role Type supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/provenance-participation-role-type-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/provenance-participation-role-type-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $provenance-participant-type
