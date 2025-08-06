@@ -93,10 +93,11 @@ parameters:
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
   Home: index.html
-  FHIR Basics: fhir-basics.html
+  FHIR basics: fhir-basics.html
   API access: api-access.html
   Artifacts: artifacts.html
-  Services: services.html
+  Components: components.html
+  Changelog: changelog.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
 # │  Uncomment the properties below to configure additional properties on the ImplementationGuide  │
