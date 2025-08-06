@@ -2,7 +2,7 @@ CodeSystem: ConsentActionCS
 Id: consent-action-cs
 Title: "Possible consent actions translations"
 Description: "Possible consent actions supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/consent-action-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/consent-action-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $consent-action

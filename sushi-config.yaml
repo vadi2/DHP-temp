@@ -3,11 +3,11 @@
 # │  used properties are included. For a list of all supported properties and their functions,     │
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
-id: uz.medcore.core
-canonical: http://medcore.uz
+id: uz.dhp.core
+canonical: http://dhp.uz
 name: DHP
-title: Digital Health Platform
-description: DHP implementation guide for Uzbekistan using FHIR R5.
+title: Uzbekistan Digital Health Platform
+description: National implementation guide for Uzbekistan using FHIR R5.
 status: draft # draft | active | retired | unknown
 version: 0.1.0
 fhirVersion: 5.0.0 # https://www.hl7.org/fhir/valueset-FHIR-version.html
@@ -67,7 +67,7 @@ dependencies:
 # http://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/master/CodeSystem-ig-parameters.html
 #
 parameters:
-  special-url-base: https://terminology.medcore.uz
+  special-url-base: https://terminology.dhp.uz
   excludettl: true
   # shownav: true
 
@@ -96,10 +96,11 @@ parameters:
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
   Home: index.html
-  FHIR Basics: fhir-basics.html
+  FHIR basics: fhir-basics.html
   API access: api-access.html
   Artifacts: artifacts.html
-  Services: services.html
+  Components: components.html
+  Changelog: changelog.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
 # │  Uncomment the properties below to configure additional properties on the ImplementationGuide  │

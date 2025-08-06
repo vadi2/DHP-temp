@@ -2,7 +2,8 @@ CodeSystem: OrganizationalStructureCS
 Id: organizational-structure-cs
 Title: "Organizational Structure"
 Description: "Defines the organizational structure of a medical institution"
-* ^url = "https://terminology.medcore.uz/CodeSystem/organizational-structure-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/organizational-structure-cs"
+* ^version = "1.0.0"
 * ^status = #active
 * ^experimental = false
 * ^date = "2025-02-24"
