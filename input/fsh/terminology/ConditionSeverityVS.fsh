@@ -4,5 +4,8 @@ Title: "Types of severity"
 Description: "Types of severity in Uzbekistan"
 * ^url = "https://terminology.medcore.uz/ValueSet/severity-vs"
 * ^experimental = true
-* ^language = #uz
-* include codes from system condition-severity-cs
+* ^language = #en // SNOMED-CT does not yet have Uzbek translations, so we use English for the display values
+
+* include $sct#255604002 "Mild"
+* include $sct#6736007 "Moderate"
+* include $sct#24484000 "Severe"
