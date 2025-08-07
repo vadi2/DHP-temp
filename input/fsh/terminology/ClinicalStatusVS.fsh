@@ -6,6 +6,6 @@ Description: "Types of clinical status in Uzbekistan"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ClinicalStatusCS)
-* ^version = "5.0.0"
+* ^version = "3.0.0"
 
 * include codes from system $condition-clinical

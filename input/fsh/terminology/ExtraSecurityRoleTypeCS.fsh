@@ -6,7 +6,7 @@ Description: "Security role type supplement with translations in Uzbek and Russi
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $extra-security-role-type
-* ^version = "0.2.0"
+* ^version = "1.0.1"
 * ^language = #en
 * #authserver
   * ^designation[0].language = #ru

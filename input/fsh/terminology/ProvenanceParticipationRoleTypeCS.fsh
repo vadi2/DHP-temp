@@ -6,7 +6,7 @@ Description: "Provenance Participation Role Type supplement with translations in
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $provenance-participant-type
-* ^version = "5.0.0"
+* ^version = "1.1.0"
 * ^language = #en
 * #enterer
   * ^designation[0].language = #ru
