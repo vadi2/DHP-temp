@@ -4,7 +4,7 @@ This FHIR R5 implementation guide (IG) is a work in progress and is not yet read
 
 Current priority is on completing the core resource profiles first to enable their implementation in DHP. Afterwards, when sufficient modelling capability is available, the rest of the IG prose will be fleshed out.
 
-## Introduction
+### Introduction
 
 This guide is the official source of documentation for the implementation of FHIR within the framework of Uzbekistan's Digital Health Platform. 
 
@@ -23,11 +23,11 @@ The guide serves as a foundation for:
 
 Using this IG will help ensure consistency in the representation of medical data, enhance system interoperability, and establish a solid foundation for a scalable digital health ecosystem. 
 
-## Project background
+### Project background
 
 The Digital Health Platform (DHP) is being developed within the framework of the "Support for Healthcare Digitalization Reform" project, implemented under [the agreement](https://www.kfw.de/About-KfW/Newsroom/Latest-News/Pressemitteilungen-Details_723328.html) between the Republic of Uzbekistan and the KfW Development Bank. This initiative is in line with the Presidential Decree of the Republic of Uzbekistan No. PP-140 dated May 1, 2023, "On Additional Measures for the Digitalization of the Healthcare System" and Resolutions of the President of the Republic of Uzbekistan No. PP-415 dated December 28, 2023 "On additional measures to accelerate the digitalization of the healthcare system and the introduction of advanced digital technologies". 
 
-## Areas of coverage
+### Areas of coverage
 
 The Digital Healthcare Platform of the Republic of Uzbekistan is based on the following 19 services: 
 
@@ -51,7 +51,11 @@ The Digital Healthcare Platform of the Republic of Uzbekistan is based on the fo
 * Screening Schedules Management  
 * Quality Assurance 
 
-## Authors
+### Contributors
 
-Vadim Peretokin, Peretokin Consulting
-
+| Name                                             | Role                          | Organization                                    |
+| ------------------------------------------------ | ----------------------------- | ----------------------------------------------- |
+| [Rustam Sadykov](https://github.com/roosyabuddy) | IG Maintainer                 | [Uzinfocom](https://uzinfocom.uz)               |
+| [Vadim Peretokin](https://github.com/vadi2/)     | Primary Author                | [Peretokin Consulting](https://vadimperetok.in) |
+| Ministry of Health of the Republic of Uzbekistan | Strategic Partner             | Government                                      |
+| KfW Development Bank                             | Financial & Technical Support | International Donor                             |
