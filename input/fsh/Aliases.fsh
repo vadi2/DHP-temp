@@ -67,4 +67,4 @@ Alias: $valueset-supplement = http://hl7.org/fhir/StructureDefinition/valueset-s
 Alias: $bodysite = http://hl7.org/fhir/ValueSet/body-site
 Alias: $icd-10-vs = http://hl7.org/fhir/ValueSet/icd-10
 Alias: $participation-role-type = http://hl7.org/fhir/ValueSet/participation-role-type
-Alias: $condition-verification-status = http://hl7.org/fhir/ValueSet/condition-ver-status
+Alias: $condition-verification-status = http://terminology.hl7.org/CodeSystem/condition-ver-status

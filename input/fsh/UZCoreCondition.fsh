@@ -19,7 +19,7 @@ Description: "Uzbekistan Core Condition Profile, used for documenting a patient'
 * code from $icd-10-vs (required)
 * extension contains DiagnosisType named diagnosisType 0..1 MS
 * bodySite MS
-* bodySite from $bodysite (preferred)
+* bodySite from $bodysite (required)
 * subject MS
 * subject only Reference(UZCorePatient)
 * encounter MS
@@ -28,11 +28,12 @@ Description: "Uzbekistan Core Condition Profile, used for documenting a patient'
 * onset[x] MS
 * abatement[x] MS
 * recordedDate MS
-//элемент asserter на fhir r5 не доступно поэтому ипшеспользовал  participant
+
 * participant  0..1 MS
 * participant.actor  only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or RelatedPerson or Device)
 * participant.function MS
-* participant.function from ConditionParticipationRoleTypeVS (extensible) //ConditionParticipationRoleTypeVS 
+* participant.function from ConditionParticipationRoleTypeVS (extensible) 
+
 * note MS
 
 Instance: example-headache
@@ -40,11 +41,11 @@ InstanceOf: UZCoreCondition
 Title: "Example Uz Core Condition - Headache"
 Description: "Example instance of a headache condition documented during a patient encounter"
 Usage: #example
+* language = #en
 * clinicalStatus = $condition-clinical#active "Active"
 * verificationStatus = $condition-ver-status#confirmed "Confirmed"
 * severity = $sct#255604002 "Mild" 
 * code = $icd-10#R51 "Headache"
-//у нас еще не работает "https://terminology.dhp.uz/CodeSystem/diagnosis-type-cs" этот ссылка поэтому я использовал ID код-система diagnosis-type-cs 
 * extension[diagnosisType].valueCodeableConcept = diagnosis-type-cs#gencl-0001-00001 "Diagnosis of the referring institution"
 * bodySite = $sct#67169006 "Head of first metatarsal bone"
 * subject = Reference(example-patient)
