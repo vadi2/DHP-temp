@@ -4,7 +4,6 @@ Id: uz-core-practitioner-role
 Title: "UZ Core PractitionerRole"
 Description: "Uzbekistan Core PractitionerRole profile, used to define roles of practitioners"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-03-12"
 * ^publisher = "Uzinfocom"

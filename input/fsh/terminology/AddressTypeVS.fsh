@@ -6,6 +6,5 @@ Description: "Defines the types of addresses with translations in Uzbek and Russ
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(AddressTypeCS)
-* ^version = "5.0.0"
 
 * include codes from system $address-type

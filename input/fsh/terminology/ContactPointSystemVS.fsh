@@ -6,6 +6,5 @@ Description: "Defines the contact point `system` types ub Uzbek and Russian"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ContactPointSystemCS)
-* ^version = "5.0.0"
 
 * include codes from system $contact-point-system

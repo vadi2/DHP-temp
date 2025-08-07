@@ -6,7 +6,6 @@ Description: "Defines how the participant participated in Uzbek and Russian"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ProvenanceParticipationRoleTypeCS)
-* ^version = "5.0.0"
 
 * include $provenance-participant-type#legal
 * include $provenance-participant-type#author

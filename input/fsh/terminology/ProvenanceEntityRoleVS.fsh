@@ -6,6 +6,5 @@ Description: "Defines the provenance entity role."
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ProvenanceEntityRoleCS)
-* ^version = "5.0.0"
 
 * include codes from system $provenance-entity-role

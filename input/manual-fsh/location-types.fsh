@@ -3,7 +3,6 @@ Id: location-types-cs
 Title: "Defines the possible location types"
 Description: "Defines the possible location types in Uzbek and Russian"
 * ^url = "https://terminology.dhp.uz/CodeSystem/location-types-cs"
-* ^version = "1.0.0"
 * ^status = #active
 * ^experimental = true
 * ^date = "2025-03-17"

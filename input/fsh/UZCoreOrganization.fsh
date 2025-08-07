@@ -4,7 +4,6 @@ Id: uz-core-organization
 Title: "UZ Core Organization"
 Description: "Uzbekistan Core Organization profile, used to define healthcare organizations and sub-units"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-02-24"
 * ^publisher = "Uzinfocom"

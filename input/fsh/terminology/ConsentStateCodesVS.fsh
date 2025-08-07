@@ -6,7 +6,6 @@ Description: "Defines the consent state codes in Uzbek and Russian"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ConsentStateCodesCS)
-* ^version = "5.0.0"
 
 * include $consent-state-codes#draft
 * include $consent-state-codes#active

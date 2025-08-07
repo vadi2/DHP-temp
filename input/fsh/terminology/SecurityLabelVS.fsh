@@ -8,7 +8,6 @@ Description: "Defines security label in Uzbek and Russian"
 * ^extension[=].valueCanonical = Canonical(ActCodeCS)
 * ^extension[+].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ConfidentialityCS)
-* ^version = "5.0.0"
 
 * include $v3-ActCode#ETH
 * include $v3-ActCode#PSY
