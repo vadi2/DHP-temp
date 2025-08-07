@@ -35,7 +35,7 @@ Description: "Uzbekistan Core Condition Profile, used for documenting a patient'
 * participant.function from ConditionParticipationRoleTypeVS (extensible) //ConditionParticipationRoleTypeVS 
 * note MS
 
-Instance: example-uzcorecondition-headache
+Instance: example-headache
 InstanceOf: UZCoreCondition
 Title: "Example Uz Core Condition - Headache"
 Description: "Example instance of a headache condition documented during a patient encounter"
