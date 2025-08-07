@@ -17,6 +17,7 @@ Title: "Diagnosis type"
 Description: "Extension to differentiate the diagnosis type, which is different from the condition type / category"
 * ^context.type = #element
 * ^context.expression = "Condition"
+* ^experimental = true
 * value[x] 1..
 * value[x] only CodeableConcept
 * value[x] from DiagnosisTypeVS (required)
