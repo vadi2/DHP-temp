@@ -31,7 +31,7 @@ Description: "Clinical status supplement with translations in Uzbek and Russian"
   * ^designation[=].value = "Faol emas"
 * #remission
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Ремисиия"
+  * ^designation[=].value = "Ремиссия"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Remissiya"
 * #resolved
