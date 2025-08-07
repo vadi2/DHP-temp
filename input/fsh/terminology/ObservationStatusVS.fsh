@@ -2,7 +2,7 @@ ValueSet: ObservationStatusVS
 Id: observation-status-vs
 Title: "Observation status"
 Description: "Observation status in Uzbekistan"
-* ^url = "https://terminology.medcore.uz/ValueSet/observation-status-vs"
+* ^url = "https://terminology.dhp.uz/ValueSet/observation-status-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ObservationStatusCS)

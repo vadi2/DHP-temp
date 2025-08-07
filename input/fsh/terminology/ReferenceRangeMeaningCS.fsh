@@ -6,7 +6,7 @@ Description: "Meaning of reference range, supplemented with translations in Uzbe
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $reference-meaning
-* ^version = "3.0.0"
+* ^version = "1.0.1"
 * ^language = #en
 
 * #type
