@@ -4,5 +4,6 @@ Title: "Types of verification status"
 Description: "Types of verification status in Uzbekistan"
 * ^url = "https://terminology.dhp.uz/ValueSet/condition-verification-status-vs"
 * ^experimental = true
-* ^language = #uz
-* include codes from system condition-verification-status-cs
+* ^extension[0].url = $valueset-supplement
+* ^extension[=].valueCanonical = Canonical(ConditionVerificationStatusCS)
+* include codes from system $condition-verification-status

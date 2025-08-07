@@ -2,13 +2,12 @@ CodeSystem: ConditionVerificationStatusCS
 Id: condition-verification-status-cs
 Title: "Verification status types"
 Description: "Verification status supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/verification-status-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
+* ^url = "https://terminology.medcore.uz/CodeSystem/verification-status-cs"
 * ^experimental = true
+* ^content = #supplement
+* ^supplements = $condition-verification-status
+* ^version = "3.0.0"
+* ^language = #en
 
 * #unconfirmed "Tasdiqlanmagan"
   * ^designation[0].language = #ru
