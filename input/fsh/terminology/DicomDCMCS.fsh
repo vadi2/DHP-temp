@@ -59,9 +59,34 @@ Description: "DICOM Controlled Terminology Definitions supplement with translati
   * ^designation[=].value = "Попытка выхода пользователя из системы"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Foydalanuvchini tizimdan chiqishga urinish"
-
+  
 * #110150
   * ^designation[0].language = #ru
   * ^designation[=].value = "Приложение"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Ilova"
+* #110151
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Запуск приложений"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Ilovani ishga tushiruvchi"
+* #110152
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Идентификатор роли получателя"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Qabul qiluvchi roli identifikatori"
+* #110153
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Идентификатор исходной роли"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Manba roli identifikatori"
+* #110154
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Носитель назначения"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Mu'ljallangan vosita"
+* #110155
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Исходный носитель"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Manba vositasi"

@@ -11,6 +11,16 @@ Context: Patient.gender, RelatedPerson.gender, Person.gender, Practitioner.gende
 * value[x] from gender-other-vs (required)
   * obeys gender-other-1
 
+Extension: DiagnosisType
+Id: diagnosis-type
+Title: "Diagnosis type"
+Description: "Extension to differentiate the diagnosis type, which is different from the condition type / category"
+* ^context.type = #element
+* ^context.expression = "Condition"
+* value[x] 1..
+* value[x] only CodeableConcept
+* value[x] from DiagnosisTypeVS (required)
+
 Invariant: gender-other-1
 Description: "The differentiation of the gender indication 'other' may only be filled if the gender 'other' is specified (for use in an extension)"
 * severity = #error
