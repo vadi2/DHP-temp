@@ -6,9 +6,9 @@ Description: "Types of participation role in Uzbekistan"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ProvenanceParticipationRoleTypeCS )
-* ^extension[0].url = $valueset-supplement
+* ^extension[+].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(DicomDCMCS)
-* ^extension[0].url = $valueset-supplement
+* ^extension[+].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ExtraSecurityRoleTypeCS)
 * ^version = "5.0.0"
 

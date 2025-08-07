@@ -2,7 +2,7 @@ CodeSystem: ConditionVerificationStatusCS
 Id: condition-verification-status-cs
 Title: "Verification status types"
 Description: "Verification status supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/verification-status-cs"
+* ^url = "https://terminology.medcore.uz/CodeSystem/condition-verification-status-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $condition-verification-status
