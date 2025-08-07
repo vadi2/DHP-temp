@@ -50,7 +50,6 @@ Usage: #example
 * bodySite = $sct#67169006 "Head of first metatarsal bone"
 * subject = Reference(example-patient)
 * onsetDateTime = "2025-07-25"
-* abatementDateTime = "2025-07-27"
 * recordedDate = "2025-07-29"
 * participant
   * actor = Reference(example-practitioner)
