@@ -99,7 +99,7 @@ menu:
   FHIR basics: fhir-basics.html
   API access: api-access.html
   Artifacts: artifacts.html
-  Components: components.html
+  Services: services.html
   Changelog: changelog.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
