@@ -1,46 +1,46 @@
 CodeSystem: ClinicalStatusCS
 Id: clinical-status-cs
-Title: "Clinical status types"
-Description: "Clinical status in Uzbekistan"
-* ^url = "https://terminology.medcore.uz/CodeSystem/clinical-status-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
+Title: "Clinical status translations"
+Description: "Clinical status supplement with translations in Uzbek and Russian"
+* ^url = "https://terminology.dhp.uz/CodeSystem/clinical-status-cs"
 * ^experimental = true
-* #active "Faol"
+* ^content = #supplement
+* ^supplements = $condition-clinical
+* ^version = "3.0.0"
+* ^language = #en
+
+* #active
   * ^designation[0].language = #ru
   * ^designation[=].value = "Активный"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Active"
-* #recurrence "Takrorlanish"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Faol"
+* #recurrence
   * ^designation[0].language = #ru
   * ^designation[=].value = "Повторение"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Recurrence"
-* #replace "Retsidiv"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Takrorlanish"
+* #relapse
   * ^designation[0].language = #ru
   * ^designation[=].value = "Рецидив"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Relapse"
-* #inactive "Faol emas"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Retsidiv"
+* #inactive
   * ^designation[0].language = #ru
   * ^designation[=].value = "Неактивный"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Inactive"
-* #remission "Remissiya"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Faol emas"
+* #remission
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Ремисиия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Remission"
-* #resolved "Hal qilindi"
+  * ^designation[=].value = "Ремиссия"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Remissiya"
+* #resolved
   * ^designation[0].language = #ru
   * ^designation[=].value = "Решено"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Resolved"
-* #unknown "Noma'lum"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Hal qilindi"
+* #unknown
   * ^designation[0].language = #ru
   * ^designation[=].value = "Неизвестный"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Unknown"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Noma'lum"

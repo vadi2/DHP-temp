@@ -2,7 +2,7 @@ Profile: UZCoreCondition
 Parent: Condition
 Id: uz-core-condition 
 Title: "Uz Core Condition"
-Description: "Uzbekistan Core Condition Profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics."
+Description: "Uzbekistan Core Condition Profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics"
 * ^experimental = true
 * ^version = "1.0.0"
 * ^status = #active
@@ -11,28 +11,48 @@ Description: "Uzbekistan Core Condition Profile, used for documenting a patient'
 //rules
 * clinicalStatus MS
 * clinicalStatus from ClinicalStatusVS (required)
-* verificationStatus 0..1 MS
-* verificationStatus from VerificationStatusVS (required)
-* severity 0..1 MS
-* severity from SeverityVS (required)
-* code 0..1 MS
-//DiagnosisType(extension)
+* verificationStatus MS
+* verificationStatus from ConditionVerificationStatusVS (required)
+* severity MS
+* severity from ConditionSeverityVS (required)
+* code MS
+* code from $icd-10-vs (required)
 * extension contains DiagnosisType named diagnosisType 0..1 MS
-* bodySite 0..* MS
-* bodySite from $bodySite-condition (extensible)
-* subject 1..1 MS
+* bodySite MS
+* bodySite from $bodysite (required)
+* subject MS
 * subject only Reference(UZCorePatient)
-* encounter 0..1 MS
+* encounter MS
 // TODO Позже можно заменить на UzCoreEncounter
 * encounter only Reference(Encounter)
-* onset[x] 0..1 MS
-* abatement[x] 0..1 MS
-* recordedDate 0..1 MS
-/*
-* asserter 0..1 MS
-* asserter only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or RelatedPerson or Device)
-*/
-//элемент asserter на fhir r5 не доступно поэтому ипшеспользовал  participant
+* onset[x] MS
+* abatement[x] MS
+* recordedDate MS
+
 * participant  0..1 MS
-* participant.actor  only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or UZCoreRelatedPerson or Device)
-* note 0..* MS
+* participant.actor  only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or RelatedPerson or Device)
+* participant.function MS
+* participant.function from ConditionParticipationRoleTypeVS (extensible) 
+
+* note MS
+
+Instance: example-headache
+InstanceOf: UZCoreCondition
+Title: "Example Uz Core Condition - Headache"
+Description: "Example instance of a headache condition documented during a patient encounter"
+Usage: #example
+* language = #en
+* clinicalStatus = $condition-clinical#active "Active"
+* verificationStatus = $condition-ver-status#confirmed "Confirmed"
+* severity = $sct#255604002 "Mild" 
+* code = $icd-10#R51 "Headache"
+* extension[diagnosisType].valueCodeableConcept = diagnosis-type-cs#gencl-0001-00001 "Diagnosis of the referring institution"
+* bodySite = $sct#67169006 "Head of first metatarsal bone"
+* subject = Reference(example-patient)
+* onsetDateTime = "2025-07-25"
+* recordedDate = "2025-07-29"
+* participant
+  * actor = Reference(example-practitioner)
+  * function = $provenance-participant-type#author "Author"
+* note
+  * text = "Patient complained of mild headache for two days. Condition resolved after rest and hydration."

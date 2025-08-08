@@ -4,7 +4,6 @@ Id: uz-core-practitioner
 Title: "UZ Core Practitioner"
 Description: "Uzbekistan Core Practitioner profile, used to define healthcare practitioners"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-03-05"
 * ^publisher = "Uzinfocom"

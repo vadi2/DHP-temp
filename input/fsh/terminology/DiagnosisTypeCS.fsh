@@ -2,7 +2,7 @@ CodeSystem: DiagnosisTypeCS
 Id: diagnosis-type-cs
 Title: "Diagnosis Types"
 Description: "Diagnosis types in Uzbekistan"
-* ^url = "https://terminology.medcore.uz/CodeSystem/diagnosis-type-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/diagnosis-type-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
@@ -24,7 +24,7 @@ Description: "Diagnosis types in Uzbekistan"
   * ^designation[=].value = "Диагноз основной"
   * ^designation[+].language = #en
   * ^designation[=].value = "Main diagnosis"
-* #gencl-0001-00004 "Qo‘shimcha tashxis"
+* #gencl-0001-00004 "Qo'shimcha tashxis"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Диагноз сопутствующий"
   * ^designation[+].language = #en
@@ -54,7 +54,7 @@ Description: "Diagnosis types in Uzbekistan"
   * ^designation[=].value = "Патоморфологический диагноз"
   * ^designation[+].language = #en
   * ^designation[=].value = "Pathomorphological diagnosis"
-* #gencl-0001-00010 "O‘limga olib kelgan tashxis"
+* #gencl-0001-00010 "O'limga olib kelgan tashxis"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Диагноз, приведший к смерти"
   * ^designation[+].language = #en

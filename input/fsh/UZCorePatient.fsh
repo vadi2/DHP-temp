@@ -4,7 +4,6 @@ Id: uz-core-patient
 Title: "UZ Core Patient"
 Description: "Uzbekistan Core Patient profile, used to represent patients administrative information"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-06-11"
 * ^publisher = "Uzinfocom"
