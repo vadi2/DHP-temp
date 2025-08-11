@@ -2,7 +2,7 @@ CodeSystem: SignatureTypeCS
 Id: signature-type-cs
 Title: "Signature Type"
 Description: "Defines the possible Provenance signature types."
-* ^url = "https://terminology.medcore.uz/CodeSystem/signature-type-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/signature-type-cs"
 * ^version = "1.0.0"
 * ^status = #active
 * ^experimental = false

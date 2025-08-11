@@ -2,7 +2,7 @@ CodeSystem: ClinicalStatusCS
 Id: clinical-status-cs
 Title: "Clinical status translations"
 Description: "Clinical status supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/clinical-status-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/clinical-status-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $condition-clinical

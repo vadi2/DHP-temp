@@ -2,7 +2,7 @@ CodeSystem: DisabilityCS
 Id: disability-cs
 Title: "Disability levels"
 Description: "Disability levels in Uzbekistan"
-* ^url = "https://terminology.medcore.uz/CodeSystem/disability-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/disability-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
