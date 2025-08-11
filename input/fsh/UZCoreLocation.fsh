@@ -93,3 +93,11 @@ Description: "Example of a branch location"
 * identifier[unit]
   * type = LocationKindsCS#Branch "Bo'limi"
   * value = "1"
+
+Instance: example-location
+InstanceOf: Location
+Usage: #example
+* status = #active
+* mode = #instance
+* name = "Toshkent shahar 1-sonli shifoxona"
+* address.text = "Toshkent shahar, Chilonzor tumani, Katta Qo'yliq 45"
