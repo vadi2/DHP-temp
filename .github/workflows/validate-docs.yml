@@ -36,13 +36,13 @@ jobs:
           chmod +x ./_updatePublisher.sh
           ./_updatePublisher.sh -y
 
-      - name: Validate IG
+      - name: Check that the IG builds successfully
         run: |
           chmod +x ./_genonce.sh
           ./_genonce.sh
           echo "✅ IG built successfully"
 
-      - name: Check QA results
+      - name: Check QA report
         run: |
           if [ ! -f "output/qa.json" ]; then
             echo "❌ QA file not found: output/qa.json"
