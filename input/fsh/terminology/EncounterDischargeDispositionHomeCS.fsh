@@ -2,7 +2,7 @@ CodeSystem: EncounterDischargeDispositionHomeCS
 Id: encounter-discharge-disposition-home-cs
 Title: "Encounter discharge disposition from died"
 Description: "Encounter discharge disposition home supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/encounter-discharge-disposition-home-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-discharge-disposition-home-cs"
 * ^experimental = true
 * ^content = #complete
 * ^caseSensitive = true

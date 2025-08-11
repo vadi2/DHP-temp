@@ -21,7 +21,7 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 
 * class MS
 * class from EncounterClassVS (required)
-* class from https://terminology.medcore.uz/ValueSet/encounter-class (required)
+* class from https://terminology.dhp.uz/ValueSet/encounter-class (required)
 * class ^short = "Классификация встречи с пациентом"
 
 * priority MS

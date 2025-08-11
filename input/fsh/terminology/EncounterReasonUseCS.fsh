@@ -2,7 +2,7 @@ CodeSystem: EncounterReasonUseCS
 Id: encounter-reason-use-cs
 Title: "Encounter reason use translations"
 Description: "Encounter reason use supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/encounter-reason-use-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-reason-use-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-reason-use

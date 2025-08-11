@@ -2,7 +2,7 @@ CodeSystem: AdmitSourceHomeCS
 Id: admit-source-home-cs
 Title: "Admit source from home"
 Description: "Admit source from home code for encounter class"
-* ^url = "https://terminology.medcore.uz/CodeSystem/admit-source-home-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/admit-source-home-cs"
 * ^content = #complete
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a

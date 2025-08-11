@@ -2,7 +2,7 @@ CodeSystem: EncounterSubjectStatusCS
 Id: encounter-subject-status-cs
 Title: "Encouneter subject status translations"
 Description: "Encouneter subject status supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/encounter-subject-status-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-subject-status-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-subject-status

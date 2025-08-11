@@ -2,7 +2,7 @@ CodeSystem: EncounterPriorityHomeCS
 Id: encounter-priority-home-cs
 Title: "Encounter priority home translations"
 Description: "Encounter priority home supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.medcore.uz/ValueSet/encounter-priority-home"
+* ^url = "https://terminology.dhp.uz/ValueSet/encounter-priority-home"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-priority-home

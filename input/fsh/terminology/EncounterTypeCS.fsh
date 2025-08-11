@@ -2,7 +2,7 @@ CodeSystem: EncounterTypeCS
 Id: encounter-type-cs
 Title: "Encounter Type translations"
 Description: "Encounter type supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/encounter-type-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-type-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-type
