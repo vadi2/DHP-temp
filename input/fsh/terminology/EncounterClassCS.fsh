@@ -2,7 +2,7 @@ CodeSystem: EncounterClassCS
 Id: encounter-class-cs
 Title: "Encounter class translations"
 Description: "Encounter class supplement with Uzbek and Russian translations"
-* ^url = "http://terminology.hl7.org/CodeSystem/v3-ActCode"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-class-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3-ActCode

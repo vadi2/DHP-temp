@@ -59,7 +59,7 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 * serviceProvider MS
 * serviceProvider ^short = "Организация (учреждение), ответственная за данную встречу"
 
-* participant 0..*
+* participant MS
 * participant ^short = "Список участников, участвовавших во встрече"
 * participant.actor MS
 * participant.actor only Reference(Patient or RelatedPerson or Practitioner or PractitionerRole or HealthcareService)
@@ -120,16 +120,16 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 * admission.dischargeDisposition from EncounterDischargeDispositionVS (required)
 * admission.dischargeDisposition ^short = "Категория или вид местоположения после выписки"
 
-* location 1..* MS
+* location MS
 * location.location 1..1 MS
 * location.location ^short = "Место, где происходит встреча"
 
 // Instance for UzCoreEncounter
 
-Instance: example-encounter-uz
+Instance: example-encounter
 InstanceOf: EncounterUz
-Title: "Example Encounter based on Excel spec"
-Description: "This EncounterUz instance is generated based on the specification table"
+Title: "Example Encounter"
+Description: "Example of an psychiatric encounter"
 Usage: #example
 * status = #completed "Completed"
 * class = $v3-ActCode#IMP "Inpatient encounter"
