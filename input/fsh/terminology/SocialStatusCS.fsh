@@ -2,7 +2,7 @@ CodeSystem: SocialStatusCS
 Id: social-status-cs
 Title: "Social status"
 Description: "Social status types in Uzbekistan"
-* ^url = "https://terminology.medcore.uz/CodeSystem/social-status-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/social-status-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true

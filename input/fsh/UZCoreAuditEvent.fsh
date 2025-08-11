@@ -4,7 +4,6 @@ Id: uz-core-auditevent
 Title: "UZ Core AuditEvent"
 Description: "Uzbekistan Core AuditEvent Profile, used to track user and application activity"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-03-29"
 * ^publisher = "Uzinfocom"

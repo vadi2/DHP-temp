@@ -3,7 +3,6 @@ Id: socioeconomic-observation-codes-vs
 Title: "Socioeconomic Observation Codes"
 Description: "Codes for socioeconomic observations including benefits, education, profession, and social status"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-06-11"
 * ^publisher = "Uzinfocom"

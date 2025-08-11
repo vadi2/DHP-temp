@@ -4,7 +4,6 @@ Id: uz-core-location
 Title: "UZ Core Location"
 Description: "Uzbekistan Core Location profile, used to define locations of healthcare services"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-03-13"
 * ^publisher = "Uzinfocom"
@@ -42,7 +41,7 @@ Description: "Uzbekistan Core Location profile, used to define locations of heal
 * type.coding contains type 0..1 MS
 * type.coding[type]
   * system 1..1 MS
-  // * system = "https://terminology.medcore.uz/CodeSystem/location-types-cs"
+  // * system = "https://terminology.dhp.uz/CodeSystem/location-types-cs"
   * code 1..1 MS
   * code from LocationTypesVS (required)
 

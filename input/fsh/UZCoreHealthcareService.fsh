@@ -4,7 +4,6 @@ Id: uz-core-healthcareservice
 Title: "UZ Core HealthcareService"
 Description: "Uzbekistan Core HealthcareService profile, used to define healthcare services available"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-03-11"
 * ^publisher = "Uzinfocom"
