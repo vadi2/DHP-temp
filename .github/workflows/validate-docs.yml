@@ -1,0 +1,72 @@
+name: Validate docs
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    types: [opened, synchronize] # This will trigger the workflow only when a PR is opened or updated with new commits
+
+jobs:
+  sushi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Sushi
+        run: sudo npm install -g fsh-sushi
+
+      - name: Validate with Sushi
+        run: sushi .
+
+  ig-publisher:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Jekyll
+        run: sudo gem install jekyll
+
+      - name: Install Sushi
+        run: sudo npm install -g fsh-sushi
+
+      - name: Install IG publisher
+        run: |
+          chmod +x ./_updatePublisher.sh
+          ./_updatePublisher.sh -y
+
+      - name: Check that the IG builds successfully
+        run: |
+          chmod +x ./_genonce.sh
+          ./_genonce.sh
+          echo "✅ IG built successfully"
+
+      - name: Check QA report
+        run: |
+          if [ ! -f "output/qa.json" ]; then
+            echo "❌ QA file not found: output/qa.json"
+            exit 1
+          fi
+          
+          # Extract errors and warnings from qa.json
+          ERRORS=$(jq -r '.errs // 0' output/qa.json)
+          WARNINGS=$(jq -r '.warnings // 0' output/qa.json)
+          
+          echo "  QA Results:"
+          echo "   Errors: $ERRORS"
+          echo "   Warnings: $WARNINGS"
+          
+          # Check if errors exceed threshold (4 allowed errors which are known)
+          if [ "$ERRORS" -gt 4 ]; then
+            echo "❌ Too many errors: $ERRORS (maximum allowed: 4 known errors)"
+            exit 1
+          fi
+          
+          # Check if there are any warnings (0 allowed warnings)
+          if [ "$WARNINGS" -gt 0 ]; then
+            echo "❌ Warnings found: $WARNINGS"
+            exit 1
+          fi
+          
+          echo "✅ QA check passed: $ERRORS errors (≤4) and $WARNINGS warnings (≤0)"

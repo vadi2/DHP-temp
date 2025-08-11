@@ -74,6 +74,9 @@ The only exception to versioning are translation supplements of official [THO](h
 - Same as production versions
 - Indicates breaking changes in parts of the IG or significant architectural updates
 
+### IP Statements
+{% include ip-statements.xhtml %}
+
 ### Contributors
 
 | Name                                             | Role                          | Organization                                    |

@@ -32,3 +32,9 @@ For further reading, we recommend to use the following links:
 * [References between resources](http://hl7.org/fhir/r5/references.html)
 * [How to read resource & profile definitions](http://hl7.org/fhir/r5/formats.html#table)
 * [Base resource definitions](http://hl7.org/fhir/r5/resource.html)
+
+### Related FHIR IGs
+
+{% include dependency-table-nontech.xhtml %}
+
+{% include globals-table.xhtml %}
