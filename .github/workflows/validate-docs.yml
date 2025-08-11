@@ -53,7 +53,7 @@ jobs:
           ERRORS=$(jq -r '.errs // 0' output/qa.json)
           WARNINGS=$(jq -r '.warnings // 0' output/qa.json)
           
-          echo "📊 QA Results:"
+          echo "  QA Results:"
           echo "   Errors: $ERRORS"
           echo "   Warnings: $WARNINGS"
           
