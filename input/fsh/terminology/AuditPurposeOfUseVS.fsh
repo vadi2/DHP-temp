@@ -2,7 +2,7 @@ ValueSet: AuditPurposeOfUseVS
 Id: audit-purpose-of-use-vs
 Title: "Purpose of use"
 Description: "Defines agent's the purpose of use in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/ValueSet/audit-purpose-of-use-vs"
+* ^url = "https://terminology.dhp.uz/ValueSet/audit-purpose-of-use-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ActReasonCS)

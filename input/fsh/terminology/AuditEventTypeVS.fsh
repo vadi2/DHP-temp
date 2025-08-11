@@ -2,11 +2,10 @@ ValueSet: AuditEventTypeVS
 Id: audit-event-type-vs
 Title: "Audit event type"
 Description: "Defines the type of event that is being recorded in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/ValueSet/audit-event-type-vs"
+* ^url = "https://terminology.dhp.uz/ValueSet/audit-event-type-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(DicomDCMCS)
-* ^version = "5.0.0"
 
 * include $dicom-dcm#110100
 * include $dicom-dcm#110101

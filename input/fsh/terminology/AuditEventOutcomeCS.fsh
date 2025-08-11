@@ -2,7 +2,7 @@ CodeSystem: AuditEventOutcomeCS
 Id: audit-event-outcome-cs
 Title: "Audit event outcome translations"
 Description: "Audit event outcome supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/audit-event-outcome-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/audit-event-outcome-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $issue-severity

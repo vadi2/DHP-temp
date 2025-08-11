@@ -2,11 +2,10 @@ CodeSystem: ISO3166_TwoLetter_CS
 Id: iso3166-two-letter-cs
 Title: "ISO 3166-1 two-letter translations"
 Description: "ISO 3166-1 2-letter supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/iso3166-two-letter-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/iso3166-two-letter-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = "urn:iso:std:iso:3166"
-* ^version = "1.0.0"
 * ^language = #en
 * #AD "Andorra"
 * #AD ^designation[0].language = #ru
