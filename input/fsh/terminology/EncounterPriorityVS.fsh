@@ -5,10 +5,7 @@ Description: "Encounter priority codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/ValueSet/encounter-priority-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
-* ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterPriorityCS)
-* ^extension[0].url = $valueset-supplement
-* ^extension[=].valueCanonical = Canonical(EncounterPriorityHomeCS)
 
 * $v3ActPriority#EM
 * $v3ActPriority#P
