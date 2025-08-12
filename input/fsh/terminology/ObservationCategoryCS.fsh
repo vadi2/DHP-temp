@@ -2,11 +2,11 @@ CodeSystem: ObservationCategoryCS
 Id: observation-category-cs
 Title: "Observation category translations"
 Description: "Observation category with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/observation-category-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/observation-category-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $observation-category
-* ^version = "3.0.0"
+* ^version = "1.0.1"
 * ^language = #en
 
 * #social-history
