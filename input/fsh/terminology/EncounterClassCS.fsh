@@ -6,30 +6,30 @@ Description: "Encounter class codes with English and Russian translations"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3-ActCode
-* ^language = #uz
+* ^language = #en
 
-* #IMP "Statsionar"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Inpatient"
+* #IMP
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Statsionar"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Cтационарная встреча"
-* #AMB "Ambulator"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Ambulatory"
+* #AMB
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Ambulator"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Амбулаторный" 
-* #EMER "Tez yordam (03)"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Emergency"
+* #EMER
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Tez yordam (03)"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Неотложная помощь (03)"
-* #VR "Virtual (telemeditsina)"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Virtual"
+* #VR
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Virtual (telemeditsina)"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Bиртуальный (телемедицина)"
-* #HH "Uyga tashrif (patronaj)"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Home visit"
+* #HH
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Uyga tashrif (patronaj)"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Bизит на дом (патронаж)"
