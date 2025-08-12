@@ -1,25 +1,25 @@
 CodeSystem: EncounterPriorityCS
 Id: encounter-priority-cs
 Title: "Encounter priority translations"
-Description: "Encounter priority supplement with Uzbek and Russian translations"
-* ^url = "http://terminology.hl7.org/CodeSystem/v3-ActPriority"
+Description: "Encounter priority codes with English and Russian translations"
+* ^url = "http://terminology.dhp.uz/CodeSystem/encounter-priority-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3ActPriority
-* ^language = #en
+* ^language = #uz
 
-* #EM "Emergency"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Favqulodda vaziyat"
+* #EM "Favqulodda vaziyat"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Emergency"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Чрезвычайная ситуация"
-* #P "Preop"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Operatsiyadan oldingi"
+* #P "Operatsiyadan oldingi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Preop"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Предоперационный"   
-* #PRN "As needed"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Zaruratga qarab"
+* #PRN "Zaruratga qarab"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "As needed"
   * ^designation[+].language = #ru
   * ^designation[=].value = "По мере необходимости"

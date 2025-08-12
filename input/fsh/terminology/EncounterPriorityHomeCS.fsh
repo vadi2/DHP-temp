@@ -1,31 +1,26 @@
 CodeSystem: EncounterPriorityHomeCS
 Id: encounter-priority-home-cs
 Title: "Encounter priority home translations"
-<<<<<<< HEAD
-Description: "Encounter priority home supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.dhp.uz/ValueSet/encounter-priority-home"
-=======
-Description: "Encounter priority home codes with Uzbek and Russian translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/encounter-priority-home"
->>>>>>> 8e8f9ba (Fix EncounterPriorityVS rules)
+Description: "Encounter priority home codes with English and Russian translations"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-priority-home"
 * ^experimental = true
 * ^content = #complete
-* ^language = #en
+* ^language = #uz
 
-* #gencl.0002.00001 "High"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Yuqori"
+* #gencl-0002-00001 "Yuqori"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "High"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Высокий"
 
-* #gencl.0002.00002 "Medium"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "O'rtacha"
+* #gencl-0002-00002 "O'rtacha"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Medium"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Средний"
 
-* #gencl.0002.00003 "Low"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Past"
+* #gencl-0002-00003 "Past"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Low"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Низкий"

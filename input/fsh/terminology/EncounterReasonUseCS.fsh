@@ -1,25 +1,25 @@
 CodeSystem: EncounterReasonUseCS
 Id: encounter-reason-use-cs
 Title: "Encounter reason use translations"
-Description: "Encounter reason use supplement with Uzbek and Russian translations"
+Description: "Encounter reason use codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-reason-use-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-reason-use
-* ^language = #en
+* ^language = #uz
 
-* #mserv-0002-00001 "Disease"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Kasallik"
+* #mserv-0002-00001 "Kasallik"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Disease"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Заболевание"
-* #mserv-0002-00002 "Preventive visit"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Profilaktik qabul"
+* #mserv-0002-00002 "Profilaktik qabul"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Preventive visit"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Профилактический приём"
-* #mserv-0002-00003 "Other"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Boshqa"
+* #mserv-0002-00003 "Boshqa"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Other"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Другое"

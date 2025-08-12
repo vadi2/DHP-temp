@@ -1,45 +1,45 @@
 CodeSystem: EncounterTypeCS
 Id: encounter-type-cs
 Title: "Encounter Type translations"
-Description: "Encounter type supplement with Uzbek and Russian translations"
+Description: "Encounter type codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-type-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-type
-* ^language = #en
+* ^language = #uz
 
-* #mserv-0001-00001 "Preventive services"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Profilaktik"
+* #mserv-0001-00001 "Profilaktik"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Preventive services"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Профилактические"
-* #mserv-0001-00002 "Diagnostic"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Diagnostika"
+* #mserv-0001-00002 "Diagnostika"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Diagnostic"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Диагностические"  
-* #mserv-0001-00003 "Consultative"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Konsultativ"
+* #mserv-0001-00003 "Konsultativ"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Consultative"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Консультативные"
-* #mserv-0001-00004 "Treatment services"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Davolash"
+* #mserv-0001-00004 "Davolash"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Treatment services"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Лечебные"
-* #mserv-0001-00005 "Palliative care (psychological and therapeutic)"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Palliativ (psixologik va terapevtik)"
+* #mserv-0001-00005 "Palliativ (psixologik va terapevtik)"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Palliative care (psychological and therapeutic)"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Паллиатив (психологическое и лечебная)"
-* #mserv-0001-00006 "Forensic medical examination"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Sud tibbiy ekspertizasi"
+* #mserv-0001-00006 "Sud tibbiy ekspertizasi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Forensic medical examination"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Суд мед экспертиза"
-* #mserv-0001-00007 "Pathalogonatomy service"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Patologoanatomik xizmat"
+* #mserv-0001-00007 "Patologoanatomik xizmat"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Pathalogonatomy service"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Паталогаанатомическая служба"

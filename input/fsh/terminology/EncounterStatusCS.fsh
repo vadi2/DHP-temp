@@ -1,40 +1,40 @@
 CodeSystem: EncounterStatusCS
 Id: encounter-status-cs
 Title: "Encounter status translations"
-Description: "Encounter status supplement with Uzbek and Russian translations"
-* ^url = "http://hl7.org/fhir/encounter-status"
+Description: "Encounter status codes with English and Russian translations"
+* ^url = "http://terminology.dhp.uz/CodeSystem/encounter-status-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-status
-* ^language = #en
+* ^language = #uz
 
-* #planned "Planned"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Rejalashtirilmoqda" 
+* #planned "Rejalashtirilmoqda"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Planned"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Планируется"
-* #in-progress "In Progress"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Jarayonda"
+* #in-progress "Jarayonda"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "In Progress"
   * ^designation[+].language = #ru
   * ^designation[=].value = "В процессе"
-* #completed "Completed"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Tugallangan"
+* #completed "Tugallangan"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Completed"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Завершенный"
-* #cancelled "Cancelled"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Bekor qilingan"
+* #cancelled "Bekor qilingan"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Cancelled"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Отменено"
-* #entered-in-error "Entered in Error"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Xato kiritilgan"
+* #entered-in-error "Xato kiritilgan"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Entered in Error"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Введено с ошибкой"
-* #other "Other"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Boshqa"
+* #other "Boshqa"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Other"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Другое"

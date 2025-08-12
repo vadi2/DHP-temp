@@ -1,30 +1,30 @@
 CodeSystem: EncounterAdmitSourceCS
 Id: encounter-admit-source-cs
 Title: "Encounter admit source translations"
-Description: "Encounter admit source supplement with Uzbek and Russian translations"
-* ^url = "http://terminology.hl7.org/CodeSystem/admit-source"
+Description: "Encounter admit source codes with English and Russian translations"
+* ^url = "http://terminology.dhp.uz/CodeSystem/encounter-admit-source-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-admit-source
-* ^language = #en
+* ^language = #uz
 
-* #hosp-trans "Hosp-trans"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Boshqa shifoxonadan o‘tkazilgan"
+* #hosp-trans "Boshqa shifoxonadan o‘tkazilgan"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Hosp-trans"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Переведен из другой больницы"
-* #born "Born"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Tibbiyot muassasasida tug'ildi"
+* #born "Tibbiyot muassasasida tug'ildi"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Born"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Родился в больнице"
-* #psych "Psychiatric"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Ruhiy kasalliklar shifoxonasidan"
+* #psych "Ruhiy kasalliklar shifoxonasidan"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Psychiatric"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Из психиатрической больницы"
-* #other "Other"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Boshqa"
+* #other "Boshqa"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Other"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Другое"

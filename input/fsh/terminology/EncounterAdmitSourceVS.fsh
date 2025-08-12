@@ -1,8 +1,8 @@
 ValueSet: EncounterAdmitSourceVS
 Id: encounter-admit-source-vs
 Title: "Encounter admit source translations"
-Description: "Defines Uzbek and Russian translations for Encounter admit source codes in Uzbek and Russian"
-* ^url = "http://hl7.org/fhir/ValueSet/encounter-admit-source"
+Description: "Encounter admit source codes with English and Russian translations"
+* ^url = "https://terminology.dhp.uz/ValueSet/encounter-admit-source-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterAdmitSourceCS)

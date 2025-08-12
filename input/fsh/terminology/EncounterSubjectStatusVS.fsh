@@ -1,7 +1,7 @@
 ValueSet: EncounterSubjectStatusVS
 Id: encounter-subject-status-vs
 Title: "Encouneter subject status translations"
-Description: "Defines Uzbek and Russian translations for encounter subject status codes in Uzbek and Russian"
+Description: "Encounter subject status codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/ValueSet/encounter-subject-status-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement

@@ -1,25 +1,25 @@
 CodeSystem: EncounterDischargeDispositionCS
 Id: encounter-discharge-disposition-cs
 Title: "Encounter discharge disposition translations"
-Description: "Encounter discharge disposition supplement with Uzbek and Russian translations"
-* ^url = "http://terminology.hl7.org/CodeSystem/discharge-disposition"
+Description: "Encounter discharge disposition codes with English and Russian translations"
+* ^url = "http://terminology.dhp.uz/CodeSystem/encounter-discharge-disposition-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-discharge-disposition
-* ^language = #en
+* ^language = #uz
 
-* #home "Home"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Uyga"
+* #home "Uyga"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Home"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Домой"
-* #other-hcf "Other healthcare facility"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Boshqa tibbiy muassasa"
+* #other-hcf "Boshqa tibbiy muassasa"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Other healthcare facility"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Другое медицинское учреждение"
-* #oth "Other"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Boshqa"
+* #oth "Boshqa"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Other"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Другое"

@@ -8,10 +8,6 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 * ^date = "2025-08-01"
 * ^publisher = "Uzinfocom"
 
-* implicitRules 0..0
-* contained 0..0
-* modifierExtension 0..0
-
 * identifier 0..1 MS
 * identifier ^short = "Идентификатор, по которым известна эта встреча"
 
@@ -96,6 +92,7 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 * length ^short = "Фактическое количество времени, в течение которого длилась встреча (за вычетом времени отсутствия)"
 
 * diagnosis MS
+* diagnosis.modifierExtension 0..0
 * diagnosis ^short = "Список диагнозов, имеющих отношение к данному случаю"
 * diagnosis.condition MS
 * diagnosis.condition ^short = "Диагноз, относящийся к встрече"

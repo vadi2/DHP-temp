@@ -1,7 +1,7 @@
 ValueSet: EncounterReasonUseVS
 Id: encounter-reason-use-vs
 Title: "Marital status translations"
-Description: "Defines Uzbek and Russian translations for Encounter reason use codes in Uzbek and Russian"
+Description: "Encounter reason use codes with Uzbek and Russian translations"
 * ^url = "https://terminology.dhp.uz/ValueSet/encounter-reason-use-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement

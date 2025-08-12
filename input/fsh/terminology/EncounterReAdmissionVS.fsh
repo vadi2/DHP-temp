@@ -1,8 +1,8 @@
 ValueSet: EncounterReAdmissionVS
 Id: encounter-reAdmission-vs
 Title: "Encounter admission translations"
-Description: "Defines Uzbek and Russian translations for encounter admission codes in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/ValueSet/encounter-reAdmission"
+Description: "Encounter readmission codes with English and Russian translations"
+* ^url = "https://terminology.dhp.uz/ValueSet/encounter-reAdmission-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterReAdmissionCS)

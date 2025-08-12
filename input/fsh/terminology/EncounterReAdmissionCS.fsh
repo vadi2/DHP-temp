@@ -1,16 +1,16 @@
 CodeSystem: EncounterReAdmissionCS
 Id: encounter-reAdmission-cs
 Title: "Encounter admission translations"
-Description: "Encounter admission supplement with Uzbek and Russian translations"
-* ^url = "http://terminology.hl7.org/CodeSystem/v2-0092"
+Description: "Encounter readmission codes with English and Russian translations"
+* ^url = "http://terminology.dhp.uz/CodeSystem/encounter-reAdmission-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v2-admission
-* ^language = #en
+* ^language = #uz
 
-* #R "Re-admission"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Qayta ko'rik"
+* #R "Qayta ko'rik"
+  * ^designation[0].language = #en
+  * ^designation[=].value = "Re-admission"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Повторный приём"
   
