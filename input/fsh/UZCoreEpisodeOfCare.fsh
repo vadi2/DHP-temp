@@ -52,3 +52,40 @@ Description: "Uzbekistan Core profile for EpisodeOfCare, representing a patient'
 * careManager only Reference(UZCorePractitioner or UZCorePractitionerRole)
 * careTeam MS
 * careTeam only Reference(CareTeam)
+
+Instance: UZCoreEpisodeOfCare-Example
+InstanceOf: UZCoreEpisodeOfCare
+Title: "Example for EpisodeOfCare"
+Description: "Test example of an episode of care for the UZCoreEpisodeOfCare profile."
+Usage: #example
+
+* identifier[0].system = "http://dhp.uz/ids/episode-of-care"
+* identifier[0].value = "EOC-2025-0001"
+
+* status = #active
+* statusHistory[0].status = #planned
+* statusHistory[0].period.start = "2025-07-28"
+* statusHistory[0].period.end = "2025-08-01"
+
+* type[0].coding[0].system = "https://terminology.dhp.uz/CodeSystem/episode-of-care-type-cs"
+* type[0].coding[0].code = #mserv-0001-00001
+* type[0].text = "Preventive services"
+
+* reason[0].use.coding[0].system = "https://terminology.dhp.uz/CodeSystem/episode-of-care-reason-use-cs"
+* reason[0].use.coding[0].code = #mserv-0002-00002
+* reason[0].use.text = "Preventive visit"
+* reason[0].value = Reference(example-headache)
+* diagnosis[0].condition = Reference(example-headache)
+* diagnosis[0].use.coding[0].system = "http://terminology.hl7.org/CodeSystem/diagnosis-role"
+* diagnosis[0].use.coding[0].code = #DD
+* diagnosis[0].use.text = "Primary diagnosis"
+* patient = Reference(example-salim)
+* managingOrganization = Reference(example-organization)
+
+* period.start = "2025-08-01"
+//I did not create an example for the referralRequest element because there is no profile named UZCoreServiceRequest yet.
+//* referralRequest = Reference(ServiceRequest / SR-Example)
+
+* careManager = Reference(example-practitioner)
+//I did not create an example for the careTeam element because there is no profile named UZCoreCareTeam yet.
+//* careTeam[0] = Reference(CareTeam /CareTeam-Example)
