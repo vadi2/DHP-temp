@@ -70,3 +70,12 @@ jobs:
           fi
           
           echo "✅ QA check passed: $ERRORS errors (≤4) and $WARNINGS warnings (≤0)"
+
+      - name: Upload output folder
+        if: always() && hashFiles('output/**/*') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: ig-output-${{ github.run_number }}
+          path: output/
+          retention-days: 30
+          if-no-files-found: warn
