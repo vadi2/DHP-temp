@@ -2,11 +2,11 @@ CodeSystem: ParticipationRoleTypeCS
 Id: participation-role-cs
 Title: "Types of participation role translations"
 Description: "Types of participation supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/participation-role-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/participation-role-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $participation-role-type
-* ^version = "5.0.0"
+* ^version = "1.1.0"
 * ^language = #en
 * #enterer
   * ^designation[0].language = #ru

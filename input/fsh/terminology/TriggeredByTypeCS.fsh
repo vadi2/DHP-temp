@@ -2,11 +2,11 @@ CodeSystem: TriggeredByTypeCS
 Id: triggered-bytype-cs
 Title: "Triggered by type translations"
 Description: "Triggered by type words with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/triggered-bytype-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/triggered-bytype-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $triggered-by-type
-* ^version = "3.0.0"
+* ^version = "5.0.0"
 * ^language = #en
 
 * #reflex

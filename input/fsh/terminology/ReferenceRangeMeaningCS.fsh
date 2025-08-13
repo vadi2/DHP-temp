@@ -2,7 +2,7 @@ CodeSystem: ReferenceRangeMeaningCS
 Id: reference-range-meaning-cs
 Title: "Reference range meaning translations"
 Description: "Meaning of reference range, supplemented with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/observation-category-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/observation-category-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $reference-meaning

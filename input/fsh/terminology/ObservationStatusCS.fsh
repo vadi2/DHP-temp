@@ -2,11 +2,11 @@ CodeSystem: ObservationStatusCS
 Id: observation-status-cs
 Title: "Observation status translations"
 Description: "Observation status with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/observation-status-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/observation-status-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $observation-status
-* ^version = "3.0.0"
+* ^version = "5.0.0"
 * ^language = #en
 
 * #registered

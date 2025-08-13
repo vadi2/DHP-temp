@@ -70,7 +70,7 @@ Title: "Example Uz Core Observation - Blood Pressure"
 Description: "Example instance of a blood pressure measurement for a patient"
 Usage: #example
 
-* status = #final
+* status = #preliminary
 * category = $observation-category#vital-signs "Vital Signs"
 * code = $loinc#85354-9 "Blood pressure panel with all children optional"
 * subject = Reference(example-patient)
@@ -83,7 +83,7 @@ Usage: #example
 * valueString = "Blood pressure within normal  limits"
 * interpretation = $observation-interpretation#N "Normal"
 * note.text = "Patient was calm and seated for 5 minutes before measurement."
-* dataAbsentReason = $observation-dataAbsentReason#not-applicable "Not Applicable"
+//* dataAbsentReason = $observation-dataAbsentReason#not-applicable "Not Applicable"
 
 * referenceRange
   * low.value = 90
@@ -97,10 +97,14 @@ Usage: #example
   * code = $loinc#8480-6 "Systolic blood pressure"
   * valueQuantity.value = 117
   * valueQuantity.unit = "mmHg"
+  * valueQuantity.system = "http://unitsofmeasure.org"
+  * valueQuantity.code = #mm[Hg]
   * interpretation = $observation-interpretation#N "Normal"
 
 * component[1]
   * code = $loinc#8462-4 "Diastolic blood pressure"
   * valueQuantity.value = 78
   * valueQuantity.unit = "mmHg"
+  * valueQuantity.system = "http://unitsofmeasure.org"
+  * valueQuantity.code = #mm[Hg]
   * interpretation = $observation-interpretation#N "Normal"
