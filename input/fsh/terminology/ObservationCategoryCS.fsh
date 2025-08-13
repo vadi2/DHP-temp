@@ -6,7 +6,7 @@ Description: "Observation category with translations in Uzbek and Russian"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $observation-category
-* ^version = "1.0.1"
+* ^version = "5.0.0"
 * ^language = #en
 
 * #social-history

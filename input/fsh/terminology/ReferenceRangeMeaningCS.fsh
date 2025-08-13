@@ -2,11 +2,11 @@ CodeSystem: ReferenceRangeMeaningCS
 Id: reference-range-meaning-cs
 Title: "Reference range meaning translations"
 Description: "Meaning of reference range, supplemented with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/observation-category-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/reference-range-meaning-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $reference-meaning
-* ^version = "1.0.1"
+* ^version = "5.0.0"
 * ^language = #en
 
 * #type
