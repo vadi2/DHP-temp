@@ -14,11 +14,12 @@ Description: "Observation status with translations in Uzbek and Russian"
   * ^designation[=].value = "Зарегистрирован"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Registratsiya qilingan"
-* #specimen-in-process
+// The commented elements are not available in FHIR v5, but they are included in the Excel file
+/* * #specimen-in-process
   * ^designation[0].language = #ru
   * ^designation[=].value = "Образец в процессе обработки"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Namuna tayyorlanmoqda"
+  * ^designation[=].value = "Namuna tayyorlanmoqda"*/
 * #preliminary
   * ^designation[0].language = #ru
   * ^designation[=].value = "Предварительный"
@@ -39,11 +40,11 @@ Description: "Observation status with translations in Uzbek and Russian"
   * ^designation[=].value = "Исправлено"
   * ^designation[+].language = #uz
   * ^designation[=].value = "To'g'rilangan"
-* #appended
+/* * #appended 
   * ^designation[0].language = #ru
   * ^designation[=].value = "Прилагается"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Biriktirildi"
+  * ^designation[=].value = "Biriktirildi" */
 * #cancelled
   * ^designation[0].language = #ru
   * ^designation[=].value = "Отменено"
@@ -59,8 +60,8 @@ Description: "Observation status with translations in Uzbek and Russian"
   * ^designation[=].value = "Неизвестный"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Noma'lum"
-* #cannot-be-obtained
+/* * #cannot-be-obtained
   * ^designation[0].language = #ru
   * ^designation[=].value = "Не может быть получен"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Olinishi mumkin emas"
+  * ^designation[=].value = "Olinishi mumkin emas" */

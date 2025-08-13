@@ -9,12 +9,12 @@ Description: "Translation of observation's normal value concept into Uzbek and R
 * ^version = "5.0.0"
 * ^language = #en
 
-* #Negative
+* #negative
   * ^designation[0].language = #ru
   * ^designation[=].value = "Отрицательно"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Manfiy"
-* #Absent
+* #absent
   * ^designation[0].language = #ru
   * ^designation[=].value = "Отсутствует"
   * ^designation[+].language = #uz
