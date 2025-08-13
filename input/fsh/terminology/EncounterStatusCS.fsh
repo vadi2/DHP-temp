@@ -6,35 +6,35 @@ Description: "Encounter status codes with English and Russian translations"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-status
-* ^language = #uz
+* ^language = #en
 
-* #planned "Rejalashtirilmoqda"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Planned"
+* #planned 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Rejalashtirilmoqda"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Планируется"
-* #in-progress "Jarayonda"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "In Progress"
+* #in-progress 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Jarayonda"
   * ^designation[+].language = #ru
   * ^designation[=].value = "В процессе"
-* #completed "Tugallangan"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Completed"
+* #completed 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Tugallangan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Завершенный"
-* #cancelled "Bekor qilingan"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Cancelled"
+* #cancelled 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Bekor qilingan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Отменено"
-* #entered-in-error "Xato kiritilgan"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Entered in Error"
+* #entered-in-error 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Xato kiritilgan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Введено с ошибкой"
-* #other "Boshqa"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Other"
+* #other 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Boshqa"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Другое"

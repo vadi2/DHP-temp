@@ -6,20 +6,20 @@ Description: "Encounter discharge disposition codes with English and Russian tra
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-discharge-disposition
-* ^language = #uz
+* ^language = #en
 
-* #home "Uyga"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Home"
+* #home 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Uyga"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Домой"
-* #other-hcf "Boshqa tibbiy muassasa"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Other healthcare facility"
+* #other-hcf 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Boshqa tibbiy muassasa"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Другое медицинское учреждение"
 * #oth "Boshqa"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Other"
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Boshqa"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Другое"

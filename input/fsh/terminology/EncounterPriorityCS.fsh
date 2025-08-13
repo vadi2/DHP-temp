@@ -6,20 +6,20 @@ Description: "Encounter priority codes with English and Russian translations"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3ActPriority
-* ^language = #uz
+* ^language = #en
 
-* #EM "Favqulodda vaziyat"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Emergency"
+* #EM 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Favqulodda vaziyat"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Чрезвычайная ситуация"
-* #P "Operatsiyadan oldingi"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Preop"
+* #P 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Operatsiyadan oldingi"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Предоперационный"   
-* #PRN "Zaruratga qarab"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "As needed"
+* #PRN 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Zaruratga qarab"
   * ^designation[+].language = #ru
   * ^designation[=].value = "По мере необходимости"

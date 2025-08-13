@@ -13,4 +13,4 @@ Description: "Encounter admit source codes with English and Russian translations
 * $encounter-admit-source#born
 * $encounter-admit-source#psych
 * $encounter-admit-source#other
-* $admit-source-home#mserv-0003-00001
+* admit-source-home-cs#mserv-0003-00001

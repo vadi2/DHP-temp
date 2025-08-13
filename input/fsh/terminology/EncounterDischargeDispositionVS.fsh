@@ -12,5 +12,5 @@ Description: "Encounter discharge disposition codes with English and Russian tra
 * $encounter-discharge-disposition#home
 * $encounter-discharge-disposition#other-hcf
 * $encounter-discharge-disposition#oth
-* $encounter-discharge-disposition-home#mserv-0004-00001
-* $encounter-discharge-disposition-home#mserv-0004-00002
+* encounter-discharge-disposition-home-cs#mserv-0004-00001
+* encounter-discharge-disposition-home-cs#mserv-0004-00002

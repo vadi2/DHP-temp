@@ -6,25 +6,25 @@ Description: "Encounter admit source codes with English and Russian translations
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-admit-source
-* ^language = #uz
+* ^language = #en
 
-* #hosp-trans "Boshqa shifoxonadan o‘tkazilgan"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Hosp-trans"
+* #hosp-trans
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Boshqa shifoxonadan o‘tkazilgan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Переведен из другой больницы"
-* #born "Tibbiyot muassasasida tug'ildi"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Born"
+* #born 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Tibbiyot muassasasida tug'ildi"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Родился в больнице"
-* #psych "Ruhiy kasalliklar shifoxonasidan"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Psychiatric"
+* #psych 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Ruhiy kasalliklar shifoxonasidan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Из психиатрической больницы"
-* #other "Boshqa"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Other"
+* #other 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Boshqa"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Другое"

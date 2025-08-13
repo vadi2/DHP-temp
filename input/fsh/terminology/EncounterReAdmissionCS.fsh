@@ -6,11 +6,11 @@ Description: "Encounter readmission codes with English and Russian translations"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v2-admission
-* ^language = #uz
+* ^language = #en
 
-* #R "Qayta ko'rik"
-  * ^designation[0].language = #en
-  * ^designation[=].value = "Re-admission"
+* #R 
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Qayta ko'rik"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Повторный приём"
   
