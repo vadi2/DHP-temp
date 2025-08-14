@@ -35,6 +35,6 @@ For further reading, we recommend to use the following links:
 
 ### Related FHIR IGs
 
-{% include dependency-table-nontech.xhtml %}
+{% include dependency-table.xhtml %}
 
 {% include globals-table.xhtml %}
