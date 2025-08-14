@@ -75,11 +75,13 @@ parameters:
   # openehr: true
 
   # multi-lingual support
-  # i18n-default-lang: en
-  # i18n-lang: 
-  #   - ru
-  # translation-sources:
-  #   - input/translations/ru
+  i18n-default-lang: en
+  i18n-lang: 
+    - ru
+    - uz
+  translation-sources:
+    - input/translations/ru
+    - input/translations/uz
 
 #   validation: [allow-any-extensions, no-broken-links]
 #
