@@ -2,7 +2,7 @@ ValueSet: RelationshipTypeVS
 Id: relationship-type-vs
 Title: "Diagnosis Type"
 Description: "Diagnosis types in Uzbekistan"
-* ^url = "https://terminology.medcore.uz/ValueSet/relationship-type-vs"
+* ^url = "https://terminology.dhp.uz/ValueSet/relationship-type-vs"
 * ^experimental = true
 * ^language = #uz
 * ^extension[0].url = $valueset-supplement

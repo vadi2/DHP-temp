@@ -98,7 +98,7 @@ Description: "Uzbekistan Core Related Person profile, used to represent related 
 * relationship from RelationshipTypeVS (required)
 * telecom 0..* MS
   * system 0..1 MS 
-  * system from TelecomSystemVS (required)
+  * system from ContactPointSystemVS (required)
   * use 0..1 MS 
   * use from TelecomUseVS (required)
 * gender MS

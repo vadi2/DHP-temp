@@ -2,10 +2,11 @@ CodeSystem: RoleClassCS
 Id: role-class-cs
 Title: "Role class"
 Description: "Provides localized definitions of role class codes in Uzbek and Russian."
-* ^url = "https://terminology.dhp.uz/Codesystem/role-class-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/role-class-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3-RoleClass
+* ^version = "4.0.0"
 * ^language = #en
 
 * #NOT
