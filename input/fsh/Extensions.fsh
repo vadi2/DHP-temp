@@ -3,6 +3,7 @@ Id: gender-other
 Title: "Differentiation of the administrative gender 'other'"
 Description: "Extension for more precise differentiation of the administrative gender 'other', aligned with German base profiles representation of the same concept."
 Context: Patient.gender, RelatedPerson.gender, Person.gender, Practitioner.gender, Patient.contact.gender
+* ^url = "http://dhp.uz/StructureDefinition/gender-other"
 * ^experimental = true
 * ^date = "2025-03-12"
 * value[x] 1..

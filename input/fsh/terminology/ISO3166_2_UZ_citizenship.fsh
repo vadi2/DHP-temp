@@ -8,4 +8,4 @@ Description: "Defines Uzbek and Russian translations for ISO 3166 part 1 2-lette
 * ^extension.valueCanonical = Canonical(ISO3166_TwoLetter_CS)
 
 * include codes from system $iso-3166
-* include codes from system StatelessCitizenschipCS
+* include codes from system stateless-citizenship-cs
