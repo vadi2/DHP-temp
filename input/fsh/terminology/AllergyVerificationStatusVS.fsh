@@ -8,5 +8,4 @@ Description: "Value set defining codes that represent the verification status of
 * ^extension[=].valueCanonical = Canonical(AllergyVerificationStatusCS)
 * ^version = "5.0.0"
 
-* include codes from system $allerfy-verification
-//excelva linkni solish tir
+* include codes from system $allergy-verification

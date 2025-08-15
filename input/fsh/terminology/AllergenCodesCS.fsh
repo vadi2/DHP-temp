@@ -1,4 +1,4 @@
-CodeSystem: AllergenCodesCS
+/*CodeSystem: AllergenCodesCS
 Id: allergen-sct-codes-cs
 Title: "Allergen codes"
 Description: "Supplement adding Uzbek/Russian/English designations for selected SNOMED CT allergen concepts."
@@ -392,4 +392,4 @@ Description: "Supplement adding Uzbek/Russian/English designations for selected 
   * ^designation[+].language = #ru
   * ^designation[=].value = "Аллергия на овощи"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Allergy to vegetable"
+  * ^designation[=].value = "Allergy to vegetable"*/

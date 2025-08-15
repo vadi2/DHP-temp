@@ -59,7 +59,6 @@ Title: "Example for EpisodeOfCare"
 Description: "Test example of an episode of care for the UZCoreEpisodeOfCare profile."
 Usage: #example
 
-* identifier[0].system = "http://dhp.uz/ids/episode-of-care"
 * identifier[0].value = "EOC-2025-0001"
 
 * status = #active

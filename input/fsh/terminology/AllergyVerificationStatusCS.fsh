@@ -5,11 +5,11 @@ Description: "Allergy verification status supplement with translations in uzbek 
 * ^url = "https://terminology.dhp.uz/CodeSystem/allergy-verification-status-cs"
 * ^experimental = true
 * ^content = #supplement
-* ^supplements = $allerfy-verification
+* ^supplements = $allergy-verification
 * ^version = "5.0.0"
 * ^language = #en
 
-* #uncomfirmed
+* #unconfirmed
   * ^designation[0].language = #ru
   * ^designation[=].value = "Не подтверждена"
   * ^designation[+].language = #uz
