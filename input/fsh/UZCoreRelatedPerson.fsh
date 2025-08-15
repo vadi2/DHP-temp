@@ -102,6 +102,40 @@ Description: "Uzbekistan Core Related Person profile, used to represent related 
   * use 0..1 MS 
   * use from TelecomUseVS (required)
 * gender MS
-  * extension contains GenderOtherUZ named gender-other 0..1 MS
+  * extension contains GenderOtherUZ named gender-other-2 0..1 MS
 * obeys gender-other-2
 * insert AddressRules
+
+Instance: example-related-person
+InstanceOf: UZCoreRelatedPerson
+Usage: #example
+Title: "example-related-person"
+Description: "Example of a related person"
+
+* identifier[national-id]
+  * value = "12345678901234"
+* identifier[passport-local]
+  * value = "AA1234567"
+* identifier[passport-international]
+  * value = "IC9876543"
+* identifier[birthcertificate]
+  * value = "BC-2025-00001"
+* identifier[driverslicense]
+  * value = "DL-987654"
+* identifier[diplomaticpassport]
+  * value = "DP-123456"
+* identifier[healthcard]
+  * value = "HC-555-777"
+* identifier[militaryID]
+  * value = "MI-2025-001"
+
+* patient = Reference(example-david) "Example Uzbekistan Patient" //?
+
+* relationship[0] = RelationshipTypeCS#WIT "witness"
+
+* telecom[0]
+  * system = #phone
+  * value = "+998901234567"
+  * use = #mobile
+
+* gender = #male
