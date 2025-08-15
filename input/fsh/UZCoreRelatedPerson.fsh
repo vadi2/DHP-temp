@@ -131,7 +131,7 @@ Description: "Example of a related person"
 
 * patient = Reference(example-david) "Example Uzbekistan Patient" //?
 
-* relationship[0] = RelationshipTypeCS#WIT "witness"
+* relationship[0].coding[0] = $v3-ParticipationType#WIT "witness"
 
 * telecom[0]
   * system = #phone
