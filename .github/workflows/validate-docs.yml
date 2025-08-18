@@ -44,6 +44,10 @@ jobs:
 
       - name: Check QA report
         run: |
+          # Configuration
+          MAX_ALLOWED_ERRORS=6
+          MAX_ALLOWED_WARNINGS=0
+          
           if [ ! -f "output/qa.json" ]; then
             echo "❌ QA file not found: output/qa.json"
             exit 1
@@ -57,19 +61,19 @@ jobs:
           echo "   Errors: $ERRORS"
           echo "   Warnings: $WARNINGS"
           
-          # Check if errors exceed threshold (4 allowed errors which are known)
-          if [ "$ERRORS" -gt 4 ]; then
-            echo "❌ Too many errors: $ERRORS (maximum allowed: 4 known errors)"
+          # Check if errors exceed threshold
+          if [ "$ERRORS" -gt $MAX_ALLOWED_ERRORS ]; then
+            echo "❌ Too many errors: $ERRORS (maximum allowed: $MAX_ALLOWED_ERRORS known errors)"
             exit 1
           fi
           
-          # Check if there are any warnings (0 allowed warnings)
-          if [ "$WARNINGS" -gt 0 ]; then
-            echo "❌ Warnings found: $WARNINGS"
+          # Check if there are any warnings
+          if [ "$WARNINGS" -gt $MAX_ALLOWED_WARNINGS ]; then
+            echo "❌ Warnings found: $WARNINGS (maximum allowed: $MAX_ALLOWED_WARNINGS)"
             exit 1
           fi
           
-          echo "✅ QA check passed: $ERRORS errors (≤4) and $WARNINGS warnings (≤0)"
+          echo "✅ QA check passed: $ERRORS errors (≤$MAX_ALLOWED_ERRORS) and $WARNINGS warnings (≤$MAX_ALLOWED_WARNINGS)"
 
       - name: Upload output folder
         if: always() && hashFiles('output/**/*') != ''

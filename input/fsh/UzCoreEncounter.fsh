@@ -132,6 +132,7 @@ Usage: #example
 * subject = Reference(example-patient)
 * subjectStatus = encounter-subject-status-cs#gencl-0003-00001 "Awake"
 
+* participant.type = $v3-ParticipationType#ATND "attender"
 * participant.period
   * start = "2024-01-01T10:00:00Z"
   * end = "2024-01-01T11:00:00Z"
