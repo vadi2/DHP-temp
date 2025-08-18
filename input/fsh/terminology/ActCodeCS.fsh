@@ -33,3 +33,28 @@ Description: "Act code supplement with translations in Uzbek and Russian"
   * ^designation[=].value = "нет повторного раскрытия без директивы согласия"
   * ^designation[+].language = #uz
   * ^designation[=].value = "roziligisiz qayta oshkor qilish yo'q"
+* #IMP
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Statsionar"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Cтационарная встреча"
+* #AMB
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Ambulator"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Амбулаторный" 
+* #EMER
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Tez yordam (03)"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Неотложная помощь (03)"
+* #VR
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Virtual (telemeditsina)"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Bиртуальный (телемедицина)"
+* #HH
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "Uyga tashrif (patronaj)"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Bизит на дом (патронаж)"
