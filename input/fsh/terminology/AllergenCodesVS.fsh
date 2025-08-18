@@ -5,7 +5,7 @@ Description: "Value set containing SNOMED CT codes for substances or agents that
 * ^url = "https://terminology.dhp.uz/ValueSet/allergen-codes-vs"
 * ^experimental = true
 
-* include $sct#256277009 "Grass pollen"
+* include $sct#406474005 "Entire pollen"
 * ^compose.include[0].concept[0].designation[+].language = #uz
 * ^compose.include[0].concept[0].designation[=].value = "O't changlari"
 * ^compose.include[0].concept[0].designation[+].language = #ru
@@ -257,7 +257,7 @@ Description: "Value set containing SNOMED CT codes for substances or agents that
 * ^compose.include[41].concept[0].designation[+].language = #ru
 * ^compose.include[41].concept[0].designation[=].value = "Аллергия на морепродукты"
 
-* include $sct#294954003 "Allergy to chemical substance"
+* include $sct#441900009 "Allergy to chemical substance"
 * ^compose.include[42].concept[0].designation[+].language = #uz
 * ^compose.include[42].concept[0].designation[=].value = "Kimyoviy modda allergiyasi"
 * ^compose.include[42].concept[0].designation[+].language = #ru
