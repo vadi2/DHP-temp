@@ -4,8 +4,6 @@ Title: "Encounter type translations"
 Description: "Defines encounter type codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/ValueSet/encounter-type-vs"
 * ^experimental = true
-* ^extension[0].url = $valueset-supplement
-* ^extension[=].valueCanonical = Canonical(EncounterTypeCS)
 
 * encounter-type-cs#mserv-0001-00001
 * encounter-type-cs#mserv-0001-00002

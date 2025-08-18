@@ -33,8 +33,8 @@ Description: "Encounter status codes with English and Russian translations"
   * ^designation[=].value = "Xato kiritilgan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Введено с ошибкой"
-* #other 
+* #unknown 
   * ^designation[0].language = #uz
-  * ^designation[=].value = "Boshqa"
+  * ^designation[=].value = "Noma'lum"
   * ^designation[+].language = #ru
-  * ^designation[=].value = "Другое"
+  * ^designation[=].value = "Неизвестный"
