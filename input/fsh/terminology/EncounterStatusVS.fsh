@@ -12,4 +12,4 @@ Description: "Encounter status codes with English and Russian translations"
 * $encounter-status#completed
 * $encounter-status#cancelled
 * $encounter-status#entered-in-error
-* $encounter-status#other
+* $encounter-status#unknown
