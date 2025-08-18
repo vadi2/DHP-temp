@@ -13,17 +13,17 @@ Description: "Encounter admit source codes with English and Russian translations
   * ^designation[=].value = "Boshqa shifoxonadan o‘tkazilgan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Переведен из другой больницы"
-* #born 
+* #born
   * ^designation[0].language = #uz
   * ^designation[=].value = "Tibbiyot muassasasida tug'ildi"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Родился в больнице"
-* #psych 
+* #psych
   * ^designation[0].language = #uz
   * ^designation[=].value = "Ruhiy kasalliklar shifoxonasidan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Из психиатрической больницы"
-* #other 
+* #other
   * ^designation[0].language = #uz
   * ^designation[=].value = "Boshqa"
   * ^designation[+].language = #ru

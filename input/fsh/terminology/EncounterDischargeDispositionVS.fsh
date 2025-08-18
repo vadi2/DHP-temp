@@ -6,8 +6,6 @@ Description: "Encounter discharge disposition codes with English and Russian tra
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterDischargeDispositionCS)
-* ^extension[+].url = $valueset-supplement
-* ^extension[=].valueCanonical = Canonical(EncounterDischargeDispositionHomeCS)
 
 * $encounter-discharge-disposition#home
 * $encounter-discharge-disposition#other-hcf

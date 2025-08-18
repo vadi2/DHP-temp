@@ -1,7 +1,7 @@
 CodeSystem: AdmitSourceHomeCS
 Id: admit-source-home-cs
 Title: "Admit source from home"
-Description: "Admit source home code for Admit Source ValueSet with Enlish and Russian translations"
+Description: "Admit source home code for Admit Source ValueSet with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/admit-source-home-cs"
 * ^content = #complete
 * ^caseSensitive = true

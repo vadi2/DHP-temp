@@ -3,9 +3,12 @@ Id: encounter-priority-home-cs
 Title: "Encounter priority home translations"
 Description: "Encounter priority home codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-priority-home-cs"
-* ^experimental = true
+* ^status = #active
 * ^content = #complete
+* ^caseSensitive = true
+* ^hierarchyMeaning = #is-a
 * ^language = #uz
+* ^experimental = true
 
 * #gencl-0002-00001 "Yuqori"
   * ^designation[0].language = #en

@@ -150,8 +150,8 @@ Usage: #example
 * diagnosis[0].condition = Reference(Condition/example-condition)
 
 * admission
-  * admitSource = $encounter-admit-source#psych "Psychiatric"
-  * reAdmission = EncounterReAdmissionCS#R "Yes, this is a re-admission"
+  * admitSource = $encounter-admit-source#psych "From psychiatric hospital"
+  * reAdmission = $v2-admission#R "Re-admission"
   * dischargeDisposition = $encounter-discharge-disposition#home "Home"
 
 * location[0].location = Reference(example-location)

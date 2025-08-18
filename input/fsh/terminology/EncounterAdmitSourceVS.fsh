@@ -6,10 +6,8 @@ Description: "Encounter admit source codes with English and Russian translations
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterAdmitSourceCS)
-* ^extension[+].url = $valueset-supplement
-* ^extension[=].valueCanonical = Canonical(AdmitSourceHomeCS)
 
-* $encounter-admit-source#host-trans
+* $encounter-admit-source#hosp-trans
 * $encounter-admit-source#born
 * $encounter-admit-source#psych
 * $encounter-admit-source#other
