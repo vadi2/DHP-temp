@@ -7,9 +7,9 @@ Description: "Encounter priority codes with English and Russian translations"
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterPriorityCS)
 
-* $v3ActPriority#EM
-* $v3ActPriority#P
-* $v3ActPriority#PRN
-* encounter-priority-home-cs#gencl-0002-00001
-* encounter-priority-home-cs#gencl-0002-00002
-* encounter-priority-home-cs#gencl-0002-00003
+* include $v3ActPriority#EM
+* include $v3ActPriority#P
+* include $v3ActPriority#PRN
+* include encounter-priority-home-cs#gencl-0002-00001
+* include encounter-priority-home-cs#gencl-0002-00002
+* include encounter-priority-home-cs#gencl-0002-00003

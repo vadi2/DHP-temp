@@ -5,8 +5,8 @@ Description: "Encounter subject status codes with English and Russian translatio
 * ^url = "https://terminology.dhp.uz/ValueSet/encounter-subject-status-vs"
 * ^experimental = true
 
-* encounter-subject-status-cs#gencl-0003-00001
-* encounter-subject-status-cs#gencl-0003-00002
-* encounter-subject-status-cs#gencl-0003-00003
-* encounter-subject-status-cs#gencl-0003-00004
-* encounter-subject-status-cs#gencl-0003-00005
+* include encounter-subject-status-cs#gencl-0003-00001
+* include encounter-subject-status-cs#gencl-0003-00002
+* include encounter-subject-status-cs#gencl-0003-00003
+* include encounter-subject-status-cs#gencl-0003-00004
+* include encounter-subject-status-cs#gencl-0003-00005

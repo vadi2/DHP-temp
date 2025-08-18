@@ -7,8 +7,8 @@ Description: "Encounter Class codes with English and Russian translations"
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterClassCS)
 
-* $v3-ActCode#IMP
-* $v3-ActCode#AMB
-* $v3-ActCode#EMER
-* $v3-ActCode#VR
-* $v3-ActCode#HH
+* include $v3-ActCode#IMP
+* include $v3-ActCode#AMB
+* include $v3-ActCode#EMER
+* include $v3-ActCode#VR
+* include $v3-ActCode#HH

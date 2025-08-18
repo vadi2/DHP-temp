@@ -7,9 +7,9 @@ Description: "Encounter status codes with English and Russian translations"
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterStatusCS)
 
-* $encounter-status#planned
-* $encounter-status#in-progress
-* $encounter-status#completed
-* $encounter-status#cancelled
-* $encounter-status#entered-in-error
-* $encounter-status#unknown
+* include $encounter-status#planned
+* include $encounter-status#in-progress
+* include $encounter-status#completed
+* include $encounter-status#cancelled
+* include $encounter-status#entered-in-error
+* include $encounter-status#unknown

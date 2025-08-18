@@ -7,8 +7,8 @@ Description: "Encounter discharge disposition codes with English and Russian tra
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterDischargeDispositionCS)
 
-* $encounter-discharge-disposition#home
-* $encounter-discharge-disposition#other-hcf
-* $encounter-discharge-disposition#oth
-* encounter-discharge-disposition-home-cs#mserv-0004-00001
-* encounter-discharge-disposition-home-cs#mserv-0004-00002
+* include $encounter-discharge-disposition#home
+* include $encounter-discharge-disposition#other-hcf
+* include $encounter-discharge-disposition#oth
+* include encounter-discharge-disposition-home-cs#mserv-0004-00001
+* include encounter-discharge-disposition-home-cs#mserv-0004-00002
