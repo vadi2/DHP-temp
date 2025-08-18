@@ -2,7 +2,7 @@ CodeSystem: EncounterStatusCS
 Id: encounter-status-cs
 Title: "Encounter status translations"
 Description: "Encounter status codes with English and Russian translations"
-* ^url = "http://terminology.dhp.uz/CodeSystem/encounter-status-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-status-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-status

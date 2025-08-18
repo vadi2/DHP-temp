@@ -2,7 +2,7 @@ CodeSystem: EncounterPriorityCS
 Id: encounter-priority-cs
 Title: "Encounter priority translations"
 Description: "Encounter priority codes with English and Russian translations"
-* ^url = "http://terminology.dhp.uz/CodeSystem/encounter-priority-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-priority-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $v3ActPriority

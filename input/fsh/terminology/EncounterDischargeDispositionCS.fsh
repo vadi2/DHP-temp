@@ -2,7 +2,7 @@ CodeSystem: EncounterDischargeDispositionCS
 Id: encounter-discharge-disposition-cs
 Title: "Encounter discharge disposition translations"
 Description: "Encounter discharge disposition codes with English and Russian translations"
-* ^url = "http://terminology.dhp.uz/CodeSystem/encounter-discharge-disposition-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-discharge-disposition-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $encounter-discharge-disposition
