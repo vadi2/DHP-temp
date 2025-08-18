@@ -4,8 +4,8 @@ Title: "Encounter Type translations"
 Description: "Encounter type codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-type-cs"
 * ^experimental = true
-* ^content = #supplement
-* ^supplements = $encounter-type
+* ^caseSensitive = true
+* ^hierarchyMeaning = #is-a
 * ^language = #uz
 
 * #mserv-0001-00001 "Profilaktik"

@@ -2,7 +2,7 @@ CodeSystem: EncounterPriorityHomeCS
 Id: encounter-priority-home-cs
 Title: "Encounter priority home translations"
 Description: "Encounter priority home codes with English and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-priority-home"
+* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-priority-home-cs"
 * ^experimental = true
 * ^content = #complete
 * ^language = #uz

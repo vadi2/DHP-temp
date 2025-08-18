@@ -4,8 +4,8 @@ Title: "Encounter reason use translations"
 Description: "Encounter reason use codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-reason-use-cs"
 * ^experimental = true
-* ^content = #supplement
-* ^supplements = $encounter-reason-use
+* ^caseSensitive = true
+* ^hierarchyMeaning = #is-a
 * ^language = #uz
 
 * #mserv-0002-00001 "Kasallik"

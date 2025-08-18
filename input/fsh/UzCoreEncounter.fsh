@@ -1,8 +1,8 @@
-Profile: EncounterUz
+Profile: UZCoreEncounter
 Parent: Encounter
-Id: encounter-uz
-Title: "UZ Encounter Profile"
-Description: "This profile defines an Encounter resource adapted to the healthcare system in Uzbekistan."
+Id: uz-core-encounter
+Title: "UZ Core Encounter"
+Description: "Uzbekistan Core Patient profile, used to represent clinical encounters"
 * ^experimental = true
 * ^status = #active
 * ^date = "2025-08-01"
@@ -17,7 +17,6 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 
 * class MS
 * class from EncounterClassVS (required)
-* class from https://terminology.dhp.uz/ValueSet/encounter-class (required)
 * class ^short = "Классификация встречи с пациентом"
 
 * priority MS
@@ -43,7 +42,6 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 * episodeOfCare ^short = "Эпизод(ы) ухода, в отношении которого следует записать эту встречу"
 
 * basedOn MS
-* basedOn only Reference(CarePlan or DeviceRequest or MedicationRequest or ServiceRequest)
 * basedOn ^short = "Запрос, который инициировал эту встречу"
 
 * careTeam MS
@@ -58,7 +56,6 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 * participant MS
 * participant ^short = "Список участников, участвовавших во встрече"
 * participant.actor MS
-* participant.actor only Reference(Patient or RelatedPerson or Practitioner or PractitionerRole or HealthcareService)
 * participant.actor ^short = "Лицо, устройство или служба, участвующее во встрече"
 * participant.period MS
 * participant.period ^short = "Период времени во время встречи, в котором участвовал участник"
@@ -92,7 +89,6 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 * length ^short = "Фактическое количество времени, в течение которого длилась встреча (за вычетом времени отсутствия)"
 
 * diagnosis MS
-* diagnosis.modifierExtension 0..0
 * diagnosis ^short = "Список диагнозов, имеющих отношение к данному случаю"
 * diagnosis.condition MS
 * diagnosis.condition ^short = "Диагноз, относящийся к встрече"
@@ -124,24 +120,24 @@ Description: "This profile defines an Encounter resource adapted to the healthca
 // Instance for UzCoreEncounter
 
 Instance: example-encounter
-InstanceOf: EncounterUz
+InstanceOf: UZCoreEncounter
 Title: "Example Encounter"
 Description: "Example of an psychiatric encounter"
 Usage: #example
 * status = #completed "Completed"
 * class = $v3-ActCode#IMP "Inpatient encounter"
 * priority = $v3ActPriority#EM "Emergency"
-* type[0] = $encounter-type#mserv.0001.00004  "Treatment services"
-* serviceType[0] = Reference(HealthcareService/cancr0022.00010)
+* type[0] = encounter-type-cs#mserv-0001-00004  "Treatment services"
+* serviceType[0] = Reference(example-healthcareservice)
 * subject = Reference(example-patient)
-* subjectStatus = $encounter-subject-status#gencl.0003.00001 "Awake"
+* subjectStatus = encounter-subject-status-cs#gencl-0003-00001 "Awake"
 
 * participant.period
   * start = "2024-01-01T10:00:00Z"
   * end = "2024-01-01T11:00:00Z"
 
 * reason[0]
-  * use = $encounter-reason-use#gencl.0001.00001 "Reason for encounter"
+  * use = encounter-reason-use-cs#mserv-0002-00001 "Disease"
   * value = Reference(Condition/example-condition)
 
 * actualPeriod
@@ -152,7 +148,6 @@ Usage: #example
 * plannedEndDate = "2024-01-01T11:00:00Z" 
 
 * diagnosis[0].condition = Reference(Condition/example-condition)
-* diagnosis[0].use = EncounterReasonUseCS#primary "Primary diagnosis"
 
 * admission
   * admitSource = $encounter-admit-source#psych "Psychiatric"

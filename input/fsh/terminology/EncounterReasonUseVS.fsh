@@ -7,6 +7,6 @@ Description: "Encounter reason use codes with Uzbek and Russian translations"
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterReasonUseCS)
 
-* $encounter-reason-use#mserv-0002-00001
-* $encounter-reason-use#mserv-0002-00002
-* $encounter-reason-use#mserv-0002-00003
+* encounter-reason-use-cs#mserv-0002-00001
+* encounter-reason-use-cs#mserv-0002-00002
+* encounter-reason-use-cs#mserv-0002-00003

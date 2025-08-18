@@ -4,15 +4,15 @@ Title: "Encouneter subject status translations"
 Description: "Encouneter subject status codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-subject-status-cs"
 * ^experimental = true
-* ^content = #supplement
-* ^supplements = $encounter-subject-status
+* ^caseSensitive = true
+* ^hierarchyMeaning = #is-a
 * ^language = #uz
 
 * #gencl-0003-00001 "Hushida"
   * ^designation[0].language = #en
   * ^designation[=].value = "Awake"
   * ^designation[+].language = #ru
-  * ^designation[=].value = "В сознании "
+  * ^designation[=].value = "В сознании"
 * #gencl-0003-00002 "Hushsiz"
   * ^designation[0].language = #en
   * ^designation[=].value = "Unconscious"
