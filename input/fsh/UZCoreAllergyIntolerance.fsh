@@ -34,8 +34,10 @@ Description: "Uzbekistan Core profile for AllergyIntolerance, representing clini
 * reaction MS
   * severity MS
   * severity from AllergyReactionSeverityVS
- /* * manifestation
-  * manifestation from ReactionManifestationVS*/
+  * manifestation
+  * manifestation from ReactionManifestationVS
+  * substance MS
+  * substance from ReactionSubstanceVS
 
 
 
