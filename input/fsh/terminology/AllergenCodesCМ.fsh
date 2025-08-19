@@ -1,4 +1,4 @@
-Instance: AllergenCodesCM
+Instance: allergen-code-to-snomed
 InstanceOf: ConceptMap
 Usage: #definition
 Title: "UZ local allergen codes → SNOMED CT"

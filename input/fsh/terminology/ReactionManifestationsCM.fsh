@@ -1,4 +1,4 @@
-Instance: ReactionManifestationsCM
+Instance: manifestations-to-snomed
 InstanceOf: ConceptMap
 Usage: #definition
 Title: "UZ local allergy manifestations → SNOMED CT"

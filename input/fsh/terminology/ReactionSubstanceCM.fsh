@@ -1,4 +1,4 @@
-Instance: ReactionSubstanceCM
+Instance: substance-to-snomed
 InstanceOf: ConceptMap
 Usage: #definition
 Title: "UZ local allergy substance → SNOMED CT"
