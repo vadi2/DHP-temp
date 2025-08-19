@@ -1621,7 +1621,7 @@ Description: "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIn
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00298
-* group.element[=].display = "Dengiz choʻchqasi (Cav p 1)"
+* group.element[=].display = "Dengiz cho'chqasi (Cav p 1)"
 * group.element[=].target[+].code = #125076001
 * group.element[=].target[=].display = "Guinea pig (Cav p 1)"
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
@@ -1675,7 +1675,7 @@ Description: "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIn
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00307
-* group.element[=].display = "Djungar ogʻmaxoni (Phod s 1)"
+* group.element[=].display = "Djungar og'maxoni (Phod s 1)"
 * group.element[=].target[+].code = #392390005
 * group.element[=].target[=].display = "Djungarian hamster (Phod s 1)"
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
@@ -1717,13 +1717,13 @@ Description: "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIn
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00315
-* group.element[=].display = "Qoʻy epiteliyasi (Ovi a_epithelia)"
+* group.element[=].display = "Qo'y epiteliyasi (Ovi a_epithelia)"
 * group.element[=].target[+].code = #260162002
 * group.element[=].target[=].display = "Sheep, epithelium (Ovi a_epithelia)"
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00316
-* group.element[=].display = "Choʻchqa epiteliyasi (Sus d_epithelia)"
+* group.element[=].display = "Cho'chqa epiteliyasi (Sus d_epithelia)"
 * group.element[=].target[+].code = #256420006
 * group.element[=].target[=].display = "Pig, epithelium (Sus d_epithelia)"
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
