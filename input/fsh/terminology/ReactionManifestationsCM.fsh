@@ -140,7 +140,7 @@ Description: "Maps local UZ ReactionManifestationCS codes to SNOMED CT for Aller
 * group.element[=].target[=].relationship = #equivalent
 
 * group.element[+].code = #aller-0006-00006
-* group.element[=].display = "Ko'krak qafasida siqilish -"
+* group.element[=].display = "Ko'krak qafasida siqilish"
 * group.element[=].target[+].code = #23924001
 * group.element[=].target[=].display = "Chest tightness"
 * group.element[=].target[=].relationship = #equivalent

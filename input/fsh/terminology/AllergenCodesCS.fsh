@@ -68,13 +68,13 @@ Description: "Allergy codes supplement with translations in uzbek and russian"
   * ^designation[+].language = #en
   * ^designation[=].value = "Vegetables"
 
-* #aller-0010-00173 "Yong‘oqlar"
+* #aller-0010-00173 "Yong'oqlar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Орехи"
   * ^designation[+].language = #en
   * ^designation[=].value = "Nuts"
 
-* #aller-0010-00196 "Urug‘lar"
+* #aller-0010-00196 "Urug'lar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Семена"
   * ^designation[+].language = #en
@@ -98,7 +98,7 @@ Description: "Allergy codes supplement with translations in uzbek and russian"
   * ^designation[+].language = #en
   * ^designation[=].value = "Seafood / Shellfish"
 
-* #aller-0010-00254 "Go‘sht"
+* #aller-0010-00254 "Go'sht"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мясо"
   * ^designation[+].language = #en
@@ -164,7 +164,7 @@ Description: "Allergy codes supplement with translations in uzbek and russian"
   * ^designation[+].language = #en
   * ^designation[=].value = "Fermented food"
 
-* #aller-0010-00333 "Ozuqaviy qo‘ziqorinlarga allergiya"
+* #aller-0010-00333 "Ozuqaviy qo'ziqorinlarga allergiya"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Аллергия на пищевые грибы"
   * ^designation[+].language = #en
@@ -212,7 +212,7 @@ Description: "Allergy codes supplement with translations in uzbek and russian"
   * ^designation[+].language = #en
   * ^designation[=].value = "Helminth"
 
-* #aller-0001-00004 "O‘simlik tolasi allergiyasi"
+* #aller-0001-00004 "O'simlik tolasi allergiyasi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Аллергия на растительное волокно"
   * ^designation[+].language = #en
@@ -224,7 +224,7 @@ Description: "Allergy codes supplement with translations in uzbek and russian"
   * ^designation[+].language = #en
   * ^designation[=].value = "Allergy to sulfonamide antibiotic"
 
-* #aller-0010-00340 "Mushak bo‘shatuvchi dori allergiyasi"
+* #aller-0010-00340 "Mushak bo'shatuvchi dori allergiyasi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Аллергия на миорелаксанты"
   * ^designation[+].language = #en
@@ -260,7 +260,7 @@ Description: "Allergy codes supplement with translations in uzbek and russian"
   * ^designation[+].language = #en
   * ^designation[=].value = "Allergic reaction caused by analgesic"
 
-* #aller-0010-00344 "Ovqat qo‘shimchasiga allergiya"
+* #aller-0010-00344 "Ovqat qo'shimchasiga allergiya"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Аллергия на пищевую добавку"
   * ^designation[+].language = #en

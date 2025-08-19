@@ -536,7 +536,7 @@ Description: "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIn
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00097
-* group.element[=].display = "Cladosporium herbarum zamburugi (Cla h)"
+* group.element[=].display = "Cladosporium herbarum (Cla h)"
 * group.element[=].target[+].code = #3459008
 * group.element[=].target[=].display = "Cladosporium herbarum (Cla h)"
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
