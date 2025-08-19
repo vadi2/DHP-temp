@@ -105,6 +105,10 @@ Description: "Uzbekistan Core Related Person profile, used to represent related 
   * extension contains GenderOtherUZ named gender-other-2 0..1 MS
 * obeys gender-other-2
 * insert AddressRules
+* insert HumanName
+* active MS
+* birthDate MS
+* period MS 
 
 Instance: example-related-person
 InstanceOf: UZCoreRelatedPerson
