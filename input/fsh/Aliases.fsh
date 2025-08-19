@@ -49,6 +49,7 @@ Alias: $organization-type-cs = http://terminology.hl7.org/CodeSystem/organizatio
 Alias: $organization-type-vs = http://hl7.org/fhir/ValueSet/organization-type
 Alias: $organizational-service-group = http://dhp.uz/CodeSystem/organizational-service-group
 Alias: $organizational-structure = http://dhp.uz/CodeSystem/organizational-structure
+Alias: $participant-type = http://terminology.hl7.org/CodeSystem/participant-type
 Alias: $passport-international = https://dpm.uz/identifier/passport-international
 Alias: $passport-local = https://dpm.uz/identifier/passport-local
 Alias: $penitentiaryinstitution = https://gov.uz/iiv/identifier/penitentiaryinstitution
