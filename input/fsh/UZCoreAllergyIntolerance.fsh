@@ -39,6 +39,38 @@ Description: "Uzbekistan Core profile for AllergyIntolerance, representing clini
   * substance MS
   * substance from ReactionSubstanceVS
 
+//test
+Instance: UZAI-GrassPollen-Example
+InstanceOf: UZCoreAllergyIntolerance
+Usage: #example
+Title: "Allergy to grass pollen — example"
+Description: "Example instance conforming to UZCoreAllergyIntolerance."
+
+* meta.profile = "https://terminology.dhp.uz/StructureDefinition/uz-core-allergy-intolerance"
+
+//* identifier.system = "https://terminology.dhp.uz/AllergyIntolerance"
+* identifier.value = "AI-0001"
+
+* clinicalStatus = $allergy-clinical#active "Active"
+* verificationStatus = $allergy-verification#confirmed "Confirmed"
+* type = $allergy-intolerance-type#allergy "Allergy"
+* category = $allergy-category#environment "Environment"
+
+* code = allergen-codes-cs#aller-0010-00001 "Grass pollen"
+
+* patient = Reference(Patient/example-salim)
+* encounter = Reference(Encounter/example-encounter)
+
+* onsetDateTime = "2025-07-10"
+
+* extension[abatement].url = "https://terminology.dhp.uz/StructureDefinition/uz-allergy-abatement"
+* extension[abatement].valueString = "Symptoms resolved after antihistamine course"
+// Реакция
+* reaction.severity = #severe
+* reaction.manifestation[0] = allergy-reaction-manifestation-cs#aller-0006-00004 "Shortness of breath"
+* reaction.substance = allergy-reaction-substance-cs#aller-0010-00031 "Walnut, pollen (Jug r_pollen)"
+
+
 
 
 
