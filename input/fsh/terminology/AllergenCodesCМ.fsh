@@ -6,6 +6,7 @@ Description: "Maps local UZ allergen codes to SNOMED CT for AllergyIntolerance.c
 /* * group[0].target = $sct
 * targetScope = Canonical(AllergenCodesVS)*/
 * url = "https://terminology.dhp.uz/ConceptMap/allergen-code-to-snomed"
+* name = "AllergenCodeToSnomed"
 * status = #draft
 * experimental = false
 * publisher = "Uzinfocom"

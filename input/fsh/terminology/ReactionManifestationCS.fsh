@@ -6,6 +6,7 @@ Description: "Local codes and multilingual names for allergy symptoms."
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
+* ^experimental = false
 
 * #aller-0004-00001 "Aksirish"
   * ^designation[0].language = #ru

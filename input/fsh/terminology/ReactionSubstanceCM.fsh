@@ -4,6 +4,7 @@ Usage: #definition
 Title: "UZ local allergy substance → SNOMED CT"
 Description: "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIntolerance.reaction.substance."
 * url = "https://terminology.dhp.uz/ConceptMap/substance-to-snomed"
+* name = "AllergySubstanceToSnomed"
 * status = #draft
 * experimental = false
 * publisher = "Uzinfocom"
@@ -535,19 +536,19 @@ Description: "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIn
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00097
-* group.element[=].display = "Кладоспориум гербарум / Cladosporium herbarum (Cla h)"
+* group.element[=].display = "Cladosporium herbarum zamburugi (Cla h)"
 * group.element[=].target[+].code = #3459008
 * group.element[=].target[=].display = "Cladosporium herbarum (Cla h)"
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00098
-* group.element[=].display = "Кладоспориум гербарум / Cladosporium herbarum (Cla h 8)"
+* group.element[=].display = "Cladosporium herbarum (Cla h 8)"
 * group.element[=].target[+].code = #3459008
 * group.element[=].target[=].display = "Cladosporium herbarum (Cla h 8)"
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00099
-* group.element[=].display = "Олтинранг пенициллин (Penicilium chrysogenum) (Pen ch)"
+* group.element[=].display = "Oltinrang penitsillin (Penicilium chrysogenum) (Pen ch)"
 * group.element[=].target[+].code = #24476004
 * group.element[=].target[=].display = "Penicillium chrysogenum (Pen ch)"
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
@@ -1381,7 +1382,7 @@ Description: "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIn
 * group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00250
-* group.element[=].display = "Atlantika skumbriya balig'i (Sco s)"
+* group.element[=].display = "Atlantika skumbriya balig'i (Sco s 1)"
 * group.element[=].target[+].code = #86980008
 * group.element[=].target[=].display = "Atlantic mackerel (Sco s 1)"
 * group.element[=].target[=].relationship = #source-is-narrower-than-target

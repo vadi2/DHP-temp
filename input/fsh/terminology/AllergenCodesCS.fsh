@@ -1,11 +1,12 @@
 CodeSystem: AllergenCodesCS
 Id: allergen-codes-cs
 Title: "Allergen codes"
-Description: " Allergy codes supplement with translations in uzbek and russian"
+Description: "Allergy codes supplement with translations in uzbek and russian"
 * ^url = "https://terminology.dhp.uz/CodeSystem/allergen-codes-cs"
 * ^status = #active
 * ^content = #complete
 * ^experimental = true
+* ^caseSensitive = true
 
 * #aller-0010-00001 "O't changlari"
   * ^designation[0].language = #ru

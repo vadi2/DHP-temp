@@ -6,6 +6,7 @@ Description: "Local codes and multilingual names for allergy reaction substance.
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
+* ^experimental = false
 
 * #aller-0010-00001 "Ajiriq (Cyn d)"
   * ^designation[0].language = #ru
