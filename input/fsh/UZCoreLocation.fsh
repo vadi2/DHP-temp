@@ -53,6 +53,7 @@ Usage: #example
 * identifier[tax-id]
   * value = "200935935"
 * status = #active
+* mode = #instance
 * name = "Respublika onkologiya markazi"
   * extension[translation][0]
     * extension[lang][0]
@@ -76,8 +77,10 @@ Usage: #example
 Instance: example-location-2
 InstanceOf: UZCoreLocation
 Description: "Example of a branch location"
+Usage: #example
 * language = #uz
 * status = #active
+* mode = #instance
 * name = "1-sonli onkomammologiya bo'limi"
   * extension[translation][0]
     * extension[lang][0]
@@ -92,3 +95,13 @@ Description: "Example of a branch location"
 * identifier[unit]
   * type = LocationKindsCS#Branch "Bo'limi"
   * value = "1"
+
+Instance: example-location
+InstanceOf: UZCoreLocation
+Usage: #example
+Description: "Example of psychiatric hospital"
+* language = #uz
+* status = #active
+* mode = #instance
+* name = "Toshkent shahar 1-sonli shifoxona"
+* address.text = "Toshkent shahar, Chilonzor tumani, Katta Qo'yliq 45"
