@@ -2,7 +2,7 @@ CodeSystem: ParticipantTypeCS
 Id: participanttype-cs
 Title: "Participant type translations"
 Description: "Participant type supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/TypeSystem/participanttype-cs"
+* ^url = "https://terminology.dhp.uz/CodeSystem/participanttype-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $participant-type
