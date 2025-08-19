@@ -13,8 +13,8 @@ version: 0.2.0
 fhirVersion: 5.0.0 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2025+
 releaseLabel: ci-build
-# license: CC0-1.0 # https://www.hl7.org/fhir/valueset-spdx-license.html
-jurisdiction: urn:iso:std:iso:3166#UZ "Uzbekistan"
+# jurisdiction: urn:iso:std:iso:3166#UZ "Uzbekistan" temporarily disabled due to issues with IG publisher translation template
+jurisdiction: http://unstats.un.org/unsd/methods/m49/m49.htm#001
 publisher:
   name: Uzinfocom LLC
   url: https://uzinfocom.uz
@@ -75,11 +75,13 @@ parameters:
   # openehr: true
 
   # multi-lingual support
-  # i18n-default-lang: en
-  # i18n-lang: 
-  #   - ru
-  # translation-sources:
-  #   - input/translations/ru
+  i18n-default-lang: en
+  i18n-lang: 
+    - ru
+    # - uz # to be enabled later - requires translating not just this IG, but core IG publisher texts as well
+  translation-sources:
+    - input/translations/ru
+    # - input/translations/uz
 
 #   validation: [allow-any-extensions, no-broken-links]
 #

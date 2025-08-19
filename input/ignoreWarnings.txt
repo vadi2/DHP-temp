@@ -14,3 +14,12 @@ The ImplementationGuide is based on FHIR version 5.0.0 but package fhir.dicom#20
 # IG publisher can't find supplements for ISO 3166 - this can be ignored
 The value provided ('UZ') was not found in the value set 'ISO 3166 2 character codes in Uzbek and Russian' (https://terminology.dhp.uz/ValueSet/iso-3166-2-uz-vs%
 Required supplement not found: https://terminology.dhp.uz/CodeSystem/iso3166-two-letter-cs%
+
+# Issues with IG publisher for i18n - this can be ignored
+The image source 'assets/images/uzb.svg' cannot be resolved
+The image source 'assets/images/lang-uz.png' cannot be resolved
+An HTML fragment from the set%
+
+# Warning that can be ignored for our use since our instances use Uzbek/Russian but generated narrative in English
+Resource has a language (uz), and the XHTML has a lang (en), but they differ 
+Resource has a language (ru), and the XHTML has a lang (en), but they differ
