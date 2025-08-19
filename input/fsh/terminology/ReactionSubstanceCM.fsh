@@ -4,7 +4,7 @@ Usage: #definition
 Title: "UZ local allergy substance → SNOMED CT"
 Description: "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIntolerance.reaction.substance."
 * url = "https://terminology.dhp.uz/ConceptMap/substance-to-snomed"
-* status = #active
+* status = #draft
 * experimental = false
 * publisher = "Uzinfocom"
 
