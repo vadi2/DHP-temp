@@ -133,7 +133,16 @@ Description: "Example of a related person"
 * identifier[militaryID]
   * value = "MI-2025-001"
 
-* patient = Reference(example-david) "Example Uzbekistan Patient" //?
+* patient = Reference(example-david)
+
+* name[0]
+  * use = #usual
+  * text = "Зафаров Дамир Каримович"
+  * family = "Зафаров"
+  * given[0] = "Дамир"
+  * suffix[0] = "Каримович"
+  * period
+    * start = "1998-02-16"
 
 * relationship[0].coding[0] = $v3-ParticipationType#WIT "witness"
 
@@ -141,5 +150,17 @@ Description: "Example of a related person"
   * system = #phone
   * value = "+998901234567"
   * use = #mobile
+
+* address
+  * use = #home
+  * type = #physical
+  * text = "махалля Дилобод, Каторток кўчаси, 9-уй, 15-хонадон"
+  * line[0] = "Каторток кўчаси"
+  * city = "103-0104"  // Mahalla code
+  * district = "1726294"  // District/city code (SOATO)
+  * state = "1726"  // Region code (SOATO)
+  * country = "182"  // Country code
+  * period
+    * start = "1999-06-04"
 
 * gender = #male
