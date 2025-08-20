@@ -2,7 +2,7 @@ Profile: UZCoreProcedure
 Parent: Procedure
 Id: uz-core-procedure
 Title: "UZ Core Procedure"
-Description: "An action that is or was performed on or for a patient, practitioner, device, organization, or location."
+Description: "Uzbekistan Core Procedure Profile, used for documenting an action that is or was performed on or for a patient, practitioner, device, organization, or location."
 * ^experimental = true
 * ^status = #active
 * ^date = "2025-08-18"
