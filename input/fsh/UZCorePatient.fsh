@@ -111,6 +111,9 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
 * obeys gender-other-2
 * insert AddressRules
 * maritalStatus from MaritalStatusVS (required)
+* insert HumanName
+* active MS
+* birthDate MS 
 
 Instance: example-salim
 InstanceOf: UZCorePatient

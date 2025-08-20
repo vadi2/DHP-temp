@@ -15,6 +15,10 @@ RuleSet: MultilingualName(entityType)
   * extension contains translation named translation 0..* MS
     * ^short = "Наименование {entityType} (на русском и английском языках)"
 
+RuleSet: HumanName
+* name MS
+  * use and text and family and given and suffix and period MS
+
 RuleSet: TaxIdentifier
 * identifier[tax-id]
   * ^short = "Unique identifier of the organization in Soliq"
