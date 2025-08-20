@@ -3,10 +3,11 @@ Id: mahalla-cs
 Title: "Mahalla Codes and Names"
 Description: "Mahalla codes and names with translations in Russian and English"
 * ^url = "https://terminology.dhp.uz/CodeSystem/mahalla-cs"
+* ^version = "0.2.0"
 * ^status = #active
-* ^experimental = true
 * ^content = #complete
-* ^language = #uz
+* ^caseSensitive = true
+* ^experimental = true
 
 * #17150085 "Uzumzor MFY"
   * ^designation[0].language = #ru

@@ -4,6 +4,7 @@ Title: "Encounter admit source translations"
 Description: "Encounter admit source codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-admit-source-cs"
 * ^experimental = true
+* ^status = #active
 * ^content = #supplement
 * ^supplements = $encounter-admit-source
 * ^language = #en

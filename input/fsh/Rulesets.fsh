@@ -4,7 +4,7 @@ RuleSet: AddressRules
   * type from AddressTypeVS (required) // yes
   * use from AddressUseVS (required) //yes
   * use ^short = "Type of address, home | temp"
-  * country from ISO3166_2_UZ (required) // mvd kodi davlat
+  * country from CountriesDigitalMVDVS (required) // mvd kodi davlat
   * district from RegionsVS (required) // tuman shaxar "yes"
   * state from StateVS (required) // viloyat
   * city from MahallaVS (required) // maxalla kodi
