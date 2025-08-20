@@ -69,9 +69,9 @@ Usage: #example
 * address
   * type = #postal
   * line = "Farobi, 383"
-  * city = "1726"
-  * district = "1726"
-  * country = "UZ"
+  * city = "22070022"
+  * district = "1735243"
+  * country = "182"
 * managingOrganization = Reference(Organization/example-organization)
 
 Instance: example-location-2

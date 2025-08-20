@@ -1,12 +1,13 @@
 RuleSet: AddressRules
 * address MS
-  * type and use and line and city and district and country and period MS
-  * type from AddressTypeVS (required)
-  * use from AddressUseVS (required)
+  * type and use and text and line and city and district and state and country and period MS
+  * type from AddressTypeVS (required) // yes
+  * use from AddressUseVS (required) //yes
   * use ^short = "Type of address, home | temp"
-  * country from ISO3166_2_UZ (required)
-  * district from regions-vs (required)
-  * city from regions-vs (required)
+  * country from ISO3166_2_UZ (required) // mvd kodi davlat
+  * district from RegionsVS (required) // tuman shaxar "yes"
+  * state from StateVS (required) // viloyat
+  * city from MahallaVS (required) // maxalla kodi
 
 RuleSet: MultilingualName(entityType)
 * name 1..1 MS

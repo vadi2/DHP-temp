@@ -152,9 +152,9 @@ Usage: #example
   * use = #home
   * type = #postal
   * line = "ул.Муминова 4"
-  * country = "UZ"
-  * district = "1706403"
-  * city = "1706401"
+  * country = "182"
+  * district = "1703202"
+  * city = "22070013"
   * period.start = "1999-04-06"
 * gender = #male
 * contact
@@ -186,9 +186,9 @@ Usage: #example
   * use = #temp
   * type = #physical
   * line = "2 квартал 13 дом 12 квартира"
-  * country = "UZ"
-  * district = "1726280"
-  * city = "1726"
+  * country = "182"
+  * district = "1703206"
+  * city = "22070011"
   * period.start = "2001-10-16"
 * gender = #other
 * gender.extension[gender-other].valueCoding = GenderOtherCS#regis0007.00005 "Сменил пол на мужчину"
