@@ -7,6 +7,7 @@ Description: "Allergy codes supplement with translations in uzbek and russian"
 * ^content = #complete
 * ^experimental = true
 * ^caseSensitive = true
+* ^language = #uz
 
 * #aller-0010-00001 "O't changlari"
   * ^designation[0].language = #ru
