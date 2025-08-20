@@ -13,3 +13,7 @@ Description: "UZ Core Questionnaire profile adapted from the Questionnaire resou
   * ^short = "Канонический (глобально уникальный) идентификатор этого опросника в виде абсолютного URI. Это основной способ ссылаться на конкретную версию этого опросника из других мест.
             Предупреждение: URL не должен содержать символы | или #"
 * identifier 1..* MS
+* status MS
+* status from QuestionnaireStatusVS (required)
+* subjectType MS
+* subjectType from QuestionnaireSubjectTypeVS
