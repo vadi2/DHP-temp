@@ -451,6 +451,16 @@ msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
+msgid "Encounter participant type translations"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Encounter participant type codes with English and Russian translations"
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
 msgid "Encounter priority home translations"
 msgstr ""
 
@@ -1012,6 +1022,26 @@ msgstr ""
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Defines the type of medical organizations without forming a legal entity"
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "Participant type translations"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Participant type supplement with translations in Uzbek and Russian"
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "Participation type translations"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Participation type supplement with translations in Uzbek and Russian"
 msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
@@ -1652,5 +1682,15 @@ msgstr ""
 # A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
 #: ImplementationGuide.definition.page.title
 msgid "Services"
+msgstr ""
+
+# Indicates the URL or the actual content to provide for the page.
+#: ImplementationGuide.definition.page.source[x]
+msgid "translationinfo.html"
+msgstr ""
+
+# A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
+#: ImplementationGuide.definition.page.title
+msgid "Translationinfo"
 msgstr ""
 

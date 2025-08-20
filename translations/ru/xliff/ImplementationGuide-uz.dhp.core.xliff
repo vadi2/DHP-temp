@@ -637,6 +637,20 @@
              <notes>
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
              </notes>
+        <source>Encounter participant type translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Encounter participant type codes with English and Russian translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
         <source>Encounter priority home translations</source>
         <target></target>
       </trans-unit>
@@ -1422,6 +1436,34 @@
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
         <source>Defines the type of medical organizations without forming a legal entity</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Participant type translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Participant type supplement with translations in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Participation type translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Participation type supplement with translations in Uzbek and Russian</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
@@ -2318,6 +2360,20 @@
                <note id="n1">A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.</note>
              </notes>
         <source>Services</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.page.source[x]">
+             <notes>
+               <note id="n1">Indicates the URL or the actual content to provide for the page.</note>
+             </notes>
+        <source>translationinfo.html</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.page.title">
+             <notes>
+               <note id="n1">A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.</note>
+             </notes>
+        <source>Translationinfo</source>
         <target></target>
       </trans-unit>
     </body>

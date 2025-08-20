@@ -548,6 +548,18 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Encounter participant type translations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Encounter participant type codes with English and Russian translations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter priority home translations",
           "target" : null
         },
@@ -1221,6 +1233,30 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the type of medical organizations without forming a legal entity",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Participant type translations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Participant type supplement with translations in Uzbek and Russian",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Participation type translations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Participation type supplement with translations in Uzbek and Russian",
           "target" : null
         },
         {
@@ -1989,6 +2025,18 @@
           "id" : "ImplementationGuide.definition.page.title",
           "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
           "source" : "Services",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.source[x]",
+          "context" : "Indicates the URL or the actual content to provide for the page.",
+          "source" : "translationinfo.html",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.title",
+          "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
+          "source" : "Translationinfo",
           "target" : null
         }
       ]
