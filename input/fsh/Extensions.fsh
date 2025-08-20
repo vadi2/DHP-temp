@@ -40,4 +40,4 @@ Description: "The differentiation of the gender indication 'other' may only be f
 Invariant: gender-other-2
 Description: "gender 'other' implies differentiation of the gender indication 'other' (for use in a profile)"
 * severity = #error
-* expression = "gender.exists() and gender = 'other' implies gender.extension('http://dhp.uz/StructureDefinition/gender-other').exists()"
+* expression = "gender.exists() and gender = 'other' implies gender.extension('http://terminology.dhp.uz/StructureDefinition/gender-other').exists()"
