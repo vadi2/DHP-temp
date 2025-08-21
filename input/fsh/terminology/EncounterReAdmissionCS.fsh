@@ -1,6 +1,6 @@
 CodeSystem: EncounterReAdmissionCS
 Id: encounter-reAdmission-cs
-* insert SupplementCodeSystem(encounter-reAdmission-cs, Encounter admission translations, Encounter readmission codes with English and Russian translations, $v2-admission)
+* insert SupplementCodeSystemDraft(encounter-reAdmission-cs, Encounter admission translations, Encounter readmission codes with English and Russian translations, $v2-admission)
 
 * #R 
   * ^designation[0].language = #uz

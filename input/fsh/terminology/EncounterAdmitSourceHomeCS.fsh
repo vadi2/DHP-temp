@@ -1,6 +1,6 @@
 CodeSystem: AdmitSourceHomeCS
 Id: admit-source-home-cs
-* insert OriginalCodeSystem(admit-source-home-cs, Admit source from home, Admit source home code for Admit Source ValueSet with English and Russian translations)
+* insert OriginalCodeSystemDraft(admit-source-home-cs, Admit source from home, Admit source home code for Admit Source ValueSet with English and Russian translations)
 
 * #mserv-0003-00001 "Uydan"
   * ^designation[0].language = #en

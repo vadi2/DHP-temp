@@ -1,6 +1,6 @@
 CodeSystem: ExtraSecurityRoleTypeCS
 Id: extra-security-role-type-cs
-* insert SupplementCodeSystem(extra-security-role-type-cs, Security role type translations, Security role type supplement with translations in Uzbek and Russian, $extra-security-role-type)
+* insert SupplementCodeSystemDraft(extra-security-role-type-cs, Security role type translations, Security role type supplement with translations in Uzbek and Russian, $extra-security-role-type)
 * #authserver
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сервер авторизации"

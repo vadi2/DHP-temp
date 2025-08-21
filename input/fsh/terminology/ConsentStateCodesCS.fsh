@@ -1,6 +1,6 @@
 CodeSystem: ConsentStateCodesCS
 Id: consent-state-codes-cs
-* insert SupplementCodeSystem(consent-state-codes-cs, Consent State Codes translations, Consent State Codes supplement with translations in Uzbek and Russian, $consent-state-codes)
+* insert SupplementCodeSystemDraft(consent-state-codes-cs, Consent State Codes translations, Consent State Codes supplement with translations in Uzbek and Russian, $consent-state-codes)
 * #draft
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ожидание"

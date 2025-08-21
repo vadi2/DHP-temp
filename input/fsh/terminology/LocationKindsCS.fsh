@@ -1,6 +1,6 @@
 CodeSystem: LocationKindsCS
 Id: location-kinds-cs
-* insert OriginalCodeSystem(location-kinds-cs, Location Kinds, Defines the kind of Location in Uzbek and Russian)
+* insert OriginalCodeSystemDraft(location-kinds-cs, Location Kinds, Defines the kind of Location in Uzbek and Russian)
 * #Branch "Bo'limi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Отделение"

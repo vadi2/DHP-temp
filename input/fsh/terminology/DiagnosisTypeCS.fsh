@@ -1,6 +1,6 @@
 CodeSystem: DiagnosisTypeCS
 Id: diagnosis-type-cs
-* insert OriginalCodeSystem(diagnosis-type-cs, Diagnosis Types, Diagnosis types in Uzbekistan)
+* insert OriginalCodeSystemDraft(diagnosis-type-cs, Diagnosis Types, Diagnosis types in Uzbekistan)
 * #gencl-0001-00001 "Yo'naltiruvchi muassasaning tashxisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Диагноз направившего учреждения"

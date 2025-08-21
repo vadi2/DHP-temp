@@ -1,6 +1,6 @@
 CodeSystem: IdentifierTypeCS
 Id: identifier-type-cs
-* insert SupplementCodeSystem(identifier-type-cs, possible identifiers translations, Types of possible identifiers supplement with translations in Uzbek and Russian, $identifier-type)
+* insert SupplementCodeSystemDraft(identifier-type-cs, possible identifiers translations, Types of possible identifiers supplement with translations in Uzbek and Russian, $identifier-type)
 * #PPN
   * ^designation[0].language = #ru
   * ^designation[=].value = "Серия и номер паспорта"

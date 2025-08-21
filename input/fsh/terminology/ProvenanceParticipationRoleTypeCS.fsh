@@ -1,6 +1,6 @@
 CodeSystem: ProvenanceParticipationRoleTypeCS
 Id: provenance-participation-role-type-cs
-* insert SupplementCodeSystem(provenance-participation-role-type-cs, Provenance Participation Role Type translations, Provenance Participation Role Type supplement with translations in Uzbek and Russian, $provenance-participant-type)
+* insert SupplementCodeSystemDraft(provenance-participation-role-type-cs, Provenance Participation Role Type translations, Provenance Participation Role Type supplement with translations in Uzbek and Russian, $provenance-participant-type)
 * #enterer
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ответственный за ввод"

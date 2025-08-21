@@ -1,6 +1,6 @@
 CodeSystem: MahallaCS
 Id: mahalla-cs
-* insert OriginalCodeSystem(mahalla-cs, Mahalla Codes and Names, Mahalla codes and names with translations in Russian and English)
+* insert OriginalCodeSystemDraft(mahalla-cs, Mahalla Codes and Names, Mahalla codes and names with translations in Russian and English)
 
 * #17150085 "Uzumzor MFY"
   * ^designation[0].language = #ru

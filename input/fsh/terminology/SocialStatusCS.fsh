@@ -1,6 +1,6 @@
 CodeSystem: SocialStatusCS
 Id: social-status-cs
-* insert OriginalCodeSystem(social-status-cs, Social status, Social status types in Uzbekistan)
+* insert OriginalCodeSystemDraft(social-status-cs, Social status, Social status types in Uzbekistan)
 * #regis0010.00001 "Talaba"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учащийся"

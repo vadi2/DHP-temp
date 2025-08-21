@@ -1,6 +1,6 @@
 CodeSystem: IdentifierUseCS
 Id: identifier-use-cs
-* insert SupplementCodeSystem(identifier-use-cs, possible identifier uses translations, Types of possible identifier uses supplement with translations in Uzbek and Russian, $identifier-use)
+* insert SupplementCodeSystemDraft(identifier-use-cs, possible identifier uses translations, Types of possible identifier uses supplement with translations in Uzbek and Russian, $identifier-use)
 * #usual
   * ^designation[0].language = #ru
   * ^designation[=].value = "обычный"

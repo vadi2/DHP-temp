@@ -1,6 +1,6 @@
 CodeSystem: NullFlavorCS
 Id: null-flavor-cs
-* insert SupplementCodeSystem(null-flavor-cs, Null Flavor translations, Null Flavor supplement with Uzbek and Russian translations, $v3-NullFlavor)
+* insert SupplementCodeSystemDraft(null-flavor-cs, Null Flavor translations, Null Flavor supplement with Uzbek and Russian translations, $v3-NullFlavor)
 * #UNK "Unknown"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Noma'lum"

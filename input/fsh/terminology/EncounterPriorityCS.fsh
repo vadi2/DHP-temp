@@ -1,6 +1,6 @@
 CodeSystem: EncounterPriorityCS
 Id: encounter-priority-cs
-* insert SupplementCodeSystem(encounter-priority-cs, Encounter priority translations, Encounter priority codes with English and Russian translations, $v3ActPriority)
+* insert SupplementCodeSystemDraft(encounter-priority-cs, Encounter priority translations, Encounter priority codes with English and Russian translations, $v3ActPriority)
 
 * #EM 
   * ^designation[0].language = #uz

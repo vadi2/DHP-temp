@@ -1,6 +1,6 @@
 CodeSystem: CountriesDigitalMVDCS
 Id: countries-digital-mvd-cs
-* insert OriginalCodeSystem(countries-digital-mvd-cs, Countries digital MVD translations, Countries digital MVD codes with translations in Russian and English)
+* insert OriginalCodeSystemDraft(countries-digital-mvd-cs, Countries digital MVD translations, Countries digital MVD codes with translations in Russian and English)
 
 * #0 "AVSTRIYA"
   * ^designation[0].language = #ru

@@ -1,6 +1,6 @@
 CodeSystem: ActCodeCS
 Id: actcode-cs
-* insert SupplementCodeSystem(actcode-cs, Act code translations, Act code supplement with translations in Uzbek and Russian, $v3-ActCode)
+* insert SupplementCodeSystemDraft(actcode-cs, Act code translations, Act code supplement with translations in Uzbek and Russian, $v3-ActCode)
 * #ETH
   * ^designation[0].language = #ru
   * ^designation[=].value = "чувствительность информации о злоупотреблении психоактивными веществами"

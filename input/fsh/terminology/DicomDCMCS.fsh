@@ -1,6 +1,6 @@
 CodeSystem: DicomDCMCS
 Id: dicom-dcs-cs
-* insert SupplementCodeSystem(dicom-dcs-cs, DICOM Controlled Terminology Definitions, DICOM Controlled Terminology Definitions supplement with translations in Uzbek and Russian, $dicom-dcm)
+* insert SupplementCodeSystemDraft(dicom-dcs-cs, DICOM Controlled Terminology Definitions, DICOM Controlled Terminology Definitions supplement with translations in Uzbek and Russian, $dicom-dcm)
 
 * #110100
   * ^designation[0].language = #ru

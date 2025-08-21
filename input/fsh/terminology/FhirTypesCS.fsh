@@ -1,6 +1,6 @@
 CodeSystem: FhirTypesCS
 Id: fhir-types-cs
-* insert SupplementCodeSystem(fhir-types-cs, All FHIR Types, One of the types defined as part of this version of FHIR with Uzbek and Russian translations., $fhir-types)
+* insert SupplementCodeSystemDraft(fhir-types-cs, All FHIR Types, One of the types defined as part of this version of FHIR with Uzbek and Russian translations., $fhir-types)
 * #Account "A financial tool for tracking value accrued for a particular purpose. In the healthcare field, used to track charges for a patient, cost centers, etc."
   * ^designation[0].language = #ru
   * ^designation[=].value = "Финансовый инструмент для отслеживания стоимости, накопленной для определенной цели. В сфере здравоохранения используется для отслеживания расходов на пациента, центров затрат и т. д."

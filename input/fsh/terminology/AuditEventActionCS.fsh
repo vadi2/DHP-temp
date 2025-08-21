@@ -1,6 +1,6 @@
 CodeSystem: AuditEventActionCS
 Id: audit-event-action-cs
-* insert SupplementCodeSystem(audit-event-action-cs, Audit event action translations, Audit event action supplement with translations in Uzbek and Russian, $audit-event-action)
+* insert SupplementCodeSystemDraft(audit-event-action-cs, Audit event action translations, Audit event action supplement with translations in Uzbek and Russian, $audit-event-action)
 * #C
   * ^designation[0].language = #ru
   * ^designation[=].value = "Создать"
