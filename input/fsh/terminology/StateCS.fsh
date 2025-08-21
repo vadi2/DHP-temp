@@ -1,6 +1,8 @@
 CodeSystem: StateCS
 Id: states-cs
-* insert OriginalCodeSystemDraft(states-cs, Uzbekistan states and Locations, List of states and locations in Uzbekistan)
+Title: "Uzbekistan states and Locations"
+Description: "List of states and locations in Uzbekistan"
+* insert OriginalCodeSystemDraft(states-cs)
 
 * #1703 "Andijon viloyati"
   * ^designation[0].language = #ru

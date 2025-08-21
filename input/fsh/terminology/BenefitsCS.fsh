@@ -1,6 +1,8 @@
 CodeSystem: BenefitsCS
 Id: benefits-cs
-* insert OriginalCodeSystemDraft(benefits-cs, Types of benefits, Types of benefits in Uzbekistan)
+Title: "Types of benefits"
+Description: "Types of benefits in Uzbekistan"
+* insert OriginalCodeSystemDraft(benefits-cs)
 * #regis0004.00001 "Bolalikdan nogironligi bo'lgan shaxslar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Инвалиды с детства"

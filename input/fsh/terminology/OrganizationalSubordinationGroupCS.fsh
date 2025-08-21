@@ -1,6 +1,8 @@
 CodeSystem: OrganizationalSubordinationGroupCS
 Id: organizational-subordination-group-cs
-* insert OriginalCodeSystemDraft(organizational-subordination-group-cs, Organizational subordination group, Defines the subordination group of the medical organization)
+Title: "Organizational subordination group"
+Description: "Defines the subordination group of the medical organization"
+* insert OriginalCodeSystemDraft(organizational-subordination-group-cs)
 * #I_1 "Respublika tassarufidagi muassasalari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учреждения, находящиеся под контролем республики"

@@ -1,6 +1,8 @@
 CodeSystem: RegionsCS
 Id: regions-cs
-* insert OriginalCodeSystemDraft(regions-cs, Uzbekistan Regions and Locations, List of regions and locations in Uzbekistan)
+Title: "Uzbekistan Regions and Locations"
+Description: "List of regions and locations in Uzbekistan"
+* insert OriginalCodeSystemDraft(regions-cs)
 
 * #1703202 "Oltinko'l tumani"
   * ^designation[0].language = #ru

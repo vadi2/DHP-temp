@@ -1,6 +1,8 @@
 CodeSystem: DisabilityCS
 Id: disability-cs
-* insert OriginalCodeSystemDraft(disability-cs, Disability levels, Disability levels in Uzbekistan)
+Title: "Disability levels"
+Description: "Disability levels in Uzbekistan"
+* insert OriginalCodeSystemDraft(disability-cs)
 * #regis0011.00001 "I guruh"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Группа I"

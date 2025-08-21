@@ -1,6 +1,8 @@
 CodeSystem: EncounterDischargeDispositionHomeCS
 Id: encounter-discharge-disposition-home-cs
-* insert OriginalCodeSystemDraft(encounter-discharge-disposition-home-cs, Encounter discharge disposition from died, Encounter discharge disposition home codes with English and Russian translations)  
+Title: "Encounter discharge disposition from died"
+Description: "Encounter discharge disposition home codes with English and Russian translations"
+* insert OriginalCodeSystemDraft(encounter-discharge-disposition-home-cs)  
 
 * #mserv-0004-00001 "Kasalxonaga yotqizildi"
   * ^designation[+].language = #en

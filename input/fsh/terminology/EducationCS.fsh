@@ -1,6 +1,8 @@
 CodeSystem: EducationCS
 Id: education-cs
-* insert OriginalCodeSystemDraft(education-cs, Education levels, Education levels in Uzbekistan)
+Title: "Education levels"
+Description: "Education levels in Uzbekistan"
+* insert OriginalCodeSystemDraft(education-cs)
 * #regis0005.00001 "Uyushmagan (0-3 yosh)"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Неорганизованное (0-3 лет)"

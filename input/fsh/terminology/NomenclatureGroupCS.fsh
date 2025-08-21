@@ -1,6 +1,8 @@
 CodeSystem: NomenclatureGroupCS
 Id: nomenclature-group-cs
-* insert OriginalCodeSystemDraft(nomenclature-group-cs, Nomenclature group, Defines a nomenclature group (grouping of institutions\))
+Title: "Nomenclature group"
+Description: "Defines a nomenclature group (grouping of institutions)"
+* insert OriginalCodeSystemDraft(nomenclature-group-cs)
 * #II_100 "Shifoxona muassasalari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Больничные помещения"

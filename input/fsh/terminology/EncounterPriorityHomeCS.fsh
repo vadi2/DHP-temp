@@ -1,6 +1,8 @@
 CodeSystem: EncounterPriorityHomeCS
 Id: encounter-priority-home-cs
-* insert OriginalCodeSystemDraft(encounter-priority-home-cs, Encounter priority home translations, Encounter priority home codes with English and Russian translations)
+Title: "Encounter priority home translations"
+Description: "Encounter priority home codes with English and Russian translations"
+* insert OriginalCodeSystemDraft(encounter-priority-home-cs)
 
 * #gencl-0002-00001 "Yuqori"
   * ^designation[0].language = #en

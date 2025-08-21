@@ -1,6 +1,8 @@
 CodeSystem: OrganizationalStructureCS
 Id: organizational-structure-cs
-* insert OriginalCodeSystemDraft(organizational-structure-cs, Organizational Structure, Defines the organizational structure of a medical institution)
+Title: "Organizational Structure"
+Description: "Defines the organizational structure of a medical institution"
+* insert OriginalCodeSystemDraft(organizational-structure-cs)
 * #110 "Ixtisoslashtirilgan ilmiy-amaliy tibbiyot markazi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Специализированный научно-практический медицинский центр"

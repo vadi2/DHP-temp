@@ -38,7 +38,7 @@ RuleSet: TaxIdentifier
   * use = #official
   * value 1..1 MS
 
-RuleSet: OriginalCodeSystemDraft(id, title, description)
+RuleSet: OriginalCodeSystemDraft(id)
 * ^url = "https://terminology.dhp.uz/CodeSystem/{id}"
 * ^status = #draft
 * ^content = #complete
@@ -46,10 +46,8 @@ RuleSet: OriginalCodeSystemDraft(id, title, description)
 * ^hierarchyMeaning = #is-a
 * ^language = #uz
 * ^experimental = true
-* ^title = "{title}"
-* ^description = "{description}"
 
-RuleSet: OriginalCodeSystem(id, title, description)
+RuleSet: OriginalCodeSystem(id)
 * ^url = "https://terminology.dhp.uz/CodeSystem/{id}"
 * ^status = #active
 * ^content = #complete
@@ -57,8 +55,6 @@ RuleSet: OriginalCodeSystem(id, title, description)
 * ^hierarchyMeaning = #is-a
 * ^language = #uz
 * ^experimental = false
-* ^title = "{title}"
-* ^description = "{description}"
 
 RuleSet: SupplementCodeSystemDraft(id, supplements, version)
 * ^url = "https://terminology.dhp.uz/CodeSystem/{id}"

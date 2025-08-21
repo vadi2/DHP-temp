@@ -1,6 +1,8 @@
 CodeSystem: OrganizationalServiceGroupCS
 Id: organizational-service-group-cs
-* insert OriginalCodeSystemDraft(organizational-service-group-cs, Organizational service group, Defines the organizational and service group of a medical institution)
+Title: "Organizational service group"
+Description: "Defines the organizational and service group of a medical institution"
+* insert OriginalCodeSystemDraft(organizational-service-group-cs)
 * #III_100 "Poliklinika bo'limi va statsionar bo'limi mavjud"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Имеется амбулаторное и стационарное отделение."
