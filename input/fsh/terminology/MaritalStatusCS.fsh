@@ -1,6 +1,6 @@
 CodeSystem: MaritalStatusCS
 Id: marital-status-cs
-* insert SupplementCodeSystemDraft(marital-status-cs, Marital status translations, Marital status supplement with Uzbek and Russian translations, $v3-MaritalStatus, 2.1.0)
+* insert SupplementCodeSystemDraft(marital-status-cs, Marital status translations, Marital status supplement with Uzbek and Russian translations, $v3-MaritalStatus, 3.0.0)
 * #M "Married"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Uylangan"

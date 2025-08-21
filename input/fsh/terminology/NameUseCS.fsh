@@ -18,7 +18,7 @@ Id: name-use-cs
   * ^designation[=].value = "vaqtincha"
 * #nickname
   * ^designation[0].language = #ru
-  * ^designation[=].value = "прозвище"
+  * ^designation[=].value = "псевдоним"
   * ^designation[+].language = #uz
   * ^designation[=].value = "taxallus"
 * #anonymous
@@ -35,4 +35,4 @@ Id: name-use-cs
   * ^designation[0].language = #ru
   * ^designation[=].value = "девичий"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "qizlikdagi ismi"
+  * ^designation[=].value = "nikoh uchun ism o'zgartirildi"
