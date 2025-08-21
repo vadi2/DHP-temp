@@ -1,6 +1,8 @@
 CodeSystem: ConsentActionCS
 Id: consent-action-cs
-* insert SupplementCodeSystemDraft(consent-action-cs, Possible consent actions translations, Possible consent actions supplement with translations in Uzbek and Russian, $consent-action, 5.0.0)
+Title: "Possible consent actions translations"
+Description: "Possible consent actions supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(consent-action-cs, $consent-action, 5.0.0)
 * #collect
   * ^designation[0].language = #ru
   * ^designation[=].value = "Собирать"

@@ -1,6 +1,8 @@
 CodeSystem: ContactPointSystemCS
 Id: contact-point-system-cs
-* insert SupplementCodeSystemDraft(contact-point-system-cs, Types of possible contact points translations, Types of possible contact points supplement with translations in Uzbek and Russian, $contact-point-system, 5.0.0)
+Title: "Types of possible contact points translations"
+Description: "Types of possible contact points supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(contact-point-system-cs, $contact-point-system, 5.0.0)
 * #phone
   * ^designation[0].language = #ru
   * ^designation[=].value = "телефон"

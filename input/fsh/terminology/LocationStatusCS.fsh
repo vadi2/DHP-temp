@@ -1,6 +1,8 @@
 CodeSystem: LocationStatusCS
 Id: location-status-cs
-* insert SupplementCodeSystemDraft(location-status-cs, Location status translations, Location status supplement with translations in Uzbek and Russian, $location-status, 5.0.0)
+Title: "Location status translations"
+Description: "Location status supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(location-status-cs, $location-status, 5.0.0)
 * #active
   * ^designation[0].language = #ru
   * ^designation[=].value = "активный"

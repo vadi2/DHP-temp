@@ -1,6 +1,8 @@
 CodeSystem: EncounterAdmitSourceCS
 Id: encounter-admit-source-cs
-* insert SupplementCodeSystem(encounter-admit-source-cs, Encounter admit source translations, Encounter admit source codes with English and Russian translations, $encounter-admit-source, 1.0.1)
+Title: "Encounter admit source translations"
+Description: "Encounter admit source codes with English and Russian translations"
+* insert SupplementCodeSystem(encounter-admit-source-cs, $encounter-admit-source, 1.0.1)
 
 * #hosp-trans
   * ^designation[0].language = #uz

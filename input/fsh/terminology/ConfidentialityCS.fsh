@@ -1,6 +1,8 @@
 CodeSystem: ConfidentialityCS
 Id: confidentiality-cs
-* insert SupplementCodeSystemDraft(confidentiality-cs, Confidentiality translations, Confidentiality supplement with translations in Uzbek and Russian, $v3-Confidentiality, 2.1.0)
+Title: "Confidentiality translations"
+Description: "Confidentiality supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(confidentiality-cs, $v3-Confidentiality, 2.1.0)
 
 * #N
 * #N ^designation[0].language = #ru

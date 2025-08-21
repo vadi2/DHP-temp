@@ -1,6 +1,8 @@
 CodeSystem: ActReasonCS
 Id: actreason-cs
-* insert SupplementCodeSystemDraft(actreason-cs, Act reason translations, Act reason supplement with translations in Uzbek and Russian, $v3-ActReason, 2.1.0)
+Title: "Act reason translations"
+Description: "Act reason supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(actreason-cs, $v3-ActReason, 2.1.0)
 * #RECORDMGT
   * ^designation[0].language = #ru
   * ^designation[=].value = "управление медицинскими записями"

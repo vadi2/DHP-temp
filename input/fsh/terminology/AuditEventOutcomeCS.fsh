@@ -1,6 +1,8 @@
 CodeSystem: AuditEventOutcomeCS
 Id: audit-event-outcome-cs
-* insert SupplementCodeSystemDraft(audit-event-outcome-cs, Audit event outcome translations, Audit event outcome supplement with translations in Uzbek and Russian, $issue-severity, 5.0.0)
+Title: "Audit event outcome translations"
+Description: "Audit event outcome supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(audit-event-outcome-cs, $issue-severity, 5.0.0)
 * #fatal
   * ^designation[0].language = #ru
   * ^designation[=].value = "Фатальная ошибка"

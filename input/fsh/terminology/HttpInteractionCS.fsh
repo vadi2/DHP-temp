@@ -1,6 +1,8 @@
 CodeSystem: HttpInteractionCS
 Id: http-interaction-cs
-* insert SupplementCodeSystemDraft(http-interaction-cs, HTTP interaction translations, HTTP interaction supplement with translations in Uzbek and Russian, $http-interaction, 5.0.0)
+Title: "HTTP interaction translations"
+Description: "HTTP interaction supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(http-interaction-cs, $http-interaction, 5.0.0)
 * #read
   * ^designation[0].language = #ru
   * ^designation[=].value = "Чтение"

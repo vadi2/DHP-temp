@@ -1,6 +1,8 @@
 CodeSystem: ConsentProvisionTypeCS
 Id: consent-provision-type-cs
-* insert SupplementCodeSystemDraft(consent-provision-type-cs, Consent provision type translations, Consent provision type supplement with translations in Uzbek and Russian, $consent-provision-type, 5.0.0)
+Title: "Consent provision type translations"
+Description: "Consent provision type supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(consent-provision-type-cs, $consent-provision-type, 5.0.0)
 * #deny
   * ^designation[0].language = #ru
   * ^designation[=].value = "Согласие отклоняется на действия, соответствующие этим правилам"

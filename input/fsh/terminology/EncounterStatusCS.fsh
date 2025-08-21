@@ -1,6 +1,8 @@
 CodeSystem: EncounterStatusCS
 Id: encounter-status-cs
-* insert SupplementCodeSystem(encounter-status-cs, Encounter status translations, Encounter status codes with English and Russian translations, $encounter-status, 5.0.0)
+Title: "Encounter status translations"
+Description: "Encounter status codes with English and Russian translations"
+* insert SupplementCodeSystem(encounter-status-cs, $encounter-status, 5.0.0)
 
 * #planned 
   * ^designation[0].language = #uz

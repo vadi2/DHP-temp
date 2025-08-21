@@ -1,6 +1,8 @@
 CodeSystem: ClinicalStatusCS
 Id: clinical-status-cs
-* insert SupplementCodeSystemDraft(clinical-status-cs, Clinical status translations, Clinical status supplement with translations in Uzbek and Russian, $condition-clinical, 3.0.0)
+Title: "Clinical status translations"
+Description: "Clinical status supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(clinical-status-cs, $condition-clinical, 3.0.0)
 
 * #active
   * ^designation[0].language = #ru
