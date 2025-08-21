@@ -2,12 +2,7 @@ CodeSystem: ParticipationTypeCS
 Id: participationtype-cs
 Title: "Participation type translations"
 Description: "Participation type supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/participationtype-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $v3-ParticipationType
-* ^version = "4.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(participationtype-cs, $v3-ParticipationType, 4.0.0)
 
 * #WIT
   * ^designation[0].language = #ru

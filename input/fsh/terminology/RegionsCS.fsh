@@ -2,13 +2,7 @@ CodeSystem: RegionsCS
 Id: regions-cs
 Title: "Uzbekistan Regions and Locations"
 Description: "List of regions and locations in Uzbekistan"
-* ^url = "https://terminology.dhp.uz/CodeSystem/regions-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystemDraft(regions-cs)
 
 * #1703202 "Oltinko'l tumani"
   * ^designation[0].language = #ru
