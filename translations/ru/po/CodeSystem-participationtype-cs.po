@@ -26,16 +26,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "cвидетель"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "guvoh"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "принимающий врач (в рамках этого визита)"
 msgstr ""
 

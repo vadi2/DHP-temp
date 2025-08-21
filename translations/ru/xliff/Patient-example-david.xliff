@@ -42,21 +42,21 @@
              <notes>
                <note id="n1">The name of the city, town, suburb, village or other community or delivery center.</note>
              </notes>
-        <source>1726</source>
+        <source>22070011</source>
         <target></target>
       </trans-unit>
       <trans-unit id="Patient-example-david" resname="Address.district">
              <notes>
                <note id="n1">The name of the administrative area (county).</note>
              </notes>
-        <source>1726280</source>
+        <source>1703206</source>
         <target></target>
       </trans-unit>
       <trans-unit id="Patient-example-david" resname="Address.country">
              <notes>
                <note id="n1">Country - a nation as commonly understood or generally accepted.</note>
              </notes>
-        <source>UZ</source>
+        <source>182</source>
         <target></target>
       </trans-unit>
       <trans-unit id="Patient-example-david" resname="Coding.display">

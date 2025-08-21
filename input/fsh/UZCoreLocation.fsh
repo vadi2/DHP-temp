@@ -28,6 +28,7 @@ Description: "Uzbekistan Core Location profile, used to define locations of heal
 
 * status and name and type and contact and address and position and managingOrganization and partOf and hoursOfOperation and endpoint MS
 * operationalStatus ^short = "Ward bed status (will be used in future)"
+
 * insert AddressRules
 * insert MultilingualName(локации)
 * status from LocationStatusVS (required)
@@ -69,9 +70,9 @@ Usage: #example
 * address
   * type = #postal
   * line = "Farobi, 383"
-  * city = "1726"
-  * district = "1726"
-  * country = "UZ"
+  * city = "22070022"
+  * district = "1735243"
+  * country = "182"
 * managingOrganization = Reference(Organization/example-organization)
 
 Instance: example-location-2
