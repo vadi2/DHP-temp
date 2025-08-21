@@ -1,6 +1,6 @@
 CodeSystem: ParticipationTypeCS
 Id: participationtype-cs
-* insert SupplementCodeSystemDraft(participationtype-cs, Participation type translations, Participation type supplement with translations in Uzbek and Russian, $v3-ParticipationType)
+* insert SupplementCodeSystemDraft(participationtype-cs, Participation type translations, Participation type supplement with translations in Uzbek and Russian, $v3-ParticipationType, 4.0.0)
 
 * #ADM
   * ^designation[0].language = #ru

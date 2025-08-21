@@ -1,6 +1,6 @@
 CodeSystem: EncounterStatusCS
 Id: encounter-status-cs
-* insert SupplementCodeSystemDraft(encounter-status-cs, Encounter status translations, Encounter status codes with English and Russian translations, $encounter-status)
+* insert SupplementCodeSystem(encounter-status-cs, Encounter status translations, Encounter status codes with English and Russian translations, $encounter-status, 1.0.0)
 
 * #planned 
   * ^designation[0].language = #uz

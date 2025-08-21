@@ -60,21 +60,23 @@ RuleSet: OriginalCodeSystem(id, title, description)
 * ^title = "{title}"
 * ^description = "{description}"
 
-RuleSet: SupplementCodeSystemDraft(id, title, description, supplements)
+RuleSet: SupplementCodeSystemDraft(id, title, description, supplements, version)
 * ^url = "https://terminology.dhp.uz/CodeSystem/{id}"
 * ^status = #draft
 * ^content = #supplement
 * ^supplements = {supplements}
+* ^version = "{version}"
 * ^language = #en
 * ^experimental = true
 * ^title = "{title}"
 * ^description = "{description}"
 
-RuleSet: SupplementCodeSystem(id, title, description, supplements)
+RuleSet: SupplementCodeSystem(id, title, description, supplements, version)
 * ^url = "https://terminology.dhp.uz/CodeSystem/{id}"
 * ^status = #active
 * ^content = #supplement
 * ^supplements = {supplements}
+* ^version = "{version}"
 * ^language = #en
 * ^experimental = false
 * ^title = "{title}"

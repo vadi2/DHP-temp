@@ -1,6 +1,6 @@
 CodeSystem: AddressTypeCS
 Id: address-type-cs
-* insert SupplementCodeSystemDraft(address-type-cs, Address type translations, Address type supplement with Uzbek and Russian translations, $address-type)
+* insert SupplementCodeSystemDraft(address-type-cs, Address type translations, Address type supplement with Uzbek and Russian translations, $address-type, 5.0.0)
 * #postal
   * ^designation[0].language = #ru
   * ^designation[=].value = "Почтовый адрес"

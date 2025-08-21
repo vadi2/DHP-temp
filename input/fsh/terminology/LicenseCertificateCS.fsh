@@ -1,6 +1,6 @@
 CodeSystem: LicenseCertificateCS
 Id: license-certificate-cs
-* insert SupplementCodeSystemDraft(license-certificate-cs, License\, certificate\, degree translations, License\, certificate\, degree supplement with translations in Uzbek and Russian, $qualification-codes)
+* insert SupplementCodeSystemDraft(license-certificate-cs, License\, certificate\, degree translations, License\, certificate\, degree supplement with translations in Uzbek and Russian, $qualification-codes, 5.0.0)
 * #PN
   * ^designation[0].language = #ru
   * ^designation[=].value = "Медсестра высшей квалификации"

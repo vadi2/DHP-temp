@@ -1,6 +1,6 @@
 CodeSystem: NameUseCS
 Id: name-use-cs
-* insert SupplementCodeSystemDraft(name-use-cs, possible name uses translations, Types of possible name uses supplement with translations in Uzbek and Russian, $name-use)
+* insert SupplementCodeSystemDraft(name-use-cs, possible name uses translations, Types of possible name uses supplement with translations in Uzbek and Russian, $name-use, 5.0.0)
 * #usual
   * ^designation[0].language = #ru
   * ^designation[=].value = "обычный"

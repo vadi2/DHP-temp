@@ -1,6 +1,6 @@
 CodeSystem: ConditionVerificationStatusCS
 Id: condition-verification-status-cs
-* insert SupplementCodeSystemDraft(condition-verification-status-cs, Verification status types, Verification status supplement with translations in Uzbek and Russian, $condition-verification-status)
+* insert SupplementCodeSystemDraft(condition-verification-status-cs, Verification status types, Verification status supplement with translations in Uzbek and Russian, $condition-verification-status, 5.0.0)
 
 * #unconfirmed 
   * ^designation[0].language = #ru

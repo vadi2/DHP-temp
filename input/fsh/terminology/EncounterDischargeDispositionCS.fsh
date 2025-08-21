@@ -1,6 +1,6 @@
 CodeSystem: EncounterDischargeDispositionCS
 Id: encounter-discharge-disposition-cs
-* insert SupplementCodeSystemDraft(encounter-discharge-disposition-cs, Encounter discharge disposition translations, Encounter discharge disposition codes with English and Russian translations, $encounter-discharge-disposition)
+* insert SupplementCodeSystem(encounter-discharge-disposition-cs, Encounter discharge disposition translations, Encounter discharge disposition codes with English and Russian translations, $encounter-discharge-disposition, 1.0.0)
 
 * #home 
   * ^designation[0].language = #uz
