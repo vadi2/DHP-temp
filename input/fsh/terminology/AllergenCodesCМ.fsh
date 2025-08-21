@@ -3,16 +3,16 @@ InstanceOf: ConceptMap
 Usage: #definition
 Title: "UZ local allergen codes → SNOMED CT"
 Description: "Maps local UZ allergen codes to SNOMED CT for AllergyIntolerance.code"
-/* * group[0].target = $sct
-* targetScope = Canonical(AllergenCodesVS)*/
 * url = "https://terminology.dhp.uz/ConceptMap/allergen-code-to-snomed"
 * name = "AllergenCodeToSnomed"
 * status = #draft
 * experimental = false
 * publisher = "Uzinfocom"
 
-* group.source = "https://terminology.dhp.uz/CodeSystem/allergen-codes-cs"
-* group.target = "http://snomed.info/sct"
+* group.source = Canonical(AllergenCodesCS)
+* sourceScopeCanonical = Canonical(AllergenCodesVS)
+* group.target = $sct
+* targetScopeCanonical = $sct-vs
 
 * group.element[+].code = #aller-0010-00001
 * group.element[=].display = "O't changlari"

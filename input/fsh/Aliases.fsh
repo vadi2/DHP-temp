@@ -61,6 +61,7 @@ Alias: $reason-use-cs = https://terminology.dhp.uz/CodeSystem/ReasonUse
 Alias: $reason-use-vs = https://terminology.dhp.uz/ValueSet/ReasonUseVS
 Alias: $sample-security-structural-codes = http://hl7.org/fhir/sample-security-structural-roles
 Alias: $sct = http://snomed.info/sct
+Alias: $sct-vs = http://snomed.info/sct?fhir_vs
 Alias: $security-source-type = http://terminology.hl7.org/CodeSystem/security-source-type
 Alias: $socieeconomic-observation = https://terminology.dhp.uz/StructureDefinition/uz-core-socioeconomic-observation
 Alias: $specialization = http://dhp.uz/CodeSystem/specialization
