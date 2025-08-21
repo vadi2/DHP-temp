@@ -1,0 +1,31 @@
+
+# A natural language name identifying the value set. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: ValueSet.name
+msgid "QuestionnaireSubjectTypeVS"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the value set.
+#: ValueSet.title
+msgid "Questionnaire subject types"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the value set.
+#: ValueSet.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.
+#: ValueSet.description
+msgid "Defines subject types codes for Questionnaire resources in Uzbekistan"
+msgstr ""
+
+# The match value may be either a code defined by the system, or a string value, which is a regex match on the literal string of the property value  (if the filter represents a property defined in CodeSystem) or of the system filter value (if the filter represents a filter defined in CodeSystem) when the operation is 'regex', or one of the values (true and false), when the operation is 'exists'.
+#: ValueSet.compose.include.filter.value
+msgid "resource"
+msgstr ""
+

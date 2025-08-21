@@ -56,7 +56,7 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "прозвище"
+msgid "псевдоним"
 msgstr ""
 
 # The text value for this designation.
@@ -91,6 +91,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "qizlikdagi ismi"
+msgid "nikoh uchun ism o‘zgartirildi"
 msgstr ""
 

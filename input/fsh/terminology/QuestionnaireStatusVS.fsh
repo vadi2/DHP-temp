@@ -6,6 +6,7 @@ Description: "Defines the publication status codes for Questionnaire resources"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(QuestionnaireStatusCS)
+* ^version = "5.0.0"
 
 * include codes from system $questionnaire-publication-status
 

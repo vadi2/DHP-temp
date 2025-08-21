@@ -74,7 +74,7 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "прозвище",
+          "source" : "псевдоним",
           "target" : null
         },
         {
@@ -116,7 +116,7 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "qizlikdagi ismi",
+          "source" : "nikoh uchun ism o‘zgartirildi",
           "target" : null
         }
       ]

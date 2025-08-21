@@ -84,7 +84,7 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>прозвище</source>
+        <source>псевдоним</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-name-use-cs" resname="CodeSystem.concept.designation.value">
@@ -133,7 +133,7 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>qizlikdagi ismi</source>
+        <source>nikoh uchun ism o‘zgartirildi</source>
         <target></target>
       </trans-unit>
     </body>

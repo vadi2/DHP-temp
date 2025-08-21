@@ -637,6 +637,20 @@
              <notes>
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
              </notes>
+        <source>Encounter participant type translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Encounter participant type codes with English and Russian translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
         <source>Encounter priority home translations</source>
         <target></target>
       </trans-unit>
@@ -1043,6 +1057,20 @@
              <notes>
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
              </notes>
+        <source>example-related-person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Example of a related person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
         <source>example-salim</source>
         <target></target>
       </trans-unit>
@@ -1428,6 +1456,34 @@
              <notes>
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
              </notes>
+        <source>Participant type translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Participant type supplement with translations in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Participation type translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Participation type supplement with translations in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
         <source>Possible consent actions</source>
         <target></target>
       </trans-unit>
@@ -1617,6 +1673,188 @@
              <notes>
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
              </notes>
+        <source>Questionnaire enable behavior</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Defines the enable behavior codes for Questionnaire resources</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire enable behavior code system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system that defines enable behavior codes for Questionnaire resources, supplemented with translations in Uzbek and Russian.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire enable operator</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Defines the enable operator codes for Questionnaire resources</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire enable operator code system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system that defines enable operator codes for Questionnaire resources, supplemented with translations in Uzbek and Russian.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire item type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Defines the item type codes for Questionnaire resources</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire item types code system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system that defines item types codes for Questionnaire resources, supplemented with translations in Uzbek and Russian.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire publication status</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Defines the publication status codes for Questionnaire resources</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire publication status code system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system that defines publication status codes for Questionnaire resources, supplemented with translations in Uzbek and Russian.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire subject type code system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system that defines subject types codes from Questionnaire resources, supplemented with translation in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire subject types</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Defines subject types codes for Questionnaire resources in Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Relationship Types</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Relationship types in Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Role class</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Provides localized definitions of role class codes in Uzbek and Russian.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Role code</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Specifies role codes used to define the function or position of a person or organization, with translations in Uzbek and Russian.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
         <source>Sample security structural roles</source>
         <target></target>
       </trans-unit>
@@ -1625,6 +1863,20 @@
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
         <source>Sample security structural roles with translations in Uzbek and Russian, used in DHP as actual codes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Secondary Contact Role Definitions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Provides additional contact role codes with translations in Uzbek and Russian for use in specific contexts or implementations.</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
@@ -1716,6 +1968,34 @@
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
              </notes>
         <source>tashkent-diseases-hospital</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Telecom use</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Telecom use type supplement with translation in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Telecom usu</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Telecom use types in Uzbekistan</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
@@ -2038,6 +2318,34 @@
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
         <source>Uzbekistan Core Provenance Profile, used to digitally sign documents via myID</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core Questionnaire</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>UZ Core Questionnaire profile adapted from the Questionnaire resource for the Uzbekistan healthcare context.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core Related Person</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Uzbekistan Core Related Person profile, used to represent related person information</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
