@@ -1,13 +1,6 @@
 CodeSystem: AuditEventActionCS
 Id: audit-event-action-cs
-Title: "Audit event action translations"
-Description: "Audit event action supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/audit-event-action-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $audit-event-action
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(audit-event-action-cs, Audit event action translations, Audit event action supplement with translations in Uzbek and Russian, $audit-event-action)
 * #C
   * ^designation[0].language = #ru
   * ^designation[=].value = "Создать"

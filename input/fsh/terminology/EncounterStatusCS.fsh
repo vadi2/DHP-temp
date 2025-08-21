@@ -1,13 +1,6 @@
 CodeSystem: EncounterStatusCS
 Id: encounter-status-cs
-Title: "Encounter status translations"
-Description: "Encounter status codes with English and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-status-cs"
-* ^experimental = true
-* ^status = #active
-* ^content = #supplement
-* ^supplements = $encounter-status
-* ^language = #en
+* insert SupplementCodeSystem(encounter-status-cs, Encounter status translations, Encounter status codes with English and Russian translations, $encounter-status)
 
 * #planned 
   * ^designation[0].language = #uz

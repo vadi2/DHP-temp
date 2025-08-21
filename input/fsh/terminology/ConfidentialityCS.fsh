@@ -1,13 +1,6 @@
 CodeSystem: ConfidentialityCS
 Id: confidentiality-cs
-Title: "Confidentiality translations"
-Description: "Confidentiality supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/confidentiality-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $v3-Confidentiality
-* ^version = "2.1.0"
-* ^language = #en
+* insert SupplementCodeSystem(confidentiality-cs, Confidentiality translations, Confidentiality supplement with translations in Uzbek and Russian, $v3-Confidentiality)
 
 * #N
 * #N ^designation[0].language = #ru

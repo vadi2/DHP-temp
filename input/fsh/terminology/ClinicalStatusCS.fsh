@@ -1,13 +1,6 @@
 CodeSystem: ClinicalStatusCS
 Id: clinical-status-cs
-Title: "Clinical status translations"
-Description: "Clinical status supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/clinical-status-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $condition-clinical
-* ^version = "3.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(clinical-status-cs, Clinical status translations, Clinical status supplement with translations in Uzbek and Russian, $condition-clinical)
 
 * #active
   * ^designation[0].language = #ru

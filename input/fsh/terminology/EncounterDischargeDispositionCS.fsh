@@ -1,13 +1,6 @@
 CodeSystem: EncounterDischargeDispositionCS
 Id: encounter-discharge-disposition-cs
-Title: "Encounter discharge disposition translations"
-Description: "Encounter discharge disposition codes with English and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-discharge-disposition-cs"
-* ^experimental = true
-* ^status = #active
-* ^content = #supplement
-* ^supplements = $encounter-discharge-disposition
-* ^language = #en
+* insert SupplementCodeSystem(encounter-discharge-disposition-cs, Encounter discharge disposition translations, Encounter discharge disposition codes with English and Russian translations, $encounter-discharge-disposition)
 
 * #home 
   * ^designation[0].language = #uz

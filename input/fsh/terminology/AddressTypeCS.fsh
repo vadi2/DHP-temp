@@ -1,13 +1,6 @@
 CodeSystem: AddressTypeCS
 Id: address-type-cs
-Title: "Address type translations"
-Description: "Address type supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/address-type-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $address-type
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(address-type-cs, Address type translations, Address type supplement with Uzbek and Russian translations, $address-type)
 * #postal
   * ^designation[0].language = #ru
   * ^designation[=].value = "Почтовый адрес"

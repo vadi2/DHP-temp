@@ -1,12 +1,6 @@
 CodeSystem: MaritalStatusCS
 Id: marital-status-cs
-Title: "Marital status translations"
-Description: "Marital status supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/marital-status-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $v3-MaritalStatus
-* ^language = #en
+* insert SupplementCodeSystem(marital-status-cs, Marital status translations, Marital status supplement with Uzbek and Russian translations, $v3-MaritalStatus)
 * #M "Married"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Uylangan"

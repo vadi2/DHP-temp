@@ -48,3 +48,13 @@ RuleSet: OriginalCodeSystem(id, title, description)
 * ^experimental = true
 * ^title = "{title}"
 * ^description = "{description}"
+
+RuleSet: SupplementCodeSystem(id, title, description, supplements)
+* ^url = "https://terminology.dhp.uz/CodeSystem/{id}"
+* ^status = #draft
+* ^content = #supplement
+* ^supplements = {supplements}
+* ^language = #en
+* ^experimental = true
+* ^title = "{title}"
+* ^description = "{description}"

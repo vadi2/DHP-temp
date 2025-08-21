@@ -1,13 +1,6 @@
 CodeSystem: ActCodeCS
 Id: actcode-cs
-Title: "Act code translations"
-Description: "Act code supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/actcode-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $v3-ActCode
-* ^version = "2.1.0"
-* ^language = #en
+* insert SupplementCodeSystem(actcode-cs, Act code translations, Act code supplement with translations in Uzbek and Russian, $v3-ActCode)
 * #ETH
   * ^designation[0].language = #ru
   * ^designation[=].value = "чувствительность информации о злоупотреблении психоактивными веществами"

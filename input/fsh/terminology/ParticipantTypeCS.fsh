@@ -1,13 +1,6 @@
 CodeSystem: ParticipantTypeCS
 Id: participanttype-cs
-Title: "Participant type translations"
-Description: "Participant type supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/participanttype-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $participant-type
-* ^version = "0.5.0"
-* ^language = #en
+* insert SupplementCodeSystem(participanttype-cs, Participant type translations, Participant type supplement with translations in Uzbek and Russian, $participant-type)
 
 * #translator
   * ^designation[0].language = #ru

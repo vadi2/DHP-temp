@@ -1,13 +1,6 @@
 CodeSystem: IdentifierUseCS
 Id: identifier-use-cs
-Title: "possible identifier uses translations"
-Description: "Types of possible identifier uses supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/identifier-use-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $identifier-use
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(identifier-use-cs, possible identifier uses translations, Types of possible identifier uses supplement with translations in Uzbek and Russian, $identifier-use)
 * #usual
   * ^designation[0].language = #ru
   * ^designation[=].value = "обычный"

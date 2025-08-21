@@ -1,13 +1,6 @@
 CodeSystem: SampleSecurityStructuralRolesCS
 Id: sample-security-structural-roles-cs
-Title: "Sample security structural roles"
-Description: "Sample security structural roles with translations in Uzbek and Russian, used in DHP as actual codes"
-* ^url = "https://terminology.dhp.uz/CodeSystem/sample-security-structural-roles-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $sample-security-structural-codes
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(sample-security-structural-roles-cs, Sample security structural roles, Sample security structural roles with translations in Uzbek and Russian\, used in DHP as actual codes, $sample-security-structural-codes)
 * #regulated-health-professionals
   * ^designation[0].language = #ru
   * ^designation[=].value = "Регулируемые специалисты здравоохранения"

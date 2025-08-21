@@ -1,13 +1,6 @@
 CodeSystem: ConsentActionCS
 Id: consent-action-cs
-Title: "Possible consent actions translations"
-Description: "Possible consent actions supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/consent-action-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $consent-action
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(consent-action-cs, Possible consent actions translations, Possible consent actions supplement with translations in Uzbek and Russian, $consent-action)
 * #collect
   * ^designation[0].language = #ru
   * ^designation[=].value = "Собирать"

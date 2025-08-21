@@ -1,13 +1,6 @@
 CodeSystem: LicenseCertificateCS
 Id: license-certificate-cs
-Title: "License, certificate, degree translations"
-Description: "License, certificate, degree supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/license-certificate-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $qualification-codes
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(license-certificate-cs, License\, certificate\, degree translations, License\, certificate\, degree supplement with translations in Uzbek and Russian, $qualification-codes)
 * #PN
   * ^designation[0].language = #ru
   * ^designation[=].value = "Медсестра высшей квалификации"

@@ -1,13 +1,6 @@
 CodeSystem: AuditEventOutcomeCS
 Id: audit-event-outcome-cs
-Title: "Audit event outcome translations"
-Description: "Audit event outcome supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/audit-event-outcome-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $issue-severity
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(audit-event-outcome-cs, Audit event outcome translations, Audit event outcome supplement with translations in Uzbek and Russian, $issue-severity)
 * #fatal
   * ^designation[0].language = #ru
   * ^designation[=].value = "Фатальная ошибка"

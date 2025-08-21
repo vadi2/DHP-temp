@@ -1,12 +1,6 @@
 CodeSystem: NullFlavorCS
 Id: null-flavor-cs
-Title: "Null Flavor translations"
-Description: "Null Flavor supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/null-flavor-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $v3-NullFlavor
-* ^language = #en
+* insert SupplementCodeSystem(null-flavor-cs, Null Flavor translations, Null Flavor supplement with Uzbek and Russian translations, $v3-NullFlavor)
 * #UNK "Unknown"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Noma'lum"

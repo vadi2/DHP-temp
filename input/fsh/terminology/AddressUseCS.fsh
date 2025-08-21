@@ -1,13 +1,6 @@
 CodeSystem: AddressUseCS
 Id: address-use-cs
-Title: "address registration translations"
-Description: "Types of address registration supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/address-use-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $address-use
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(address-use-cs, address registration translations, Types of address registration supplement with translations in Uzbek and Russian, $address-use)
 * #home
   * ^designation[0].language = #ru
   * ^designation[=].value = "Адрес прописки"

@@ -1,13 +1,6 @@
 CodeSystem: ConditionVerificationStatusCS
 Id: condition-verification-status-cs
-Title: "Verification status types"
-Description: "Verification status supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/condition-verification-status-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $condition-verification-status
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(condition-verification-status-cs, Verification status types, Verification status supplement with translations in Uzbek and Russian, $condition-verification-status)
 
 * #unconfirmed 
   * ^designation[0].language = #ru
