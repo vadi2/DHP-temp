@@ -4,6 +4,7 @@ Title: "Encounter subject status translations"
 Description: "Encounter subject status codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-subject-status-cs"
 * ^experimental = true
+* ^status = #active
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
 * ^language = #uz

@@ -71,9 +71,9 @@ Usage: #example
   * use = #temp
   * type = #physical
   * line = "mahallasi Dilobod, Katortol ko'chasi, 9-uy, 15-xonadon"
-  * city = "1726"
-  * district = "1726"
-  * country = "UZ"
+  * city = "22070033"
+  * district = "1703217"
+  * country = "182"
 * photo
   * url = "http://example.org/photos/practitioner.jpg"
   * size = 1024

@@ -1,12 +1,22 @@
 RuleSet: AddressRules
 * address MS
-  * type and use and line and city and district and country and period MS
-  * type from AddressTypeVS (required)
-  * use from AddressUseVS (required)
+  * type and use and text and line and city and district and state and country and period MS
+  * type from AddressTypeVS (required) 
+  * use from AddressUseVS (required) 
   * use ^short = "Type of address, home | temp"
-  * country from ISO3166_2_UZ (required)
-  * district from regions-vs (required)
-  * city from regions-vs (required)
+  * country from CountriesDigitalMVDVS (required) 
+  * district from RegionsVS (required)
+  * state from StateVS (required) 
+  * city from MahallaVS (required)
+
+  * text ^short = "Текстовая часть адреса, предоставляемая ГЦП. Название махалли, улицы,  номер дома, номер квартиры"
+  * line ^short = "Текстовае название улицы, предоставляемое ГЦП"
+  * district ^short = "Код pайона или города"
+  * state ^short = "Код области"
+  * city ^short = "Код махалли (сход граждан)"
+  * country ^short = "Код страны"
+  * period ^short = "Период времени, когда адрес использовался/используется"
+  
 
 RuleSet: MultilingualName(entityType)
 * name 1..1 MS
