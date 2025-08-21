@@ -5,9 +5,18 @@ RuleSet: AddressRules
   * use from AddressUseVS (required) 
   * use ^short = "Type of address, home | temp"
   * country from CountriesDigitalMVDVS (required) 
-  * district from RegionsVS (required) 
+  * district from RegionsVS (required)
   * state from StateVS (required) 
-  * city from MahallaVS (required) 
+  * city from MahallaVS (required)
+
+  * text ^short = "Текстовая часть адреса, предоставляемая ГЦП. Название махалли, улицы,  номер дома, номер квартиры"
+  * line ^short = "Текстовае название улицы, предоставляемое ГЦП"
+  * district ^short = "Код pайона или города"
+  * state ^short = "Код области"
+  * city ^short = "Код махалли (сход граждан)"
+  * country ^short = "Код страны"
+  * period ^short = "Период времени, когда адрес использовался/используется"
+  
 
 RuleSet: MultilingualName(entityType)
 * name 1..1 MS
