@@ -2,10 +2,7 @@ CodeSystem: FhirTypesCS
 Id: fhir-types-cs
 Title: "All FHIR Types"
 Description: "One of the types defined as part of this version of FHIR with Uzbek and Russian translations."
-* ^url = "https://terminology.dhp.uz/CodeSystem/fhir-types-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $fhir-types
+* insert SupplementCodeSystem(fhir-types-cs, $fhir-types, 5.0.0)
 * #Account "A financial tool for tracking value accrued for a particular purpose. In the healthcare field, used to track charges for a patient, cost centers, etc."
   * ^designation[0].language = #ru
   * ^designation[=].value = "Финансовый инструмент для отслеживания стоимости, накопленной для определенной цели. В сфере здравоохранения используется для отслеживания расходов на пациента, центров затрат и т. д."

@@ -1,13 +1,8 @@
 CodeSystem: IdentifierTypeCS
 Id: identifier-type-cs
-Title: "possible identifiers translations"
+Title: "Possible identifiers translations"
 Description: "Types of possible identifiers supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/identifier-type-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $identifier-type
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(identifier-type-cs, $identifier-type, 5.0.0)
 * #PPN
   * ^designation[0].language = #ru
   * ^designation[=].value = "Серия и номер паспорта"

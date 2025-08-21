@@ -2,12 +2,7 @@ CodeSystem: HttpInteractionCS
 Id: http-interaction-cs
 Title: "HTTP interaction translations"
 Description: "HTTP interaction supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/http-interaction-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $http-interaction
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(http-interaction-cs, $http-interaction, 5.0.0)
 * #read
   * ^designation[0].language = #ru
   * ^designation[=].value = "Чтение"
