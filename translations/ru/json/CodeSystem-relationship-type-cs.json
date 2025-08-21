@@ -1,5 +1,5 @@
 {
-  "id" : "CodeSystem-identifier-type-cs",
+  "id" : "CodeSystem-relationship-type-cs",
   "baseLang" : "en",
   "languages" : [
     {
@@ -8,13 +8,13 @@
         {
           "id" : "CodeSystem.name",
           "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
-          "source" : "IdentifierTypeCS",
+          "source" : "RelationshipTypeCS",
           "target" : null
         },
         {
           "id" : "CodeSystem.title",
           "context" : "A short, descriptive, user-friendly title for the code system.",
-          "source" : "Possible identifiers translations",
+          "source" : "Relationship Types",
           "target" : null
         },
         {
@@ -32,163 +32,169 @@
         {
           "id" : "CodeSystem.description",
           "context" : "A free text natural language description of the code system from a consumer's perspective.",
-          "source" : "Types of possible identifiers supplement with translations in Uzbek and Russian",
+          "source" : "Relationship types in Uzbekistan",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "guvoh",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Серия и номер паспорта",
+          "source" : "cвидетель",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Seriya va pasport raqami",
+          "source" : "witness",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "notarius",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Серия и номер свидетельства о рождении",
+          "source" : "нотариус",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Tug'ilganlik haqidagi guvohnomaning seriyasi va raqami",
+          "source" : "notary public",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "favqulodda kontakt",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Серия и номер водительского удостоверения",
+          "source" : "экстренный контакт",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Haydovchilik guvohnomasi seriyasi va raqami",
+          "source" : "emergency contact",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "yaqin qarindosh",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Серия и номер дипломатического паспорта",
+          "source" : "ближайший родственник",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Diplomatik pasport seriyasi va raqami",
+          "source" : "next of kin",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "xodim",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Номер медицинской карты",
+          "source" : "сотрудник",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Tibbiy karta raqami",
+          "source" : "employee",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "ish beruvchi",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Серия и номер военного билета",
+          "source" : "работодатель",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Harbiy guvohnomaning seriyasi va raqami",
+          "source" : "employer",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "boshqa",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Номер, присваиваемый человеку, находящемуся в заключении",
+          "source" : "другой",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qamoqqa olingan shaxsga berilgan raqam",
+          "source" : "other",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "noma’lum",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Номер медицинской лицензии",
+          "source" : "неизвестный",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Tibbiy litsenziya raqami",
+          "source" : "unknown",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "tarjimon",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Номер работодателя",
+          "source" : "устный переводчик",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ish beruvchi raqami",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Налоговый идентификационный номер",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Soliq identifikatsiya raqami",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Регистрационный номер донора",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Donorning ro'yxatga olish raqami",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Идентификатор доступа",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Kirish identifikatori",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Универсальный идентификатор устройства",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Universal qurilma identifikatori",
+          "source" : "interpreter",
           "target" : null
         }
       ]

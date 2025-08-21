@@ -1,12 +1,12 @@
 
 # A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.
 #: CodeSystem.name
-msgid "ParticipantTypeCS"
+msgid "ContactRole2CS"
 msgstr ""
 
 # A short, descriptive, user-friendly title for the code system.
 #: CodeSystem.title
-msgid "Participant type translations"
+msgid "Secondary Contact Role Definitions"
 msgstr ""
 
 # The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
@@ -21,26 +21,36 @@ msgstr ""
 
 # A free text natural language description of the code system from a consumer's perspective.
 #: CodeSystem.description
-msgid "Participant type supplement with translations in Uzbek and Russian"
+msgid "Provides additional contact role codes with translations in Uzbek and Russian for use in specific contexts or implementations."
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "переводчик"
+msgid "работодатель"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "tarjimon"
+msgid "ish beruvchi"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Экстренный контакт"
+msgid "другой"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "favqulodda aloqa"
+msgid "boshqa"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "неизвестный"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "noma'lum"
 msgstr ""
 

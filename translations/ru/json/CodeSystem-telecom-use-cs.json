@@ -1,5 +1,5 @@
 {
-  "id" : "CodeSystem-address-use-cs",
+  "id" : "CodeSystem-telecom-use-cs",
   "baseLang" : "en",
   "languages" : [
     {
@@ -8,13 +8,13 @@
         {
           "id" : "CodeSystem.name",
           "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
-          "source" : "AddressUseCS",
+          "source" : "TelecomUseCS",
           "target" : null
         },
         {
           "id" : "CodeSystem.title",
           "context" : "A short, descriptive, user-friendly title for the code system.",
-          "source" : "Address registration translations",
+          "source" : "Telecom use",
           "target" : null
         },
         {
@@ -32,31 +32,67 @@
         {
           "id" : "CodeSystem.description",
           "context" : "A free text natural language description of the code system from a consumer's perspective.",
-          "source" : "Types of address registration supplement with translations in Uzbek and Russian",
+          "source" : "Telecom use type supplement with translation in Uzbek and Russian",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Адрес прописки",
+          "source" : "дом",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ro'yxatdan o'tish manzili",
+          "source" : "uy",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Адрес проживания",
+          "source" : "работа",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yashash manzili",
+          "source" : "work",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "временный",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "vaqtincha",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "старый",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "old",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "мобильный",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "mobil",
           "target" : null
         }
       ]

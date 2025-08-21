@@ -196,9 +196,9 @@ Description: "Maps local UZ allergen codes to SNOMED CT for AllergyIntolerance.c
 
 * group.element[+].code = #aller-0010-00337
 * group.element[=].display = "Kimyoviy modda allergiyasi"
-* group.element[=].target[+].code = #294954003
+* group.element[=].target[+].code = #441900009
 * group.element[=].target[=].display = "Allergy to chemical substance"
-* group.element[=].target[=].relationship = #equivalent
+* group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00338
 * group.element[=].display = "Kosmetikaga allergiya"
@@ -256,9 +256,9 @@ Description: "Maps local UZ allergen codes to SNOMED CT for AllergyIntolerance.c
 
 * group.element[+].code = #aller-0010-00075
 * group.element[=].display = "Ombor kanasi"
-* group.element[=].target[+].code = #798291000000103
+* group.element[=].target[+].code = #84073006
 * group.element[=].target[=].display = "Storage mite"
-* group.element[=].target[=].relationship = #equivalent
+* group.element[=].target[=].relationship = #source-is-narrower-than-target
 
 * group.element[+].code = #aller-0010-00343
 * group.element[=].display = "Analgetikka allergik reaksiya"
