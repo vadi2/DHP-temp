@@ -2,12 +2,7 @@ CodeSystem: DicomDCMCS
 Id: dicom-dcs-cs
 Title: "DICOM Controlled Terminology Definitions"
 Description: "DICOM Controlled Terminology Definitions supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/dicom-dcs-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $dicom-dcm
-* ^language = #en
-* ^version = "2023.1.20230123"
+* insert SupplementCodeSystemDraft(dicom-dcs-cs, $dicom-dcm, 2023.1.20230123)
 
 * #110100
   * ^designation[0].language = #ru

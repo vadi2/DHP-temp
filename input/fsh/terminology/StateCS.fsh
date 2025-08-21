@@ -2,13 +2,7 @@ CodeSystem: StateCS
 Id: states-cs
 Title: "Uzbekistan states and Locations"
 Description: "List of states and locations in Uzbekistan"
-* ^url = "https://terminology.dhp.uz/CodeSystem/states-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystemDraft(states-cs)
 
 * #1703 "Andijon viloyati"
   * ^designation[0].language = #ru

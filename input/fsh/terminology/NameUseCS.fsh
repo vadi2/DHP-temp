@@ -1,13 +1,8 @@
 CodeSystem: NameUseCS
 Id: name-use-cs
-Title: "possible name uses translations"
+Title: "Possible name uses translations"
 Description: "Types of possible name uses supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/name-use-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $name-use
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(name-use-cs, $name-use, 5.0.0)
 * #usual
   * ^designation[0].language = #ru
   * ^designation[=].value = "обычный"
@@ -42,4 +37,4 @@ Description: "Types of possible name uses supplement with translations in Uzbek 
   * ^designation[0].language = #ru
   * ^designation[=].value = "девичий"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "nikoh uchun ism o‘zgartirildi"
+  * ^designation[=].value = "nikoh uchun ism o'zgartirildi"
