@@ -16,16 +16,16 @@ msgstr ""
 
 # The name of the city, town, suburb, village or other community or delivery center.
 #: Address.city
-msgid "1726"
+msgid "22070022"
 msgstr ""
 
 # The name of the administrative area (county).
 #: Address.district
-msgid "1726"
+msgid "1735243"
 msgstr ""
 
 # Country - a nation as commonly understood or generally accepted.
 #: Address.country
-msgid "UZ"
+msgid "182"
 msgstr ""
 

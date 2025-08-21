@@ -4,6 +4,7 @@ Title: "Encounter priority translations"
 Description: "Encounter priority codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-priority-cs"
 * ^experimental = true
+* ^status = #active
 * ^content = #supplement
 * ^supplements = $v3ActPriority
 * ^language = #en

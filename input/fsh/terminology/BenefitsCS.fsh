@@ -2,6 +2,7 @@ CodeSystem: BenefitsCS
 Id: benefits-cs
 Title: "Types of benefits"
 Description: "Types of benefits in Uzbekistan"
+* ^url = "https://terminology.dhp.uz/CodeSystem/benefits-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
