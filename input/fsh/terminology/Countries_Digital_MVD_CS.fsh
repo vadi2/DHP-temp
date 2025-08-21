@@ -1,14 +1,6 @@
 CodeSystem: CountriesDigitalMVDCS
 Id: countries-digital-mvd-cs
-Title: "Countries digital MVD translations"
-Description: "Countries digital MVD codes with translations in Russian and English"
-* ^url = "https://terminology.dhp.uz/CodeSystem/countries-digital-mvd-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystem(countries-digital-mvd-cs, Countries digital MVD translations, Countries digital MVD codes with translations in Russian and English)
 
 * #0 "AVSTRIYA"
   * ^designation[0].language = #ru

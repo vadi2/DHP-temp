@@ -1,14 +1,6 @@
 CodeSystem: DiagnosisTypeCS
 Id: diagnosis-type-cs
-Title: "Diagnosis Types"
-Description: "Diagnosis types in Uzbekistan"
-* ^url = "https://terminology.dhp.uz/CodeSystem/diagnosis-type-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystem(diagnosis-type-cs, Diagnosis Types, Diagnosis types in Uzbekistan)
 * #gencl-0001-00001 "Yo'naltiruvchi muassasaning tashxisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Диагноз направившего учреждения"

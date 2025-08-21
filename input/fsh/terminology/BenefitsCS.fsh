@@ -1,14 +1,6 @@
 CodeSystem: BenefitsCS
 Id: benefits-cs
-Title: "Types of benefits"
-Description: "Types of benefits in Uzbekistan"
-* ^url = "https://terminology.dhp.uz/CodeSystem/benefits-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystem(benefits-cs, Types of benefits, Types of benefits in Uzbekistan)
 * #regis0004.00001 "Bolalikdan nogironligi bo'lgan shaxslar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Инвалиды с детства"

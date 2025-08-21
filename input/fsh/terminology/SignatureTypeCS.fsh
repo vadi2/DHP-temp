@@ -1,16 +1,6 @@
 CodeSystem: SignatureTypeCS
 Id: signature-type-cs
-Title: "Signature Type"
-Description: "Defines the possible Provenance signature types."
-* ^url = "https://terminology.dhp.uz/CodeSystem/signature-type-cs"
-* ^version = "1.0.0"
-* ^status = #active
-* ^experimental = false
-* ^date = "2025-05-23"
-* ^publisher = "Ministry of Health of Uzbekistan"
-* ^content = #complete
-* ^language = #uz
-* ^caseSensitive = true
+* insert OriginalCodeSystem(signature-type-cs, Signature Type, Defines the possible Provenance signature types.)
 * #biometricAuth "biometrik autentifikatsiya"
   * ^designation[0].language = #ru
   * ^designation[=].value = "биометрическая аутентификация"

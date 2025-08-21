@@ -1,16 +1,6 @@
 CodeSystem: OrganizationalSubordinationInstitutionCS
 Id: organizational-subordination-institution-cs
-Title: "Organizational subordination institution"
-Description: "Defines the type of medical organizations without forming a legal entity"
-* ^url = "https://terminology.dhp.uz/CodeSystem/organizational-subordination-institution-cs"
-* ^version = "1.0.0"
-* ^status = #active
-* ^experimental = false
-* ^date = "2025-02-24"
-* ^publisher = "Example Healthcare Authority"
-* ^content = #complete
-* ^language = #uz
-* ^caseSensitive = true
+* insert OriginalCodeSystem(organizational-subordination-institution-cs, Organizational subordination institution, Defines the type of medical organizations without forming a legal entity)
 * #STIR-I_10 "Ko'p tarmokli markaziy poliklinika"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Филиал центральной поликлиники"

@@ -1,14 +1,6 @@
 CodeSystem: EncounterPriorityHomeCS
 Id: encounter-priority-home-cs
-Title: "Encounter priority home translations"
-Description: "Encounter priority home codes with English and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-priority-home-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystem(encounter-priority-home-cs, Encounter priority home translations, Encounter priority home codes with English and Russian translations)
 
 * #gencl-0002-00001 "Yuqori"
   * ^designation[0].language = #en

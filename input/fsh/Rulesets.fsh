@@ -37,3 +37,14 @@ RuleSet: TaxIdentifier
   * type = $identifier-type#TAX "Tax ID number"
   * use = #official
   * value 1..1 MS
+
+RuleSet: OriginalCodeSystem(id, title, description)
+* ^url = "https://terminology.dhp.uz/CodeSystem/{id}"
+* ^status = #draft
+* ^content = #complete
+* ^caseSensitive = true
+* ^hierarchyMeaning = #is-a
+* ^language = #uz
+* ^experimental = true
+* ^title = "{title}"
+* ^description = "{description}"

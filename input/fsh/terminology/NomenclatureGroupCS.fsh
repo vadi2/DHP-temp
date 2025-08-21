@@ -1,16 +1,6 @@
 CodeSystem: NomenclatureGroupCS
 Id: nomenclature-group-cs
-Title: "Nomenclature group"
-Description: "Defines a nomenclature group (grouping of institutions)"
-* ^url = "https://terminology.dhp.uz/CodeSystem/nomenclature-group-cs"
-* ^version = "1.0.0"
-* ^status = #active
-* ^experimental = true
-* ^date = "2025-02-24"
-* ^publisher = "Uzinfocom"
-* ^content = #complete
-* ^language = #uz
-* ^caseSensitive = true
+* insert OriginalCodeSystem(nomenclature-group-cs, Nomenclature group, Defines a nomenclature group (grouping of institutions\))
 * #II_100 "Shifoxona muassasalari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Больничные помещения"

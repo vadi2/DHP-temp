@@ -1,14 +1,6 @@
 CodeSystem: MahallaCS
 Id: mahalla-cs
-Title: "Mahalla Codes and Names"
-Description: "Mahalla codes and names with translations in Russian and English"
-* ^url = "https://terminology.dhp.uz/CodeSystem/mahalla-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystem(mahalla-cs, Mahalla Codes and Names, Mahalla codes and names with translations in Russian and English)
 
 * #17150085 "Uzumzor MFY"
   * ^designation[0].language = #ru
