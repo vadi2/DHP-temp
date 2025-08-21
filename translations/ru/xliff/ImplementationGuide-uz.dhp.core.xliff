@@ -70,20 +70,6 @@
              <notes>
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
              </notes>
-        <source>Additional codesystem for ISO 3166-2 to add 'stateless'</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Additional codesystem for ISO 3166-2 for DHP, adding the 'stateless' code</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
         <source>address registration translations</source>
         <target></target>
       </trans-unit>
@@ -393,6 +379,20 @@
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
         <source>Consent State Codes supplement with translations in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Countries digital MVD translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Countries digital MVD codes with translations in Russian and English</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
@@ -1141,48 +1141,6 @@
              <notes>
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
              </notes>
-        <source>ISO 3166 2 character codes in Uzbek and Russian</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Defines Uzbek and Russian translations for ISO 3166 2 character codes</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>ISO 3166 part 1 2-letter codes for citizenship purposes</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>Defines Uzbek and Russian translations for ISO 3166 part 1 2-letter codes for citizenship purposes in Uzbek and Russian</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
-        <source>ISO 3166-1 two-letter translations</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
-             <notes>
-               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
-             </notes>
-        <source>ISO 3166-1 2-letter supplement with Uzbek and Russian translations</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
-             <notes>
-               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
-             </notes>
         <source>License, certificate, degree</source>
         <target></target>
       </trans-unit>
@@ -1275,6 +1233,34 @@
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
         <source>Naming system for unique identifiers assigned to location units such as branches, wards, and beds within healthcare facilities in the Uzbekistan Digital Health Platform</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Mahalla Codes and Names</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Mahalla codes and names with translations in Russian and English</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Mahallas translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Mahallas names with English and Russian translations</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
@@ -2268,6 +2254,20 @@
              <notes>
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
              </notes>
+        <source>Uzbekistan states and Locations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>List of states and locations in Uzbekistan</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
         <source>Verification status types</source>
         <target></target>
       </trans-unit>
@@ -2276,6 +2276,20 @@
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
         <source>Verification status supplement with translations in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>World countries name translations</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>World countries names with English and Russian translations</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.page.source[x]">

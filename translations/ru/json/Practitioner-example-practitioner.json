@@ -44,19 +44,19 @@
         {
           "id" : "Address.city",
           "context" : "The name of the city, town, suburb, village or other community or delivery center.",
-          "source" : "1726",
+          "source" : "22070033",
           "target" : null
         },
         {
           "id" : "Address.district",
           "context" : "The name of the administrative area (county).",
-          "source" : "1726",
+          "source" : "1703217",
           "target" : null
         },
         {
           "id" : "Address.country",
           "context" : "Country - a nation as commonly understood or generally accepted.",
-          "source" : "UZ",
+          "source" : "182",
           "target" : null
         },
         {

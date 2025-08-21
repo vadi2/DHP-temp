@@ -4,6 +4,7 @@ Title: "Admit source from home"
 Description: "Admit source home code for Admit Source ValueSet with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/admit-source-home-cs"
 * ^content = #complete
+* ^status = #active
 * ^caseSensitive = true
 * ^hierarchyMeaning = #is-a
 * ^language = #uz

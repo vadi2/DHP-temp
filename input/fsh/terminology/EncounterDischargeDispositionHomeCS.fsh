@@ -5,6 +5,7 @@ Description: "Encounter discharge disposition home codes with English and Russia
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-discharge-disposition-home-cs"
 * ^experimental = true
 * ^content = #complete
+* ^status = #active
 * ^caseSensitive = true
 * ^language = #uz
 * ^experimental = true  
