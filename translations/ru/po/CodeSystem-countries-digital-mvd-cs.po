@@ -1,12 +1,12 @@
 
 # A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.
 #: CodeSystem.name
-msgid "RegionsCS"
+msgid "CountriesDigitalMVDCS"
 msgstr ""
 
 # A short, descriptive, user-friendly title for the code system.
 #: CodeSystem.title
-msgid "Uzbekistan Regions and Locations"
+msgid "Countries digital MVD translations"
 msgstr ""
 
 # The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
@@ -21,3096 +21,3661 @@ msgstr ""
 
 # A free text natural language description of the code system from a consumer's perspective.
 #: CodeSystem.description
-msgid "List of regions and locations in Uzbekistan"
+msgid "Countries digital MVD codes with translations in Russian and English"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Oltinko'l tumani"
+msgid "AVSTRIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Алтынкульский район"
+msgid "АВСТРИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Altinkul district"
+msgid "AUSTRIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Andijon tumani"
+msgid "A‘ZERBAYJAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Андижанский район"
+msgid "АЗЕРБАЙДЖАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Andijan district"
+msgid "AZERBAIJAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Baliqchi tumani"
+msgid "JAZAIR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Балыкчинский район"
+msgid "АЛЖИР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Baliqchi district"
+msgid "ALGERIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bo'ston tumani"
+msgid "AMERIKALI SAMOA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бостонский район"
+msgid "АМЕРИКАНСКОЕ САМОА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Boston district"
+msgid "AMERICAN SAMOA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Buloqboshi tumani"
+msgid "ANTARKTIKA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Булокбошинский район"
+msgid "АНТАРКТИКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Buloqboshi district"
+msgid "ANTARCTIC"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Jalaquduq tumani"
+msgid "ANTIGUA HA‘M BARBUDA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Джалакудукский район"
+msgid "АНТИГУА И БАРБУДА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Jalaquduk district"
+msgid "ANTIGUA AND BARBUDA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Izboskan tumani"
+msgid "MISR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Избосканский район"
+msgid "ЕГИПЕТ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Izboskan district"
+msgid "EGYPT"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Ulug'nor tumani"
+msgid "ARGENTINA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Улугнорский район"
+msgid "АРГЕНТИНА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ulug'nor district"
+msgid "ARGENTINA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qo'rg'ontepa tumani"
+msgid "BARBADOS"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Коргонтепинский район"
+msgid "БАРБАДОС"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Korgontepa district"
+msgid "BARBADOS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Asaka tumani"
+msgid "BELIZ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Асакинский район"
+msgid "БЕЛИЗ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Asaka district"
+msgid "BELIZE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Marhamat tumani"
+msgid "BERMUD ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Мархаматский район"
+msgid "БЕРМУДСКИЕ ОСТРОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Marhamat district"
+msgid "BERMUDA ISLAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Shahrixon tumani"
+msgid "BOSNIYA HA‘M GERSEGOVINA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Шахриханский район"
+msgid "БОСНИЯ И ГЕРЦЕГОВИНА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Shahrikhan district"
+msgid "BOSNIYA AND GERCEGOVINA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Paxtaobod tumani"
+msgid "BRITANIYA VIRGINIYA ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Пахтаабадский район"
+msgid "ВИРГИНСКИЕ ОСТРОВА(БРИТАНСКИЕ)"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Pakhtaobod district"
+msgid "VIRGIN ISLANDS (BRITISH)"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Xo'jaobod tumani"
+msgid "BRUNEY-DORUSSALOM"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ходжаабадский район"
+msgid "БРУНЕЙ-ДАРУССАЛАМ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Khojaobod district"
+msgid "BRUNEI-DARUSSALAM"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Andijon shahri"
+msgid "BURKINA-FASO"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Андижан"
+msgid "БУРКИНА-ФАСО"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Andijan city"
+msgid "BURKINA-FASO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Xonobod shahri"
+msgid "LYUKSEMBURG"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Хонобад"
+msgid "ЛЮКСЕМБУРГ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Khonobod city"
+msgid "LUXEMBOURG"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Olot tumani"
+msgid "VENGRIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Олотский район"
+msgid "ВЕНГРИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Olot district"
+msgid "HUNGARY"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Buxoro tumani"
+msgid "VIRGINIYA ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бухарский район"
+msgid "ВИРГИНСКИЕ ОСТРОВА(США)"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bukhara district"
+msgid "VIRGIN ISLANDS(USA)"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Vobkent tumani"
+msgid "URUGHA‘MY"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Вобкентский район"
+msgid "УРУГВАЙ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Vobkent district"
+msgid "URUGUAY"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "G'ijduvon tumani"
+msgid "SHIG‘IS TIMOR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Гиждувонский район"
+msgid "ВОСТОЧНЫЙ ТИМОР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Gijduvon district"
+msgid "EAST TIMOR"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Kogon tumani"
+msgid "GABON"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Когонский район"
+msgid "ГАБОН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kogon district"
+msgid "GABON"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qorako'l tumani"
+msgid "GVADELUPA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Каракольский район"
+msgid "ГВАДЕЛУПА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Qarakol district"
+msgid "GUADELOUPE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qorovulbozor tumani"
+msgid "GVINEYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Гаровулбазарский район"
+msgid "ГВИНЕЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Qarovulbazar district"
+msgid "GUINEA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Peshku tumani"
+msgid "ALMANIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Пешкунский район"
+msgid "ГЕРМАНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Peshku district"
+msgid "GERMANY"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Romitan tumani"
+msgid "GIBRALTAR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ромитанский район"
+msgid "ГИБРАЛТАР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Romitan district"
+msgid "GIBRALTAR"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Jondor tumani"
+msgid "GONKONG"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Джондорский район"
+msgid "ГОНКОНГ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Jondor district"
+msgid "HONG KONG"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Shofirkon tumani"
+msgid "BAXRAYN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Шофирконский район"
+msgid "БАХРЕЙН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Shofirkon district"
+msgid "BAHRAIN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Buxoro shahri"
+msgid "ISRAIL"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Бухара"
+msgid "ИЗРАИЛЬ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bukhara city"
+msgid "ISRAEL"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Kogon shahri"
+msgid "KAMBODJA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Каган"
+msgid "КАМБОДЖА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kogon city"
+msgid "CAMBODIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Arnasoy tumani"
+msgid "QATAR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Арнасойский район"
+msgid "КАТАР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Arnasoy district"
+msgid "QATAR"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Baxmal tumani"
+msgid "QUVAYT"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бахмальский район"
+msgid "КУВЕЙТ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bakhmal district"
+msgid "KUWAIT"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "G'allaorol tumani"
+msgid "VATIKAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Галлаорольский район"
+msgid "ВАТИКАН, ГОСУДАРСТВО-ГОРОД"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Gallaorol district"
+msgid "VATICAN CITY, STATE-CITY"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Sharof Rashidov tumani"
+msgid "GRENADA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Шароф Рашидовский район"
+msgid "ГРЕНАДА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Sharof Rashidov district"
+msgid "GRENADA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Do'stlik tumani"
+msgid "GRENLANDIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Дустликский район"
+msgid "ГРЕНЛАНДИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Dustlik district"
+msgid "GREENLAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Zomin tumani"
+msgid "GRETSIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Зоминский район"
+msgid "ГРЕЦИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Zomin district"
+msgid "GREECE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Zarbdor tumani"
+msgid "GUAM"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Зарбдорский район"
+msgid "ГУАМ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Zarbdor district"
+msgid "GUAM"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Mirzacho'l tumani"
+msgid "MADAGASKAR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Мирзачольский район"
+msgid "МАДАГАСКАР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Mirzachol district"
+msgid "MADAGASCAR"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Zafarobod tumani"
+msgid "SAN-TOME HA‘M PRINSIPI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Зафарабадский район"
+msgid "САН-ТОМЕ И ПРИНСИПИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Zafarobod district"
+msgid "SAO TOME AND PRINCIPE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Paxtakor tumani"
+msgid "SHRI-LANKA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Пахтакорский район"
+msgid "ШРИ-ЛАНКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Pakhtakor district"
+msgid "SHRI-LANK"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Forish tumani"
+msgid "DOMINIKAN RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Форишский район"
+msgid "ДОМИНИКАНСКАЯ РЕСПУБЛИКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Forish district"
+msgid "DOMINICAN REPUBLIC"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yangiobod tumani"
+msgid "BATIS SAXARA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Янгиабадский район"
+msgid "ЗАПАДНАЯ САХАРА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yangiabad district"
+msgid "WESTERN SAHARA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Jizzax shahri"
+msgid "IORDANIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Джизак"
+msgid "ИОРДАНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Jizzakh city"
+msgid "JORDAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "G'uzor tumani"
+msgid "IRAQ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Гузорский район"
+msgid "ИРАК"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Guzor district"
+msgid "IRAQ"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Dehqonobod tumani"
+msgid "IRLANDIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Дехканабадский район"
+msgid "ИРЛАНДИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Dehkanabad district"
+msgid "IRELAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qamashi tumani"
+msgid "IRAN ISLAM RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Камашинский район"
+msgid "ИСЛАМСКАЯ РЕСПУБЛИКА ИРАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Qamashi district"
+msgid "ISLAMIC REPUBLIC OF IRAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qarshi tumani"
+msgid "MAVRITANIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Каршинский район"
+msgid "МАВРИТАНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Karshi district"
+msgid "MAURITANIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Koson tumani"
+msgid "PAKISTAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Косонский район"
+msgid "ПАКИСТАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Koson district"
+msgid "PAKISTAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Kitob tumani"
+msgid "AWG‘ANISTAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Китобский район"
+msgid "АФГАНИСТАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kitob district"
+msgid "AFGHANISTAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Mirishkor tumani"
+msgid "ITALIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Миришкорский район"
+msgid "ИТАЛИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Mirishkor district"
+msgid "ITALY"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Muborak tumani"
+msgid "KANADA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Муборакский район"
+msgid "КАНАДА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Muborak district"
+msgid "CANADA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Nishon tumani"
+msgid "XITAY"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Нишонский район"
+msgid "КИТАЙ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Nishon district"
+msgid "CHINA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Kasbi tumani"
+msgid "ANDORRA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Касбийский район"
+msgid "АНДОРРА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kasbi district"
+msgid "ANDORRA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Ko‘kdala tumani"
+msgid "LIXTENSHTEYN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Кокдалинский район"
+msgid "ЛИХТЕНШТЕЙН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kokdala district"
+msgid "LIECHTENSTEIN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Chiroqchi tumani"
+msgid "MONAKO"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Чирокчинский район"
+msgid "МОНАКО"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Chiroqchi district"
+msgid "MONACO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Shahrisabz tumani"
+msgid "KOKOS ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Шахрисабзский район"
+msgid "КОКОСОВЫЕ ОСТРОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Shahrisabz district"
+msgid "COCOS ISLANDS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yakkabog' tumani"
+msgid "GAYANA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Яккабогский район"
+msgid "ГАЙАНА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yakkabog district"
+msgid "GUYANA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qarshi shahri"
+msgid "KOREYS XALQ DEMOKRATIK RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Карши"
+msgid "КОРЕЙСКАЯ НАРОДНО-ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Qarshi city"
+msgid "KOREAN DEMOCRATIC PEOPLES REPUBLIC"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Shahrisabz shahri"
+msgid "BELGIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Шахрисабз"
+msgid "БЕЛЬГИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Shahrisabz city"
+msgid "BELGIUM"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Konimex tumani"
+msgid "BUTAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Конимехский район"
+msgid "БУТАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Konimeh district"
+msgid "BHUTAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qiziltepa tumani"
+msgid "DANIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Кизилтепинский район"
+msgid "ДАНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kiziltepa district"
+msgid "DENMARK"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Navbahor tumani"
+msgid "ISPANIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Навбахорский район"
+msgid "ИСПАНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Navbahor district"
+msgid "SPAIN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Karmana tumani"
+msgid "LESOTO"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Карманинский район"
+msgid "ЛЕСОТО"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Karmana district"
+msgid "LESOTHO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Nurota tumani"
+msgid "MAROKKO"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Нуратинский район"
+msgid "МАРОККО"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Nurota district"
+msgid "MAROCCO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Tomdi tumani"
+msgid "NEPAL"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Томдинский район"
+msgid "НЕПАЛ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Tomdi district"
+msgid "NEPAL"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Uchquduq tumani"
+msgid "NIDERLAND"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Учкудукский район"
+msgid "НИДЕРЛАНДЫ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Uchkuduk district"
+msgid "NETHERLANDS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Xatirchi tumani"
+msgid "NORVEGIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Хатырчинский район"
+msgid "НОРВЕГИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Khatirchi district"
+msgid "NORWAY"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Navoiy shahri"
+msgid "SAUDIYA ARABISTANI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Навои"
+msgid "САУДОВСКАЯ АРАВИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Navoi city"
+msgid "SAUDI ARABIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Zarafshon shahri"
+msgid "SHA‘MZILEND"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Заравшан"
+msgid "СВАЗИЛЕНД"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Zarafshon city"
+msgid "SWAZILAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "G'ozg'on shahri"
+msgid "TAILAND"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Гозган"
+msgid "ТАИЛАНД"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Gozgan city"
+msgid "THAILAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Mingbuloq tumani"
+msgid "TONGA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Мингбулокский район"
+msgid "ТОНГА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Mingbulok district"
+msgid "TONGA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Kosonsoy tumani"
+msgid "SHVETSIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Косонсойский район"
+msgid "ШВЕЦИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kosonsoy district"
+msgid "SWEDEN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Namangan tumani"
+msgid "LAOS XALQ DEMOKRATIK RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Наманганский район"
+msgid "ЛАОССКАЯ НАРОДНО-ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Namangan district"
+msgid "LAO PEOPLES DEMOCRATIC REPUBLIC"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Norin tumani"
+msgid "LATVIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Норинский район"
+msgid "ЛАТВИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Norin district"
+msgid "LATVIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Pop tumani"
+msgid "LIVAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Папский район"
+msgid "ЛИВАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Pop district"
+msgid "LEBANON"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "To'raqo'rg'on tumani"
+msgid "LITVA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Туракурганский район"
+msgid "ЛИТВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Turakurgan district"
+msgid "LITHUANIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Uychi tumani"
+msgid "MAVRIKIY"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Уйчинский район"
+msgid "МАВРИКИЙ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Uychi district"
+msgid "MAURITIUS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Uchqo'rg'on tumani"
+msgid "MAKAO"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Учкурганский район"
+msgid "МАКАО"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Uchkurgan district"
+msgid "MAKAO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Chortoq tumani"
+msgid "MAKEDONIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Чортокский район"
+msgid "МАКЕДОНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Chortoq district"
+msgid "MACEDONIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Chust tumani"
+msgid "MALAYZIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Чустский район"
+msgid "МАЛАЙЗИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Chust district"
+msgid "MALAYSIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yangiqo'rg'on tumani"
+msgid "MALDIVI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Янгикурганский район"
+msgid "МАЛЬДИВЫ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yangikurgan district"
+msgid "MALDIVES"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Namangan shahri"
+msgid "MARTINIKA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Наманган"
+msgid "МАРТИНИКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Namangan city"
+msgid "MARTINIQUE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Oqdaryo tumani"
+msgid "MARSHAL ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Окдарьинский район"
+msgid "МАРШАЛЛОВЫ ОСТРОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Oqdaryo district"
+msgid "MARSHALL ISLANDS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bulung'ur tumani"
+msgid "MEKSIKA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Булунгурский район"
+msgid "МЕКСИКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bulungur district"
+msgid "MEXICO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Jomboy tumani"
+msgid "MANG‘OLISTAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Джомбойский район"
+msgid "МОНГОЛИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Jomboy district"
+msgid "MONGOLIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Ishtixon tumani"
+msgid "MONTSERRAT"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Иштиханский район"
+msgid "МОНТСЕРРАТ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ishtikhan district"
+msgid "MONTSERRAT"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Kattaqo'rg'on tumani"
+msgid "NAMIBIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Каттакурганский район"
+msgid "НАМИБИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kattakurgan district"
+msgid "NAMIBIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qo'shrabot tumani"
+msgid "ANGOLA XALQ RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Кошработский район"
+msgid "НАРОДНАЯ РЕСПУБЛИКА АНГОЛА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Koshrabot district"
+msgid "PEOPLES REPUBLIC ANGOLA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Narpay tumani"
+msgid "BANGLADESH"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Нарпайский район"
+msgid "БАНГЛАДЕШ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Narpay district"
+msgid "BANGLADESH"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Payariq tumani"
+msgid "BENIN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Паярикский район"
+msgid "БЕНИН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Payariq district"
+msgid "BENIN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Pastdarg'om tumani"
+msgid "VETNAM"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Пастдаргомский район"
+msgid "ВЬЕТНАМ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Pastdarg'om district"
+msgid "VIETNAM"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Paxtachi tumani"
+msgid "KONGO"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Пахтачинский район"
+msgid "КОНГО"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Pakhtachi district"
+msgid "CONGO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Samarqand tumani"
+msgid "MOZAMBIK"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Самаркандская область"
+msgid "МОЗАМБИК"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Samarkand district"
+msgid "MOZAMBIQUE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Nurobod tumani"
+msgid "NIDERLAND ANTIL ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Нуробадский район"
+msgid "НИДЕРЛАНДСКИЕ АНТИЛЬСКИЕ ОСТРОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Nurobad district"
+msgid "NETHERLAND ANTILLES"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Urgut tumani"
+msgid "NIUE"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ургутский район"
+msgid "НИУЭ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Urgut district"
+msgid "NIUE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Toyloq tumani"
+msgid "JAN‘A ZELANDIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Тойлакский район"
+msgid "НОВАЯ ЗЕЛАНДИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Toylaq district"
+msgid "NEW ZEALAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Samarqand shahri"
+msgid "JAN‘A KALEDONIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Самарканд"
+msgid "НОВАЯ КАЛЕДОНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Samarkand city"
+msgid "NEW CALEDONIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Kattaqo'rg'on shahri"
+msgid "NORFOLK ATAWI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Каттакурган"
+msgid "ОСТРОВ НОРФОЛК"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kattakurgan city"
+msgid "NORFOLK ISLAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Oltinsoy tumani"
+msgid "TANZANIYA BIRLESGEN RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Олтинсойский район"
+msgid "ОБЪЕДИНЕННАЯ РЕСПУБЛИКА ТАНЗАНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Oltinsoy district"
+msgid "UNITED REPUBLIC OF TANZANIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Angor tumani"
+msgid "BIRLESGEN ARAB AMIRLIKLERI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ангорский район"
+msgid "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Angor district"
+msgid "UNITED ARAB EMIRATES"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bandixon tumani"
+msgid "ARUBA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бандихонский район"
+msgid "АРУБА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bandikhon district"
+msgid "ARUBA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Boysun tumani"
+msgid "BUVE ATAWI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Байсунский район"
+msgid "ОСТРОВ БУВЕ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Boysun district"
+msgid "ISLAND BUVE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Muzrabot tumani"
+msgid "MEN ATAWI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Музработский район"
+msgid "ОСТРОВ МЭН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Muzrabot district"
+msgid "ISLE OF MAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Denov tumani"
+msgid "MUQA‘DDES ELENA ATAWI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Деновский район"
+msgid "ОСТРОВ СВЯТОЙ ЕЛЕНЫ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Denov district"
+msgid "SAINT HELENA ISLAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Jarqo'rg'on tumani"
+msgid "KAYMAN ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Жаркурганский район"
+msgid "КАЙМАНОВЫ ОСТРОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Zharkurgan district"
+msgid "CAYMAN ISLAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qumqo'rg'on tumani"
+msgid "KUKA ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Кумкурганский район"
+msgid "ОСТРОВА КУКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kumkurgan district"
+msgid "COOK ISLANDS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qiziriq tumani"
+msgid "UOLLIS HA‘M FUTUNA ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Кизирикский район"
+msgid "ОСТРОВА УОЛЛИС И ФУТУНА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kiziriq district"
+msgid "WALLIS AND FUTUNA ISLAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Sariosiyo tumani"
+msgid "PAPUA-JAN‘A GVINEYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Сариосийский район"
+msgid "ПАПУА-НОВАЯ ГВИНЕЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Sariosiyo district"
+msgid "PAPUA NEW GUINEA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Termiz tumani"
+msgid "PITKERN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Термезский район"
+msgid "ПИТКЭРН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Termez district"
+msgid "PITCAIRN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Uzun tumani"
+msgid "PORTUGALIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Узунский район"
+msgid "ПОРТУГАЛИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Uzun district"
+msgid "PORTUGAL"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Sherobod tumani"
+msgid "PUERTO-RIKO"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Шерабадский район"
+msgid "ПУЭРТО-РИКО"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Sherobod district"
+msgid "PUERTO RICO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Sho'rchi tumani"
+msgid "ALBANIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Шорчинский район"
+msgid "АЛБАНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Shorchi district"
+msgid "ALBANIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Termiz shahri"
+msgid "ARMENISTAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Термез"
+msgid "АРМЕНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Termez city"
+msgid "ARMENIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Oqoltin tumani"
+msgid "BELORUS"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Околтинский район"
+msgid "БЕЛАРУСЬ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Oqoltin district"
+msgid "BELARUS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Boyovut tumani"
+msgid "BOLGARIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бойовутский район"
+msgid "БОЛГАРИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Boyovut district"
+msgid "BULGARIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Sayxunobod tumani"
+msgid "BOLIVIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Сайхунабадский район"
+msgid "БОЛИВИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Saykhunabad district"
+msgid "BOLIVIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Guliston tumani"
+msgid "BOTSVANA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Гулистонский район"
+msgid "БОТСВАНА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Guliston district"
+msgid "BOTSWANA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Sardoba tumani"
+msgid "BURUNDI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Сардобинский район"
+msgid "БУРУНДИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Sardoba district"
+msgid "BURUNDI"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Mirzaobod tumani"
+msgid "HA‘MNUATU"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Мирзаабадский район"
+msgid "ВАНУАТУ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Mirzaabad district"
+msgid "VANUATU"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Sirdaryo tumani"
+msgid "VENESUELA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Сырдарьинский район"
+msgid "ВЕНЕСУЭЛА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Syrdaryo district"
+msgid "VENEZUELA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Xovos tumani"
+msgid "GAITI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ховосский район"
+msgid "ГАИТИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Xovos district"
+msgid "HAITI"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Guliston shahri"
+msgid "GAMBIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Гулистан"
+msgid "ГАМБИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Guliston city"
+msgid "GAMBIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Shirin shahri"
+msgid "GANA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Ширин"
+msgid "ГАНА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Shirin city"
+msgid "GHANA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yangiyer shahri"
+msgid "GVATEMALA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Янгиер"
+msgid "ГВАТЕМАЛА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yangiyer city"
+msgid "GUATEMALA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Uchtepa tumani"
+msgid "GVINEYA-BISAU"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Учтепинский район"
+msgid "ГВИНЕЯ-БИСАУ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Uchtepa district"
+msgid "GUINEA-BISSAU"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bektemir tumani"
+msgid "GONDURAS"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бектемирский район"
+msgid "ГОНДУРАС"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bektemir district"
+msgid "HONDURAS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yunusobod tumani"
+msgid "GRUZIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Юнусабадский район"
+msgid "ГРУЗИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yunusabad district"
+msgid "GEORGIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Mirzo Ulug'bek tumani"
+msgid "DJIBUTI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Мирзо-Улугбекский район"
+msgid "ДЖИБУТИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Mirzo Ulugbek district"
+msgid "DJIBOUTI"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Mirobod tumani"
+msgid "ZOIR RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Мирабадский район"
+msgid "РЕСПУБЛИКА ЗАИР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Mirobod district"
+msgid "REPUBLIC OF ZAIR"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Shayxontohur tumani"
+msgid "ZAMBIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Шайхонтохурский район"
+msgid "ЗАМБИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Shaykhontohur district"
+msgid "ZAMBIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Olmazor tumani"
+msgid "ZIMBABVE"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Алмазарский район"
+msgid "ЗИМБАБВЕ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Almazor district"
+msgid "ZIMBABWE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Sergeli tumani"
+msgid "HINDISTAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Сергелийский район"
+msgid "ИНДИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Sergeli district"
+msgid "INDIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yakkasaroy tumani"
+msgid "INDONEZIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Яккасарайский район"
+msgid "ИНДОНЕЗИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yakkasaroy district"
+msgid "INDONESIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yashnobod tumani"
+msgid "ISLANDIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Яшнабадский район"
+msgid "ИСЛАНДИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yashnobad district"
+msgid "ICELAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yangihayot tumani"
+msgid "IYEMEN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Янгихайотский район"
+msgid "ЙЕМЕН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yangihayot district"
+msgid "YEMEN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Chilonzor tumani"
+msgid "KABO-VERDE"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Чиланзарский район"
+msgid "КАБО-ВЕРДЕ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Chilonzor district"
+msgid "CAPE VERDE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Oqqo'rg'on tumani"
+msgid "QAZAG‘ISTAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Оккурганский район"
+msgid "КАЗАХСТАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Oqqorgan district"
+msgid "KAZAKHSTAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Ohangaron tumani"
+msgid "KAMERUN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ахангаронский район"
+msgid "КАМЕРУН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Akhangaron district"
+msgid "CAMEROON"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bekobod tumani"
+msgid "KENIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бекобадский район"
+msgid "КЕНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bekobod district"
+msgid "KENYA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bo'stonliq tumani"
+msgid "KIPR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бостонликский район"
+msgid "КИПР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bostonliq district"
+msgid "CYPRUS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bo'ka tumani"
+msgid "KIRIBATI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Букинский район"
+msgid "КИРИБАТИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Buka district"
+msgid "KIRIBATI"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Quyi Chirchiq tumani"
+msgid "KOLUMBIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Куйи-Чирчикский район"
+msgid "КОЛУМБИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kuyi Chirchik district"
+msgid "COLUMBIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Zangiota tumani"
+msgid "KOREYA RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Зангиотский район"
+msgid "РЕСПУБЛИКА КОРЕЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Zangiota district"
+msgid "REPUBLIC OF KOREA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yuqori Chirchiq tumani"
+msgid "KOSTA-RIKA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Юкори Чирчикский район"
+msgid "КОСТА-РИКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yukori Chirchik district"
+msgid "COSTA RICA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qibray tumani"
+msgid "KOT-D`IVUAR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Кибрайский район"
+msgid "КОТ-Д`ИВУАР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Qibray district"
+msgid "COTE DIVOIRE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Parkent tumani"
+msgid "KUBA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Паркентский район"
+msgid "КУБА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Parkent district"
+msgid "CUBA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Piskent tumani"
+msgid "QIRG‘IZISTAN RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Пскентский район"
+msgid "РЕСПУБЛИКА КЫРГЫЗСТАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Piskent district"
+msgid "QIRG‘IZISTON RESPUBLIKASI"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "O'rta Chirchiq tumani"
+msgid "LIBERIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Урта Чирчикский район"
+msgid "ЛИБЕРИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Orta Chirchik district"
+msgid "LIBERIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Chinoz tumani"
+msgid "MALAVI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Чиназский район"
+msgid "МАЛАВИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Chinoz district"
+msgid "MALAWI"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yangiyo'l tumani"
+msgid "MALI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Янгиюльский район"
+msgid "МАЛИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yangiyol district"
+msgid "MALI"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Toshkent tumani"
+msgid "MALTA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ташкентский район"
+msgid "МАЛЬТА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Tashkent district"
+msgid "MALTA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Nurafshon shahri"
+msgid "MOLDOVA RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Нурафшон"
+msgid "РЕСПУБЛИКА МОЛДОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Nurafshon city"
+msgid "REPUBLIC OF MOLDOVA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Olmaliq shahri"
+msgid "NAURU"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Алмалык"
+msgid "НАУРУ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Almalyk city"
+msgid "NAURU"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Angren shahri"
+msgid "NIGER"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Ангрен"
+msgid "НИГЕР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Angren city"
+msgid "NIGER"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bekobod shahri"
+msgid "NIKARAGUA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Бекабад"
+msgid "НИКАРАГУА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bekobod city"
+msgid "NICARAGUA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Ohangaron shahri"
+msgid "PALAU"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Ахангаран"
+msgid "ПАЛАУ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Akhangaron city"
+msgid "PALAU"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Chirchiq shahri"
+msgid "PANAMA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Чирчик"
+msgid "ПАНАМА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Chirchik city"
+msgid "PANAMA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yangiyo'l shahri"
+msgid "PARAGHA‘MY"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Янгиюль"
+msgid "ПАРАГВАЙ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yangiyol city"
+msgid "PARAGUAY"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Oltiariq tumani"
+msgid "PERU"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Олтиарикский район"
+msgid "ПЕРУ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Oltiarik district"
+msgid "PERU"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qo'shtepa tumani"
+msgid "POLSHA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Коштепинский район"
+msgid "ПОЛЬША"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Qoshtepa district"
+msgid "POLAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bag'dod tumani"
+msgid "RUMINIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Багдадский район"
+msgid "РУМЫНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Baghdad district"
+msgid "RUMANIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Buvayda tumani"
+msgid "SAN-MARINO"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бувайдинский район"
+msgid "САН-МАРИНО"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Buvayda district"
+msgid "SAN MARINO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Beshariq tumani"
+msgid "SEYSHEL ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бешарикский район"
+msgid "СЕЙШЕЛЬСКИЕ ОСТРОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Besharik district"
+msgid "SEYCHELLES"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Quva tumani"
+msgid "SENEGAL"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Кувинский район"
+msgid "СЕНЕГАЛ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Quva district"
+msgid "SENEGAL"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Uchko'prik tumani"
+msgid "SINGAPUR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Учкоприкский район"
+msgid "СИНГАПУР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Uchko'prik district"
+msgid "SINGAPORE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Rishton tumani"
+msgid "SLOVENIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Риштонский район"
+msgid "СЛОВЕНИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Rishton district"
+msgid "SLOVENIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "So'x tumani"
+msgid "SUDAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Сох район"
+msgid "СУДАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Sokh district"
+msgid "SUDAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Toshloq tumani"
+msgid "SURINAM"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ташлокский район"
+msgid "СУРИНАМ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Tashlok district"
+msgid "SURINAM"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "O'zbekiston tumani"
+msgid "SERRA-LEONE"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Узбекистанский район"
+msgid "СЬЕРРА-ЛЕОНЕ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Uzbekistan district"
+msgid "SIERRA LEONE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Farg'ona tumani"
+msgid "TAJIKISTAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ферганский район"
+msgid "ТАДЖИКИСТАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Fergana district"
+msgid "TAJIKISTAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Dang'ara tumani"
+msgid "TRINIDAD HA‘M TOBAGO"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Дангаринский район"
+msgid "ТРИНИДАД И ТОБАГО"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Dangara district"
+msgid "TRINIDAD AND TOBAGO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Furqat tumani"
+msgid "UGANDA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Фуркатский район"
+msgid "УГАНДА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Furqat district"
+msgid "UGANDA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yozyovon tumani"
+msgid "O‘ZBEKISTAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Езёванский район"
+msgid "УЗБЕКИСТАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yozyovan district"
+msgid "UZBEKISTAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Farg'ona shahri"
+msgid "FIDJI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Фергана"
+msgid "ФИДЖИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Fergana city"
+msgid "FIJI"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qo'qon shahri"
+msgid "FILIPPIN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Кокон"
+msgid "ФИЛИППИНЫ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Qoqon city"
+msgid "PHILIPPINES"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Quvasoy shahri"
+msgid "CHILI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Кувасай"
+msgid "ЧИЛИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Quvasoy city"
+msgid "CHILE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Marg'ilon shahri"
+msgid "EKVADOR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Маргилан"
+msgid "ЭКВАДОР"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Margilan city"
+msgid "ECUADOR"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bog'ot tumani"
+msgid "GVINEYA EKVATORIAL RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Боготский район"
+msgid "РЕСПУБЛИКА ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bogot district"
+msgid "REPUBLIC OF EQUATORIAL GUINEA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Gurlan tumani"
+msgid "REYUNON"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Гурланский район"
+msgid "РЕЮНЬОН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Gurlan district"
+msgid "REUNION"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qo'shko'pir tumani"
+msgid "ROSSIYA FEDERATSIYASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Кошкопирский район"
+msgid "РОССИЙСКАЯ ФЕДЕРАЦИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Qoshkopir district"
+msgid "RUSSIAN FEDERATION"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Urganch tumani"
+msgid "RUANDA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ургенчский район"
+msgid "РУАНДА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Urgench district"
+msgid "RUANDA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Hazorasp tumani"
+msgid "SAMOA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Азораспский район"
+msgid "САМОА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Hazorasp district"
+msgid "SAMOA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Tuproqqal'a tumani"
+msgid "SENT-VINSENT HA‘M GRENADINLAR"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Тупроккалинский район"
+msgid "СЕНТ-ВИНСЕНТ И ГРЕНАДИНЫ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Tuproqqala district"
+msgid "SAINT VINCENT AND GRENADINES"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Xonqa tumani"
+msgid "SENT-PER HA‘M MIKELON"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Хонкинский район"
+msgid "СЕНТ-ПЬЕР И МИКЕЛОН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Khonka district"
+msgid "SAINT PIERRE AND MIQUELON"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Xiva tumani"
+msgid "SENT-LYUSIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Хивинский район"
+msgid "СЕНТ-ЛЮСИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Khiva district"
+msgid "SAINT LUCIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Shovot tumani"
+msgid "SIRIYA ARAB RESPUBLIKASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Шовотский район"
+msgid "СИРИЙСКАЯ АРАБСКАЯ РЕСПУБЛИКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Shovot district"
+msgid "SYRIAN ARAB REPUBLIC"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yangiariq tumani"
+msgid "SLOHA‘MKIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Янгиарикский район"
+msgid "СЛОВАКИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yangiariq district"
+msgid "SLOVAKIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Yangibozor tumani"
+msgid "BAGAM ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Янгибазорский район"
+msgid "БАГАМСКИЕ ОСТРОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Yangibozor district"
+msgid "BAHAMAS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Urganch shahri"
+msgid "DOMINIKA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Ургенч"
+msgid "ДОМИНИКА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Urgench city"
+msgid "DOMINICA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Xiva shahri"
+msgid "ARQA MARIAN ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Хива"
+msgid "СЕВЕРНЫЕ МАРИАНСКИЕ ОСТРОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Khiva city"
+msgid "NORTHERN MARIANA ISLANDS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Amudaryo tumani"
+msgid "AMERIKA QOSPA SHTATLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Амударьинский район"
+msgid "СОЕДИНЁННЫЕ ШТАТЫ АМЕРИКИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Amu Darya district"
+msgid "UNITED STATES OF AMERICA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Beruniy tumani"
+msgid "SOLOMONOV ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Берунийский район"
+msgid "СОЛОМОНОВЫ ОСТРОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Beruni district"
+msgid "SOLOMON ISLANDS"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Bo'zatov tumani"
+msgid "SOMALI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Бозатовский район"
+msgid "СОМАЛИ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Bozatov district"
+msgid "SOMALIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qorao'zak tumani"
+msgid "LIVIYA ARAB JAMAXIRIYASI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Караозакский район"
+msgid "ЛИВИЙСКАЯ АРАБСКАЯ ДЖАМАХИРИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Qaraozak district"
+msgid "LIBYAN ARAB JAMAHIRIYA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Kegeyli tumani"
+msgid "MYANMA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Кегейлинский район"
+msgid "МЬЯНМА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kegeyli district"
+msgid "MYANMAR"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qo'ng'irot tumani"
+msgid "YUGOSLAVIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Конгиротский район"
+msgid "ЮГОСЛАВИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Kongirot district"
+msgid "YUGOSLAVIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Qonliko'l tumani"
+msgid "OMAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Конликольский район"
+msgid "ОМАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Qonlikol district"
+msgid "OMAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Mo'ynoq tumani"
+msgid "TAYHA‘MN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Муйнакский район"
+msgid "ТАЙВАНЬ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Muynaq district"
+msgid "TAIWAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Nukus tumani"
+msgid "TERKS HA‘M KAYKOS ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Нукусский район"
+msgid "ОСТРОВА ТЕРКС И КАЙКОС"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Nukus district"
+msgid "TERKS AND KAYKOS ISLAND"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Taxiatosh tumani"
+msgid "TOGO"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Таксиаташский район"
+msgid "ТОГО"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Taxiatash district"
+msgid "TOGO"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Taxtako'pir tumani"
+msgid "TOKELAU"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Тахткопирский район"
+msgid "ТОКЕЛАУ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Takhtkopir district"
+msgid "TOKELAU"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "To'rtko'l tumani"
+msgid "TUHA‘MLU"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Торткульский район"
+msgid "ТУВАЛУ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Tortkul district"
+msgid "TUVALU"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Xo'jayli tumani"
+msgid "TUNIS"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ходжалинский район"
+msgid "ТУНИС"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Khojaly district"
+msgid "TUNISIA"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Chimboy tumani"
+msgid "TURKIYA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Чимбойский район"
+msgid "ТУРЦИЯ"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Chimboy district"
+msgid "TURKEY"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Shumanay tumani"
+msgid "TURKMENISTAN"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Шуманайский район"
+msgid "ТУРКМЕНИСТАН"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Shumanay district"
+msgid "TURKMENISTAN"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Ellikqal’a tumani"
+msgid "UKRAINA"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Элликкалинский район"
+msgid "УКРАИНА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Ellikkal’a district"
+msgid "UKRAINE"
 msgstr ""
 
 # A human readable string that is the recommended default way to present this concept to a user.
 #: CodeSystem.concept.display
-msgid "Nukus shahri"
+msgid "FARER ATAWLARI"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "город Нукус"
+msgid "ФАРЕРСКИЕ ОСТРОВА"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Nukus city"
+msgid "FAEROE ISLAND"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "KOMOR ATAWLARI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "КОМОРСКИЕ ОСТРОВА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "COMOROS ISLAND"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "BRAZILIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "БРАЗИЛИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "BRAZIL"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "NIGERIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "НИГЕРИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "NIGERIA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "MIKRONEZIYA FEDERATIV SHTATLARI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "МИКРОНЕЗИЯ, ФЕДЕРАТИВНЫЕ ШТАТЫ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "MICRONESIA, FEDERATIVE STATES"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "SENT-KITS HA‘M NEVIS"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "СЕНТ-КИТС И НЕВИС"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "SAINT KITTS AND NEVIS"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "FINLYANDIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ФИНЛЯНДИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "FINLAND"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "FOLKLEND ATAWLARI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ФОЛКЛЕНДСКИЕ ОСТРОВА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "FALKLAND ISLANDS"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "FRANSIYA POLINEZIYASI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "FRENCH POLYNESIA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "FRANSIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ФРАНЦИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "FRANCE"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "ORAYLIQ AFRIKA RESPUBLIKASI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ЦЕНТРАЛЬНОАФРИКАНСКАЯ РЕСПУБЛИКА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "CENTRAL AFRICAN REPUBLIC"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "SHVEYSARIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ШВЕЙЦАРИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "SWITZERLAND"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "SHPITSBERGEN HA‘M YAN-MAYEN ATAWLARI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ОСТРОВА ШПИЦБЕРГЕН И ЯН-МАЙЕН"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "SPITSBERGEN AND JAN MAYEN ISLANDS"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "ERITREYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ЭРИТРЕЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ERITREA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "ESTONIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ЭСТОНИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ESTONIA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "EFIOPIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ЭФИОПИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ETHIOPIA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "YAMAYKA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ЯМАЙКА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "JAMAICA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "YAPONIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ЯПОНИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "JAPAN"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "QIRG‘IZSTAN"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "КЫРГЫЗСТАН"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "KYRGYZSTAN"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "AVSTRALIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "АВСТРАЛИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "AUSTRALIA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "ANGILYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "АНГИЛЬЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ANGUILLA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "NEYTRALNAYA ZONA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "НЕЙТРАЛЬНАЯ ЗОНА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "NEUTRAL ZONE"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "SALVADOR"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "САЛЬВАДОР"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "SALVADOR"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "FRANSIYA GVIANASI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ФРАНЦУЗСКАЯ ГВИАНА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "FRENCH GUIANA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "PUQARALIG‘I BOLMAG‘AN SHAXS"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ЛИЦО БЕЗ ГРАЖДАНСТВА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "STATELESS PERSON"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "CHEXIYA RESPUBLIKASI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ЧЕШСКАЯ РЕСПУБЛИКА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "CZECH REPUBLIC"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "MAYOTTA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "МАЙОТТА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "MAYOTTE"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "PALESTINA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ПАЛЕСТИНА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "PALESTINA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "QUBLA AFRIKA RESPUBLIKASI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ЮЖНО-АФРИКАНСКАЯ РЕСПУБЛИКА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "SOUTH AFRICA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "XARHA‘MTIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ХОРВАТИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "XARVATIYA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "KONGO DEMOKRATIK RESPUBLIKASI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "КОНГО ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "CONGO DEMOCRATIC REPUBLIC"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "ULLI BRITANIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ВЕЛИКОБРИТАНИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "GREAT BRITAIN"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "XERD HA‘M MAKDONALD ATAWLARI"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ОСТРОВ ХЕРД И ОСТРОВА МАКДОНАЛЬД"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "HERD ISLAND AND MCDONALD ISLANDS"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "SERBIYA HA‘M CHERNOGORIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "СЕРБИЯ И ЧЕРНОГОРИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "SERBY AND MONTENEGRO"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "CHAD"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ЧАД"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "CHAD"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "ABHAZIYA"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "АБХАЗИЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "ABHAZIYA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "КАБО ВЕРДЕ РЕСПУБЛИКА"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "КАБО ВЕРДЕ РЕСПУБЛИКА"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "НАРОДНО ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА КОРЕЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "НАРОДНО ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА КОРЕЯ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Fuqaroliksiz"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Без гражданства"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Stateless"
 msgstr ""
 

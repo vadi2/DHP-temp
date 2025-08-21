@@ -1,5 +1,5 @@
 {
-  "id" : "CodeSystem-regions-cs",
+  "id" : "CodeSystem-countries-digital-mvd-cs",
   "baseLang" : "en",
   "languages" : [
     {
@@ -8,13 +8,13 @@
         {
           "id" : "CodeSystem.name",
           "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
-          "source" : "RegionsCS",
+          "source" : "CountriesDigitalMVDCS",
           "target" : null
         },
         {
           "id" : "CodeSystem.title",
           "context" : "A short, descriptive, user-friendly title for the code system.",
-          "source" : "Uzbekistan Regions and Locations",
+          "source" : "Countries digital MVD translations",
           "target" : null
         },
         {
@@ -32,3715 +32,4393 @@
         {
           "id" : "CodeSystem.description",
           "context" : "A free text natural language description of the code system from a consumer's perspective.",
-          "source" : "List of regions and locations in Uzbekistan",
+          "source" : "Countries digital MVD codes with translations in Russian and English",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Oltinko'l tumani",
+          "source" : "AVSTRIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Алтынкульский район",
+          "source" : "АВСТРИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Altinkul district",
+          "source" : "AUSTRIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Andijon tumani",
+          "source" : "A‘ZERBAYJAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Андижанский район",
+          "source" : "АЗЕРБАЙДЖАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Andijan district",
+          "source" : "AZERBAIJAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Baliqchi tumani",
+          "source" : "JAZAIR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Балыкчинский район",
+          "source" : "АЛЖИР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Baliqchi district",
+          "source" : "ALGERIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bo'ston tumani",
+          "source" : "AMERIKALI SAMOA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бостонский район",
+          "source" : "АМЕРИКАНСКОЕ САМОА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Boston district",
+          "source" : "AMERICAN SAMOA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Buloqboshi tumani",
+          "source" : "ANTARKTIKA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Булокбошинский район",
+          "source" : "АНТАРКТИКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Buloqboshi district",
+          "source" : "ANTARCTIC",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Jalaquduq tumani",
+          "source" : "ANTIGUA HA‘M BARBUDA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Джалакудукский район",
+          "source" : "АНТИГУА И БАРБУДА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Jalaquduk district",
+          "source" : "ANTIGUA AND BARBUDA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Izboskan tumani",
+          "source" : "MISR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Избосканский район",
+          "source" : "ЕГИПЕТ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Izboskan district",
+          "source" : "EGYPT",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Ulug'nor tumani",
+          "source" : "ARGENTINA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Улугнорский район",
+          "source" : "АРГЕНТИНА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ulug'nor district",
+          "source" : "ARGENTINA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qo'rg'ontepa tumani",
+          "source" : "BARBADOS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Коргонтепинский район",
+          "source" : "БАРБАДОС",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Korgontepa district",
+          "source" : "BARBADOS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Asaka tumani",
+          "source" : "BELIZ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Асакинский район",
+          "source" : "БЕЛИЗ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Asaka district",
+          "source" : "BELIZE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Marhamat tumani",
+          "source" : "BERMUD ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Мархаматский район",
+          "source" : "БЕРМУДСКИЕ ОСТРОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Marhamat district",
+          "source" : "BERMUDA ISLAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Shahrixon tumani",
+          "source" : "BOSNIYA HA‘M GERSEGOVINA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Шахриханский район",
+          "source" : "БОСНИЯ И ГЕРЦЕГОВИНА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Shahrikhan district",
+          "source" : "BOSNIYA AND GERCEGOVINA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Paxtaobod tumani",
+          "source" : "BRITANIYA VIRGINIYA ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пахтаабадский район",
+          "source" : "ВИРГИНСКИЕ ОСТРОВА(БРИТАНСКИЕ)",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Pakhtaobod district",
+          "source" : "VIRGIN ISLANDS (BRITISH)",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Xo'jaobod tumani",
+          "source" : "BRUNEY-DORUSSALOM",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ходжаабадский район",
+          "source" : "БРУНЕЙ-ДАРУССАЛАМ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Khojaobod district",
+          "source" : "BRUNEI-DARUSSALAM",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Andijon shahri",
+          "source" : "BURKINA-FASO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Андижан",
+          "source" : "БУРКИНА-ФАСО",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Andijan city",
+          "source" : "BURKINA-FASO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Xonobod shahri",
+          "source" : "LYUKSEMBURG",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Хонобад",
+          "source" : "ЛЮКСЕМБУРГ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Khonobod city",
+          "source" : "LUXEMBOURG",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Olot tumani",
+          "source" : "VENGRIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Олотский район",
+          "source" : "ВЕНГРИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Olot district",
+          "source" : "HUNGARY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Buxoro tumani",
+          "source" : "VIRGINIYA ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бухарский район",
+          "source" : "ВИРГИНСКИЕ ОСТРОВА(США)",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bukhara district",
+          "source" : "VIRGIN ISLANDS(USA)",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Vobkent tumani",
+          "source" : "URUGHA‘MY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Вобкентский район",
+          "source" : "УРУГВАЙ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Vobkent district",
+          "source" : "URUGUAY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "G'ijduvon tumani",
+          "source" : "SHIG‘IS TIMOR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Гиждувонский район",
+          "source" : "ВОСТОЧНЫЙ ТИМОР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Gijduvon district",
+          "source" : "EAST TIMOR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Kogon tumani",
+          "source" : "GABON",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Когонский район",
+          "source" : "ГАБОН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kogon district",
+          "source" : "GABON",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qorako'l tumani",
+          "source" : "GVADELUPA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Каракольский район",
+          "source" : "ГВАДЕЛУПА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qarakol district",
+          "source" : "GUADELOUPE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qorovulbozor tumani",
+          "source" : "GVINEYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Гаровулбазарский район",
+          "source" : "ГВИНЕЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qarovulbazar district",
+          "source" : "GUINEA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Peshku tumani",
+          "source" : "ALMANIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пешкунский район",
+          "source" : "ГЕРМАНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Peshku district",
+          "source" : "GERMANY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Romitan tumani",
+          "source" : "GIBRALTAR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ромитанский район",
+          "source" : "ГИБРАЛТАР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Romitan district",
+          "source" : "GIBRALTAR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Jondor tumani",
+          "source" : "GONKONG",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Джондорский район",
+          "source" : "ГОНКОНГ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Jondor district",
+          "source" : "HONG KONG",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Shofirkon tumani",
+          "source" : "BAXRAYN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Шофирконский район",
+          "source" : "БАХРЕЙН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Shofirkon district",
+          "source" : "BAHRAIN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Buxoro shahri",
+          "source" : "ISRAIL",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Бухара",
+          "source" : "ИЗРАИЛЬ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bukhara city",
+          "source" : "ISRAEL",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Kogon shahri",
+          "source" : "KAMBODJA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Каган",
+          "source" : "КАМБОДЖА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kogon city",
+          "source" : "CAMBODIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Arnasoy tumani",
+          "source" : "QATAR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Арнасойский район",
+          "source" : "КАТАР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Arnasoy district",
+          "source" : "QATAR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Baxmal tumani",
+          "source" : "QUVAYT",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бахмальский район",
+          "source" : "КУВЕЙТ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bakhmal district",
+          "source" : "KUWAIT",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "G'allaorol tumani",
+          "source" : "VATIKAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Галлаорольский район",
+          "source" : "ВАТИКАН, ГОСУДАРСТВО-ГОРОД",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Gallaorol district",
+          "source" : "VATICAN CITY, STATE-CITY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Sharof Rashidov tumani",
+          "source" : "GRENADA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Шароф Рашидовский район",
+          "source" : "ГРЕНАДА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Sharof Rashidov district",
+          "source" : "GRENADA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Do'stlik tumani",
+          "source" : "GRENLANDIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Дустликский район",
+          "source" : "ГРЕНЛАНДИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Dustlik district",
+          "source" : "GREENLAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Zomin tumani",
+          "source" : "GRETSIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Зоминский район",
+          "source" : "ГРЕЦИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Zomin district",
+          "source" : "GREECE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Zarbdor tumani",
+          "source" : "GUAM",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Зарбдорский район",
+          "source" : "ГУАМ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Zarbdor district",
+          "source" : "GUAM",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Mirzacho'l tumani",
+          "source" : "MADAGASKAR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Мирзачольский район",
+          "source" : "МАДАГАСКАР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Mirzachol district",
+          "source" : "MADAGASCAR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Zafarobod tumani",
+          "source" : "SAN-TOME HA‘M PRINSIPI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Зафарабадский район",
+          "source" : "САН-ТОМЕ И ПРИНСИПИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Zafarobod district",
+          "source" : "SAO TOME AND PRINCIPE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Paxtakor tumani",
+          "source" : "SHRI-LANKA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пахтакорский район",
+          "source" : "ШРИ-ЛАНКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Pakhtakor district",
+          "source" : "SHRI-LANK",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Forish tumani",
+          "source" : "DOMINIKAN RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Форишский район",
+          "source" : "ДОМИНИКАНСКАЯ РЕСПУБЛИКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Forish district",
+          "source" : "DOMINICAN REPUBLIC",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yangiobod tumani",
+          "source" : "BATIS SAXARA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Янгиабадский район",
+          "source" : "ЗАПАДНАЯ САХАРА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yangiabad district",
+          "source" : "WESTERN SAHARA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Jizzax shahri",
+          "source" : "IORDANIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Джизак",
+          "source" : "ИОРДАНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Jizzakh city",
+          "source" : "JORDAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "G'uzor tumani",
+          "source" : "IRAQ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Гузорский район",
+          "source" : "ИРАК",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Guzor district",
+          "source" : "IRAQ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Dehqonobod tumani",
+          "source" : "IRLANDIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Дехканабадский район",
+          "source" : "ИРЛАНДИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Dehkanabad district",
+          "source" : "IRELAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qamashi tumani",
+          "source" : "IRAN ISLAM RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Камашинский район",
+          "source" : "ИСЛАМСКАЯ РЕСПУБЛИКА ИРАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qamashi district",
+          "source" : "ISLAMIC REPUBLIC OF IRAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qarshi tumani",
+          "source" : "MAVRITANIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Каршинский район",
+          "source" : "МАВРИТАНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Karshi district",
+          "source" : "MAURITANIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Koson tumani",
+          "source" : "PAKISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Косонский район",
+          "source" : "ПАКИСТАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Koson district",
+          "source" : "PAKISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Kitob tumani",
+          "source" : "AWG‘ANISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Китобский район",
+          "source" : "АФГАНИСТАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kitob district",
+          "source" : "AFGHANISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Mirishkor tumani",
+          "source" : "ITALIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Миришкорский район",
+          "source" : "ИТАЛИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Mirishkor district",
+          "source" : "ITALY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Muborak tumani",
+          "source" : "KANADA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Муборакский район",
+          "source" : "КАНАДА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Muborak district",
+          "source" : "CANADA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Nishon tumani",
+          "source" : "XITAY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Нишонский район",
+          "source" : "КИТАЙ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Nishon district",
+          "source" : "CHINA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Kasbi tumani",
+          "source" : "ANDORRA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Касбийский район",
+          "source" : "АНДОРРА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kasbi district",
+          "source" : "ANDORRA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Ko‘kdala tumani",
+          "source" : "LIXTENSHTEYN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кокдалинский район",
+          "source" : "ЛИХТЕНШТЕЙН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kokdala district",
+          "source" : "LIECHTENSTEIN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Chiroqchi tumani",
+          "source" : "MONAKO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Чирокчинский район",
+          "source" : "МОНАКО",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Chiroqchi district",
+          "source" : "MONACO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Shahrisabz tumani",
+          "source" : "KOKOS ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Шахрисабзский район",
+          "source" : "КОКОСОВЫЕ ОСТРОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Shahrisabz district",
+          "source" : "COCOS ISLANDS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yakkabog' tumani",
+          "source" : "GAYANA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Яккабогский район",
+          "source" : "ГАЙАНА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yakkabog district",
+          "source" : "GUYANA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qarshi shahri",
+          "source" : "KOREYS XALQ DEMOKRATIK RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Карши",
+          "source" : "КОРЕЙСКАЯ НАРОДНО-ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qarshi city",
+          "source" : "KOREAN DEMOCRATIC PEOPLES REPUBLIC",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Shahrisabz shahri",
+          "source" : "BELGIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Шахрисабз",
+          "source" : "БЕЛЬГИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Shahrisabz city",
+          "source" : "BELGIUM",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Konimex tumani",
+          "source" : "BUTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Конимехский район",
+          "source" : "БУТАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Konimeh district",
+          "source" : "BHUTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qiziltepa tumani",
+          "source" : "DANIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кизилтепинский район",
+          "source" : "ДАНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kiziltepa district",
+          "source" : "DENMARK",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Navbahor tumani",
+          "source" : "ISPANIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Навбахорский район",
+          "source" : "ИСПАНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Navbahor district",
+          "source" : "SPAIN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Karmana tumani",
+          "source" : "LESOTO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Карманинский район",
+          "source" : "ЛЕСОТО",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Karmana district",
+          "source" : "LESOTHO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Nurota tumani",
+          "source" : "MAROKKO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Нуратинский район",
+          "source" : "МАРОККО",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Nurota district",
+          "source" : "MAROCCO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Tomdi tumani",
+          "source" : "NEPAL",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Томдинский район",
+          "source" : "НЕПАЛ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Tomdi district",
+          "source" : "NEPAL",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Uchquduq tumani",
+          "source" : "NIDERLAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Учкудукский район",
+          "source" : "НИДЕРЛАНДЫ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Uchkuduk district",
+          "source" : "NETHERLANDS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Xatirchi tumani",
+          "source" : "NORVEGIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Хатырчинский район",
+          "source" : "НОРВЕГИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Khatirchi district",
+          "source" : "NORWAY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Navoiy shahri",
+          "source" : "SAUDIYA ARABISTANI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Навои",
+          "source" : "САУДОВСКАЯ АРАВИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Navoi city",
+          "source" : "SAUDI ARABIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Zarafshon shahri",
+          "source" : "SHA‘MZILEND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Заравшан",
+          "source" : "СВАЗИЛЕНД",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Zarafshon city",
+          "source" : "SWAZILAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "G'ozg'on shahri",
+          "source" : "TAILAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Гозган",
+          "source" : "ТАИЛАНД",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Gozgan city",
+          "source" : "THAILAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Mingbuloq tumani",
+          "source" : "TONGA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Мингбулокский район",
+          "source" : "ТОНГА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Mingbulok district",
+          "source" : "TONGA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Kosonsoy tumani",
+          "source" : "SHVETSIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Косонсойский район",
+          "source" : "ШВЕЦИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kosonsoy district",
+          "source" : "SWEDEN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Namangan tumani",
+          "source" : "LAOS XALQ DEMOKRATIK RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Наманганский район",
+          "source" : "ЛАОССКАЯ НАРОДНО-ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Namangan district",
+          "source" : "LAO PEOPLES DEMOCRATIC REPUBLIC",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Norin tumani",
+          "source" : "LATVIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Норинский район",
+          "source" : "ЛАТВИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Norin district",
+          "source" : "LATVIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Pop tumani",
+          "source" : "LIVAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Папский район",
+          "source" : "ЛИВАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Pop district",
+          "source" : "LEBANON",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "To'raqo'rg'on tumani",
+          "source" : "LITVA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Туракурганский район",
+          "source" : "ЛИТВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Turakurgan district",
+          "source" : "LITHUANIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Uychi tumani",
+          "source" : "MAVRIKIY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Уйчинский район",
+          "source" : "МАВРИКИЙ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Uychi district",
+          "source" : "MAURITIUS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Uchqo'rg'on tumani",
+          "source" : "MAKAO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Учкурганский район",
+          "source" : "МАКАО",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Uchkurgan district",
+          "source" : "MAKAO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Chortoq tumani",
+          "source" : "MAKEDONIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Чортокский район",
+          "source" : "МАКЕДОНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Chortoq district",
+          "source" : "MACEDONIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Chust tumani",
+          "source" : "MALAYZIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Чустский район",
+          "source" : "МАЛАЙЗИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Chust district",
+          "source" : "MALAYSIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yangiqo'rg'on tumani",
+          "source" : "MALDIVI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Янгикурганский район",
+          "source" : "МАЛЬДИВЫ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yangikurgan district",
+          "source" : "MALDIVES",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Namangan shahri",
+          "source" : "MARTINIKA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Наманган",
+          "source" : "МАРТИНИКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Namangan city",
+          "source" : "MARTINIQUE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Oqdaryo tumani",
+          "source" : "MARSHAL ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Окдарьинский район",
+          "source" : "МАРШАЛЛОВЫ ОСТРОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Oqdaryo district",
+          "source" : "MARSHALL ISLANDS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bulung'ur tumani",
+          "source" : "MEKSIKA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Булунгурский район",
+          "source" : "МЕКСИКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bulungur district",
+          "source" : "MEXICO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Jomboy tumani",
+          "source" : "MANG‘OLISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Джомбойский район",
+          "source" : "МОНГОЛИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Jomboy district",
+          "source" : "MONGOLIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Ishtixon tumani",
+          "source" : "MONTSERRAT",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Иштиханский район",
+          "source" : "МОНТСЕРРАТ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ishtikhan district",
+          "source" : "MONTSERRAT",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Kattaqo'rg'on tumani",
+          "source" : "NAMIBIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Каттакурганский район",
+          "source" : "НАМИБИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kattakurgan district",
+          "source" : "NAMIBIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qo'shrabot tumani",
+          "source" : "ANGOLA XALQ RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кошработский район",
+          "source" : "НАРОДНАЯ РЕСПУБЛИКА АНГОЛА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Koshrabot district",
+          "source" : "PEOPLES REPUBLIC ANGOLA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Narpay tumani",
+          "source" : "BANGLADESH",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Нарпайский район",
+          "source" : "БАНГЛАДЕШ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Narpay district",
+          "source" : "BANGLADESH",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Payariq tumani",
+          "source" : "BENIN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Паярикский район",
+          "source" : "БЕНИН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Payariq district",
+          "source" : "BENIN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Pastdarg'om tumani",
+          "source" : "VETNAM",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пастдаргомский район",
+          "source" : "ВЬЕТНАМ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Pastdarg'om district",
+          "source" : "VIETNAM",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Paxtachi tumani",
+          "source" : "KONGO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пахтачинский район",
+          "source" : "КОНГО",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Pakhtachi district",
+          "source" : "CONGO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Samarqand tumani",
+          "source" : "MOZAMBIK",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Самаркандская область",
+          "source" : "МОЗАМБИК",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Samarkand district",
+          "source" : "MOZAMBIQUE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Nurobod tumani",
+          "source" : "NIDERLAND ANTIL ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Нуробадский район",
+          "source" : "НИДЕРЛАНДСКИЕ АНТИЛЬСКИЕ ОСТРОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Nurobad district",
+          "source" : "NETHERLAND ANTILLES",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Urgut tumani",
+          "source" : "NIUE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ургутский район",
+          "source" : "НИУЭ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Urgut district",
+          "source" : "NIUE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Toyloq tumani",
+          "source" : "JAN‘A ZELANDIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Тойлакский район",
+          "source" : "НОВАЯ ЗЕЛАНДИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Toylaq district",
+          "source" : "NEW ZEALAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Samarqand shahri",
+          "source" : "JAN‘A KALEDONIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Самарканд",
+          "source" : "НОВАЯ КАЛЕДОНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Samarkand city",
+          "source" : "NEW CALEDONIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Kattaqo'rg'on shahri",
+          "source" : "NORFOLK ATAWI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Каттакурган",
+          "source" : "ОСТРОВ НОРФОЛК",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kattakurgan city",
+          "source" : "NORFOLK ISLAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Oltinsoy tumani",
+          "source" : "TANZANIYA BIRLESGEN RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Олтинсойский район",
+          "source" : "ОБЪЕДИНЕННАЯ РЕСПУБЛИКА ТАНЗАНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Oltinsoy district",
+          "source" : "UNITED REPUBLIC OF TANZANIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Angor tumani",
+          "source" : "BIRLESGEN ARAB AMIRLIKLERI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ангорский район",
+          "source" : "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Angor district",
+          "source" : "UNITED ARAB EMIRATES",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bandixon tumani",
+          "source" : "ARUBA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бандихонский район",
+          "source" : "АРУБА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bandikhon district",
+          "source" : "ARUBA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Boysun tumani",
+          "source" : "BUVE ATAWI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Байсунский район",
+          "source" : "ОСТРОВ БУВЕ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Boysun district",
+          "source" : "ISLAND BUVE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Muzrabot tumani",
+          "source" : "MEN ATAWI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Музработский район",
+          "source" : "ОСТРОВ МЭН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Muzrabot district",
+          "source" : "ISLE OF MAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Denov tumani",
+          "source" : "MUQA‘DDES ELENA ATAWI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Деновский район",
+          "source" : "ОСТРОВ СВЯТОЙ ЕЛЕНЫ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Denov district",
+          "source" : "SAINT HELENA ISLAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Jarqo'rg'on tumani",
+          "source" : "KAYMAN ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Жаркурганский район",
+          "source" : "КАЙМАНОВЫ ОСТРОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Zharkurgan district",
+          "source" : "CAYMAN ISLAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qumqo'rg'on tumani",
+          "source" : "KUKA ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кумкурганский район",
+          "source" : "ОСТРОВА КУКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kumkurgan district",
+          "source" : "COOK ISLANDS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qiziriq tumani",
+          "source" : "UOLLIS HA‘M FUTUNA ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кизирикский район",
+          "source" : "ОСТРОВА УОЛЛИС И ФУТУНА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kiziriq district",
+          "source" : "WALLIS AND FUTUNA ISLAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Sariosiyo tumani",
+          "source" : "PAPUA-JAN‘A GVINEYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Сариосийский район",
+          "source" : "ПАПУА-НОВАЯ ГВИНЕЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Sariosiyo district",
+          "source" : "PAPUA NEW GUINEA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Termiz tumani",
+          "source" : "PITKERN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Термезский район",
+          "source" : "ПИТКЭРН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Termez district",
+          "source" : "PITCAIRN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Uzun tumani",
+          "source" : "PORTUGALIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Узунский район",
+          "source" : "ПОРТУГАЛИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Uzun district",
+          "source" : "PORTUGAL",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Sherobod tumani",
+          "source" : "PUERTO-RIKO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Шерабадский район",
+          "source" : "ПУЭРТО-РИКО",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Sherobod district",
+          "source" : "PUERTO RICO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Sho'rchi tumani",
+          "source" : "ALBANIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Шорчинский район",
+          "source" : "АЛБАНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Shorchi district",
+          "source" : "ALBANIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Termiz shahri",
+          "source" : "ARMENISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Термез",
+          "source" : "АРМЕНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Termez city",
+          "source" : "ARMENIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Oqoltin tumani",
+          "source" : "BELORUS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Околтинский район",
+          "source" : "БЕЛАРУСЬ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Oqoltin district",
+          "source" : "BELARUS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Boyovut tumani",
+          "source" : "BOLGARIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бойовутский район",
+          "source" : "БОЛГАРИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Boyovut district",
+          "source" : "BULGARIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Sayxunobod tumani",
+          "source" : "BOLIVIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Сайхунабадский район",
+          "source" : "БОЛИВИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Saykhunabad district",
+          "source" : "BOLIVIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Guliston tumani",
+          "source" : "BOTSVANA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Гулистонский район",
+          "source" : "БОТСВАНА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Guliston district",
+          "source" : "BOTSWANA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Sardoba tumani",
+          "source" : "BURUNDI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Сардобинский район",
+          "source" : "БУРУНДИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Sardoba district",
+          "source" : "BURUNDI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Mirzaobod tumani",
+          "source" : "HA‘MNUATU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Мирзаабадский район",
+          "source" : "ВАНУАТУ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Mirzaabad district",
+          "source" : "VANUATU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Sirdaryo tumani",
+          "source" : "VENESUELA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Сырдарьинский район",
+          "source" : "ВЕНЕСУЭЛА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Syrdaryo district",
+          "source" : "VENEZUELA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Xovos tumani",
+          "source" : "GAITI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ховосский район",
+          "source" : "ГАИТИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Xovos district",
+          "source" : "HAITI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Guliston shahri",
+          "source" : "GAMBIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Гулистан",
+          "source" : "ГАМБИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Guliston city",
+          "source" : "GAMBIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Shirin shahri",
+          "source" : "GANA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Ширин",
+          "source" : "ГАНА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Shirin city",
+          "source" : "GHANA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yangiyer shahri",
+          "source" : "GVATEMALA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Янгиер",
+          "source" : "ГВАТЕМАЛА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yangiyer city",
+          "source" : "GUATEMALA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Uchtepa tumani",
+          "source" : "GVINEYA-BISAU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Учтепинский район",
+          "source" : "ГВИНЕЯ-БИСАУ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Uchtepa district",
+          "source" : "GUINEA-BISSAU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bektemir tumani",
+          "source" : "GONDURAS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бектемирский район",
+          "source" : "ГОНДУРАС",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bektemir district",
+          "source" : "HONDURAS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yunusobod tumani",
+          "source" : "GRUZIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Юнусабадский район",
+          "source" : "ГРУЗИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yunusabad district",
+          "source" : "GEORGIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Mirzo Ulug'bek tumani",
+          "source" : "DJIBUTI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Мирзо-Улугбекский район",
+          "source" : "ДЖИБУТИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Mirzo Ulugbek district",
+          "source" : "DJIBOUTI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Mirobod tumani",
+          "source" : "ZOIR RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Мирабадский район",
+          "source" : "РЕСПУБЛИКА ЗАИР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Mirobod district",
+          "source" : "REPUBLIC OF ZAIR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Shayxontohur tumani",
+          "source" : "ZAMBIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Шайхонтохурский район",
+          "source" : "ЗАМБИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Shaykhontohur district",
+          "source" : "ZAMBIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Olmazor tumani",
+          "source" : "ZIMBABVE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Алмазарский район",
+          "source" : "ЗИМБАБВЕ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Almazor district",
+          "source" : "ZIMBABWE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Sergeli tumani",
+          "source" : "HINDISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Сергелийский район",
+          "source" : "ИНДИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Sergeli district",
+          "source" : "INDIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yakkasaroy tumani",
+          "source" : "INDONEZIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Яккасарайский район",
+          "source" : "ИНДОНЕЗИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yakkasaroy district",
+          "source" : "INDONESIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yashnobod tumani",
+          "source" : "ISLANDIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Яшнабадский район",
+          "source" : "ИСЛАНДИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yashnobad district",
+          "source" : "ICELAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yangihayot tumani",
+          "source" : "IYEMEN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Янгихайотский район",
+          "source" : "ЙЕМЕН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yangihayot district",
+          "source" : "YEMEN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Chilonzor tumani",
+          "source" : "KABO-VERDE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Чиланзарский район",
+          "source" : "КАБО-ВЕРДЕ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Chilonzor district",
+          "source" : "CAPE VERDE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Oqqo'rg'on tumani",
+          "source" : "QAZAG‘ISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Оккурганский район",
+          "source" : "КАЗАХСТАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Oqqorgan district",
+          "source" : "KAZAKHSTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Ohangaron tumani",
+          "source" : "KAMERUN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ахангаронский район",
+          "source" : "КАМЕРУН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Akhangaron district",
+          "source" : "CAMEROON",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bekobod tumani",
+          "source" : "KENIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бекобадский район",
+          "source" : "КЕНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bekobod district",
+          "source" : "KENYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bo'stonliq tumani",
+          "source" : "KIPR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бостонликский район",
+          "source" : "КИПР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bostonliq district",
+          "source" : "CYPRUS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bo'ka tumani",
+          "source" : "KIRIBATI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Букинский район",
+          "source" : "КИРИБАТИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Buka district",
+          "source" : "KIRIBATI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Quyi Chirchiq tumani",
+          "source" : "KOLUMBIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Куйи-Чирчикский район",
+          "source" : "КОЛУМБИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kuyi Chirchik district",
+          "source" : "COLUMBIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Zangiota tumani",
+          "source" : "KOREYA RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Зангиотский район",
+          "source" : "РЕСПУБЛИКА КОРЕЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Zangiota district",
+          "source" : "REPUBLIC OF KOREA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yuqori Chirchiq tumani",
+          "source" : "KOSTA-RIKA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Юкори Чирчикский район",
+          "source" : "КОСТА-РИКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yukori Chirchik district",
+          "source" : "COSTA RICA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qibray tumani",
+          "source" : "KOT-D`IVUAR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кибрайский район",
+          "source" : "КОТ-Д`ИВУАР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qibray district",
+          "source" : "COTE DIVOIRE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Parkent tumani",
+          "source" : "KUBA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Паркентский район",
+          "source" : "КУБА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Parkent district",
+          "source" : "CUBA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Piskent tumani",
+          "source" : "QIRG‘IZISTAN RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пскентский район",
+          "source" : "РЕСПУБЛИКА КЫРГЫЗСТАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Piskent district",
+          "source" : "QIRG‘IZISTON RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "O'rta Chirchiq tumani",
+          "source" : "LIBERIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Урта Чирчикский район",
+          "source" : "ЛИБЕРИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Orta Chirchik district",
+          "source" : "LIBERIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Chinoz tumani",
+          "source" : "MALAVI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Чиназский район",
+          "source" : "МАЛАВИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Chinoz district",
+          "source" : "MALAWI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yangiyo'l tumani",
+          "source" : "MALI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Янгиюльский район",
+          "source" : "МАЛИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yangiyol district",
+          "source" : "MALI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Toshkent tumani",
+          "source" : "MALTA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ташкентский район",
+          "source" : "МАЛЬТА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Tashkent district",
+          "source" : "MALTA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Nurafshon shahri",
+          "source" : "MOLDOVA RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Нурафшон",
+          "source" : "РЕСПУБЛИКА МОЛДОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Nurafshon city",
+          "source" : "REPUBLIC OF MOLDOVA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Olmaliq shahri",
+          "source" : "NAURU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Алмалык",
+          "source" : "НАУРУ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Almalyk city",
+          "source" : "NAURU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Angren shahri",
+          "source" : "NIGER",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Ангрен",
+          "source" : "НИГЕР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Angren city",
+          "source" : "NIGER",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bekobod shahri",
+          "source" : "NIKARAGUA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Бекабад",
+          "source" : "НИКАРАГУА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bekobod city",
+          "source" : "NICARAGUA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Ohangaron shahri",
+          "source" : "PALAU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Ахангаран",
+          "source" : "ПАЛАУ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Akhangaron city",
+          "source" : "PALAU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Chirchiq shahri",
+          "source" : "PANAMA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Чирчик",
+          "source" : "ПАНАМА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Chirchik city",
+          "source" : "PANAMA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yangiyo'l shahri",
+          "source" : "PARAGHA‘MY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Янгиюль",
+          "source" : "ПАРАГВАЙ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yangiyol city",
+          "source" : "PARAGUAY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Oltiariq tumani",
+          "source" : "PERU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Олтиарикский район",
+          "source" : "ПЕРУ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Oltiarik district",
+          "source" : "PERU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qo'shtepa tumani",
+          "source" : "POLSHA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Коштепинский район",
+          "source" : "ПОЛЬША",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qoshtepa district",
+          "source" : "POLAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bag'dod tumani",
+          "source" : "RUMINIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Багдадский район",
+          "source" : "РУМЫНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Baghdad district",
+          "source" : "RUMANIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Buvayda tumani",
+          "source" : "SAN-MARINO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бувайдинский район",
+          "source" : "САН-МАРИНО",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Buvayda district",
+          "source" : "SAN MARINO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Beshariq tumani",
+          "source" : "SEYSHEL ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бешарикский район",
+          "source" : "СЕЙШЕЛЬСКИЕ ОСТРОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Besharik district",
+          "source" : "SEYCHELLES",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Quva tumani",
+          "source" : "SENEGAL",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кувинский район",
+          "source" : "СЕНЕГАЛ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Quva district",
+          "source" : "SENEGAL",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Uchko'prik tumani",
+          "source" : "SINGAPUR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Учкоприкский район",
+          "source" : "СИНГАПУР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Uchko'prik district",
+          "source" : "SINGAPORE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Rishton tumani",
+          "source" : "SLOVENIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Риштонский район",
+          "source" : "СЛОВЕНИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Rishton district",
+          "source" : "SLOVENIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "So'x tumani",
+          "source" : "SUDAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Сох район",
+          "source" : "СУДАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Sokh district",
+          "source" : "SUDAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Toshloq tumani",
+          "source" : "SURINAM",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ташлокский район",
+          "source" : "СУРИНАМ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Tashlok district",
+          "source" : "SURINAM",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "O'zbekiston tumani",
+          "source" : "SERRA-LEONE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Узбекистанский район",
+          "source" : "СЬЕРРА-ЛЕОНЕ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Uzbekistan district",
+          "source" : "SIERRA LEONE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Farg'ona tumani",
+          "source" : "TAJIKISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ферганский район",
+          "source" : "ТАДЖИКИСТАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Fergana district",
+          "source" : "TAJIKISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Dang'ara tumani",
+          "source" : "TRINIDAD HA‘M TOBAGO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Дангаринский район",
+          "source" : "ТРИНИДАД И ТОБАГО",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Dangara district",
+          "source" : "TRINIDAD AND TOBAGO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Furqat tumani",
+          "source" : "UGANDA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Фуркатский район",
+          "source" : "УГАНДА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Furqat district",
+          "source" : "UGANDA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yozyovon tumani",
+          "source" : "O‘ZBEKISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Езёванский район",
+          "source" : "УЗБЕКИСТАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yozyovan district",
+          "source" : "UZBEKISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Farg'ona shahri",
+          "source" : "FIDJI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Фергана",
+          "source" : "ФИДЖИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Fergana city",
+          "source" : "FIJI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qo'qon shahri",
+          "source" : "FILIPPIN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Кокон",
+          "source" : "ФИЛИППИНЫ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qoqon city",
+          "source" : "PHILIPPINES",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Quvasoy shahri",
+          "source" : "CHILI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Кувасай",
+          "source" : "ЧИЛИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Quvasoy city",
+          "source" : "CHILE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Marg'ilon shahri",
+          "source" : "EKVADOR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Маргилан",
+          "source" : "ЭКВАДОР",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Margilan city",
+          "source" : "ECUADOR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bog'ot tumani",
+          "source" : "GVINEYA EKVATORIAL RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Боготский район",
+          "source" : "РЕСПУБЛИКА ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bogot district",
+          "source" : "REPUBLIC OF EQUATORIAL GUINEA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Gurlan tumani",
+          "source" : "REYUNON",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Гурланский район",
+          "source" : "РЕЮНЬОН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Gurlan district",
+          "source" : "REUNION",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qo'shko'pir tumani",
+          "source" : "ROSSIYA FEDERATSIYASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кошкопирский район",
+          "source" : "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qoshkopir district",
+          "source" : "RUSSIAN FEDERATION",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Urganch tumani",
+          "source" : "RUANDA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ургенчский район",
+          "source" : "РУАНДА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Urgench district",
+          "source" : "RUANDA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Hazorasp tumani",
+          "source" : "SAMOA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Азораспский район",
+          "source" : "САМОА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Hazorasp district",
+          "source" : "SAMOA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Tuproqqal'a tumani",
+          "source" : "SENT-VINSENT HA‘M GRENADINLAR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Тупроккалинский район",
+          "source" : "СЕНТ-ВИНСЕНТ И ГРЕНАДИНЫ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Tuproqqala district",
+          "source" : "SAINT VINCENT AND GRENADINES",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Xonqa tumani",
+          "source" : "SENT-PER HA‘M MIKELON",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Хонкинский район",
+          "source" : "СЕНТ-ПЬЕР И МИКЕЛОН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Khonka district",
+          "source" : "SAINT PIERRE AND MIQUELON",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Xiva tumani",
+          "source" : "SENT-LYUSIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Хивинский район",
+          "source" : "СЕНТ-ЛЮСИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Khiva district",
+          "source" : "SAINT LUCIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Shovot tumani",
+          "source" : "SIRIYA ARAB RESPUBLIKASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Шовотский район",
+          "source" : "СИРИЙСКАЯ АРАБСКАЯ РЕСПУБЛИКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Shovot district",
+          "source" : "SYRIAN ARAB REPUBLIC",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yangiariq tumani",
+          "source" : "SLOHA‘MKIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Янгиарикский район",
+          "source" : "СЛОВАКИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yangiariq district",
+          "source" : "SLOVAKIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Yangibozor tumani",
+          "source" : "BAGAM ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Янгибазорский район",
+          "source" : "БАГАМСКИЕ ОСТРОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yangibozor district",
+          "source" : "BAHAMAS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Urganch shahri",
+          "source" : "DOMINIKA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Ургенч",
+          "source" : "ДОМИНИКА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Urgench city",
+          "source" : "DOMINICA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Xiva shahri",
+          "source" : "ARQA MARIAN ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Хива",
+          "source" : "СЕВЕРНЫЕ МАРИАНСКИЕ ОСТРОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Khiva city",
+          "source" : "NORTHERN MARIANA ISLANDS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Amudaryo tumani",
+          "source" : "AMERIKA QOSPA SHTATLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Амударьинский район",
+          "source" : "СОЕДИНЁННЫЕ ШТАТЫ АМЕРИКИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Amu Darya district",
+          "source" : "UNITED STATES OF AMERICA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Beruniy tumani",
+          "source" : "SOLOMONOV ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Берунийский район",
+          "source" : "СОЛОМОНОВЫ ОСТРОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Beruni district",
+          "source" : "SOLOMON ISLANDS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Bo'zatov tumani",
+          "source" : "SOMALI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бозатовский район",
+          "source" : "СОМАЛИ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Bozatov district",
+          "source" : "SOMALIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qorao'zak tumani",
+          "source" : "LIVIYA ARAB JAMAXIRIYASI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Караозакский район",
+          "source" : "ЛИВИЙСКАЯ АРАБСКАЯ ДЖАМАХИРИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qaraozak district",
+          "source" : "LIBYAN ARAB JAMAHIRIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Kegeyli tumani",
+          "source" : "MYANMA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кегейлинский район",
+          "source" : "МЬЯНМА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kegeyli district",
+          "source" : "MYANMAR",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qo'ng'irot tumani",
+          "source" : "YUGOSLAVIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Конгиротский район",
+          "source" : "ЮГОСЛАВИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Kongirot district",
+          "source" : "YUGOSLAVIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Qonliko'l tumani",
+          "source" : "OMAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Конликольский район",
+          "source" : "ОМАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Qonlikol district",
+          "source" : "OMAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Mo'ynoq tumani",
+          "source" : "TAYHA‘MN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Муйнакский район",
+          "source" : "ТАЙВАНЬ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Muynaq district",
+          "source" : "TAIWAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Nukus tumani",
+          "source" : "TERKS HA‘M KAYKOS ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Нукусский район",
+          "source" : "ОСТРОВА ТЕРКС И КАЙКОС",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Nukus district",
+          "source" : "TERKS AND KAYKOS ISLAND",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Taxiatosh tumani",
+          "source" : "TOGO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Таксиаташский район",
+          "source" : "ТОГО",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Taxiatash district",
+          "source" : "TOGO",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Taxtako'pir tumani",
+          "source" : "TOKELAU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Тахткопирский район",
+          "source" : "ТОКЕЛАУ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Takhtkopir district",
+          "source" : "TOKELAU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "To'rtko'l tumani",
+          "source" : "TUHA‘MLU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Торткульский район",
+          "source" : "ТУВАЛУ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Tortkul district",
+          "source" : "TUVALU",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Xo'jayli tumani",
+          "source" : "TUNIS",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ходжалинский район",
+          "source" : "ТУНИС",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Khojaly district",
+          "source" : "TUNISIA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Chimboy tumani",
+          "source" : "TURKIYA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Чимбойский район",
+          "source" : "ТУРЦИЯ",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Chimboy district",
+          "source" : "TURKEY",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Shumanay tumani",
+          "source" : "TURKMENISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Шуманайский район",
+          "source" : "ТУРКМЕНИСТАН",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Shumanay district",
+          "source" : "TURKMENISTAN",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Ellikqal’a tumani",
+          "source" : "UKRAINA",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Элликкалинский район",
+          "source" : "УКРАИНА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ellikkal’a district",
+          "source" : "UKRAINE",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
-          "source" : "Nukus shahri",
+          "source" : "FARER ATAWLARI",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "город Нукус",
+          "source" : "ФАРЕРСКИЕ ОСТРОВА",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Nukus city",
+          "source" : "FAEROE ISLAND",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "KOMOR ATAWLARI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "КОМОРСКИЕ ОСТРОВА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "COMOROS ISLAND",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "BRAZILIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "БРАЗИЛИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "BRAZIL",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "NIGERIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "НИГЕРИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "NIGERIA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "MIKRONEZIYA FEDERATIV SHTATLARI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "МИКРОНЕЗИЯ, ФЕДЕРАТИВНЫЕ ШТАТЫ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "MICRONESIA, FEDERATIVE STATES",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "SENT-KITS HA‘M NEVIS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "СЕНТ-КИТС И НЕВИС",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "SAINT KITTS AND NEVIS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "FINLYANDIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ФИНЛЯНДИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "FINLAND",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "FOLKLEND ATAWLARI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ФОЛКЛЕНДСКИЕ ОСТРОВА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "FALKLAND ISLANDS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "FRANSIYA POLINEZIYASI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "FRENCH POLYNESIA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "FRANSIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ФРАНЦИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "FRANCE",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "ORAYLIQ AFRIKA RESPUBLIKASI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЦЕНТРАЛЬНОАФРИКАНСКАЯ РЕСПУБЛИКА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "CENTRAL AFRICAN REPUBLIC",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "SHVEYSARIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ШВЕЙЦАРИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "SWITZERLAND",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "SHPITSBERGEN HA‘M YAN-MAYEN ATAWLARI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ОСТРОВА ШПИЦБЕРГЕН И ЯН-МАЙЕН",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "SPITSBERGEN AND JAN MAYEN ISLANDS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "ERITREYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЭРИТРЕЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ERITREA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "ESTONIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЭСТОНИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ESTONIA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "EFIOPIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЭФИОПИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ETHIOPIA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "YAMAYKA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЯМАЙКА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "JAMAICA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "YAPONIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЯПОНИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "JAPAN",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "QIRG‘IZSTAN",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "КЫРГЫЗСТАН",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "KYRGYZSTAN",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "AVSTRALIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "АВСТРАЛИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "AUSTRALIA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "ANGILYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "АНГИЛЬЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ANGUILLA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "NEYTRALNAYA ZONA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "НЕЙТРАЛЬНАЯ ЗОНА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "NEUTRAL ZONE",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "SALVADOR",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "САЛЬВАДОР",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "SALVADOR",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "FRANSIYA GVIANASI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ФРАНЦУЗСКАЯ ГВИАНА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "FRENCH GUIANA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "PUQARALIG‘I BOLMAG‘AN SHAXS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЛИЦО БЕЗ ГРАЖДАНСТВА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "STATELESS PERSON",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "CHEXIYA RESPUBLIKASI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЧЕШСКАЯ РЕСПУБЛИКА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "CZECH REPUBLIC",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "MAYOTTA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "МАЙОТТА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "MAYOTTE",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "PALESTINA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ПАЛЕСТИНА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "PALESTINA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "QUBLA AFRIKA RESPUBLIKASI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЮЖНО-АФРИКАНСКАЯ РЕСПУБЛИКА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "SOUTH AFRICA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "XARHA‘MTIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ХОРВАТИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "XARVATIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "KONGO DEMOKRATIK RESPUBLIKASI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "КОНГО ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "CONGO DEMOCRATIC REPUBLIC",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "ULLI BRITANIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ВЕЛИКОБРИТАНИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "GREAT BRITAIN",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "XERD HA‘M MAKDONALD ATAWLARI",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ОСТРОВ ХЕРД И ОСТРОВА МАКДОНАЛЬД",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "HERD ISLAND AND MCDONALD ISLANDS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "SERBIYA HA‘M CHERNOGORIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "СЕРБИЯ И ЧЕРНОГОРИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "SERBY AND MONTENEGRO",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "CHAD",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ЧАД",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "CHAD",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "ABHAZIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "АБХАЗИЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "ABHAZIYA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "КАБО ВЕРДЕ РЕСПУБЛИКА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "КАБО ВЕРДЕ РЕСПУБЛИКА",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "НАРОДНО ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА КОРЕЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "НАРОДНО ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА КОРЕЯ",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Fuqaroliksiz",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Без гражданства",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Stateless",
           "target" : null
         }
       ]
