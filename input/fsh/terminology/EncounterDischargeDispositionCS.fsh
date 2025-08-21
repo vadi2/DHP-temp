@@ -4,6 +4,7 @@ Title: "Encounter discharge disposition translations"
 Description: "Encounter discharge disposition codes with English and Russian translations"
 * ^url = "https://terminology.dhp.uz/CodeSystem/encounter-discharge-disposition-cs"
 * ^experimental = true
+* ^status = #active
 * ^content = #supplement
 * ^supplements = $encounter-discharge-disposition
 * ^language = #en

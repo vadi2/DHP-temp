@@ -74,18 +74,6 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Additional codesystem for ISO 3166-2 to add 'stateless'",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Additional codesystem for ISO 3166-2 for DHP, adding the 'stateless' code",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "address registration translations",
           "target" : null
         },
@@ -531,6 +519,18 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Consent State Codes supplement with translations in Uzbek and Russian",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Countries digital MVD translations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Countries digital MVD codes with translations in Russian and English",
           "target" : null
         },
         {
@@ -1268,42 +1268,6 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "ISO 3166 2 character codes in Uzbek and Russian",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines Uzbek and Russian translations for ISO 3166 2 character codes",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "ISO 3166 part 1 2-letter codes for citizenship purposes",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Defines Uzbek and Russian translations for ISO 3166 part 1 2-letter codes for citizenship purposes in Uzbek and Russian",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "ISO 3166-1 two-letter translations",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "ISO 3166-1 2-letter supplement with Uzbek and Russian translations",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "License, certificate, degree",
           "target" : null
         },
@@ -1383,6 +1347,30 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Naming system for unique identifiers assigned to location units such as branches, wards, and beds within healthcare facilities in the Uzbekistan Digital Health Platform",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Mahalla Codes and Names",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Mahalla codes and names with translations in Russian and English",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Mahallas translations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Mahallas names with English and Russian translations",
           "target" : null
         },
         {
@@ -2318,6 +2306,18 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Uzbekistan states and Locations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "List of states and locations in Uzbekistan",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Verification status types",
           "target" : null
         },
@@ -2325,6 +2325,18 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Verification status supplement with translations in Uzbek and Russian",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "World countries name translations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "World countries names with English and Russian translations",
           "target" : null
         },
         {
@@ -2397,6 +2409,18 @@
           "id" : "ImplementationGuide.definition.page.title",
           "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
           "source" : "Services",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.source[x]",
+          "context" : "Indicates the URL or the actual content to provide for the page.",
+          "source" : "translationinfo.html",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.page.title",
+          "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
+          "source" : "Translationinfo",
           "target" : null
         }
       ]
