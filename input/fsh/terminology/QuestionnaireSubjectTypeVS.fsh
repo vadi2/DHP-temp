@@ -8,5 +8,5 @@ Description: "Defines subject types codes for Questionnaire resources in Uzbekis
 * ^extension[=].valueCanonical = Canonical(QuestionnaireSubjectTypeCS)
 * ^version = "5.0.0"
 
-//include codes from system $questionnaire-subject-type
-* include codes from system $fhir-types-cs where kind = #resource
+* include codes from system $fhir-types-cs 
+    where kind = #resource-type and abstract = "false"
