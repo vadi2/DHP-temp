@@ -2,12 +2,7 @@ CodeSystem: ContactPointSystemCS
 Id: contact-point-system-cs
 Title: "Types of possible contact points translations"
 Description: "Types of possible contact points supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/contact-point-system-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $contact-point-system
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(contact-point-system-cs, $contact-point-system, 5.0.0)
 * #phone
   * ^designation[0].language = #ru
   * ^designation[=].value = "телефон"

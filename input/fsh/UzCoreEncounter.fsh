@@ -59,6 +59,10 @@ Description: "Uzbekistan Core Patient profile, used to represent clinical encoun
 * participant.actor ^short = "Лицо, устройство или служба, участвующее во встрече"
 * participant.period MS
 * participant.period ^short = "Период времени во время встречи, в котором участвовал участник"
+* participant
+  * type MS
+  * type from EncounterParticipantTypeVS (extensible)
+  * ^short = "Роль участника встречи"
 
 * appointment MS
 * appointment ^short = "Appointment, на котором была запланирована эта встреча"
