@@ -2,13 +2,7 @@ CodeSystem: EncounterDischargeDispositionHomeCS
 Id: encounter-discharge-disposition-home-cs
 Title: "Encounter discharge disposition from died"
 Description: "Encounter discharge disposition home codes with English and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-discharge-disposition-home-cs"
-* ^experimental = true
-* ^content = #complete
-* ^status = #active
-* ^caseSensitive = true
-* ^language = #uz
-* ^experimental = true  
+* insert OriginalCodeSystemDraft(encounter-discharge-disposition-home-cs)  
 
 * #mserv-0004-00001 "Kasalxonaga yotqizildi"
   * ^designation[+].language = #en
