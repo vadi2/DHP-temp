@@ -14,7 +14,7 @@
              <notes>
                <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
              </notes>
-        <source>possible name uses translations</source>
+        <source>Possible name uses translations</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-name-use-cs" resname="CodeSystem.publisher">
@@ -133,7 +133,7 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>nikoh uchun ism o‘zgartirildi</source>
+        <source>nikoh uchun ism o'zgartirildi</source>
         <target></target>
       </trans-unit>
     </body>

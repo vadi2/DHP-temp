@@ -62,7 +62,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "address registration translations",
+          "source" : "Address registration translations",
           "target" : null
         },
         {
@@ -1286,7 +1286,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "possible identifier uses translations",
+          "source" : "Possible identifier uses translations",
           "target" : null
         },
         {
@@ -1298,7 +1298,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "possible identifiers translations",
+          "source" : "Possible identifiers translations",
           "target" : null
         },
         {
@@ -1310,7 +1310,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "possible name uses translations",
+          "source" : "Possible name uses translations",
           "target" : null
         },
         {
@@ -1994,13 +1994,13 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "UZ Core Related Person",
+          "source" : "UZ Core RelatedPerson",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core Related Person profile, used to represent related person information",
+          "source" : "Uzbekistan Core RelatedPerson profile, used to represent persons related to the patient",
           "target" : null
         },
         {

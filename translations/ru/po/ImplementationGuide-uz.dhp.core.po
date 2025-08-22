@@ -46,7 +46,7 @@ msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
-msgid "address registration translations"
+msgid "Address registration translations"
 msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
@@ -1066,7 +1066,7 @@ msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
-msgid "possible identifier uses translations"
+msgid "Possible identifier uses translations"
 msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
@@ -1076,7 +1076,7 @@ msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
-msgid "possible identifiers translations"
+msgid "Possible identifiers translations"
 msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
@@ -1086,7 +1086,7 @@ msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
-msgid "possible name uses translations"
+msgid "Possible name uses translations"
 msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
@@ -1656,12 +1656,12 @@ msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
-msgid "UZ Core Related Person"
+msgid "UZ Core RelatedPerson"
 msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
-msgid "Uzbekistan Core Related Person profile, used to represent related person information"
+msgid "Uzbekistan Core RelatedPerson profile, used to represent persons related to the patient"
 msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).

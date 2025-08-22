@@ -6,7 +6,7 @@ msgstr ""
 
 # A short, descriptive, user-friendly title for the code system.
 #: CodeSystem.title
-msgid "address registration translations"
+msgid "Address registration translations"
 msgstr ""
 
 # The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
