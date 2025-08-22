@@ -4,7 +4,7 @@ Title: "Allergy reaction substance value set"
 Description: "Value set containing SNOMED CT codes and local codes for allergy reaction substance "
 * ^url = "https://terminology.dhp.uz/ValueSet/allergy-reaction-substance-vs"
 * ^status = #active
-* ^experimental = false
+* ^experimental = true
 * include codes from system allergy-reaction-substance-cs
 
 /*

@@ -90,3 +90,4 @@ Alias: $bodySite-condition = http://hl7.org/fhir/ValueSet/body-site
 Alias: $telecom-use = http://hl7.org/fhir/contact-point-use
 Alias: $v3-ParticipationType = http://terminology.hl7.org/CodeSystem/v3-ParticipationType
 Alias: $v3-RoleClass = http://terminology.hl7.org/CodeSystem/v3-RoleClass
+Alias: $targetScopeExt = http://hl7.org/fhir/StructureDefinition/conceptmap-targetScope

@@ -9,9 +9,10 @@ Description: "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIn
 * experimental = false
 * publisher = "Uzinfocom"
 
-// направление маппинга
-* group.source = "https://terminology.dhp.uz/CodeSystem/allergy-reaction-substance-cs"
-* group.target = "http://snomed.info/sct"
+* group.source = Canonical(ReactionSubstanceCS)
+* sourceScopeCanonical = Canonical(ReactionSubstanceVS)
+* group.target = $sct
+* targetScopeCanonical = $sct-vs
 
 * group.element[+].code = #aller-0010-00001
 * group.element[=].display = "Ajiriq (Cyn d)"

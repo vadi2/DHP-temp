@@ -9,9 +9,10 @@ Description: "Maps local UZ ReactionManifestationCS codes to SNOMED CT for Aller
 * experimental = false
 * publisher = "Uzinfocom"
 
-// направление маппинга
-* group.source = "https://terminology.dhp.uz/CodeSystem/allergy-reaction-manifestation-cs"
-* group.target = "http://snomed.info/sct"
+* group.source = Canonical(ReactionManifestationCS)
+* sourceScopeCanonical = Canonical(ReactionManifestationVS)
+* group.target = $sct
+* targetScopeCanonical = $sct-vs
 
 * group.element[+].code = #aller-0004-00001
 * group.element[=].display = "Aksirish"
