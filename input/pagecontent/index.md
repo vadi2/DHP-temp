@@ -75,7 +75,7 @@ The only exception to versioning are translation supplements of official [THO](h
 - Indicates breaking changes in parts of the IG or significant architectural updates
 
 ### IP Statements
-{% include ip-statements.xhtml %}
+<!-- { // not yet supported by i18n in IG publisher: % include ip-statements.xhtml %} -->
 
 ### Contributors
 
@@ -84,6 +84,7 @@ The only exception to versioning are translation supplements of official [THO](h
 | [Rustam Sadykov](https://github.com/roosyabuddy) | IG Maintainer                 | [Uzinfocom](https://uzinfocom.uz)               |
 | [Vadim Peretokin](https://github.com/vadi2/)     | Primary Author                | [Peretokin Consulting](https://vadimperetok.in) |
 | [Bekhzod Akhmedov](https://github.com/BEKHZOD98) | Co-Author                     | [Uzinfocom](https://uzinfocom.uz)               |
+| [Sarvar Kubaev](https://github.com/KubayevSarvarbek) | Co-Author                 | [Uzinfocom](https://uzinfocom.uz)               |
 | Saodat Kadirova                                  | Business Analyst              | [Uzinfocom](https://uzinfocom.uz)               |
 | Irina Berger                                     | Business Analyst              | [Uzinfocom](https://uzinfocom.uz)               |
 | Ministry of Health of the Republic of Uzbekistan | Strategic Partner             | Government                                      |
