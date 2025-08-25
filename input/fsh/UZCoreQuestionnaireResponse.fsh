@@ -75,13 +75,5 @@ Usage: #example
 * item[3].text = "Как часто Вы употребляете алкоголь?"
 * item[3].answer[0].valueString = "Раз в неделю"
 
-/*
-// Если в анкете q4 имеет type=coding, используйте вместо блока выше такой вариант:
-* item[3].linkId = "q4"
-* item[3].text = "Как часто Вы употребляете алкоголь?"
-* item[3].answer[0].valueCoding.system = "https://terminology.dhp.uz/CodeSystem/habit-frequency"
-* item[3].answer[0].valueCoding.code = #weekly
-* item[3].answer[0].valueCoding.display = "Раз в неделю"
-*/
 
 
