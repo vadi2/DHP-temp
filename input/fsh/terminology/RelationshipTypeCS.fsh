@@ -44,7 +44,7 @@ Description: "Relationship types in Uzbekistan"
   * ^designation[=].value = "другой"
   * ^designation[+].language = #en
   * ^designation[=].value = "other"
-* #U "noma’lum"
+* #U "noma'lum"
   * ^designation[0].language = #ru
   * ^designation[=].value = "неизвестный"
   * ^designation[+].language = #en

@@ -7,6 +7,34 @@ on:
     types: [opened, synchronize] # This will trigger the workflow only when a PR is opened or updated with new commits
 
 jobs:
+  check-smart-quotes:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check for smart quotes in FSH files
+        run: |
+          echo "🔍 Scanning FSH files for smart quotes..."
+          
+          # Search for smart quotes (U+201C, U+201D, U+2018, U+2019) in FSH files
+          SMART_QUOTES_FOUND=$(find . -name "*.fsh" -type f -exec grep -l $'[\u201C\u201D\u2018\u2019]' {} \; 2>/dev/null | wc -l)
+          
+          if [ "$SMART_QUOTES_FOUND" -gt 0 ]; then
+            echo "❌ Smart quotes detected in FSH files!"
+            echo "Files containing smart quotes:"
+            find . -name "*.fsh" -type f -exec grep -l $'[\u201C\u201D\u2018\u2019]' {} \; 2>/dev/null
+            echo ""
+            echo "Please replace smart quotes with regular ASCII quotes:"
+            echo "“" → \"  (U+201C → ASCII double quote)"
+            echo "”" → \"  (U+201D → ASCII double quote)"
+            echo "‘' → '  (U+2018 → ASCII single quote)"
+            echo "’' → '  (U+2019 → ASCII single quote)"
+            exit 1
+          else
+            echo "✅ No smart quotes found in FSH files!"
+          fi
+
   sushi:
     runs-on: ubuntu-latest
 

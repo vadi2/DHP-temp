@@ -6,7 +6,7 @@ Description: "Encounter admit source codes with English and Russian translations
 
 * #hosp-trans
   * ^designation[0].language = #uz
-  * ^designation[=].value = "Boshqa shifoxonadan o‘tkazilgan"
+  * ^designation[=].value = "Boshqa shifoxonadan o'tkazilgan"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Переведен из другой больницы"
 * #born

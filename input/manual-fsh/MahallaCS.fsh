@@ -2662,11 +2662,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Qo'shtepa MFY"
 
-* #17060025 "Yangi O‘zbekiston MFY"
+* #17060025 "Yangi O'zbekiston MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Yangi O‘zbekiston MFY"
+  * ^designation[=].value = "Yangi O'zbekiston MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Yangi O‘zbekiston MFY"
+  * ^designation[=].value = "Yangi O'zbekiston MFY"
 
 * #17060045 "Osuda hayot MFY"
   * ^designation[0].language = #ru
@@ -6082,11 +6082,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Abdulla Qahhor MFY"
 
-* #20110066 "Fayzulla Xo‘jayev MFY"
+* #20110066 "Fayzulla Xo'jayev MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Fayzulla Xo‘jayev MFY"
+  * ^designation[=].value = "Fayzulla Xo'jayev MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Fayzulla Xo‘jayev MFY"
+  * ^designation[=].value = "Fayzulla Xo'jayev MFY"
 
 * #20110013 "Buktaroy MFY"
   * ^designation[0].language = #ru
@@ -6370,11 +6370,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Olmazor MFY"
 
-* #20110003 "Abduxoliq G‘ijduvoniy MFY"
+* #20110003 "Abduxoliq G'ijduvoniy MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Abduxoliq G‘ijduvoniy MFY"
+  * ^designation[=].value = "Abduxoliq G'ijduvoniy MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Abduxoliq G‘ijduvoniy MFY"
+  * ^designation[=].value = "Abduxoliq G'ijduvoniy MFY"
 
 * #20110050 "Paxtaobod MFY"
   * ^designation[0].language = #ru
@@ -7702,11 +7702,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Paxtakor MFY"
 
-* #20100027 "Mirzaqal’a MFY"
+* #20100027 "Mirzaqal'a MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Mirzaqal’a MFY"
+  * ^designation[=].value = "Mirzaqal'a MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Mirzaqal’a MFY"
+  * ^designation[=].value = "Mirzaqal'a MFY"
 
 * #20100002 "Oqoltin MFY"
   * ^designation[0].language = #ru
@@ -9334,17 +9334,17 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Ultarma MFY"
 
-* #15010023 "Quyi Qo‘shtegirmon MFY"
+* #15010023 "Quyi Qo'shtegirmon MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Quyi Qo‘shtegirmon MFY"
+  * ^designation[=].value = "Quyi Qo'shtegirmon MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Quyi Qo‘shtegirmon MFY"
+  * ^designation[=].value = "Quyi Qo'shtegirmon MFY"
 
-* #15010024 "Yuqori Qo‘shtegirmon MFY"
+* #15010024 "Yuqori Qo'shtegirmon MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Yuqori Qo‘shtegirmon MFY"
+  * ^designation[=].value = "Yuqori Qo'shtegirmon MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Yuqori Qo‘shtegirmon MFY"
+  * ^designation[=].value = "Yuqori Qo'shtegirmon MFY"
 
 * #15010038 "Olchin MFY"
   * ^designation[0].language = #ru
@@ -9460,11 +9460,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Jaloyir MFY"
 
-* #15030015 "Buyuk ipak yo‘li MFY"
+* #15030015 "Buyuk ipak yo'li MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Buyuk ipak yo‘li MFY"
+  * ^designation[=].value = "Buyuk ipak yo'li MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Buyuk ipak yo‘li MFY"
+  * ^designation[=].value = "Buyuk ipak yo'li MFY"
 
 * #15030008 "Dehqonobod MFY"
   * ^designation[0].language = #ru
@@ -11170,11 +11170,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Yangihayot MFY"
 
-* #15190052 "Yangibog‘ MFY"
+* #15190052 "Yangibog' MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Yangibog‘ MFY"
+  * ^designation[=].value = "Yangibog' MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Yangibog‘ MFY"
+  * ^designation[=].value = "Yangibog' MFY"
 
 * #15190013 "Yoyilma MFY"
   * ^designation[0].language = #ru
@@ -11188,17 +11188,17 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Bobur MFY"
 
-* #15190002 "Ariqbo‘yi MFY"
+* #15190002 "Ariqbo'yi MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Ariqbo‘yi MFY"
+  * ^designation[=].value = "Ariqbo'yi MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Ariqbo‘yi MFY"
+  * ^designation[=].value = "Ariqbo'yi MFY"
 
-* #15190047 "Xo‘ja forso MFY"
+* #15190047 "Xo'ja forso MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Xo‘ja forso MFY"
+  * ^designation[=].value = "Xo'ja forso MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Xo‘ja forso MFY"
+  * ^designation[=].value = "Xo'ja forso MFY"
 
 * #15190048 "Charog'on MFY"
   * ^designation[0].language = #ru
@@ -11206,11 +11206,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Charog'on MFY"
 
-* #15190046 "O‘rdatagi MFY"
+* #15190046 "O'rdatagi MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "O‘rdatagi MFY"
+  * ^designation[=].value = "O'rdatagi MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "O‘rdatagi MFY"
+  * ^designation[=].value = "O'rdatagi MFY"
 
 * #15190036 "Teraktagi MFY"
   * ^designation[0].language = #ru
@@ -11218,11 +11218,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Teraktagi MFY"
 
-* #15190006 "Burhoniddin Marg‘inoniy MFY"
+* #15190006 "Burhoniddin Marg'inoniy MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Burhoniddin Marg‘inoniy MFY"
+  * ^designation[=].value = "Burhoniddin Marg'inoniy MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Burhoniddin Marg‘inoniy MFY"
+  * ^designation[=].value = "Burhoniddin Marg'inoniy MFY"
 
 * #15190029 "Navbahor MFY"
   * ^designation[0].language = #ru
@@ -13000,11 +13000,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Balandmasjid MFY"
 
-* #15080036 "Soybo‘yi MFY"
+* #15080036 "Soybo'yi MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Soybo‘yi MFY"
+  * ^designation[=].value = "Soybo'yi MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Soybo‘yi MFY"
+  * ^designation[=].value = "Soybo'yi MFY"
 
 * #15080048 "Shomirza MFY"
   * ^designation[0].language = #ru
@@ -13138,17 +13138,17 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Jaloyir MFY"
 
-* #15060029 "Mo‘ydin Hasanov MFY"
+* #15060029 "Mo'ydin Hasanov MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Mo‘ydin Hasanov MFY"
+  * ^designation[=].value = "Mo'ydin Hasanov MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Mo‘ydin Hasanov MFY"
+  * ^designation[=].value = "Mo'ydin Hasanov MFY"
 
-* #15060039 "Pastki Xo‘ja Hasan MFY"
+* #15060039 "Pastki Xo'ja Hasan MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Pastki Xo‘ja Hasan MFY"
+  * ^designation[=].value = "Pastki Xo'ja Hasan MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Pastki Xo‘ja Hasan MFY"
+  * ^designation[=].value = "Pastki Xo'ja Hasan MFY"
 
 * #15060062 "Yangihayot MFY"
   * ^designation[0].language = #ru
@@ -13516,11 +13516,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Amir Temur MFY"
 
-* #15180028 "Cho‘lpon MFY"
+* #15180028 "Cho'lpon MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Cho‘lpon MFY"
+  * ^designation[=].value = "Cho'lpon MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Cho‘lpon MFY"
+  * ^designation[=].value = "Cho'lpon MFY"
 
 * #15180001 "Alisher Navoiy MFY"
   * ^designation[0].language = #ru
@@ -13570,11 +13570,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Doʻstlik MFY"
 
-* #15180029 "Yuqori Mo‘yon MFY"
+* #15180029 "Yuqori Mo'yon MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Yuqori Mo‘yon MFY"
+  * ^designation[=].value = "Yuqori Mo'yon MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Yuqori Mo‘yon MFY"
+  * ^designation[=].value = "Yuqori Mo'yon MFY"
 
 * #15180010 "Zebuniso MFY"
   * ^designation[0].language = #ru
@@ -13672,11 +13672,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Bo'ston MFY"
 
-* #15180017 "Mirzo Ulug‘bek MFY"
+* #15180017 "Mirzo Ulug'bek MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Mirzo Ulug‘bek MFY"
+  * ^designation[=].value = "Mirzo Ulug'bek MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Mirzo Ulug‘bek MFY"
+  * ^designation[=].value = "Mirzo Ulug'bek MFY"
 
 * #15180023 "Soyboʻyi MFY"
   * ^designation[0].language = #ru
@@ -13816,11 +13816,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Ar-Roshidoniy MFY"
 
-* #15090003 "Anhorbo‘yi MFY"
+* #15090003 "Anhorbo'yi MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Anhorbo‘yi MFY"
+  * ^designation[=].value = "Anhorbo'yi MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Anhorbo‘yi MFY"
+  * ^designation[=].value = "Anhorbo'yi MFY"
 
 * #15090018 "Dorilаmon MFY"
   * ^designation[0].language = #ru
@@ -13840,11 +13840,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Oqoltin MFY"
 
-* #15090052 "To‘xtasin Ahmedov MFY"
+* #15090052 "To'xtasin Ahmedov MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "To‘xtasin Ahmedov MFY"
+  * ^designation[=].value = "To'xtasin Ahmedov MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "To‘xtasin Ahmedov MFY"
+  * ^designation[=].value = "To'xtasin Ahmedov MFY"
 
 * #15090071 "Yangiyoʻl MFY"
   * ^designation[0].language = #ru
@@ -15802,11 +15802,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Samarqand MFY"
 
-* #13130016 "Mirzo Ulug‘bek MFY"
+* #13130016 "Mirzo Ulug'bek MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Mirzo Ulug‘bek MFY"
+  * ^designation[=].value = "Mirzo Ulug'bek MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Mirzo Ulug‘bek MFY"
+  * ^designation[=].value = "Mirzo Ulug'bek MFY"
 
 * #13130002 "Amir Temur MFY"
   * ^designation[0].language = #ru
@@ -16750,11 +16750,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Hamid Olimjon MFY"
 
-* #13080007 "G‘afur G‘ulom MFY"
+* #13080007 "G'afur G'ulom MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "G‘afur G‘ulom MFY"
+  * ^designation[=].value = "G'afur G'ulom MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "G‘afur G‘ulom MFY"
+  * ^designation[=].value = "G'afur G'ulom MFY"
 
 * #13080005 "Bogʻishamol MFY"
   * ^designation[0].language = #ru
@@ -17950,11 +17950,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Baxoriston MFY"
 
-* #16010030 "Yangi O‘zbekiston MFY"
+* #16010030 "Yangi O'zbekiston MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Yangi O‘zbekiston MFY"
+  * ^designation[=].value = "Yangi O'zbekiston MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Yangi O‘zbekiston MFY"
+  * ^designation[=].value = "Yangi O'zbekiston MFY"
 
 * #16010007 "Bogʻibaland MFY"
   * ^designation[0].language = #ru
@@ -17980,11 +17980,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Mavoraunnahr MFY"
 
-* #16010028 "Maхdumi A’zam MFY"
+* #16010028 "Maхdumi A'zam MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Maхdumi A’zam MFY"
+  * ^designation[=].value = "Maхdumi A'zam MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Maхdumi A’zam MFY"
+  * ^designation[=].value = "Maхdumi A'zam MFY"
 
 * #16010041 "Soyboʻyi MFY"
   * ^designation[0].language = #ru
@@ -23590,11 +23590,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Istiqlol MFY"
 
-* #21100022 "Dovg‘iztov MFY"
+* #21100022 "Dovg'iztov MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Dovg‘iztov MFY"
+  * ^designation[=].value = "Dovg'iztov MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Dovg‘iztov MFY"
+  * ^designation[=].value = "Dovg'iztov MFY"
 
 * #21100018 "Yulduz MFY"
   * ^designation[0].language = #ru
@@ -26572,11 +26572,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Samarqand MFY"
 
-* #18120038 "Nurliyo‘l MFY"
+* #18120038 "Nurliyo'l MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Nurliyo‘l MFY"
+  * ^designation[=].value = "Nurliyo'l MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Nurliyo‘l MFY"
+  * ^designation[=].value = "Nurliyo'l MFY"
 
 * #18120028 "Qoratepa MFY"
   * ^designation[0].language = #ru
@@ -27736,11 +27736,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Turon MFY"
 
-* #18160020 "Qo‘shhovuz MFY"
+* #18160020 "Qo'shhovuz MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Qo‘shhovuz MFY"
+  * ^designation[=].value = "Qo'shhovuz MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Qo‘shhovuz MFY"
+  * ^designation[=].value = "Qo'shhovuz MFY"
 
 * #18160021 "Maʼrifat MFY"
   * ^designation[0].language = #ru
@@ -27868,11 +27868,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Katta Novqat MFY"
 
-* #18160011 "Ipak yo‘li MFY"
+* #18160011 "Ipak yo'li MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Ipak yo‘li MFY"
+  * ^designation[=].value = "Ipak yo'li MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Ipak yo‘li MFY"
+  * ^designation[=].value = "Ipak yo'li MFY"
 
 * #18160039 "Yangihayot MFY"
   * ^designation[0].language = #ru
@@ -28216,11 +28216,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Miraki MFY"
 
-* #18110019 "Chimqo‘rgʻon MFY"
+* #18110019 "Chimqo'rgʻon MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Chimqo‘rgʻon MFY"
+  * ^designation[=].value = "Chimqo'rgʻon MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Chimqo‘rgʻon MFY"
+  * ^designation[=].value = "Chimqo'rgʻon MFY"
 
 * #18110063 "Bog'zor MFY"
   * ^designation[0].language = #ru
@@ -29158,11 +29158,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Erkindaryo OFY"
 
-* #23100006 "Do‘stlik MFY"
+* #23100006 "Do'stlik MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Do‘stlik MFY"
+  * ^designation[=].value = "Do'stlik MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Do‘stlik MFY"
+  * ^designation[=].value = "Do'stlik MFY"
 
 * #23100001 "Abatmeken MFY"
   * ^designation[0].language = #ru
@@ -30844,11 +30844,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Qostruba MFY"
 
-* #23080041 "Nurli Ullibog‘ MFY"
+* #23080041 "Nurli Ullibog' MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Nurli Ullibog‘ MFY"
+  * ^designation[=].value = "Nurli Ullibog' MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Nurli Ullibog‘ MFY"
+  * ^designation[=].value = "Nurli Ullibog' MFY"
 
 * #16120003 "Atangan Guzar MFY"
   * ^designation[0].language = #ru
@@ -31678,11 +31678,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Zartepa MFY"
 
-* #14030023 "Qo‘chqor Qarshiyev MFY"
+* #14030023 "Qo'chqor Qarshiyev MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Qo‘chqor Qarshiyev MFY"
+  * ^designation[=].value = "Qo'chqor Qarshiyev MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Qo‘chqor Qarshiyev MFY"
+  * ^designation[=].value = "Qo'chqor Qarshiyev MFY"
 
 * #14030043 "Sohibkor MFY"
   * ^designation[0].language = #ru
@@ -41290,11 +41290,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Obod Vaxshivor MFY"
 
-* #19090038 "Xo‘jasoat MFY"
+* #19090038 "Xo'jasoat MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Xo‘jasoat MFY"
+  * ^designation[=].value = "Xo'jasoat MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Xo‘jasoat MFY"
+  * ^designation[=].value = "Xo'jasoat MFY"
 
 * #19090040 "Sohibkor MFY"
   * ^designation[0].language = #ru
@@ -50650,11 +50650,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Yangilik MFY"
 
-* #11120001 "Abdukarim Yo‘lbarisov MFY"
+* #11120001 "Abdukarim Yo'lbarisov MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Abdukarim Yo‘lbarisov MFY"
+  * ^designation[=].value = "Abdukarim Yo'lbarisov MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Abdukarim Yo‘lbarisov MFY"
+  * ^designation[=].value = "Abdukarim Yo'lbarisov MFY"
 
 * #11120037 "Oqota MFY"
   * ^designation[0].language = #ru
@@ -53770,11 +53770,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Obod MFY"
 
-* #22010016 "Ko‘nabirlashuv MFY"
+* #22010016 "Ko'nabirlashuv MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Ko‘nabirlashuv MFY"
+  * ^designation[=].value = "Ko'nabirlashuv MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Ko‘nabirlashuv MFY"
+  * ^designation[=].value = "Ko'nabirlashuv MFY"
 
 * #22020001 "Beshuy MFY"
   * ^designation[0].language = #ru
@@ -54784,11 +54784,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Saidlar MFY"
 
-* #22130001 "Yo‘ldosh Oxunboboyev MFY"
+* #22130001 "Yo'ldosh Oxunboboyev MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Yo‘ldosh Oxunboboyev MFY"
+  * ^designation[=].value = "Yo'ldosh Oxunboboyev MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Yo‘ldosh Oxunboboyev MFY"
+  * ^designation[=].value = "Yo'ldosh Oxunboboyev MFY"
 
 * #22130015 "Tuproqqalʼa maskani MFY"
   * ^designation[0].language = #ru
@@ -55090,11 +55090,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Oqmaktab MFY"
 
-* #22030025 "Ko‘naovul MFY"
+* #22030025 "Ko'naovul MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Ko‘naovul MFY"
+  * ^designation[=].value = "Ko'naovul MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Ko‘naovul MFY"
+  * ^designation[=].value = "Ko'naovul MFY"
 
 * #22030008 "Bobodehqon MFY"
   * ^designation[0].language = #ru
@@ -55426,11 +55426,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Barkamol avlod MFY"
 
-* #22100009 "G‘аfur G‘ulom MFY"
+* #22100009 "G'аfur G'ulom MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "G‘аfur G‘ulom MFY"
+  * ^designation[=].value = "G'аfur G'ulom MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "G‘аfur G‘ulom MFY"
+  * ^designation[=].value = "G'аfur G'ulom MFY"
 
 * #22100025 "Oqmaydon MFY"
   * ^designation[0].language = #ru
@@ -55462,11 +55462,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Mustaqillik MFY"
 
-* #22100037 "Sulaymonqal’a MFY"
+* #22100037 "Sulaymonqal'a MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Sulaymonqal’a MFY"
+  * ^designation[=].value = "Sulaymonqal'a MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Sulaymonqal’a MFY"
+  * ^designation[=].value = "Sulaymonqal'a MFY"
 
 * #22100044 "Yangibozor MFY"
   * ^designation[0].language = #ru
@@ -55744,11 +55744,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Qiyot MFY"
 
-* #22120013 "Qibla Tozabog‘ MFY"
+* #22120013 "Qibla Tozabog' MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Qibla Tozabog‘ MFY"
+  * ^designation[=].value = "Qibla Tozabog' MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Qibla Tozabog‘ MFY"
+  * ^designation[=].value = "Qibla Tozabog' MFY"
 
 * #22120015 "Qumyasqa MFY"
   * ^designation[0].language = #ru
@@ -55834,11 +55834,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Sangar MFY"
 
-* #22050012 "Go‘jaguzar MFY"
+* #22050012 "Go'jaguzar MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Go‘jaguzar MFY"
+  * ^designation[=].value = "Go'jaguzar MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Go‘jaguzar MFY"
+  * ^designation[=].value = "Go'jaguzar MFY"
 
 * #22050018 "Oqyop MFY"
   * ^designation[0].language = #ru
@@ -55846,11 +55846,11 @@ Description: "Mahalla codes and names with translations in Russian and English"
   * ^designation[+].language = #en
   * ^designation[=].value = "Oqyop MFY"
 
-* #22050017 "Qushchi Kattabog‘ MFY"
+* #22050017 "Qushchi Kattabog' MFY"
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Qushchi Kattabog‘ MFY"
+  * ^designation[=].value = "Qushchi Kattabog' MFY"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Qushchi Kattabog‘ MFY"
+  * ^designation[=].value = "Qushchi Kattabog' MFY"
 
 * #22050084 "Sho'rko'l MFY"
   * ^designation[0].language = #ru

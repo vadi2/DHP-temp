@@ -316,7 +316,7 @@ Description: "List of regions and locations in Uzbekistan"
   * ^designation[+].language = #en
   * ^designation[=].value = "Kasbi district"
 
-* #1710240 "Ko‘kdala tumani"
+* #1710240 "Ko'kdala tumani"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кокдалинский район"
   * ^designation[+].language = #en
@@ -1228,11 +1228,11 @@ Description: "List of regions and locations in Uzbekistan"
   * ^designation[+].language = #en
   * ^designation[=].value = "Shumanay district"
 
-* #1735250 "Ellikqal’a tumani"
+* #1735250 "Ellikqal'a tumani"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Элликкалинский район"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Ellikkal’a district"
+  * ^designation[=].value = "Ellikkal'a district"
 
 * #1735401 "Nukus shahri"
   * ^designation[0].language = #ru

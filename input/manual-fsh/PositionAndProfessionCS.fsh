@@ -400,7 +400,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ведущий инспектор Народной приемной Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Chief inspector of the People’s Reception Office of the President of the Republic of Uzbekistan"
+  * ^designation[=].value = "Chief inspector of the People's Reception Office of the President of the Republic of Uzbekistan"
 * #1112.5 "O'zbekiston Respublikasi Prezidenti Аdministratsiyasi yetakchi maslahatchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ведущий консультант Администрации Президента Республики Узбекистан"
@@ -410,7 +410,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ведущий консультант канцелярии Администрации Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Chief consultant of the Office of the President’s Administration of the Republic of Uzbekistan"
+  * ^designation[=].value = "Chief consultant of the Office of the President's Administration of the Republic of Uzbekistan"
 * #1112.7 "O'zbekiston Respublikasi Oliy Majlisining inson huquqlari bo'yicha vakili (ombudsman) Kotibiyatining yetakchi maslahatchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ведущий консультант Секретариата Уполномоченного Олий Мажлиса Республики Узбекистан по правам человека (омбудсмана)"
@@ -520,12 +520,12 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Главный инспектор канцелярии Администрации Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Chief inspector of the Office of the President’s Administration"
+  * ^designation[=].value = "Chief inspector of the Office of the President's Administration"
 * #1112.29 "O'zbekiston Respublikasi Prezidenti Xalq qabulxonasi bosh inspektori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Главный инспектор Народной приемной Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Chief Inspector of the People’s Reception Office of the President of the Republic of Uzbekistan"
+  * ^designation[=].value = "Chief Inspector of the People's Reception Office of the President of the Republic of Uzbekistan"
 * #1112.30 "Turizm bo'yicha bosh inspektor"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Главный инспектор по туризму"
@@ -550,7 +550,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Главный консультант канцелярии Администрации Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Chief Adviser to the Office of the President’s Administration"
+  * ^designation[=].value = "Chief Adviser to the Office of the President's Administration"
 * #1112.35 "O'zbekiston Respublikasi Prezidenti Аdministratsiyasi Moliya-xo'jaligi Departamenti bosh maslahatchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Главный консультант Финансово-хозяйственного департамента Администрации Президента Республики Узбекистан"
@@ -720,7 +720,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий архивом канцелярии Администрации Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the Archives of the Office of the President’s Administration"
+  * ^designation[=].value = "Head of the Archives of the Office of the President's Administration"
 * #1112.69 "Departament mudiri"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий департаментом"
@@ -730,12 +730,12 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий канцелярией Администрации Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the Office of the President’s Administration"
+  * ^designation[=].value = "Head of the Office of the President's Administration"
 * #1112.71 "O'zbekiston Respublikasi Prezidenti Xalq qabulxonasi mudiri"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий Народной приемной Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the People’s Reception Office of the President of the Republic of Uzbekistan"
+  * ^designation[=].value = "Head of the People's Reception Office of the President of the Republic of Uzbekistan"
 * #1112.72 "Vazirlar Mahkamasi apparatida bo'lim mudiri"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий отделом в аппарате Кабинета Министров"
@@ -750,7 +750,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий секретариатом заместителя Премьер-министра"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the Deputy Prime Minister’s Secretariat"
+  * ^designation[=].value = "Head of the Deputy Prime Minister's Secretariat"
 * #1112.75 "Bosh vazirning birinchi o'rinbosari kotibiyati mudiri"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий секретариатом первого заместителя Премьер-министра"
@@ -760,7 +760,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий секретариатом Премьер-министра"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Chief of the Prime Minister’s Secretariat"
+  * ^designation[=].value = "Chief of the Prime Minister's Secretariat"
 * #1112.77 "Sho''ba mudiri"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий сектором"
@@ -780,7 +780,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий сектором канцелярии Администрации Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the Office of the President’s Administration"
+  * ^designation[=].value = "Head of the Office of the President's Administration"
 * #1112.81 "O'zbekiston Respublikasi Prezidenti Аdministratsiyasi Moliya-xo'jalik departamenti sho''ba mudiri"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий сектором Финансово-хозяйственного департамента Администрации Президента Республики Узбекистан"
@@ -915,7 +915,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заместитель управляющего аппаратом Кабинета Министров"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Deputy Cabinet Minister’s Office"
+  * ^designation[=].value = "Deputy Cabinet Minister's Office"
 * #1112.108 "Vazirlar Mahkamasi Ijro etuvchi apparati boshqaruvchisi o'rinbosari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заместитель управляющего Исполнительного аппарата Кабинета Министров"
@@ -965,7 +965,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Инспектор Народной приемной Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Inspector of the People’s Reception Office of the President of the Republic of Uzbekistan"
+  * ^designation[=].value = "Inspector of the People's Reception Office of the President of the Republic of Uzbekistan"
 * #1112.118 "Rejim va maxfiylik bo'yicha inspektor"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Инспектор по режиму и секретности"
@@ -1350,7 +1350,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Председатель совета (городского, областного, районного, республиканского и других) народных депутатов"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Chairman of the council (city, regional, district, republican and other) of people’s deputies"
+  * ^designation[=].value = "Chairman of the council (city, regional, district, republican and other) of people's deputies"
 * #1112.195 "Qoraqalpog'iston Respublikasi Vazirlar Kengashi raisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Председатель Совета Министров Республики Каракалпакстан"
@@ -1390,7 +1390,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Референт Администрации Президента Республики Узбекистан"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Assistant to the President’s Administration"
+  * ^designation[=].value = "Assistant to the President's Administration"
 * #1112.203 "O'zbekiston Respublikasi Prezidenti Аdministratsiyasi rahbari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Руководитель Администрации Президента Республики Узбекистан"
@@ -1465,7 +1465,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Советник директора"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Director’s Adviser"
+  * ^designation[=].value = "Director's Adviser"
 * #1112.218 "Direktor maslahatchisi – departament rahbari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Советник директора – руководителя департамента"
@@ -1475,7 +1475,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Советник министра"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Minister’s adviser"
+  * ^designation[=].value = "Minister's adviser"
 * #1112.220 "Xavfsizlik bo'yicha maslahatchi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Советник по безопасности"
@@ -1775,7 +1775,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Член президиума академии (наук, художеств)"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Member of the Academy’s Presidium (Sciences, Arts)"
+  * ^designation[=].value = "Member of the Academy's Presidium (Sciences, Arts)"
 * #1120 "Tijorat va notijorat tashkilotlari rahbarlari (jamoat tashkilotlari (birlashmalari) rahbarlaridan tashqari)"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Руководители коммерческих и некоммерческих организаций (кроме руководителей общественных организаций (объединений))"
@@ -1840,7 +1840,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Генеральный директор телеграфного агентства республики"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Director-General of the Republic’s Telegraph Agency"
+  * ^designation[=].value = "Director-General of the Republic's Telegraph Agency"
 * #1120.13 "Turistik tashkilot (firma) bosh direktori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Генеральный директор туристского предприятия (фирмы)"
@@ -2171,31 +2171,31 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Директор департамента"
   * ^designation[+].language = #en
   * ^designation[=].value = "Department Director"
-* #1120.79 "Bolalar shaharchasi, “Mehribonlik” bolalar uyi direktori"
+* #1120.79 "Bolalar shaharchasi, "Mehribonlik" bolalar uyi direktori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Директор детского дома «Мехрибонлик», Детского городка"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Director of the children’s home «Meherbonlik», Children’s Town"
+  * ^designation[=].value = "Director of the children's home «Meherbonlik», Children's Town"
 * #1120.80 "Maktabgacha ta'lim muassasasi direktori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Директор детского дошкольной организации"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the Children’s Day Care Organization"
+  * ^designation[=].value = "Head of the Children's Day Care Organization"
 * #1120.81 "Bolalarni sog'lomlashtirish majmuasi direktori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Директор детского оздоровительного комплекса"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Director of the Children’s Health Complex"
+  * ^designation[=].value = "Director of the Children's Health Complex"
 * #1120.82 "Bolalar, o'smirlar sport maktabi direktori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Директор детской, юношеской спортивной школы"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Director of the Children’s, Youth Sports School"
+  * ^designation[=].value = "Director of the Children's, Youth Sports School"
 * #1120.83 "Uy (bolalar, ovoz yozish, xalq ijodiyoti, ilmiy-texnik tashviqot, dam olish, keksalar va boshqalar) direktori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Директор дома (детского, народного творчества, научно-технической пропаганды, отдыха, престарелых и других)"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Director of the house (children’s, folk art, scientific and technical propaganda, recreation, elderly and others)"
+  * ^designation[=].value = "Director of the house (children's, folk art, scientific and technical propaganda, recreation, elderly and others)"
 * #1120.84 "Madaniyat uyi direktori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Директор дома культуры"
@@ -4180,7 +4180,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Начальник городка (детского оздоровительного, учебного)"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the town (children’s health, educational)"
+  * ^designation[=].value = "Head of the town (children's health, educational)"
 * #1219.86 "Charm-poyabzal sohasini rivojlantirish va qo'llab-quvvatlash jamg'armasini departamenti boshlig'i"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Начальник департамента по управлению Фондом развития и поддержки кожевенно-обувной отрасли"
@@ -8005,7 +8005,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заведующий столярной мастерской"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Carpenter’s shop manager"
+  * ^designation[=].value = "Carpenter's shop manager"
 * #1323.28 "Kapital qurilish bo'yicha direktor muovini-АES kapital qurilish boshqarmasi boshlig'i"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Заместитель директора по капитальному строительству-начальник управления капитального строительства АЭС"
@@ -8910,7 +8910,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Начальник детской железной дороги"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the Children’s Railway"
+  * ^designation[=].value = "Head of the Children's Railway"
 * #1324.135 "Direktsiya boshlig'i"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Начальник дирекции"
@@ -9700,7 +9700,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Начальник станции городской товарной"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the city’s commercial station"
+  * ^designation[=].value = "Head of the city's commercial station"
 * #1324.293 "Gabaritli tekshirish yo'l stantsiyasi boshlig'i"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Начальник станции дорожной габаритообследовательской"
@@ -10430,7 +10430,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Начальник медико-санитарного отдела предприятия"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the company’s health and medical department"
+  * ^designation[=].value = "Head of the company's health and medical department"
 * #1342.21 "Tibbiy-sanitariya qismi boshlig'i"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Начальник медико-санитарной части"
@@ -16980,7 +16980,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Младший топограф"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Topographer’s Junior"
+  * ^designation[=].value = "Topographer's Junior"
 * #2165.30 "Ilmiy xodim"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Научный сотрудник"
@@ -17095,7 +17095,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ассистент художника-мультипликатора"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Animator’s assistant"
+  * ^designation[=].value = "Animator's assistant"
 * #2166.4 "Postanovkachi rassom assistenti"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ассистент художника-постановщика"
@@ -18330,7 +18330,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Врач детский терапевт-стоматолог (в детских стационарных ЛПУ)"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Doctor of Paediatric General Practitioner-Dentist (in children’s hospital LPU)"
+  * ^designation[=].value = "Doctor of Paediatric General Practitioner-Dentist (in children's hospital LPU)"
 * #2261.3 "Pediatriya tish jarroh (og'iz qismida)"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Врач детский хирург-стоматолог (оральный)"
@@ -18540,7 +18540,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Помощник энтомолога"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Entomologist’s assistant"
+  * ^designation[=].value = "Entomologist's assistant"
 * #2263.7 "Proforientolog"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Профориентолог"
@@ -19035,12 +19035,12 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Воспитатель по эстетическому образованию детей"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Teacher of children’s aesthetic education"
+  * ^designation[=].value = "Teacher of children's aesthetic education"
 * #2341.3 "Maktabdan tashqari bolalar muassasalari madaniy tadbirlarni tashkil etuvchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Культорганизатор детских внешкольных учреждений"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Curator of children’s out-of-school institutions"
+  * ^designation[=].value = "Curator of children's out-of-school institutions"
 * #2341.4 "Davlat tili uslubchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Методист государственного языка"
@@ -19080,17 +19080,17 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Воспитатель в детских дошкольных организациях"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Tutor in children’s pre-school organizations"
+  * ^designation[=].value = "Tutor in children's pre-school organizations"
 * #2342.3 "Elementar kompьyuter savodxonligi va chet tilini o'rgatish huquqiga ega bo'lgan maktabgacha ta'lim tashkiloti tarbiyachisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Воспитатель в детских дошкольных организациях с правом обучения детей иностранному языку и элементарной компьютерной грамотности"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Tutor in children’s pre-school organizations with the right to teach children a foreign language and basic computer literacy"
+  * ^designation[=].value = "Tutor in children's pre-school organizations with the right to teach children a foreign language and basic computer literacy"
 * #2342.4 "Ixtisoslashtirilgan maktabgacha ta'lim muassasalarida tarbiyachi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Воспитатель в специализированных детских дошкольных организациях"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Educator in specialized children’s pre-school organizations"
+  * ^designation[=].value = "Educator in specialized children's pre-school organizations"
 * #2342.5 "Kuni uzaytirilgan guruh tarbiyachisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Воспитатель группы продленного дня"
@@ -19140,7 +19140,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учитель детских дошкольных организаций"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Teacher of children’s pre-school organizations"
+  * ^designation[=].value = "Teacher of children's pre-school organizations"
 * #2351 "Ta'lim sohasidagi boshqa professional-mutaxassislar. Ta'lim uslubiyoti bo'yicha mutaxassislar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Другие специалисты в сфере образования. Специалисты по образовательной методике"
@@ -19435,7 +19435,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Инструктор детской железной дороги"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Children’s railway instructor"
+  * ^designation[=].value = "Children's railway instructor"
 * #2359.13 "Xizmat itlari klubi yo'riqchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Инструктор клуба служебного собаководства"
@@ -20200,7 +20200,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Специалист по делам семьи и женщин"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Family and women’s specialist"
+  * ^designation[=].value = "Family and women's specialist"
 * #2432.8 "Mijozlar bilan ishlash bo'yicha mutaxassis"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Специалист по работе с клиентами"
@@ -20835,12 +20835,12 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Стажер нотариуса"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Notary’s Trainee"
+  * ^designation[=].value = "Notary's Trainee"
 * #2619.17 "Prokuratura organi tajriba orttiruvchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Стажер органа прокуратуры"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Prosecutor’s Assistant"
+  * ^designation[=].value = "Prosecutor's Assistant"
 * #2619.18 "Ko'chmas mulkni ro'yhatga oluvchi stajer"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Стажер регистратора недвижимости"
@@ -22390,7 +22390,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Младший топограф"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Topographer’s Junior"
+  * ^designation[=].value = "Topographer's Junior"
 * #3112.9 "Sanitar-texnik tizimlari montajchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Монтажник сантехнических систем"
@@ -22420,7 +22420,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Помощник прораба"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Foreman’s assistant"
+  * ^designation[=].value = "Foreman's assistant"
 * #3112.15 "Ish boshqaruvchi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Прораб"
@@ -24895,7 +24895,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ассистент эпидемиолога"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Epidemiologist’s assistant"
+  * ^designation[=].value = "Epidemiologist's assistant"
 * #3212.3 "Laborant-bakteriolog"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Лаборант-бактериолог"
@@ -24950,7 +24950,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Фармацевт-ассистент"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Pharmacist’s assistant"
+  * ^designation[=].value = "Pharmacist's assistant"
 * #3213.5 "Farmatsevt-retseptar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Фармацевт-рецептар"
@@ -25450,12 +25450,12 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Помощник энтомолога"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Entomologist’s assistant"
+  * ^designation[=].value = "Entomologist's assistant"
 * #3257.35 "Epidemiolog yordamchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Помощник эпидемиолога"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Epidemiologist’s assistant"
+  * ^designation[=].value = "Epidemiologist's assistant"
 * #3257.36 "Mehnat huquqi inspektori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Правовой инспектор труда"
@@ -26290,7 +26290,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Референт совета"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Council’s Reference"
+  * ^designation[=].value = "Council's Reference"
 * #3341.26 "Kotib"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Секретарь"
@@ -26320,7 +26320,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Секретарь приемной руководителя"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Receptionist’s secretary"
+  * ^designation[=].value = "Receptionist's secretary"
 * #3341.32 "Kengash kotibi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Секретарь совета"
@@ -26470,7 +26470,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Секретарь приемной руководителя"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Receptionist’s secretary"
+  * ^designation[=].value = "Receptionist's secretary"
 * #3351 "Bojxona va chegara, soliqlar, davlat xizmatlari, ijtimoiy va pensiya ta'minoti bo'yicha inspektorlar. Bojxona va chegara xizmati organlari xizmatlari inspektorlari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Инспекторы таможни и границы, налогов, государственных служб, социальных и пенсионных служб. Инспекторы таможенной и пограничной служб"
@@ -26510,7 +26510,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ассистент социального работника"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Social worker’s assistant"
+  * ^designation[=].value = "Social worker's assistant"
 * #3353.2 "Tuman (shahar, viloyat) ijtimoiy ta'minot bo'limi inspektori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Инспектор районного (городского, краевого, областного) отдела социального обеспечения"
@@ -26960,7 +26960,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тренер по детским спортивным играм"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Trainer for children’s sports games"
+  * ^designation[=].value = "Trainer for children's sports games"
 * #3421.26 "Ommaviy sport turlari bo'yicha trener"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тренер по массовым видам спорта"
@@ -27025,7 +27025,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тренер по детским спортивным играм"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Trainer for children’s sports games"
+  * ^designation[=].value = "Trainer for children's sports games"
 * #3422.6 "Ommaviy sport turlari bo'yicha trener"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тренер по массовым видам спорта"
@@ -27280,7 +27280,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Руководитель народной студии (декоративно-прикладного, изобразительного искусства)"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of the People’s Studio (decorative and applied, visual arts)"
+  * ^designation[=].value = "Head of the People's Studio (decorative and applied, visual arts)"
 * #3432.21 "Fitodizayner"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Фитодизайнер"
@@ -27340,7 +27340,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бригадир пекарей"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Baker’s brigadier"
+  * ^designation[=].value = "Baker's brigadier"
 * #3434.5 "Oshpaz-brigadir"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Повар-бригадир"
@@ -27615,7 +27615,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ассистент дирижёра"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Conductor’s assistant"
+  * ^designation[=].value = "Conductor's assistant"
 * #3435.53 "Ovoz rejisseri assistenti"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ассистент звукорежиссера"
@@ -27845,7 +27845,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Руководитель детской театральной студии"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Head of children’s theater studio"
+  * ^designation[=].value = "Head of children's theater studio"
 * #3435.99 "Musiqa to'garagi rahbari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Руководитель музыкального кружка"
@@ -27925,42 +27925,42 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учитель детских музыкальных школе школ искусств"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Teacher of children’s music schools art schools"
+  * ^designation[=].value = "Teacher of children's music schools art schools"
 * #3435.115 "Bolalar musiqa va san'at maktablarida puflama va urg'uli asboblar sinfi o'qituvchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учитель класса духовых и ударных инструментов в детских музыкальных школах и школах искусств"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Teacher of the class of brass and percussion instruments in children’s music schools and art schools"
+  * ^designation[=].value = "Teacher of the class of brass and percussion instruments in children's music schools and art schools"
 * #3435.116 "Bolalar musiqa va san'at maktablarida torli cholg'u asboblar sinfi o'qituvchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учитель класса струнных инструментов в детских музыкальных школах и школах искусств"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Teacher of string instruments in children’s music and art schools"
+  * ^designation[=].value = "Teacher of string instruments in children's music and art schools"
 * #3435.117 "Bolalar musiqa va san'at maktablarida an'anaviy cholg'u asboblari sinfi o'qituvchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учитель класса традиционных инструментов в детских музыкальных школах и школах искусств"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Teacher of traditional instruments class in children’s music schools and art schools"
+  * ^designation[=].value = "Teacher of traditional instruments class in children's music schools and art schools"
 * #3435.118 "Bolalar musiqa maktablari va san'at maktablarida fortepiano sinfi o'qituvchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учитель класса фортепиано в детских музыкальных школах и школах искусств"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Teacher of piano class in children’s music schools and art schools"
+  * ^designation[=].value = "Teacher of piano class in children's music schools and art schools"
 * #3435.119 "Bolalar musiqa va san'at maktablarida estrada cholg'u asboblar sinfi o'qituvchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учитель класса эстрадных инструментов в детских музыкальных школах и школах искусств"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Teacher of the class of musical instruments in children’s music schools and art schools"
+  * ^designation[=].value = "Teacher of the class of musical instruments in children's music schools and art schools"
 * #3435.120 "Bolalar musiqa va san'at maktablarida musiqiy-nazariya fanlari va umumiy fortepiano o'qituvchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учитель музыкально-теоретических дисциплин и общего фортепиано в детских музыкальных школах и школах искусств"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Teacher of music-theoretical disciplines and general piano in children’s music schools and art schools"
+  * ^designation[=].value = "Teacher of music-theoretical disciplines and general piano in children's music schools and art schools"
 * #3435.121 "Bolalar musiqa maktablari va san'at maktablarida xor ixtisosligi bo'yicha o'qituvchi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учитель хоровых дисциплин в детских музыкальных школах и школах искусств"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Choral teacher in children’s music schools and art schools"
+  * ^designation[=].value = "Choral teacher in children's music schools and art schools"
 * #3435.122 "Butaforlik teatr san'at rassomi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Художник бутафорского театрального искусства"
@@ -28525,7 +28525,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Секретарь дирекции"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Director’s secretary"
+  * ^designation[=].value = "Director's secretary"
 * #4120.7 "Hay'at (qo'mita) kotibi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Секретарь коллегии (комитета)"
@@ -30645,7 +30645,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Супервайзер номерного фонда"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Superintendent of the Fund’s Room"
+  * ^designation[=].value = "Superintendent of the Fund's Room"
 * #5151.3 "Lokomotiv (poezd) brigadasi dam olish xonasining navbatchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Дежурный по дому отдыха локомотивных (поездных) бригад"
@@ -30785,7 +30785,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Рабочий ритуальных услуг"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Worker’s ritual services"
+  * ^designation[=].value = "Worker's ritual services"
 * #5163.6 "Dafn etish xizmati sanitari"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Санитар похоронного обслуживания"
@@ -31190,7 +31190,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Медицинская сестра детских домов и домов престарелых"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Medical nurse for children’s homes and nursing homes"
+  * ^designation[=].value = "Medical nurse for children's homes and nursing homes"
 * #5321.2 "Bemorga qarash bo'yicha kichik tibbiy hamshira"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Младшая медицинская сестра по уходу за больным"
@@ -31830,7 +31830,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Консервировщик пантов"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Panther’s cannery"
+  * ^designation[=].value = "Panther's cannery"
 * #6129.6 "Tibbiy zuluklarni yetishtirish bo'yicha laborant"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Лаборант по выращиванию медицинских пиявок"
@@ -33475,7 +33475,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Котельщик судовой"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Ship’s coker"
+  * ^designation[=].value = "Ship's coker"
 * #7213.8 "Misgar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Медник"
@@ -33605,7 +33605,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Разметчик судовой"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Ship’s marksman"
+  * ^designation[=].value = "Ship's marksman"
 * #7214.19 "Shishatolali materiallarni bichuvchi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Раскройщик стекловолокнистых материалов"
@@ -33625,7 +33625,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сборщик-достройщик судовой"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Ship’s collector"
+  * ^designation[=].value = "Ship's collector"
 * #7214.23 "Kvartsning pilikli plastinalarini parmalovchi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сверловщик затравочных пластин кварца"
@@ -35550,7 +35550,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Проверщик судовой"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Ship’s inspector"
+  * ^designation[=].value = "Ship's inspector"
 * #7233.113 "Parovoz qozonlarini yuvuvchi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Промывальщик котлов паровозов"
@@ -35740,7 +35740,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Слесарь по ремонту кассовых аппаратов"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Cashier’s repair shop"
+  * ^designation[=].value = "Cashier's repair shop"
 * #7233.151 "Kompressorni ta'mirlovchi chilangar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Слесарь по ремонту компрессора"
@@ -35890,7 +35890,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[0].language = #ru
   * ^designation[=].value = "Слесарь-монтажник судовой"
   * ^designation[+].language = #en
-  * ^designation[=].value = "Ship’s fitter"
+  * ^designation[=].value = "Ship's fitter"
 * #7233.181 "Аgregatlar chilangar-sozlovchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Слесарь-наладчик агрегатов"
@@ -50796,7 +50796,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Окантовщик сеператорных пластин"
   * ^designation[+].language = #en
   * ^designation[=].value = "Separator plate descaler"
-* #8131.575 "“Qaynoq” kamera operatori"
+* #8131.575 ""Qaynoq" kamera operatori"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Оператор «горячей» камеры"
   * ^designation[+].language = #en
@@ -60071,7 +60071,7 @@ Description: "State classification of positions of employees and worker professi
   * ^designation[=].value = "Водители автомобилей"
   * ^designation[+].language = #en
   * ^designation[=].value = "Passenger car drivers"
-* #8322.1 "Shoshilinch tibbiy yordam avtomobillari maxsus tovush signalli (“sirena”ga o'xshash) avtomobillari haydovchisi"
+* #8322.1 "Shoshilinch tibbiy yordam avtomobillari maxsus tovush signalli ("sirena"ga o'xshash) avtomobillari haydovchisi"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Водитель автомобилей скорой медицинской помощи и оперативных автомобилей со специальным звуковым сигналом (типа»сирена»)"
   * ^designation[+].language = #en
