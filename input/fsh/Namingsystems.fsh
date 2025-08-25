@@ -226,3 +226,23 @@ Usage: #definition
 * uniqueId.value = "http://dhp.uz/NamingSystem/location-unit"
 * uniqueId.preferred = true
 * uniqueId.comment = "This is the canonical URI for the Uzbekistan DHP Location Unit identifier system"
+
+Instance: NS-EpisodeOfCare-Identifier
+InstanceOf: NamingSystem
+Usage: #definition
+Title: "DHP UZ EpisodeOfCare Identifier System"
+Description: "Identifier system used for EpisodeOfCare resources within the Uzbekistan DHP context."
+
+* name = "UZ_DHP_EpisodeOfCare_Identifier"
+* status = #active
+* kind = #identifier
+* date = "2025-08-13"
+* publisher = "Uzinfocom"
+
+// Необязательно: тип идентификатора (v2-0203 "Visit number")
+* type = http://terminology.hl7.org/CodeSystem/v2-0203#VN "Visit number"
+
+// Уникальные идентификаторы NamingSystem
+* uniqueId[0].type = #uri
+* uniqueId[0].value = "http://dhp.uz/ids/episode-of-care"
+* uniqueId[0].preferred = true
