@@ -10,6 +10,12 @@ Description: "Participation type supplement with translations in Uzbek and Russi
   * ^designation[+].language = #uz
   * ^designation[=].value = "guvoh"
 
+* #WIT
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "cвидетель"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "guvoh"
+
 * #ADM
   * ^designation[0].language = #ru
   * ^designation[=].value = "принимающий врач (в рамках этого визита)"
