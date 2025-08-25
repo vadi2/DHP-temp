@@ -140,7 +140,7 @@ Usage: #example
 
 * item[3].linkId = "q4"
 * item[3].text = "Как часто Вы употребляете алкоголь?"
-* item[3].type = #group
+* item[3].type = #string
 * item[3].answerOption[0].valueString = "Каждый день"
 * item[3].answerOption[1].valueString = "Раз в неделю"
 * item[3].answerOption[2].valueString = "Раз в месяц"
