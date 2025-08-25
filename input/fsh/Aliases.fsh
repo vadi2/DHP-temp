@@ -99,3 +99,4 @@ Alias: $questionnaire-enable-behavior = http://hl7.org/fhir/questionnaire-enable
 Alias: $questionnaire-response-status = http://hl7.org/fhir/questionnaire-answers-status
 Alias: $questionnaire-answers = http://hl7.org/fhir/ValueSet/questionnaire-answers
 Alias: $targetScopeExt = http://hl7.org/fhir/StructureDefinition/conceptmap-targetScope
+Alias: $questionnaire-answers = http://hl7.org/fhir/ValueSet/questionnaire-answers
