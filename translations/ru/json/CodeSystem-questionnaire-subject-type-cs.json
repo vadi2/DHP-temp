@@ -38,18 +38,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Счет",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Hisob",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Определение активности",
           "target" : null
         },
@@ -57,42 +45,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Faoliyat ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение участника",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ishtirokchi ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение препарата для применения",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Mahsulotni boshqarish ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Неблагоприятное событие",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Salbiy hodisa",
           "target" : null
         },
         {
@@ -134,18 +86,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Оценка артефакта",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Artefakt baholash",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Аудитное событие",
           "target" : null
         },
@@ -153,78 +93,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Audit hodisasi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Базовый",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Asosiy",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Двоичный",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Binary",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Биологически полученный продукт",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Biologik manbadan olingan mahsulot",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Выдача биологически полученного продукта",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Biologik mahsulotni tarqatish",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Структура тела",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tananing tuzilishi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Пакет",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Paket",
           "target" : null
         },
         {
@@ -266,42 +134,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Позиция счёта",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Hisob elementi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение позиции счёта",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Hisob elementi ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Цитирование / Ссылка",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Havola",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Заявление (требование)",
           "target" : null
         },
@@ -321,30 +153,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Da'voga javob",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Клиническое впечатление",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Klinik taassurot",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение клинического применения",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Klinik foydalanish ta'rifi",
           "target" : null
         },
         {
@@ -386,18 +194,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Определение компартмента",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Bo'lim ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Состав документа",
           "target" : null
         },
@@ -405,18 +201,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Tarkib",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Карта концепций",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Kontseptsiya xaritasi",
           "target" : null
         },
         {
@@ -434,18 +218,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Определение состояния",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Holat ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Согласие",
           "target" : null
         },
@@ -458,18 +230,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Контракт",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Shartnoma",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Покрытие (страхование)",
           "target" : null
         },
@@ -477,126 +237,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Qamrov",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Запрос о праве на покрытие",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qamrovga layoqatlilik so'rovi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ответ о праве на покрытие",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qamrovga layoqatlilik javobi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Выявленная проблема",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Aniqlangan muammo",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Устройство",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qurilma",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ассоциация устройства",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qurilma bog'lanishi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение устройства",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qurilmaning ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Выдача устройства",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qurilma tarqatilishi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Показатель устройства",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qurilma o'lchovi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Запрос на устройство",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qurilma so'rovi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Использование устройства",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qurilma ishlatilishi",
           "target" : null
         },
         {
@@ -632,54 +272,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "История приёмов / встреч",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Uchrashuv tarixi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Конечная точка",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tugatish nuqtasi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Запрос на регистрацию",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ro'yxatdan o'tish so'rovi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ответ на регистрацию",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ro'yxatdan o'tish javobi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Эпизод ухода",
           "target" : null
         },
@@ -692,66 +284,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Определение события",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Hodisa ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Доказательство",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Dalil",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Отчёт по доказательствам",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Dalillar hisobi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Переменная доказательств",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Dalil o'zgaruvchisi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Пример сценария",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Misol senariysi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Объяснение выгоды",
           "target" : null
         },
@@ -759,90 +291,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Foyda tushuntiruvi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Семейная история",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Oilaviy tarix",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Флаг (предупреждение)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Bayroq (ogohlantirish)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Позиция формуляра",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Formulyar elementi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Геномное исследование",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Genom tadqiqoti",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Цель",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Maqsad",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение графа",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Grafik ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Группа",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Guruh",
           "target" : null
         },
         {
@@ -872,18 +320,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Выбор изображений",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tasvir tanlovi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Исследование изображений",
           "target" : null
         },
@@ -903,66 +339,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Immunizatsiya",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Оценка иммунизации",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Immunizatsiyani baholash",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Рекомендация по иммунизации",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Immunizatsiya tavsiyasi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Руководство по реализации",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Amalga oshirish qo'llanmasi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ингредиент",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tarkibiy qism",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Страховой план",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Sug'urta rejasi",
           "target" : null
         },
         {
@@ -1016,30 +392,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Связь",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Bog'lanish",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Список",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ro'yxat",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Местоположение",
           "target" : null
         },
@@ -1047,18 +399,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Joylashuv",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение произведённого продукта",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ishlab chiqarilgan mahsulot ta'rifi",
           "target" : null
         },
         {
@@ -1124,18 +464,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Знания о лекарстве",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Dorilar haqida ma'lumot",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Запрос на лекарство",
           "target" : null
         },
@@ -1148,114 +476,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Заявление о приёме лекарства",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Dorini qabul qilish haqida bayonot",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение лекарственного средства",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Dori vositasi ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение сообщения",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Xabar ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Заголовок сообщения",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Xabar sarlavhasi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Молекулярная последовательность",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Molekulyar ketma-ketlik",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Система наименований",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Nomi tizimi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Приём пищи",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ovqatlanish qabul qilinishi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Заказ питания",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ovqatlanish buyurtmasi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Пищевой продукт",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Oziq-ovqat mahsuloti",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Наблюдение",
           "target" : null
         },
@@ -1263,18 +483,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Kuzatuv",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение наблюдения",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Kuzatuv ta'rifi",
           "target" : null
         },
         {
@@ -1316,42 +524,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Принадлежность организации",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tashkilotga aloqadorlik",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение упакованного продукта",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qadoqlangan mahsulot ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Параметры",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Parametrlar",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Пациент",
           "target" : null
         },
@@ -1383,30 +555,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "To'lovlarni muvofiqlashtirish",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Разрешение",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ruxsatnoma",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Личность / Человек",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Shaxs",
           "target" : null
         },
         {
@@ -1496,18 +644,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Регулируемое разрешение",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tartibga solinadigan ruxsatnoma",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Родственник",
           "target" : null
         },
@@ -1520,66 +656,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Оркестрация запросов",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "So'rovlarni boshqarish",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Требования",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Talablar",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Исследование",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tadqiqot",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Участник исследования",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tadqiqot subyekti",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Оценка риска",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Xavf bahosi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Расписание",
           "target" : null
         },
@@ -1587,18 +663,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Jadval",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Параметр поиска",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Qidiruv parametri",
           "target" : null
         },
         {
@@ -1640,18 +704,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Определение образца",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Namuna ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Определение структуры",
           "target" : null
         },
@@ -1664,18 +716,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Карта структуры",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tuzilish xaritasi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Подписка",
           "target" : null
         },
@@ -1683,114 +723,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Obuna",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Статус подписки",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Obuna holati",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Тема подписки",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Obuna mavzusi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Вещество",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Modda",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Определение вещества",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Modda ta'rifi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Нуклеиновая кислота",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Nuklein kislota",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Полимер вещества",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Modda polimeri",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Белок вещества",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Modda oqsili",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Справочная информация о веществе",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Modda ma'lumotnomasi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Исходный материал вещества",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Modda manbai",
           "target" : null
         },
         {
@@ -1832,54 +764,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Возможности терминологии",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Terminologiya imkoniyatlari",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "План тестирования",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Test rejasi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Отчёт о тестировании",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Test hisobi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Тестовый сценарий",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Test skripti",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Транспорт",
           "target" : null
         },
@@ -1899,30 +783,6 @@
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
           "source" : "Qiymatlar to'plami",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Результат проверки",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Tekshirish natijasi",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Рецепт для очков",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ko'rish retsepti",
           "target" : null
         }
       ]

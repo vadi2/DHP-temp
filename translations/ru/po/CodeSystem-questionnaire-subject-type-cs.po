@@ -26,52 +26,12 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Счет"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Hisob"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Определение активности"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Faoliyat ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение участника"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ishtirokchi ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение препарата для применения"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Mahsulotni boshqarish ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Неблагоприятное событие"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Salbiy hodisa"
 msgstr ""
 
 # The text value for this designation.
@@ -106,82 +66,12 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Оценка артефакта"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Artefakt baholash"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Аудитное событие"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Audit hodisasi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Базовый"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Asosiy"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Двоичный"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Binary"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Биологически полученный продукт"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Biologik manbadan olingan mahsulot"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Выдача биологически полученного продукта"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Biologik mahsulotni tarqatish"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Структура тела"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Tananing tuzilishi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Пакет"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Paket"
 msgstr ""
 
 # The text value for this designation.
@@ -216,36 +106,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Позиция счёта"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Hisob elementi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение позиции счёта"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Hisob elementi ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Цитирование / Ссылка"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Havola"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Заявление (требование)"
 msgstr ""
 
@@ -262,26 +122,6 @@ msgstr ""
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Da'voga javob"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Клиническое впечатление"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Klinik taassurot"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение клинического применения"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Klinik foydalanish ta'rifi"
 msgstr ""
 
 # The text value for this designation.
@@ -316,32 +156,12 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Определение компартмента"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Bo'lim ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Состав документа"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Tarkib"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Карта концепций"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Kontseptsiya xaritasi"
 msgstr ""
 
 # The text value for this designation.
@@ -356,16 +176,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Определение состояния"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Holat ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Согласие"
 msgstr ""
 
@@ -376,122 +186,12 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Контракт"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Shartnoma"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Покрытие (страхование)"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Qamrov"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Запрос о праве на покрытие"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qamrovga layoqatlilik so'rovi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ответ о праве на покрытие"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qamrovga layoqatlilik javobi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Выявленная проблема"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Aniqlangan muammo"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Устройство"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qurilma"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ассоциация устройства"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qurilma bog'lanishi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение устройства"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qurilmaning ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Выдача устройства"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qurilma tarqatilishi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Показатель устройства"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qurilma o'lchovi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Запрос на устройство"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qurilma so'rovi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Использование устройства"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qurilma ishlatilishi"
 msgstr ""
 
 # The text value for this designation.
@@ -521,46 +221,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "История приёмов / встреч"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Uchrashuv tarixi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Конечная точка"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Tugatish nuqtasi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Запрос на регистрацию"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ro'yxatdan o'tish so'rovi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ответ на регистрацию"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ro'yxatdan o'tish javobi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Эпизод ухода"
 msgstr ""
 
@@ -571,132 +231,12 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Определение события"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Hodisa ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Доказательство"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Dalil"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Отчёт по доказательствам"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Dalillar hisobi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Переменная доказательств"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Dalil o'zgaruvchisi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Пример сценария"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Misol senariysi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Объяснение выгоды"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Foyda tushuntiruvi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Семейная история"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Oilaviy tarix"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Флаг (предупреждение)"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Bayroq (ogohlantirish)"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Позиция формуляра"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Formulyar elementi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Геномное исследование"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Genom tadqiqoti"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Цель"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Maqsad"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение графа"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Grafik ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Группа"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Guruh"
 msgstr ""
 
 # The text value for this designation.
@@ -721,16 +261,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Выбор изображений"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Tasvir tanlovi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Исследование изображений"
 msgstr ""
 
@@ -747,56 +277,6 @@ msgstr ""
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Immunizatsiya"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Оценка иммунизации"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Immunizatsiyani baholash"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Рекомендация по иммунизации"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Immunizatsiya tavsiyasi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Руководство по реализации"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Amalga oshirish qo'llanmasi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ингредиент"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Tarkibiy qism"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Страховой план"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Sug'urta rejasi"
 msgstr ""
 
 # The text value for this designation.
@@ -841,42 +321,12 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Связь"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Bog'lanish"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Список"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ro'yxat"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Местоположение"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Joylashuv"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение произведённого продукта"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ishlab chiqarilgan mahsulot ta'rifi"
 msgstr ""
 
 # The text value for this designation.
@@ -931,16 +381,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Знания о лекарстве"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Dorilar haqida ma'lumot"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Запрос на лекарство"
 msgstr ""
 
@@ -951,112 +391,12 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Заявление о приёме лекарства"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Dorini qabul qilish haqida bayonot"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение лекарственного средства"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Dori vositasi ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение сообщения"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Xabar ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Заголовок сообщения"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Xabar sarlavhasi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Молекулярная последовательность"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Molekulyar ketma-ketlik"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Система наименований"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Nomi tizimi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Приём пищи"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ovqatlanish qabul qilinishi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Заказ питания"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ovqatlanish buyurtmasi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Пищевой продукт"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Oziq-ovqat mahsuloti"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Наблюдение"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Kuzatuv"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение наблюдения"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Kuzatuv ta'rifi"
 msgstr ""
 
 # The text value for this designation.
@@ -1091,36 +431,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Принадлежность организации"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Tashkilotga aloqadorlik"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение упакованного продукта"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qadoqlangan mahsulot ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Параметры"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Parametrlar"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Пациент"
 msgstr ""
 
@@ -1147,26 +457,6 @@ msgstr ""
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "To'lovlarni muvofiqlashtirish"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Разрешение"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ruxsatnoma"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Личность / Человек"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Shaxs"
 msgstr ""
 
 # The text value for this designation.
@@ -1241,16 +531,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Регулируемое разрешение"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Tartibga solinadigan ruxsatnoma"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Родственник"
 msgstr ""
 
@@ -1261,72 +541,12 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Оркестрация запросов"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "So'rovlarni boshqarish"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Требования"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Talablar"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Исследование"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Tadqiqot"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Участник исследования"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Tadqiqot subyekti"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Оценка риска"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Xavf bahosi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Расписание"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Jadval"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Параметр поиска"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Qidiruv parametri"
 msgstr ""
 
 # The text value for this designation.
@@ -1361,16 +581,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Определение образца"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Namuna ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Определение структуры"
 msgstr ""
 
@@ -1381,112 +591,12 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Карта структуры"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Tuzilish xaritasi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Подписка"
 msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Obuna"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Статус подписки"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Obuna holati"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Тема подписки"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Obuna mavzusi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Вещество"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Modda"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Определение вещества"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Modda ta'rifi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Нуклеиновая кислота"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Nuklein kislota"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Полимер вещества"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Modda polimeri"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Белок вещества"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Modda oqsili"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Справочная информация о веществе"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Modda ma'lumotnomasi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Исходный материал вещества"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Modda manbai"
 msgstr ""
 
 # The text value for this designation.
@@ -1521,46 +631,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "Возможности терминологии"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Terminologiya imkoniyatlari"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "План тестирования"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Test rejasi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Отчёт о тестировании"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Test hisobi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Тестовый сценарий"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Test skripti"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
 msgid "Транспорт"
 msgstr ""
 
@@ -1577,25 +647,5 @@ msgstr ""
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
 msgid "Qiymatlar to'plami"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Результат проверки"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Tekshirish natijasi"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Рецепт для очков"
-msgstr ""
-
-# The text value for this designation.
-#: CodeSystem.concept.designation.value
-msgid "Ko'rish retsepti"
 msgstr ""
 
