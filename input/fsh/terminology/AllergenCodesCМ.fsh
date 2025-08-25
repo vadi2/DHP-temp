@@ -193,7 +193,7 @@ Description: "Maps local UZ allergen codes to SNOMED CT for AllergyIntolerance.c
 * group.element[=].target[+].code = #818989004
 * group.element[=].target[=].display = "Sugar sweetened beverage"
 * group.element[=].target[=].relationship = #equivalent
-
+// Исходное понятие более узкое, чем целевое
 * group.element[+].code = #aller-0010-00337
 * group.element[=].display = "Kimyoviy modda allergiyasi"
 * group.element[=].target[+].code = #441900009
