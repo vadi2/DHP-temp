@@ -95,3 +95,57 @@ Description: "UZ Core Questionnaire profile adapted from the Questionnaire resou
 
 * item.item MS
 * item.item ^short = "Вложенные элементы (подвопросы/подразделы) внутри элемента типа group."
+
+Instance: example-uzcore-questionnaire
+InstanceOf: UZCoreQuestionnaire
+Title: "Example UZ Core Questionnaire"
+Description: "Пример анкеты для сбора информации о привычках пациента (UZ Core Questionnaire)."
+Usage: #example
+
+* url = "https://terminology.dhp.uz/Questionnaire/example-uzcore-questionnaire"
+* identifier.system = "https://registry.dhp.uz/questionnaires"
+* identifier.value = "habit-questionnaire-001"
+* version = "1.0.0"
+* name = "HabitQuestionnaire"
+* title = "Анкета о привычках пациента"
+* status = #active
+* subjectType = #Patient
+* date = "2025-08-20"
+* publisher = "Uzinfocom"
+* contact.telecom[0].system = #email
+* contact.telecom[0].value = "support@uzinfocom.uz"
+* description = "Эта анкета используется для сбора базовой информации о привычках пациента в медицинских организациях."
+* purpose = "Сбор данных о курении и употреблении алкоголя для дальнейшего анализа."
+* approvalDate = "2025-08-10"
+* effectivePeriod.start = "2025-09-01"
+* effectivePeriod.end = "2026-09-01"
+
+* item[0].linkId = "q1"
+* item[0].text = "Вы курите?"
+* item[0].type = #boolean
+* item[0].required = true
+
+* item[1].linkId = "q2"
+* item[1].text = "Сколько лет Вы курите?"
+* item[1].type = #integer
+* item[1].enableWhen[0].question = "q1"
+* item[1].enableWhen[0].operator = #=
+* item[1].enableWhen[0].answerBoolean = true
+* item[1].enableBehavior = #all
+
+* item[2].linkId = "q3"
+* item[2].text = "Вы употребляете алкоголь?"
+* item[2].type = #boolean
+* item[2].required = true
+
+* item[3].linkId = "q4"
+* item[3].text = "Как часто Вы употребляете алкоголь?"
+* item[3].type = #group
+* item[3].answerOption[0].valueString = "Каждый день"
+* item[3].answerOption[1].valueString = "Раз в неделю"
+* item[3].answerOption[2].valueString = "Раз в месяц"
+* item[3].answerOption[3].valueString = "Редко"
+* item[3].enableWhen[0].question = "q3"
+* item[3].enableWhen[0].operator = #=
+* item[3].enableWhen[0].answerBoolean = true
+* item[3].enableBehavior = #all

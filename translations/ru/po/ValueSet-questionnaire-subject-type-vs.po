@@ -24,13 +24,3 @@ msgstr ""
 msgid "Defines subject types codes for Questionnaire resources in Uzbekistan"
 msgstr ""
 
-# The match value may be either a code defined by the system, or a string value, which is a regex match on the literal string of the property value  (if the filter represents a property defined in CodeSystem) or of the system filter value (if the filter represents a filter defined in CodeSystem) when the operation is 'regex', or one of the values (true and false), when the operation is 'exists'.
-#: ValueSet.compose.include.filter.value
-msgid "resource-type"
-msgstr ""
-
-# The match value may be either a code defined by the system, or a string value, which is a regex match on the literal string of the property value  (if the filter represents a property defined in CodeSystem) or of the system filter value (if the filter represents a filter defined in CodeSystem) when the operation is 'regex', or one of the values (true and false), when the operation is 'exists'.
-#: ValueSet.compose.include.filter.value
-msgid "false"
-msgstr ""
-
