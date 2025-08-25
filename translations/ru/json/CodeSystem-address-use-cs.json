@@ -14,7 +14,7 @@
         {
           "id" : "CodeSystem.title",
           "context" : "A short, descriptive, user-friendly title for the code system.",
-          "source" : "address registration translations",
+          "source" : "Address registration translations",
           "target" : null
         },
         {

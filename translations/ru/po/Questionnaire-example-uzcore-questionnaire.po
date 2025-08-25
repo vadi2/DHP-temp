@@ -1,0 +1,86 @@
+
+# A natural language name identifying the questionnaire. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: Questionnaire.name
+msgid "HabitQuestionnaire"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the questionnaire.
+#: Questionnaire.title
+msgid "Анкета о привычках пациента"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the questionnaire.
+#: Questionnaire.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the questionnaire from a consumer's perspective.
+#: Questionnaire.description
+msgid "Эта анкета используется для сбора базовой информации о привычках пациента в медицинских организациях."
+msgstr ""
+
+# Explanation of why this questionnaire is needed and why it has been designed as it has.
+#: Questionnaire.purpose
+msgid "Сбор данных о курении и употреблении алкоголя для дальнейшего анализа."
+msgstr ""
+
+# The name of a section, the text of a question or text content for a display item.
+#: Questionnaire.item.text
+msgid "Вы курите?"
+msgstr ""
+
+# The name of a section, the text of a question or text content for a display item.
+#: Questionnaire.item.text
+msgid "Сколько лет Вы курите?"
+msgstr ""
+
+# The linkId for the question whose answer (or lack of answer) governs whether this item is enabled.
+#: Questionnaire.item.enableWhen.question
+msgid "q1"
+msgstr ""
+
+# A value that the referenced question is tested using the specified operator in order for the item to be enabled.  If there are multiple answers, a match on any of the answers suffices.  If different behavior is desired (all must match, at least 2 must match, etc.), consider using the enableWhenExpression extension.
+#: Questionnaire.item.enableWhen.answer[x]
+msgid "true"
+msgstr ""
+
+# The name of a section, the text of a question or text content for a display item.
+#: Questionnaire.item.text
+msgid "Вы употребляете алкоголь?"
+msgstr ""
+
+# The name of a section, the text of a question or text content for a display item.
+#: Questionnaire.item.text
+msgid "Как часто Вы употребляете алкоголь?"
+msgstr ""
+
+# The linkId for the question whose answer (or lack of answer) governs whether this item is enabled.
+#: Questionnaire.item.enableWhen.question
+msgid "q3"
+msgstr ""
+
+# A potential answer that's allowed as the answer to this question.
+#: Questionnaire.item.answerOption.value[x]
+msgid "Каждый день"
+msgstr ""
+
+# A potential answer that's allowed as the answer to this question.
+#: Questionnaire.item.answerOption.value[x]
+msgid "Раз в неделю"
+msgstr ""
+
+# A potential answer that's allowed as the answer to this question.
+#: Questionnaire.item.answerOption.value[x]
+msgid "Раз в месяц"
+msgstr ""
+
+# A potential answer that's allowed as the answer to this question.
+#: Questionnaire.item.answerOption.value[x]
+msgid "Редко"
+msgstr ""
+

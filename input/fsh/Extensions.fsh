@@ -3,7 +3,7 @@ Id: gender-other
 Title: "Differentiation of the administrative gender 'other'"
 Description: "Extension for more precise differentiation of the administrative gender 'other', aligned with German base profiles representation of the same concept."
 Context: Patient.gender, RelatedPerson.gender, Person.gender, Practitioner.gender, Patient.contact.gender
-* ^url = "http://dhp.uz/StructureDefinition/gender-other"
+* ^url = "https://terminology.dhp.uz/StructureDefinition/gender-other"
 * ^experimental = true
 * ^date = "2025-03-12"
 * value[x] 1..
@@ -22,6 +22,17 @@ Description: "Extension to differentiate the diagnosis type, which is different 
 * value[x] only CodeableConcept
 * value[x] from DiagnosisTypeVS (required)
 
+Extension: Abatement
+Id: uz-allergy-abatement
+Title: "Abatement"
+Description: "Specifies when the allergy or intolerance resolved, using date, period, range, or descriptive text."
+* ^url = "https://terminology.dhp.uz/StructureDefinition/uz-allergy-abatement"
+* ^experimental = true
+* ^context.type = #element
+* ^context.expression = "AllergyIntolerance"
+* value[x] only dateTime or Period or Range or string
+
+
 Invariant: gender-other-1
 Description: "The differentiation of the gender indication 'other' may only be filled if the gender 'other' is specified (for use in an extension)"
 * severity = #error
@@ -30,4 +41,4 @@ Description: "The differentiation of the gender indication 'other' may only be f
 Invariant: gender-other-2
 Description: "gender 'other' implies differentiation of the gender indication 'other' (for use in a profile)"
 * severity = #error
-* expression = "gender.exists() and gender = 'other' implies gender.extension('http://dhp.uz/StructureDefinition/gender-other').exists()"
+* expression = "gender.exists() and gender = 'other' implies gender.extension('https://terminology.dhp.uz/StructureDefinition/gender-other').exists()"

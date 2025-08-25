@@ -14,7 +14,7 @@
              <notes>
                <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
              </notes>
-        <source>possible identifiers translations</source>
+        <source>Possible identifiers translations</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-identifier-type-cs" resname="CodeSystem.publisher">

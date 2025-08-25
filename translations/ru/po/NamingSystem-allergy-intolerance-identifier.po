@@ -1,0 +1,31 @@
+
+# A natural language name identifying the naming system. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: NamingSystem.name
+msgid "UZ_DHP_AllergyIntolerance_Identifier"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the naming system.
+#: NamingSystem.title
+msgid "DHP UZ AllergyIntolerance Identifier System"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the naming system.
+#: NamingSystem.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the naming system from a consumer's perspective. Details about what the namespace identifies including scope, granularity, version labeling, etc.
+#: NamingSystem.description
+msgid "Identifier namespace used for AllergyIntolerance resources in the Uzbekistan DHP."
+msgstr ""
+
+# The string that should be sent over the wire to identify the code system or identifier system.
+#: NamingSystem.uniqueId.value
+msgid "https://terminology.dhp.uz/AllergyIntolerance"
+msgstr ""
+
