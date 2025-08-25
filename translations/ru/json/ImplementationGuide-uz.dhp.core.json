@@ -680,6 +680,18 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Example UZ Core Questionnaire Response",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Пример ответа на анкету (UZ Core Questionnaire Response).",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-auditevent-condition-lookup",
           "target" : null
         },
@@ -1514,6 +1526,12 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Defines the publication status codes for QuestionnaireResponse resources",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the publication status codes for Questionnaire resources",
           "target" : null
         },
@@ -1527,6 +1545,18 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Code system that defines publication status codes for Questionnaire resources, supplemented with translations in Uzbek and Russian.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Questionnaire Response status code system",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Code system that defines questionnaire response status codes for QuestionnaireResponse resources, supplemented with translations in Uzbek and Russian.",
           "target" : null
         },
         {
@@ -2001,6 +2031,18 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "UZ Core Questionnaire profile adapted from the Questionnaire resource for the Uzbekistan healthcare context.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core Questionnaire Response",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "UZ Core Questionnaire Response profile adapted from the QuestionnaireResponse resource for the Uzbekistan healthcare context.",
           "target" : null
         },
         {

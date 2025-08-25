@@ -791,6 +791,20 @@
              <notes>
                <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
              </notes>
+        <source>Example UZ Core Questionnaire Response</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Пример ответа на анкету (UZ Core Questionnaire Response).</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
         <source>example-auditevent-condition-lookup</source>
         <target></target>
       </trans-unit>
@@ -1764,6 +1778,13 @@
              <notes>
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
+        <source>Defines the publication status codes for QuestionnaireResponse resources</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
         <source>Defines the publication status codes for Questionnaire resources</source>
         <target></target>
       </trans-unit>
@@ -1779,6 +1800,20 @@
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
         <source>Code system that defines publication status codes for Questionnaire resources, supplemented with translations in Uzbek and Russian.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>Questionnaire Response status code system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>Code system that defines questionnaire response status codes for QuestionnaireResponse resources, supplemented with translations in Uzbek and Russian.</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
@@ -2332,6 +2367,20 @@
                <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
              </notes>
         <source>UZ Core Questionnaire profile adapted from the Questionnaire resource for the Uzbekistan healthcare context.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">
+             <notes>
+               <note id="n1">A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).</note>
+             </notes>
+        <source>UZ Core Questionnaire Response</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.description">
+             <notes>
+               <note id="n1">A description of the reason that a resource has been included in the implementation guide.</note>
+             </notes>
+        <source>UZ Core Questionnaire Response profile adapted from the QuestionnaireResponse resource for the Uzbekistan healthcare context.</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ImplementationGuide-uz.dhp.core" resname="ImplementationGuide.definition.resource.name">

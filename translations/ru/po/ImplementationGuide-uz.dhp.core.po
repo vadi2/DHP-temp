@@ -561,6 +561,16 @@ msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
+msgid "Example UZ Core Questionnaire Response"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Пример ответа на анкету (UZ Core Questionnaire Response)."
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
 msgid "example-auditevent-condition-lookup"
 msgstr ""
 
@@ -1256,6 +1266,11 @@ msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
+msgid "Defines the publication status codes for QuestionnaireResponse resources"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
 msgid "Defines the publication status codes for Questionnaire resources"
 msgstr ""
 
@@ -1267,6 +1282,16 @@ msgstr ""
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Code system that defines publication status codes for Questionnaire resources, supplemented with translations in Uzbek and Russian."
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "Questionnaire Response status code system"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Code system that defines questionnaire response status codes for QuestionnaireResponse resources, supplemented with translations in Uzbek and Russian."
 msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
@@ -1662,6 +1687,16 @@ msgstr ""
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "UZ Core Questionnaire profile adapted from the Questionnaire resource for the Uzbekistan healthcare context."
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "UZ Core Questionnaire Response"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "UZ Core Questionnaire Response profile adapted from the QuestionnaireResponse resource for the Uzbekistan healthcare context."
 msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).

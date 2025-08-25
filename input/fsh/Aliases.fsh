@@ -89,3 +89,5 @@ Alias: $fhir-types-cs = http://hl7.org/fhir/fhir-types
 Alias: $questionnaire-item-type = http://hl7.org/fhir/item-type
 Alias: $questionnaire-enable-operator = http://hl7.org/fhir/questionnaire-enable-operator
 Alias: $questionnaire-enable-behavior = http://hl7.org/fhir/questionnaire-enable-behavior
+Alias: $questionnaire-response-status = http://hl7.org/fhir/questionnaire-answers-status
+Alias: $questionnaire-answers = http://hl7.org/fhir/ValueSet/questionnaire-answers
