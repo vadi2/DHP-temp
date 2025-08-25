@@ -1,0 +1,109 @@
+Profile: UZCoreObservation
+Parent: Observation
+Id: uz-core-observation 
+Title: "Uz Core Observation"
+Description: "This profile defines constraints on the FHIR Observation resource to represent clinical and laboratory observations in the context of Uzbekistan's national health data standards. "
+* ^experimental = true
+* ^version = "1.0.0"
+* ^status = #active
+* ^date = "2025-08-04"
+* ^publisher = "Uzinfocom"
+//rules
+* identifier MS
+* instantiates[x] MS
+* basedOn 0..1 MS
+* basedOn only Reference(CarePlan or MedicationRequest or ServiceRequest)
+* triggeredBy MS
+* triggeredBy.observation only Reference(UZCoreObservation)
+* triggeredBy.type from TriggeredByTypeVS (required)
+* triggeredBy.reason MS
+* partOf MS
+* partOf only Reference(MedicationAdministration or MedicationDispense or Procedure or Immunization or ImagingStudy)
+* status MS 
+* status from ObservationStatusVS (required)
+* category MS
+* category from ObservationCategoryVS
+* code MS 
+* code from $observation-codes
+* subject MS
+//TODO Location rename UZCoreLocation
+* subject only Reference(UZCorePatient or Location or Organization or Procedure or UZCorePractitioner or Medication )
+* focus MS
+* encounter MS
+* encounter only Reference(Encounter)
+* effective[x] MS
+* issued MS
+* performer MS
+* performer only Reference(UZCorePractitioner or UZCorePractitionerRole or Organization)
+* value[x] MS
+* dataAbsentReason MS
+* dataAbsentReason from DataAbsentReasonVS (extensible)
+* interpretation from ObservationInterpretationVS
+* note MS
+* bodySite from $bodysite
+* method from $observation-methods
+* specimen MS
+* specimen only Reference(Specimen)
+* device MS
+* device only Reference(Device or DeviceMetric)
+* referenceRange MS
+* referenceRange.low MS
+* referenceRange.high MS
+* referenceRange.normalValue MS
+* referenceRange.normalValue from ObservationNormalValueVS (extensible)
+* referenceRange.type from ReferenceRangeMeaningVS (preferred)
+* referenceRange.age MS
+* referenceRange.text MS
+* hasMember MS
+* hasMember only Reference(UZCoreObservation or QuestionnaireResponse)
+* derivedFrom MS
+* derivedFrom only Reference(DocumentReference or ImagingStudy or QuestionnaireResponse or UZCoreObservation)
+* component MS
+* component.code MS
+* component.code from $observation-codes
+* component.value[x] MS
+* component.dataAbsentReason from DataAbsentReasonVS (extensible)
+* component.interpretation from ObservationInterpretationVS (extensible)
+
+Instance: example-uzcoreobservation-blood-pressure
+InstanceOf: UZCoreObservation
+Title: "Example Uz Core Observation - Blood Pressure"
+Description: "Example instance of a blood pressure measurement for a patient"
+Usage: #example
+
+* status = #preliminary
+* category = $observation-category#vital-signs "Vital Signs"
+* code = $loinc#85354-9 "Blood pressure panel with all children optional"
+* subject = Reference(example-patient)
+//* encounter = Reference(example-encounter)
+* effectiveDateTime = "2025-08-01T10:00:00Z"
+* issued = "2025-08-01T10:01:00Z"
+* performer = Reference(example-practitioner)
+//* device = Reference(example-device)
+//* specimen = Reference(example-specimen)
+* valueString = "Blood pressure within normal  limits"
+* interpretation = $observation-interpretation#N "Normal"
+* note.text = "Patient was calm and seated for 5 minutes before measurement."
+//* dataAbsentReason = $observation-dataAbsentReason#not-applicable "Not Applicable"
+
+* referenceRange
+  * low.value = 90
+  * low.unit = "mmHg"
+  * high.value = 120
+  * high.unit = "mmHg"
+  * type = $reference-meaning#normal "Normal Range"
+  * text = "Normal systolic blood pressure for adults"
+
+* component[0].code = $loinc#8480-6 "Systolic blood pressure"
+* component[0].valueQuantity.value = 117
+* component[0].valueQuantity.unit = "mmHg"
+* component[0].valueQuantity.system = "http://unitsofmeasure.org"
+* component[0].valueQuantity.code = #mm[Hg]
+* component[0].interpretation = $observation-interpretation#N "Normal"
+
+* component[1].code = $loinc#8462-4 "Diastolic blood pressure"
+* component[1].valueQuantity.value = 78
+* component[1].valueQuantity.unit = "mmHg"
+* component[1].valueQuantity.system = "http://unitsofmeasure.org"
+* component[1].valueQuantity.code = #mm[Hg]
+* component[1].interpretation = $observation-interpretation#N "Normal"
