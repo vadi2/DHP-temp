@@ -3,11 +3,8 @@ Id: nationality-cs
 Title: "Nationality"
 Description: "Defines a nationality of a person as used in Uzbekistan"
 * ^url = "https://terminology.dhp.uz/CodeSystem/nationality-cs"
-* ^version = "1.0.0"
 * ^status = #active
 * ^experimental = true
-* ^date = "2025-06-11"
-* ^publisher = "Uzinfocom"
 * ^content = #complete
 * ^language = #uz
 * ^caseSensitive = true
