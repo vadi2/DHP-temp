@@ -4,7 +4,7 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: uz.dhp.core
-canonical: https://terminology.dhp.uz
+canonical: https://dhp.uz
 name: DHP
 title: Uzbekistan Digital Health Platform
 description: National implementation guide for Uzbekistan using FHIR R5.
