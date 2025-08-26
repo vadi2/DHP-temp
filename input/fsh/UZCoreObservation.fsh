@@ -29,11 +29,11 @@ Description: "This profile defines constraints on the FHIR Observation resource 
 * subject only Reference(UZCorePatient or UZCoreLocation or UZCoreOrganization or Procedure or UZCorePractitioner or Medication)
 * focus MS
 * encounter MS
-* encounter only Reference(Encounter)
+* encounter only Reference(UZCoreEncounter)
 * effective[x] MS
 * issued MS
 * performer MS
-* performer only Reference(UZCorePractitioner or UZCorePractitionerRole or Organization)
+* performer only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCoreOrganization)
 * value[x] MS
 * dataAbsentReason MS
 * dataAbsentReason from DataAbsentReasonVS (extensible)
