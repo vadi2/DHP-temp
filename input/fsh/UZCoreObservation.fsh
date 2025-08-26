@@ -12,7 +12,7 @@ Description: "This profile defines constraints on the FHIR Observation resource 
 * identifier MS
 * instantiates[x] MS
 * basedOn 0..1 MS
-* basedOn only Reference(CarePlan or MedicationRequest or ServiceRequest)
+* basedOn only Reference(UZcorecare or MedicationRequest or ServiceRequest)
 * triggeredBy MS
 * triggeredBy.observation only Reference(UZCoreObservation)
 * triggeredBy.type from TriggeredByTypeVS (required)
@@ -26,8 +26,7 @@ Description: "This profile defines constraints on the FHIR Observation resource 
 * code MS 
 * code from $observation-codes
 * subject MS
-//TODO Location rename UZCoreLocation
-* subject only Reference(UZCorePatient or Location or Organization or Procedure or UZCorePractitioner or Medication )
+* subject only Reference(UZCorePatient or UZCoreLocation or UZCoreOrganization or Procedure or UZCorePractitioner or Medication)
 * focus MS
 * encounter MS
 * encounter only Reference(Encounter)
@@ -75,7 +74,7 @@ Usage: #example
 * category = $observation-category#vital-signs "Vital Signs"
 * code = $loinc#85354-9 "Blood pressure panel with all children optional"
 * subject = Reference(example-patient)
-//* encounter = Reference(example-encounter)
+* encounter = Reference(example-encounter)
 * effectiveDateTime = "2025-08-01T10:00:00Z"
 * issued = "2025-08-01T10:01:00Z"
 * performer = Reference(example-practitioner)
@@ -94,16 +93,16 @@ Usage: #example
   * type = $reference-meaning#normal "Normal Range"
   * text = "Normal systolic blood pressure for adults"
 
-* component[0].code = $loinc#8480-6 "Systolic blood pressure"
-* component[0].valueQuantity.value = 117
-* component[0].valueQuantity.unit = "mmHg"
-* component[0].valueQuantity.system = "http://unitsofmeasure.org"
-* component[0].valueQuantity.code = #mm[Hg]
-* component[0].interpretation = $observation-interpretation#N "Normal"
+* component[+].code = $loinc#8480-6 "Systolic blood pressure"
+* component[=].valueQuantity.value = 117
+* component[=].valueQuantity.unit = "mmHg"
+* component[=].valueQuantity.system = "http://unitsofmeasure.org"
+* component[=].valueQuantity.code = #mm[Hg]
+* component[=].interpretation = $observation-interpretation#N "Normal"
 
-* component[1].code = $loinc#8462-4 "Diastolic blood pressure"
-* component[1].valueQuantity.value = 78
-* component[1].valueQuantity.unit = "mmHg"
-* component[1].valueQuantity.system = "http://unitsofmeasure.org"
-* component[1].valueQuantity.code = #mm[Hg]
-* component[1].interpretation = $observation-interpretation#N "Normal"
+* component[+].code = $loinc#8462-4 "Diastolic blood pressure"
+* component[=].valueQuantity.value = 78
+* component[=].valueQuantity.unit = "mmHg"
+* component[=].valueQuantity.system = "http://unitsofmeasure.org"
+* component[=].valueQuantity.code = #mm[Hg]
+* component[=].interpretation = $observation-interpretation#N "Normal"
