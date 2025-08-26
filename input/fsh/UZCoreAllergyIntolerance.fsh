@@ -46,7 +46,7 @@ Usage: #example
 Title: "Allergy to grass pollen — example"
 Description: "Example instance conforming to UZCoreAllergyIntolerance."
 
-* meta.profile = "https://terminology.dhp.uz/StructureDefinition/uz-core-allergy-intolerance"
+* meta.profile = "http://dhp.uz/StructureDefinition/uz-core-allergy-intolerance"
 
 //* identifier.system = "https://terminology.dhp.uz/AllergyIntolerance"
 * identifier.value = "AI-0001"
