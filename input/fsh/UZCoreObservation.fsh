@@ -12,7 +12,7 @@ Description: "This profile defines constraints on the FHIR Observation resource 
 * identifier MS
 * instantiates[x] MS
 * basedOn 0..1 MS
-* basedOn only Reference(UZcorecare or MedicationRequest or ServiceRequest)
+* basedOn only Reference(CarePlan or MedicationRequest or ServiceRequest)
 * triggeredBy MS
 * triggeredBy.observation only Reference(UZCoreObservation)
 * triggeredBy.type from TriggeredByTypeVS (required)
