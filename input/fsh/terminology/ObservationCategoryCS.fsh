@@ -2,12 +2,7 @@ CodeSystem: ObservationCategoryCS
 Id: observation-category-cs
 Title: "Observation category translations"
 Description: "Observation category with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/observation-category-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $observation-category
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(observation-category-cs, $observation-category, 5.0.0)
 
 * #social-history
   * ^designation[0].language = #ru

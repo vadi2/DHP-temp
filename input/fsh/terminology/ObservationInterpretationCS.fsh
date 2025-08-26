@@ -2,12 +2,7 @@ CodeSystem: ObservationInterpretationCS
 Id: observation-interpretation-cs
 Title: "UZCore data absent reason code sytem"
 Description: "Data absent reason suplement"
-* ^url = "https://terminology.dhp.uz/CodeSystem/observation-interpretation-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $observation-interpretation
-* ^version = "3.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(observation-interpretation-cs, $observation-interpretation, 3.0.0)
 
 * #CAR
   * ^designation[0].language = #ru

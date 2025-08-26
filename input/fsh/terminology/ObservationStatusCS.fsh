@@ -2,12 +2,7 @@ CodeSystem: ObservationStatusCS
 Id: observation-status-cs
 Title: "Observation status translations"
 Description: "Observation status with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/observation-status-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $observation-status
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(observation-status-cs, $observation-status, 5.0.0)
 
 * #registered
   * ^designation[0].language = #ru

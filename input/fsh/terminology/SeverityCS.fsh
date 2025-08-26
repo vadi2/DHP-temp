@@ -2,13 +2,7 @@ CodeSystem: SeverityCS
 Id: severity-cs
 Title: "Severity types"
 Description: "Severity status in Uzbekistan"
-* ^url = "https://terminology.dhp.uz/CodeSystem/severity-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystemDraft(severity-cs)
 
 * #255604002 "Yengil daraja"
   * ^designation[0].language = #ru

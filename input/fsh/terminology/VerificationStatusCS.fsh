@@ -2,13 +2,7 @@ CodeSystem: VerificationStatusCS
 Id: verification-status-cs
 Title: "Verification status types"
 Description: "Verification status in Uzbekistan"
-* ^url = "https://terminology.dhp.uz/CodeSystem/verification-status-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystemDraft(verification-status-cs)
 
 * #unconfirmed "Tasdiqlanmagan"
   * ^designation[0].language = #ru

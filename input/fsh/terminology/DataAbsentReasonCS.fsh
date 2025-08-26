@@ -2,12 +2,7 @@ CodeSystem: DataAbsentReasonCS
 Id: data-absent-reason-cs
 Title: "UZCore data absent reason code sytem"
 Description: "Data absent reason suplement"
-* ^url = "https://terminology.dhp.uz/CodeSystem/data-absent-reason-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $observation-dataAbsentReason
-* ^version = "1.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(data-absent-reason-cs, $observation-dataAbsentReason, 1.0.0)
 
 * #unknown
   * ^designation[0].language = #ru
