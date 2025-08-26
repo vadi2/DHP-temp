@@ -143,7 +143,7 @@ Usage: #example
 
 * reason[0]
   * use = encounter-reason-use-cs#mserv-0002-00001 "Disease"
-  * value = Reference(Condition/example-condition)
+  * value = Reference(Condition/example-headache)
 
 * actualPeriod
   * start = "2024-01-01T10:00:00Z"
@@ -152,7 +152,7 @@ Usage: #example
 * plannedStartDate = "2024-01-01T10:00:00Z"
 * plannedEndDate = "2024-01-01T11:00:00Z" 
 
-* diagnosis[0].condition = Reference(Condition/example-condition)
+* diagnosis[0].condition = Reference(Condition/example-headache)
 
 * admission
   * admitSource = $encounter-admit-source#psych "From psychiatric hospital"
