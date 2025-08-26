@@ -2,13 +2,7 @@ CodeSystem: EpisodeOfCareTypeCS
 Id: episode-of-care-type-cs
 Title: "EpisodeOfCare types"
 Description: "Episode of care types in Uzbekistan"
-* ^url = "https://terminology.dhp.uz/CodeSystem/episode-of-care-type-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystemDraft(episode-of-care-type-cs)
 
 * #mserv-0001-00001 "Profilaktik"
   * ^designation[0].language = #ru
