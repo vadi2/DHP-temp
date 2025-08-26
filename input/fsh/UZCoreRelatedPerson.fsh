@@ -4,10 +4,7 @@ Id: uz-core-relatedperson
 Title: "UZ Core RelatedPerson"
 Description: "Uzbekistan Core RelatedPerson profile, used to represent persons related to the patient"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
-* ^date = "2025-07-31"
-* ^publisher = "Uzinfocom"
 
 * identifier 1..* MS
   * extension contains data-absent-reason named data-absent-reason 0..1 MS
