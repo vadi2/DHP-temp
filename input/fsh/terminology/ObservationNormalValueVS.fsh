@@ -6,6 +6,5 @@ Description: "Observation normal value in Uzbekistan"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ObservationNormalValueCS)
-* ^version = "5.0.0"
 
 * include codes from system $observation-referencerange-normalvalue

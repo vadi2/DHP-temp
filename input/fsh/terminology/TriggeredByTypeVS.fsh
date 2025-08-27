@@ -6,6 +6,5 @@ Description: "Triggered by types in Uzbekistan"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(TriggeredByTypeCS)
-* ^version = "5.0.0"
 
 * include codes from system $triggered-by-type

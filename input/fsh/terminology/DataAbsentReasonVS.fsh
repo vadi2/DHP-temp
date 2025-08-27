@@ -6,5 +6,4 @@ Description: "Defines the reasons why a value is missing in an observation withi
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(DataAbsentReasonCS)
-* ^version = "1.0.0"
 * include codes from system $observation-dataAbsentReason
