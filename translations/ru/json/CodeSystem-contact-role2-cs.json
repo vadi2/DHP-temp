@@ -1,5 +1,5 @@
 {
-  "id" : "CodeSystem-address-use-cs",
+  "id" : "CodeSystem-contact-role2-cs",
   "baseLang" : "en",
   "languages" : [
     {
@@ -8,13 +8,13 @@
         {
           "id" : "CodeSystem.name",
           "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
-          "source" : "AddressUseCS",
+          "source" : "ContactRole2CS",
           "target" : null
         },
         {
           "id" : "CodeSystem.title",
           "context" : "A short, descriptive, user-friendly title for the code system.",
-          "source" : "Address registration translations",
+          "source" : "Secondary Contact Role Definitions",
           "target" : null
         },
         {
@@ -32,31 +32,43 @@
         {
           "id" : "CodeSystem.description",
           "context" : "A free text natural language description of the code system from a consumer's perspective.",
-          "source" : "Types of address registration supplement with translations in Uzbek and Russian",
+          "source" : "Provides additional contact role codes with translations in Uzbek and Russian for use in specific contexts or implementations.",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Адрес прописки",
+          "source" : "работодатель",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ro'yxatdan o'tish manzili",
+          "source" : "ish beruvchi",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Адрес проживания",
+          "source" : "другой",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Yashash manzili",
+          "source" : "boshqa",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "неизвестный",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "noma'lum",
           "target" : null
         }
       ]

@@ -6,7 +6,7 @@ msgstr ""
 
 # A short, descriptive, user-friendly title for the code system.
 #: CodeSystem.title
-msgid "possible name uses translations"
+msgid "Possible name uses translations"
 msgstr ""
 
 # The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
@@ -56,7 +56,7 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "прозвище"
+msgid "псевдоним"
 msgstr ""
 
 # The text value for this designation.
@@ -91,6 +91,6 @@ msgstr ""
 
 # The text value for this designation.
 #: CodeSystem.concept.designation.value
-msgid "qizlikdagi ismi"
+msgid "nikoh uchun ism o'zgartirildi"
 msgstr ""
 

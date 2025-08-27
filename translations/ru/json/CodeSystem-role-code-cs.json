@@ -1,5 +1,5 @@
 {
-  "id" : "CodeSystem-address-use-cs",
+  "id" : "CodeSystem-role-code-cs",
   "baseLang" : "en",
   "languages" : [
     {
@@ -8,13 +8,13 @@
         {
           "id" : "CodeSystem.name",
           "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
-          "source" : "AddressUseCS",
+          "source" : "RoleCodeCS",
           "target" : null
         },
         {
           "id" : "CodeSystem.title",
           "context" : "A short, descriptive, user-friendly title for the code system.",
-          "source" : "Address registration translations",
+          "source" : "Role code",
           "target" : null
         },
         {
@@ -32,31 +32,19 @@
         {
           "id" : "CodeSystem.description",
           "context" : "A free text natural language description of the code system from a consumer's perspective.",
-          "source" : "Types of address registration supplement with translations in Uzbek and Russian",
+          "source" : "Specifies role codes used to define the function or position of a person or organization, with translations in Uzbek and Russian.",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Адрес прописки",
+          "source" : "устный переводчик",
           "target" : null
         },
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ro'yxatdan o'tish manzili",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Адрес проживания",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Yashash manzili",
+          "source" : "tarjimon",
           "target" : null
         }
       ]
