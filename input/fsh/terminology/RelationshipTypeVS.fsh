@@ -13,7 +13,6 @@ Description: "Diagnosis types in Uzbekistan"
 * ^extension[=].valueCanonical = Canonical(ContactRole2CS)
 * ^extension[+].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(RoleCodeCS)
-* ^version = "5.0.0"
 
 * include $v3-ParticipationType#WIT
 * include $v3-RoleClass#NOT 
