@@ -1,13 +1,10 @@
 Profile: UZCoreCondition
 Parent: Condition
 Id: uz-core-condition 
-Title: "Uz Core Condition"
+Title: "UZ Core Condition"
 Description: "Uzbekistan Core Condition Profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
-* ^date = "2025-07-29"
-* ^publisher = "Uzinfocom"
 //rules
 * clinicalStatus MS
 * clinicalStatus from ClinicalStatusVS (required)
