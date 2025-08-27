@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="QuestionnaireResponse-example-uzcore-questionnaire-response" original="Resource QuestionnaireResponse-example-uzcore-questionnaire-response" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="QuestionnaireResponse-example-uzcore-questionnaire-response" resname="QuestionnaireResponse.item.text">
+             <notes>
+               <note id="n1">Text that is displayed above the contents of the group or as the text of the question being answered.</note>
+             </notes>
+        <source>Вы курите?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="QuestionnaireResponse-example-uzcore-questionnaire-response" resname="QuestionnaireResponse.item.text">
+             <notes>
+               <note id="n1">Text that is displayed above the contents of the group or as the text of the question being answered.</note>
+             </notes>
+        <source>Сколько лет Вы курите?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="QuestionnaireResponse-example-uzcore-questionnaire-response" resname="QuestionnaireResponse.item.text">
+             <notes>
+               <note id="n1">Text that is displayed above the contents of the group or as the text of the question being answered.</note>
+             </notes>
+        <source>Вы употребляете алкоголь?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="QuestionnaireResponse-example-uzcore-questionnaire-response" resname="QuestionnaireResponse.item.text">
+             <notes>
+               <note id="n1">Text that is displayed above the contents of the group or as the text of the question being answered.</note>
+             </notes>
+        <source>Как часто Вы употребляете алкоголь?</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-questionnaire-item-type-cs" original="Resource CodeSystem-questionnaire-item-type-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>QuestionnaireItemTypeCS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>Questionnaire item types code system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>Code system that defines item types codes for Questionnaire resources, supplemented with translations in Uzbek and Russian.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Группа</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Guruh</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Отображение</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ko'rsatish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Логический</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Mantiqiy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Десятичное число</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>O'nli son</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Целое число</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Butun son</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Дата</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Sana</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Дата и Время</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Sana va Vaqt</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Время</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Vaqt</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Строка</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Satr</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Текст</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Matn</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ссылка (URL)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Havola (URL)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Кодирование</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Kodlash</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Вложение</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ilova</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ссылка</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Havola</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Количество</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-item-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Miqdor</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
