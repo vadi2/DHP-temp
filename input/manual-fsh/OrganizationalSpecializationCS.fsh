@@ -3,10 +3,8 @@ Id: organizational-specialization-cs
 Title: "Organizational specialization"
 Description: "Determines the specialization of a medical organization"
 * ^url = "https://terminology.dhp.uz/CodeSystem/organizational-specialization-cs"
-* ^version = "1.0.0"
 * ^status = #active
 * ^experimental = true
-* ^date = "2025-02-24"
 * ^content = #complete
 * ^language = #uz
 * ^caseSensitive = true
