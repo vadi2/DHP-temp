@@ -1,13 +1,10 @@
 Profile: UZCoreRelatedPerson
 Parent: RelatedPerson
-Id: uz-core-related-person
-Title: "UZ Core Related Person"
-Description: "Uzbekistan Core Related Person profile, used to represent related person information"
+Id: uz-core-relatedperson
+Title: "UZ Core RelatedPerson"
+Description: "Uzbekistan Core RelatedPerson profile, used to represent persons related to the patient"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
-* ^date = "2025-07-31"
-* ^publisher = "Uzinfocom"
 
 * identifier 1..* MS
   * extension contains data-absent-reason named data-absent-reason 0..1 MS
@@ -98,10 +95,69 @@ Description: "Uzbekistan Core Related Person profile, used to represent related 
 * relationship from RelationshipTypeVS (required)
 * telecom 0..* MS
   * system 0..1 MS 
-  * system from TelecomSystemVS (required)
+  * system from ContactPointSystemVS (required)
   * use 0..1 MS 
   * use from TelecomUseVS (required)
 * gender MS
-  * extension contains GenderOtherUZ named gender-other 0..1 MS
+  * extension contains GenderOtherUZ named gender-other-2 0..1 MS
 * obeys gender-other-2
 * insert AddressRules
+* insert HumanName
+* active MS
+* birthDate MS
+* period MS 
+
+Instance: example-related-person
+InstanceOf: UZCoreRelatedPerson
+Usage: #example
+Title: "example-related-person"
+Description: "Example of a related person"
+
+* identifier[national-id]
+  * value = "12345678901234"
+* identifier[passport-local]
+  * value = "AA1234567"
+* identifier[passport-international]
+  * value = "IC9876543"
+* identifier[birthcertificate]
+  * value = "BC-2025-00001"
+* identifier[driverslicense]
+  * value = "DL-987654"
+* identifier[diplomaticpassport]
+  * value = "DP-123456"
+* identifier[healthcard]
+  * value = "HC-555-777"
+* identifier[militaryID]
+  * value = "MI-2025-001"
+
+* patient = Reference(example-david)
+
+* name[0]
+  * use = #usual
+  * text = "Зафаров Дамир Каримович"
+  * family = "Зафаров"
+  * given[0] = "Дамир"
+  * suffix[0] = "Каримович"
+  * period
+    * start = "1998-02-16"
+
+* relationship[0].coding[0] = $v3-ParticipationType#WIT "witness"
+
+* telecom[0]
+  * system = #phone
+  * value = "+998901234567"
+  * use = #mobile
+
+* address
+  * use = #home
+  * type = #physical
+  * text = "махалля Дилобод, Каторток кўчаси, 9-уй, 15-хонадон"
+  * line[0] = "Каторток кўчаси"
+  * city = "103-0104"  // Mahalla code
+  * district = "1726294"  // District/city code (SOATO)
+  * state = "1726"  // Region code (SOATO)
+  * country = "182"  // Country code
+  * period
+    * start = "1999-06-04"
+
+* gender = #male

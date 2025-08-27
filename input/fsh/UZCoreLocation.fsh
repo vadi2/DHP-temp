@@ -28,6 +28,7 @@ Description: "Uzbekistan Core Location profile, used to define locations of heal
 
 * status and name and type and contact and address and position and managingOrganization and partOf and hoursOfOperation and endpoint MS
 * operationalStatus ^short = "Ward bed status (will be used in future)"
+
 * insert AddressRules
 * insert MultilingualName(локации)
 * status from LocationStatusVS (required)
@@ -53,6 +54,7 @@ Usage: #example
 * identifier[tax-id]
   * value = "200935935"
 * status = #active
+* mode = #instance
 * name = "Respublika onkologiya markazi"
   * extension[translation][0]
     * extension[lang][0]
@@ -68,16 +70,18 @@ Usage: #example
 * address
   * type = #postal
   * line = "Farobi, 383"
-  * city = "1726"
-  * district = "1726"
-  * country = "UZ"
+  * city = "22070022"
+  * district = "1735243"
+  * country = "182"
 * managingOrganization = Reference(Organization/example-organization)
 
 Instance: example-location-2
 InstanceOf: UZCoreLocation
 Description: "Example of a branch location"
+Usage: #example
 * language = #uz
 * status = #active
+* mode = #instance
 * name = "1-sonli onkomammologiya bo'limi"
   * extension[translation][0]
     * extension[lang][0]
@@ -92,3 +96,13 @@ Description: "Example of a branch location"
 * identifier[unit]
   * type = LocationKindsCS#Branch "Bo'limi"
   * value = "1"
+
+Instance: example-location
+InstanceOf: UZCoreLocation
+Usage: #example
+Description: "Example of psychiatric hospital"
+* language = #uz
+* status = #active
+* mode = #instance
+* name = "Toshkent shahar 1-sonli shifoxona"
+* address.text = "Toshkent shahar, Chilonzor tumani, Katta Qo'yliq 45"

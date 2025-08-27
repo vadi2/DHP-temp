@@ -1,0 +1,17 @@
+{
+  "id" : "Condition-example-condition",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "uz",
+      "entries" : [
+        {
+          "id" : "Coding.display",
+          "context" : "A representation of the meaning of the code in the system, following the rules of the system.",
+          "source" : "Essential (primary) hypertension",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
