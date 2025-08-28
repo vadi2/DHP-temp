@@ -103,15 +103,23 @@ Description: "Clinical status supplement with translations in Uzbek and Russian"
 
 ### 4.3 Пример FSH для ClinicalStatusVS (на примере Condition)
 
+При создании ValueSets, которые включают коды из supplement CodeSystems, необходимо добавить специальное расширение. ValueSets, использующие только оригинальные коды, не требуют этого расширения.
+
 ```fsh
 ValueSet: ClinicalStatusVS
 Id: clinical-status-vs
 Title: "Clinical Status ValueSet (UZ)"
 * ^url = "http://terminology.dhp.uz/ValueSet/clinical-status-vs"
 * ^status = #active
-* include codes from system ClinicalStatusCS
-* include codes from system http://terminology.hl7.org/CodeSystem/condition-clinical //можно использовать alias 
+* ^extension[0].url = $valueset-supplement
+* ^extension[=].valueCanonical = = Canonical(ClinicalStatusCS)
+* include codes from system $condition-clinical
+
 ```
+
+**Важно:** 
+- Расширение `valueset-supplement` необходимо только для ValueSets, которые включают коды из supplement CodeSystems. Для ValueSets с только оригинальными кодами это расширение не требуется.
+- При использовании supplement CodeSystems в ValueSet необходимо включать коды из **оригинальной** CodeSystem (например, `$condition-clinical`), а не из supplement CodeSystem. Расширение `valueset-supplement` указывает на supplement, который предоставляет переводы к оригинальным кодам.
 
 ### 4.4 Почему и как создавать Extensions
 
