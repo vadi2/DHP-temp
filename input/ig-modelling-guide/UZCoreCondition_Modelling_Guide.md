@@ -4,12 +4,33 @@
 
 Данное руководство описывает подходы и методики создания национальных профилей FHIR ресурсов, адаптированных к требованиям здравоохранения Узбекистана. В качестве примера рассматривается профиль **UZCoreCondition** — национальный профиль ресурса **Condition**, используемый для документирования клинических симптомов и состояний (заболеваний, диагнозов).
 
-## 2) Пример профиля: UZCoreCondition
+## 2) Структура профиля
 
-- **Parent**: `Condition` (FHIR R5).
-- **Profile ID**: `uz-core-condition`.
-- Связанные профили: `UZCorePatient` для `Condition.subject`.
+Каждый национальный профиль должен следовать единой структуре. Пример для UZCoreCondition:
 
+```fsh
+Profile: UZCoreCondition
+Parent: Condition
+Id: uz-core-condition 
+Title: "Uz Core Condition"
+Description: "Uzbekistan Core Condition profile, used for documenting a patient's clinical symptoms, conditions, and their characteristics"
+```
+
+Для других ресурсов используется аналогичная структура:
+- **Profile**: `UZCore[ResourceName]` (например, `UZCorePatient`, `UZCoreObservation`)
+- **Parent**: Соответствующий базовый FHIR ресурс
+- **Id**: `uz-core-[resource-name]` в нижнем регистре
+- **Title**: `"Uz Core [Resource Name]"`
+- **Description**: `"Uzbekistan Core [Resource Name] profile, used to [описание назначения]"`
+
+## 3) Правила профиля (кардинальности, MustSupport, биндинги)
+
+При определении правил профиля необходимо учитывать следующие принципы:
+
+- **MustSupport (MS)**: Все элементы, которые должны поддерживаться всеми системами в Узбекистане, должны быть помечены как MS. Подробное описание MustSupport можно найти в [документации](https://build.fhir.org/ig/vadi2/DHP-temp/en/api-access.html#must-support).
+- **Кардинальности**: Указывайте кардинальности элементов только если они отличаются от базового FHIR ресурса. Если кардинальность совпадает с базовым ресурсом, не дублируйте эту информацию.
+
+## 4) Терминологические артефакты
 
 ### 4.1 Почему нужен supplement для CodeSystem и ValueSet
 
