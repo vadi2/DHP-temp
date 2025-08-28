@@ -1,45 +1,19 @@
-# Руководство по моделированию профиля **UZCoreCondition** (HL7 FHIR R5)
+# Руководство по моделированию национальных профилей (HL7 FHIR R5)
 
 ## 1) Назначение и область применения
 
-**UZCoreCondition** — национальный профиль ресурса **Condition**, адаптированный к требованиям здравоохранения Узбекистана. Профиль используется для документирования клинических симптомов, состояний (заболеваний, диагнозов) и их характеристик в электронных медицинских данных, обмениваемых между ИС ЛПУ, лабораторными системами, региональными и национальными платформами.
+Данное руководство описывает подходы и методики создания национальных профилей FHIR ресурсов, адаптированных к требованиям здравоохранения Узбекистана. В качестве примера рассматривается профиль **UZCoreCondition** — национальный профиль ресурса **Condition**, используемый для документирования клинических симптомов и состояний (заболеваний, диагнозов).
 
-### Целевая аудитория
-
-○ Архитекторы и разработчики ИС, внедряющие FHIR R5 в Узбекистане.\
-○ Терминологи и ИТ‑аналитики, отвечающие за кодирование состояний.\
-○ Тестировщики и интеграторы, готовящие тестовые данные и валидаторы.
-
-## 2) Базовый ресурс и ссылки
+## 2) Пример профиля: UZCoreCondition
 
 - **Parent**: `Condition` (FHIR R5).
 - **Profile ID**: `uz-core-condition`.
 - Связанные профили: `UZCorePatient` для `Condition.subject`.
 
-## 3) Правила профиля (кардинальности, MustSupport, биндинги)
-
-| Элемент                    | Кардинальность | MustSupport | Примечания / Биндинги                                                                     |
-| -------------------------- | -------------- | ----------- | ----------------------------------------------------------------------------------------- |
-| `clinicalStatus`           | 0..1           | MS          | **required** → `ClinicalStatusVS` (локальный ValueSet на основе HL7 `condition-clinical`) |
-| `verificationStatus`       | 0..1           | MS          | **required** → `ConditionVerificationStatusVS`                                            |
-| `severity`                 | 0..1           | MS          | ValueSet \`\`                                                                             |
-| `code`                     | 0..1           | MS          | Рекомендуется **ICD‑10** (`$icd-10`) или SNOMED CT                                        |
-| `bodySite`                 | 0..\*          |             | Рекомендуется SNOMED CT (`$sct`)                                                          |
-| `subject`                  | 1..1           | MS          | `Reference(UZCorePatient)`                                                                |
-| `onset[x]`                 | 0..1           |             | Дата/период/возраст                                                                       |
-| `abatement[x]`             | 0..1           |             | Дата/период/возраст                                                                       |
-| `recordedDate`             | 0..1           |             | Дата документирования                                                                     |
-| `participant`              | 0..\*          |             | Роли участников                                                                           |
-| `participant.function`     | 0..1           |             | → `ConditionParticipationRoleTypeVS`                                                      |
-| `participant.actor`        | 0..1           |             | Reference(Practitioner/...)                                                               |
-| `note.text`                | 0..1           |             | Комментарий                                                                               |
-| `extension[diagnosisType]` | 0..1           |             | Тип диагноза → `DiagnosisTypeVS`                                                          |
-
-## 4) Терминологические артефакты
 
 ### 4.1 Почему нужен supplement для CodeSystem и ValueSet
 
-Для лучшего понимания дальнейших примеров отметим, что создание **supplement** к существующим CodeSystem HL7 (например, `condition-clinical`) позволяет:
+При создании национальных профилей часто возникает необходимость локализации терминологий. Создание **supplement** к существующим CodeSystem HL7 (например, `condition-clinical` для профиля Condition) позволяет:
 
 - Добавить локальные переводы (RU/UZ) без дублирования исходного набора кодов.
 - Сохранить совместимость с международными профилями, продолжая использовать канонические коды HL7.
@@ -54,7 +28,7 @@
 3. Добавьте переводы дисплеев и описание на нужных языках.
 4. Создайте локальный ValueSet, который включает и оригинальную систему, и ваш supplement.
 
-### 4.2 Пример FSH для ClinicalStatusCS
+### 4.2 Пример FSH для ClinicalStatusCS (на примере Condition)
 
 ```fsh
 CodeSystem: ClinicalStatusCS
@@ -73,7 +47,7 @@ Title: "Clinical Status CodeSystem (RU/UZ Supplement)"
   * ^designation[=].value = "Faol"
 ```
 
-### 4.3 Пример FSH для ClinicalStatusVS
+### 4.3 Пример FSH для ClinicalStatusVS (на примере Condition)
 
 ```fsh
 ValueSet: ClinicalStatusVS
@@ -85,9 +59,9 @@ Title: "Clinical Status ValueSet (UZ)"
 * include codes from system http://terminology.hl7.org/CodeSystem/condition-clinical //можно использовать alias 
 ```
 
-### 4.4 Почему и как создавать Extensions (на примере diagnosisType)
+### 4.4 Почему и как создавать Extensions
 
-Плавно переходя к расширениям, отметим, что если базовый ресурс FHIR не содержит нужного атрибута (например, «Тип диагноза» — первичный, направившего учреждения, уточнённый и т.д.), создаётся **Extension**. Это позволяет:
+При создании национальных профилей часто требуются дополнительные атрибуты, которые отсутствуют в базовых ресурсах FHIR. В таких случаях создаются **Extensions**. Например, для профиля Condition может потребоваться «Тип диагноза» (первичный, направившего учреждения, уточнённый и т.д.). Расширения позволяют:
 
 - Добавить новые данные, не нарушая совместимость с базовой спецификацией.
 - Учитывать национальные требования, обеспечивая обмен необходимой информацией.
@@ -104,7 +78,7 @@ Title: "Clinical Status ValueSet (UZ)"
 
 > **Примечание:** все Extensions сохраняются в отдельном файле `Extensions.fsh`.
 
-**Пример FSH для Extension:**
+**Пример FSH для Extension (diagnosisType для Condition):**
 
 ```fsh
 Extension: diagnosisType
@@ -148,7 +122,7 @@ Alias: $provenance-participant-type = http://terminology.hl7.org/CodeSystem/prov
 
 **Зачем:**
 
-- Instance‑примеры демонстрируют, как правильно заполнять ресурс в соответствии с профилем.
+- Instance‑примеры демонстрируют, как правильно заполнять ресурс в соответствии с любым профилем.
 - Обеспечивают разработчиков и тестировщиков готовыми шаблонами для интеграции.
 - Позволяют валидировать профиль на реальных данных, выявляя ошибки в биндингах, кардинальностях и MustSupport элементах.
 - Упрощают процесс обучения и документации.
@@ -158,7 +132,7 @@ Alias: $provenance-participant-type = http://terminology.hl7.org/CodeSystem/prov
 1. Создайте отдельный FSH‑файл или раздел для `Instance` каждого профиля.
 2. Задайте `InstanceOf` = `<имя_профиля>`.
 3. Заполните все MustSupport элементы и обязательные поля.
-4. При необходимости создайте несколько примеров для разных сценариев (активное состояние, ремиссия, опровергнутое состояние).
+4. При необходимости создайте несколько примеров для разных сценариев (например, для Condition: активное состояние, ремиссия, опровергнутое состояние).
 
 **Пример Instance для UZCoreCondition:**
 
@@ -174,9 +148,9 @@ Description: "Example instance of a headache condition documented during a patie
 * recordedDate = "2025-07-29"
 ```
 
-## 5) Особенности R5: замена `asserter`
+## 5) Особенности версий FHIR
 
-В R5 используйте `Condition.participant` вместо `asserter`.
+При работе с разными версиями FHIR необходимо учитывать изменения в структуре ресурсов. Например, в R5 для ресурса Condition используйте `Condition.participant` вместо `asserter`.
 
 ## 6) Пример JSON
 
@@ -188,5 +162,9 @@ Description: "Example instance of a headache condition documented during a patie
 
 ## 8) Источники FSH
 
+При создании любого национального профиля используется следующая структура файлов (на примере UZCoreCondition):
+
 `UZCoreCondition.fsh`, `ClinicalStatusCS.fsh`, `ClinicalStatusVS.fsh`, `ConditionVerificationStatusCS.fsh`, `ConditionVerificationStatusVS.fsh`, `ConditionSeverityVS.fsh`, `ConditionParticipationRoleTypeVS.fsh`, `DiagnosisTypeCS.fsh`, `DiagnosisTypeVS.fsh`, `Extensions.fsh`, `Aliases.fsh`, `UZCorePatient.fsh`.
+
+Аналогичная структура применяется для всех других ресурсов (Patient, Observation, Procedure и т.д.).
 
