@@ -226,3 +226,19 @@ Usage: #definition
 * uniqueId.value = "http://dhp.uz/NamingSystem/location-unit"
 * uniqueId.preferred = true
 * uniqueId.comment = "This is the canonical URI for the Uzbekistan DHP Location Unit identifier system"
+
+Instance: allergy-intolerance-identifier
+InstanceOf: NamingSystem
+Usage: #definition
+Title: "DHP UZ AllergyIntolerance Identifier System"
+Description: "Identifier namespace used for AllergyIntolerance resources in the Uzbekistan DHP."
+* name = "UZ_DHP_AllergyIntolerance_Identifier"
+* status = #active
+* kind = #identifier
+* date = "2025-08-19"
+* publisher = "Uzinfocom"
+
+// Указываем, что основной уникальный идентификатор системы — этот URI:
+* uniqueId[0].type = #uri
+* uniqueId[0].value = "https://terminology.dhp.uz/AllergyIntolerance"
+* uniqueId[0].preferred = true

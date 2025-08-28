@@ -157,6 +157,8 @@ menu:
 #     description: An example Patient
 #     exampleBoolean: true
 #   Patient/bad-example: omit
+#   ConceptMap/manifestations-to-snomed:
+#     description: "Maps local UZ ReactionManifestationCS codes to SNOMED CT for AllergyIntolerance.reaction.manifestation."
 #
 #
 # Groups can control certain aspects of the IG generation.  The IG
