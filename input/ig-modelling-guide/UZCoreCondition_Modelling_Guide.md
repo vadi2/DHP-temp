@@ -44,22 +44,55 @@ Description: "Uzbekistan Core Condition profile, used for documenting a patient'
 
 **Как создавать supplement:**
 
-1. Определите локальную CodeSystem с `^content = #supplement`.
-2. Укажите `^supplements` на исходную HL7 CodeSystem.
-3. Добавьте переводы дисплеев и описание на нужных языках.
-4. Создайте локальный ValueSet, который включает и оригинальную систему, и ваш supplement.
+Для стандартизации процесса создания supplement используйте существующие RuleSets из файла `Rulesets.fsh`:
+
+- `SupplementCodeSystemDraft` - для черновых версий supplement
+- `SupplementCodeSystem` - для активных версий supplement
+
+Следуйте этим шагам:
+
+1. Определите локальную CodeSystem с использованием соответствующего RuleSet.
+2. Добавьте переводы дисплеев на нужных языках (RU/UZ).
+3. Создайте локальный ValueSet, который включает и оригинальную систему, и ваш supplement.
+
+**Важно:** Версия supplement должна отражать версию оригинальной CodeSystem, которую он дополняет. Это единственный случай, когда версия должна быть указана явно — оригинальные CodeSystem и все ValueSets не должны иметь явной версии, так как она автоматически наследуется от версии IG.
+
+### Создание оригинальных CodeSystems
+
+Для создания собственных (не-supplement) CodeSystems используйте соответствующие RuleSets из файла `Rulesets.fsh`:
+
+- `OriginalCodeSystemDraft` - для черновых версий оригинальных CodeSystems
+- `OriginalCodeSystem` - для активных версий оригинальных CodeSystems
+
+**Важно:** 
+- В оригинальных CodeSystems не указывайте версию явно — она автоматически наследуется от версии IG.
+- В оригинальных CodeSystems язык по умолчанию — узбекский (`#uz`), поэтому добавляются переводы на русский и английский языки.
+- В supplements язык по умолчанию — английский (`#en`), поэтому добавляются переводы на русский и узбекский языки.
+
+**Пример оригинальной CodeSystem:**
+
+```fsh
+CodeSystem: DiagnosisTypeCS
+Id: diagnosis-type-cs
+Title: "Diagnosis Types"
+Description: "Diagnosis types in Uzbekistan"
+* insert OriginalCodeSystemDraft(diagnosis-type-cs)
+
+* #gencl-0001-00001 "Yo'naltiruvchi muassasaning tashxisi"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Диагноз направившего учреждения"
+  * ^designation[+].language = #en
+  * ^designation[=].value = "Diagnosis of the referring institution"
+```
 
 ### 4.2 Пример FSH для ClinicalStatusCS (на примере Condition)
 
 ```fsh
 CodeSystem: ClinicalStatusCS
 Id: clinical-status-cs
-Title: "Clinical Status CodeSystem (RU/UZ Supplement)"
-* ^url = "http://terminology.dhp.uz/CodeSystem/clinical-status-cs"
-* ^content = #supplement
-* ^supplements = "http://terminology.hl7.org/CodeSystem/condition-clinical"
-* ^version = "3.0.0"
-* ^language = #en
+Title: "Clinical status translations"
+Description: "Clinical status supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(clinical-status-cs, $condition-clinical, 3.0.0)
 
 * #active
   * ^designation[0].language = #ru
