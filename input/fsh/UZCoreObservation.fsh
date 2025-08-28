@@ -2,7 +2,7 @@ Profile: UZCoreObservation
 Parent: Observation
 Id: uz-core-observation 
 Title: "Uz Core Observation"
-Description: "This profile defines constraints on the FHIR Observation resource to represent clinical and laboratory observations in the context of Uzbekistan's national health data standards. "
+Description: "Uzbekistan Core Observation profile, used to represent clinical and laboratory observations"
 * ^experimental = true
 * ^status = #active
 //rules
