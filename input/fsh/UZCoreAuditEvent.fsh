@@ -85,7 +85,7 @@ Usage: #example
   * authorization = $v3-ActReason#TREAT
   * who = Reference(example-practitionerrole)
 * entity
-  * what = Reference(example-condition)
+  * what = Reference(example-headache)
   * securityLabel = $v3-ActCode#NOAUTH
   * role = $object-role#4 "Domain Resource"
 * source
