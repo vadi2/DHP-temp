@@ -2,7 +2,7 @@ Profile: UZCoreAuditEvent
 Parent: AuditEvent
 Id: uz-core-auditevent
 Title: "UZ Core AuditEvent"
-Description: "Uzbekistan Core AuditEvent Profile, used to track user and application activity"
+Description: "Uzbekistan Core AuditEvent profile, used to track user and application activity"
 * ^experimental = true
 * ^status = #active
 * ^date = "2025-03-29"
