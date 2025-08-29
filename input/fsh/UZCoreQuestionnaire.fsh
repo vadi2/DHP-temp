@@ -103,7 +103,7 @@ Description: "Пример анкеты для сбора информации �
 Usage: #example
 
 * url = "https://terminology.dhp.uz/Questionnaire/example-uzcore-questionnaire"
-* identifier.system = "https://registry.dhp.uz/questionnaires"
+* identifier.system = "https://dhp.uz/questionnaires"
 * identifier.value = "habit-questionnaire-001"
 * version = "1.0.0"
 * name = "HabitQuestionnaire"
@@ -117,8 +117,8 @@ Usage: #example
 * description = "Эта анкета используется для сбора базовой информации о привычках пациента в медицинских организациях."
 * purpose = "Сбор данных о курении и употреблении алкоголя для дальнейшего анализа."
 * approvalDate = "2025-08-10"
-* effectivePeriod.start = "2025-09-01"
-* effectivePeriod.end = "2026-09-01"
+* effectivePeriod.start = "2025-08-01"
+* effectivePeriod.end = "2025-08-24"
 
 * item[0].linkId = "q1"
 * item[0].text = "Вы курите?"

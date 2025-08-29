@@ -4,7 +4,7 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: uz.dhp.core
-canonical: http://dhp.uz
+canonical: https://terminology.dhp.uz
 name: DHP
 title: Uzbekistan Digital Health Platform
 description: National implementation guide for Uzbekistan using FHIR R5.
@@ -159,6 +159,8 @@ menu:
 #     description: An example Patient
 #     exampleBoolean: true
 #   Patient/bad-example: omit
+#   ConceptMap/manifestations-to-snomed:
+#     description: "Maps local UZ ReactionManifestationCS codes to SNOMED CT for AllergyIntolerance.reaction.manifestation."
 #
 #
 # Groups can control certain aspects of the IG generation.  The IG
