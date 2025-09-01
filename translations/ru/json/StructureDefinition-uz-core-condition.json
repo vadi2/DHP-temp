@@ -14,8 +14,8 @@
         {
           "id" : "StructureDefinition.title",
           "context" : "A short, descriptive, user-friendly title for the structure definition.",
-          "source" : "Uz Core Condition",
-          "target" : "Uz Core Condition"
+          "source" : "UZ Core Condition",
+          "target" : "UZ Core Condition"
         },
         {
           "id" : "StructureDefinition.publisher",
