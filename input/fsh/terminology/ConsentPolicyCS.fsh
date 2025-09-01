@@ -2,13 +2,7 @@ CodeSystem: ConsentPolicyCS
 Id: consent-policy-cs
 Title: "Consent policies"
 Description: "Defines the regulatory basis for consent"
-* ^url = "https://terminology.medcore.uz/CodeSystem/consent-policy-cs"
-* ^status = #active
-* ^experimental = true
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
+* insert OriginalCodeSystemDraft(consent-policy-cs)
 * #uz-265-I "“Fuqarolar salomatligini muhofaza qilish to'g'risida”gi O'zbekiston Respublikasi Qonunining 19, 24, 25, 26, 28, 34, 45-moddalari."
   * ^designation[0].language = #ru
   * ^designation[=].value = "Статьи: 19, 24, 25, 26, 28, 34, 45 Закона Руз \"Об охране здоровья граждан\""

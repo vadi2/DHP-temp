@@ -1,13 +1,8 @@
 CodeSystem: IdentifierUseCS
 Id: identifier-use-cs
-Title: "possible identifier uses translations"
+Title: "Possible identifier uses translations"
 Description: "Types of possible identifier uses supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/identifier-use-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $identifier-use
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(identifier-use-cs, $identifier-use, 5.0.0)
 * #usual
   * ^designation[0].language = #ru
   * ^designation[=].value = "обычный"

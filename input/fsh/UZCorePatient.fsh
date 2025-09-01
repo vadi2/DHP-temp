@@ -4,7 +4,6 @@ Id: uz-core-patient
 Title: "UZ Core Patient"
 Description: "Uzbekistan Core Patient profile, used to represent patients administrative information"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-06-11"
 * ^publisher = "Uzinfocom"
@@ -105,13 +104,16 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
     patient-citizenship named citizenship 0..1 MS and
     patient-disability named disability 0..1 MS
 * extension[nationality].extension[code].valueCodeableConcept from NationalityVS (required)
-* extension[citizenship].extension[code].valueCodeableConcept from ISO3166_UZ_citizenship (required)
+* extension[citizenship].extension[code].valueCodeableConcept from CountriesDigitalMVDVS (required)
 * extension[disability].valueCodeableConcept from DisabilityVS (required)
 * gender MS
   * extension contains GenderOtherUZ named gender-other 0..1 MS
 * obeys gender-other-2
 * insert AddressRules
 * maritalStatus from MaritalStatusVS (required)
+* insert HumanName
+* active MS
+* birthDate MS 
 
 Instance: example-salim
 InstanceOf: UZCorePatient
@@ -153,9 +155,9 @@ Usage: #example
   * use = #home
   * type = #postal
   * line = "ул.Муминова 4"
-  * country = "UZ"
-  * district = "1706403"
-  * city = "1706401"
+  * country = "182"
+  * district = "1703202"
+  * city = "22070013"
   * period.start = "1999-04-06"
 * gender = #male
 * contact
@@ -187,9 +189,9 @@ Usage: #example
   * use = #temp
   * type = #physical
   * line = "2 квартал 13 дом 12 квартира"
-  * country = "UZ"
-  * district = "1726280"
-  * city = "1726"
+  * country = "182"
+  * district = "1703206"
+  * city = "22070011"
   * period.start = "2001-10-16"
 * gender = #other
 * gender.extension[gender-other].valueCoding = GenderOtherCS#regis0007-00005 "Сменил пол на мужчину"

@@ -2,9 +2,8 @@ Profile: UZCoreProvenance
 Parent: Provenance
 Id: uz-core-provenance
 Title: "UZ Core Provenance"
-Description: "Uzbekistan Core Provenance Profile, used to digitally sign documents via myID"
+Description: "Uzbekistan Core Provenance profile, used to digitally sign documents via myID"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-03-13"
 * ^publisher = "Uzinfocom"

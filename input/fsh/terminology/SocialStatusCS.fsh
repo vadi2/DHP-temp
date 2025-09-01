@@ -2,14 +2,8 @@ CodeSystem: SocialStatusCS
 Id: social-status-cs
 Title: "Social status"
 Description: "Social status types in Uzbekistan"
-* ^url = "https://terminology.medcore.uz/CodeSystem/social-status-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
-* #regis0010-00001 "Talaba"
+* insert OriginalCodeSystemDraft(social-status-cs)
+* #regis0010.00001 "Talaba"
   * ^designation[0].language = #ru
   * ^designation[=].value = "Учащийся"
   * ^designation[+].language = #en

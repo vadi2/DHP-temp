@@ -2,12 +2,7 @@ CodeSystem: AuditEventActionCS
 Id: audit-event-action-cs
 Title: "Audit event action translations"
 Description: "Audit event action supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/audit-event-action-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $audit-event-action
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(audit-event-action-cs, $audit-event-action, 5.0.0)
 * #C
   * ^designation[0].language = #ru
   * ^designation[=].value = "Создать"

@@ -5,7 +5,6 @@ Title: "UZ Core Socioeconomic Observation"
 Description: "Uzbekistan Core socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status. "
 * ^url = $socieeconomic-observation
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-06-11"
 * ^publisher = "Uzinfocom"

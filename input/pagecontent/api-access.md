@@ -60,7 +60,7 @@ The frontend application must be registered with the SSO server. Upon registrati
 
 **1 Redirect the user to the SSO frontend:**
 
-```http request
+```
 GET sso.medcore.uz
 ```
 
@@ -83,7 +83,7 @@ This exchange must be done on the backend to protect the `client_secret`. If you
 
 Include the access token in each request:
 
-```http request
+```
 Authorization: Bearer <access_token>
 ```
 

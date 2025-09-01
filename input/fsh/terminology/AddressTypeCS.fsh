@@ -2,12 +2,7 @@ CodeSystem: AddressTypeCS
 Id: address-type-cs
 Title: "Address type translations"
 Description: "Address type supplement with Uzbek and Russian translations"
-* ^url = "https://terminology.medcore.uz/CodeSystem/address-type-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $address-type
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(address-type-cs, $address-type, 5.0.0)
 * #postal
   * ^designation[0].language = #ru
   * ^designation[=].value = "Почтовый адрес"

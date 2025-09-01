@@ -2,12 +2,7 @@ CodeSystem: ConsentProvisionTypeCS
 Id: consent-provision-type-cs
 Title: "Consent provision type translations"
 Description: "Consent provision type supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.medcore.uz/CodeSystem/consent-provision-type-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $consent-provision-type
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(consent-provision-type-cs, $consent-provision-type, 5.0.0)
 * #deny
   * ^designation[0].language = #ru
   * ^designation[=].value = "Согласие отклоняется на действия, соответствующие этим правилам"

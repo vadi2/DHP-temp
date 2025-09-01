@@ -223,6 +223,6 @@ Usage: #definition
 * jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
 * usage = "Used for identifying specific units within healthcare locations, such as branches, departments, wards, and beds."
 * uniqueId.type = #uri
-* uniqueId.value = "http://medcore.uz/NamingSystem/location-unit"
+* uniqueId.value = "https://dhp.uz/NamingSystem/location-unit"
 * uniqueId.preferred = true
 * uniqueId.comment = "This is the canonical URI for the Uzbekistan DHP Location Unit identifier system"

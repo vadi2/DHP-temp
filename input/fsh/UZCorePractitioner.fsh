@@ -4,7 +4,6 @@ Id: uz-core-practitioner
 Title: "UZ Core Practitioner"
 Description: "Uzbekistan Core Practitioner profile, used to define healthcare practitioners"
 * ^experimental = true
-* ^version = "1.0.0"
 * ^status = #active
 * ^date = "2025-03-05"
 * ^publisher = "Uzinfocom"
@@ -72,9 +71,9 @@ Usage: #example
   * use = #temp
   * type = #physical
   * line = "mahallasi Dilobod, Katortol ko'chasi, 9-uy, 15-xonadon"
-  * city = "1726"
-  * district = "1726"
-  * country = "UZ"
+  * city = "22070033"
+  * district = "1703217"
+  * country = "182"
 * photo
   * url = "http://example.org/photos/practitioner.jpg"
   * size = 1024
