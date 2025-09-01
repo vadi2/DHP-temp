@@ -23,7 +23,7 @@
       ]
     },
     {
-      "code": "organ0001.00001",
+      "code": "organ0001-00001",
       "display": "Biopsiya diagnostikasi",
       "designation": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "code": "organ0001.00002",
+      "code": "organ0001-00002",
       "display": "O'smirlik va muddatli harbiy xizmatga chaqirilgan yoshlar kasalliklarini tibbiy ko'rikdan o'tkazish",
       "designation": [
         {
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "code": "organ0001.00003",
+      "code": "organ0001-00003",
       "display": "Tibbiy va mehnat ekspertizasi",
       "designation": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "code": "organ0001.00004",
+      "code": "organ0001-00004",
       "display": "Akupunktur",
       "designation": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "code": "organ0001.00005",
+      "code": "organ0001-00005",
       "display": "Klinik farmakologiya",
       "designation": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "code": "organ0001.00006",
+      "code": "organ0001-00006",
       "display": "Fizioterapiya",
       "designation": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "code": "organ0001.00007",
+      "code": "organ0001-00007",
       "display": "Manuel terapiya",
       "designation": [
         {
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "code": "organ0001.00008",
+      "code": "organ0001-00008",
       "display": "Tibbiy genetika",
       "designation": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "code": "organ0001.00009",
+      "code": "organ0001-00009",
       "display": "Tibbiy psixologiya",
       "designation": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "code": "organ0001.00010",
+      "code": "organ0001-00010",
       "display": "Umumiy jarrohlik",
       "designation": [
         {
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "code": "organ0001.00011",
+      "code": "organ0001-00011",
       "display": "Operativ va diagnostik laparoskopiya",
       "designation": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "code": "organ0001.00012",
+      "code": "organ0001-00012",
       "display": "Qorin bo'shlig'i onkoxirurgiyasi bo'limi",
       "designation": [
         {
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "code": "organ0001.00013",
+      "code": "organ0001-00013",
       "display": "Qorin bo'shlig'i jarrohligi bo'limi",
       "designation": [
         {
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "code": "organ0001.00014",
+      "code": "organ0001-00014",
       "display": "Allergologiya va immunologiya bo'limi",
       "designation": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "code": "organ0001.00015",
+      "code": "organ0001-00015",
       "display": "Andrologiya va seksopatologiya bo'limi",
       "designation": [
         {
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "code": "organ0001.00016",
+      "code": "organ0001-00016",
       "display": "Anesteziologiya va reanimatsiya bo'limi",
       "designation": [
         {
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "code": "organ0001.00017",
+      "code": "organ0001-00017",
       "display": "Vertebrologiya bo'limi",
       "designation": [
         {
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "code": "organ0001.00018",
+      "code": "organ0001-00018",
       "display": "Gastroenterologiya bo'limi",
       "designation": [
         {
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "code": "organ0001.00019",
+      "code": "organ0001-00019",
       "display": "Gematologiya bo'limi",
       "designation": [
         {
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "code": "organ0001.00020",
+      "code": "organ0001-00020",
       "display": "Geriatriya bo'limi",
       "designation": [
         {
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "code": "organ0001.00021",
+      "code": "organ0001-00021",
       "display": "Yiringli jarrohlik bo'limi",
       "designation": [
         {
@@ -317,7 +317,7 @@
       ]
     },
     {
-      "code": "organ0001.00022",
+      "code": "organ0001-00022",
       "display": "Dermatovenerologiya bo'limi",
       "designation": [
         {
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "code": "organ0001.00023",
+      "code": "organ0001-00023",
       "display": "Bolalar va o'smirlar ginekologiyasi bo'limi",
       "designation": [
         {
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "code": "organ0001.00024",
+      "code": "organ0001-00024",
       "display": "Bolalar yuqumli kasalliklari bo'limi",
       "designation": [
         {
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "code": "organ0001.00025",
+      "code": "organ0001-00025",
       "display": "Bolalar allergologiyasi bo'limi",
       "designation": [
         {
@@ -373,7 +373,7 @@
       ]
     },
     {
-      "code": "organ0001.00026",
+      "code": "organ0001-00026",
       "display": "Bolalar anesteziologiyasi va reanimatsiyasi bo'limi",
       "designation": [
         {
@@ -387,7 +387,7 @@
       ]
     },
     {
-      "code": "organ0001.00027",
+      "code": "organ0001-00027",
       "display": "Bolalar gastroenterologiyasi bo'limi",
       "designation": [
         {
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "code": "organ0001.00028",
+      "code": "organ0001-00028",
       "display": "Bolalar va o'smirlar ginekologiyasi bo'limi",
       "designation": [
         {
@@ -415,7 +415,7 @@
       ]
     },
     {
-      "code": "organ0001.00029",
+      "code": "organ0001-00029",
       "display": "Bolalar va o'smirlar psixiatriyasi bo'limi",
       "designation": [
         {
@@ -429,7 +429,7 @@
       ]
     },
     {
-      "code": "organ0001.00030",
+      "code": "organ0001-00030",
       "display": "Bolalar kardiologiyasi va revmatologiya bo'limi",
       "designation": [
         {
@@ -443,7 +443,7 @@
       ]
     },
     {
-      "code": "organ0001.00031",
+      "code": "organ0001-00031",
       "display": "Bolalar kardiojarrohligi bo'limi",
       "designation": [
         {
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "code": "organ0001.00032",
+      "code": "organ0001-00032",
       "display": "Bolalar nevrologiyasi bo'limi",
       "designation": [
         {
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "code": "organ0001.00033",
+      "code": "organ0001-00033",
       "display": "Bolalar nefrologiyasi bo'limi",
       "designation": [
         {
@@ -485,7 +485,7 @@
       ]
     },
     {
-      "code": "organ0001.00034",
+      "code": "organ0001-00034",
       "display": "Bolalar onkologiyasi bo'limi (kimyoterapiya)",
       "designation": [
         {
@@ -499,7 +499,7 @@
       ]
     },
     {
-      "code": "organ0001.00035",
+      "code": "organ0001-00035",
       "display": "Bolalar onkoxirurgiyasi bo'limi",
       "designation": [
         {
@@ -513,7 +513,7 @@
       ]
     },
     {
-      "code": "organ0001.00036",
+      "code": "organ0001-00036",
       "display": "Bolalar oftalmologiyasi bo'limi",
       "designation": [
         {
@@ -527,7 +527,7 @@
       ]
     },
     {
-      "code": "organ0001.00037",
+      "code": "organ0001-00037",
       "display": "Bolalar pulmonologiyasi bo'limi",
       "designation": [
         {
@@ -541,7 +541,7 @@
       ]
     },
     {
-      "code": "organ0001.00038",
+      "code": "organ0001-00038",
       "display": "Bolalar stomatologiyasi bo'limi",
       "designation": [
         {
@@ -555,7 +555,7 @@
       ]
     },
     {
-      "code": "organ0001.00039",
+      "code": "organ0001-00039",
       "display": "Bolalar terapevtik stomatologiya bo'limi",
       "designation": [
         {
@@ -569,7 +569,7 @@
       ]
     },
     {
-      "code": "organ0001.00040",
+      "code": "organ0001-00040",
       "display": "Bolalar urologiyasi bo'limi",
       "designation": [
         {
@@ -583,7 +583,7 @@
       ]
     },
     {
-      "code": "organ0001.00041",
+      "code": "organ0001-00041",
       "display": "Bolalar ftiziatriya bo'limi",
       "designation": [
         {
@@ -597,7 +597,7 @@
       ]
     },
     {
-      "code": "organ0001.00042",
+      "code": "organ0001-00042",
       "display": "Bolalar xirurgiyasi bo'limi",
       "designation": [
         {
@@ -611,7 +611,7 @@
       ]
     },
     {
-      "code": "organ0001.00043",
+      "code": "organ0001-00043",
       "display": "Bolalar endokrinologiyasi bo'limi",
       "designation": [
         {
@@ -625,7 +625,7 @@
       ]
     },
     {
-      "code": "organ0001.00044",
+      "code": "organ0001-00044",
       "display": "Reanimatsiya bo'limi",
       "designation": [
         {
@@ -639,7 +639,7 @@
       ]
     },
     {
-      "code": "organ0001.00045",
+      "code": "organ0001-00045",
       "display": "Interventsion kardiologiya bo'limi (angiokardiografiya va interventsion muolajalar)",
       "designation": [
         {
@@ -653,7 +653,7 @@
       ]
     },
     {
-      "code": "organ0001.00046",
+      "code": "organ0001-00046",
       "display": "Interventsion radiologiya bo'limi",
       "designation": [
         {
@@ -667,7 +667,7 @@
       ]
     },
     {
-      "code": "organ0001.00047",
+      "code": "organ0001-00047",
       "display": "Yuqumli kasalliklar bo'limi",
       "designation": [
         {
@@ -681,7 +681,7 @@
       ]
     },
     {
-      "code": "organ0001.00048",
+      "code": "organ0001-00048",
       "display": "Kardiojarrohlik bo'limi",
       "designation": [
         {
@@ -695,7 +695,7 @@
       ]
     },
     {
-      "code": "organ0001.00049",
+      "code": "organ0001-00049",
       "display": "Klinik patofizyologiya bo'limi",
       "designation": [
         {
@@ -709,7 +709,7 @@
       ]
     },
     {
-      "code": "organ0001.00050",
+      "code": "organ0001-00050",
       "display": "Proktologiya bo'limi",
       "designation": [
         {
@@ -723,7 +723,7 @@
       ]
     },
     {
-      "code": "organ0001.00051",
+      "code": "organ0001-00051",
       "display": "Kompyuter tomografiyasi bo'limi",
       "designation": [
         {
@@ -737,7 +737,7 @@
       ]
     },
     {
-      "code": "organ0001.00052",
+      "code": "organ0001-00052",
       "display": "Radiatsiya terapiyasi bo'limi",
       "designation": [
         {
@@ -751,7 +751,7 @@
       ]
     },
     {
-      "code": "organ0001.00053",
+      "code": "organ0001-00053",
       "display": "Magnit-rezonans tomografiya bo'limi",
       "designation": [
         {
@@ -765,7 +765,7 @@
       ]
     },
     {
-      "code": "organ0001.00054",
+      "code": "organ0001-00054",
       "display": "Mammologiya bo'limi",
       "designation": [
         {
@@ -779,7 +779,7 @@
       ]
     },
     {
-      "code": "organ0001.00055",
+      "code": "organ0001-00055",
       "display": "Mikrojarrohlik bo'limi",
       "designation": [
         {
@@ -793,7 +793,7 @@
       ]
     },
     {
-      "code": "organ0001.00056",
+      "code": "organ0001-00056",
       "display": "Ko'z mikroxirurgiyasi bo'limi",
       "designation": [
         {
@@ -807,7 +807,7 @@
       ]
     },
     {
-      "code": "organ0001.00057",
+      "code": "organ0001-00057",
       "display": "Nevrologiya bo'limi",
       "designation": [
         {
@@ -821,7 +821,7 @@
       ]
     },
     {
-      "code": "organ0001.00058",
+      "code": "organ0001-00058",
       "display": "Neyro-oftalmologiya bo'limi",
       "designation": [
         {
@@ -835,7 +835,7 @@
       ]
     },
     {
-      "code": "organ0001.00059",
+      "code": "organ0001-00059",
       "display": "Neyrofiziologiya bo'limi",
       "designation": [
         {
@@ -849,7 +849,7 @@
       ]
     },
     {
-      "code": "organ0001.00060",
+      "code": "organ0001-00060",
       "display": "Neonatal jarrohlik bo'limi",
       "designation": [
         {
@@ -863,7 +863,7 @@
       ]
     },
     {
-      "code": "organ0001.00061",
+      "code": "organ0001-00061",
       "display": "Neonatologiya bo'limi",
       "designation": [
         {
@@ -877,7 +877,7 @@
       ]
     },
     {
-      "code": "organ0001.00062",
+      "code": "organ0001-00062",
       "display": "Shoshilinch kardiologiya va yurak reanimatsiyasi bo'limi",
       "designation": [
         {
@@ -891,7 +891,7 @@
       ]
     },
     {
-      "code": "organ0001.00063",
+      "code": "organ0001-00063",
       "display": "Nefrologiya bo'limi",
       "designation": [
         {
@@ -905,7 +905,7 @@
       ]
     },
     {
-      "code": "organ0001.00064",
+      "code": "organ0001-00064",
       "display": "Umumiy onkologiya bo'limi",
       "designation": [
         {
@@ -919,7 +919,7 @@
       ]
     },
     {
-      "code": "organ0001.00065",
+      "code": "organ0001-00065",
       "display": "Onkoginekologiya bo'limi",
       "designation": [
         {
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "code": "organ0001.00066",
+      "code": "organ0001-00066",
       "display": "Onkokoloproktologiya bo'limi",
       "designation": [
         {
@@ -947,7 +947,7 @@
       ]
     },
     {
-      "code": "organ0001.00067",
+      "code": "organ0001-00067",
       "display": "Onko-oftalmologiya bo'limi",
       "designation": [
         {
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "code": "organ0001.00068",
+      "code": "organ0001-00068",
       "display": "Onkurologiya bo'limi",
       "designation": [
         {
@@ -975,7 +975,7 @@
       ]
     },
     {
-      "code": "organ0001.00069",
+      "code": "organ0001-00069",
       "display": "Bosh va bo'yin o'smalari bo'limi",
       "designation": [
         {
@@ -989,7 +989,7 @@
       ]
     },
     {
-      "code": "organ0001.00070",
+      "code": "organ0001-00070",
       "display": "Tayanch-harakat tizimi o'smalari bo'limi",
       "designation": [
         {
@@ -1003,7 +1003,7 @@
       ]
     },
     {
-      "code": "organ0001.00071",
+      "code": "organ0001-00071",
       "display": "Ortopediya bo'limi",
       "designation": [
         {
@@ -1017,7 +1017,7 @@
       ]
     },
     {
-      "code": "organ0001.00072",
+      "code": "organ0001-00072",
       "display": "Otorinolaringologiya bo'limi",
       "designation": [
         {
@@ -1031,7 +1031,7 @@
       ]
     },
     {
-      "code": "organ0001.00073",
+      "code": "organ0001-00073",
       "display": "Oftalmologiya bo'limi",
       "designation": [
         {
@@ -1045,7 +1045,7 @@
       ]
     },
     {
-      "code": "organ0001.00074",
+      "code": "organ0001-00074",
       "display": "Patologik anatomiya bo'limi",
       "designation": [
         {
@@ -1059,7 +1059,7 @@
       ]
     },
     {
-      "code": "organ0001.00075",
+      "code": "organ0001-00075",
       "display": "Pediatriya bo'limi",
       "designation": [
         {
@@ -1073,7 +1073,7 @@
       ]
     },
     {
-      "code": "organ0001.00076",
+      "code": "organ0001-00076",
       "display": "Plastik jarrohlik bo'limi",
       "designation": [
         {
@@ -1087,7 +1087,7 @@
       ]
     },
     {
-      "code": "organ0001.00077",
+      "code": "organ0001-00077",
       "display": "Pulmonologiya bo'limi",
       "designation": [
         {
@@ -1101,7 +1101,7 @@
       ]
     },
     {
-      "code": "organ0001.00078",
+      "code": "organ0001-00078",
       "display": "Revmatologiya bo'limi",
       "designation": [
         {
@@ -1115,7 +1115,7 @@
       ]
     },
     {
-      "code": "organ0001.00079",
+      "code": "organ0001-00079",
       "display": "Radiologiya bo'limi",
       "designation": [
         {
@@ -1129,7 +1129,7 @@
       ]
     },
     {
-      "code": "organ0001.00080",
+      "code": "organ0001-00080",
       "display": "Qon tomir jarrohligi bo'limi",
       "designation": [
         {
@@ -1143,7 +1143,7 @@
       ]
     },
     {
-      "code": "organ0001.00081",
+      "code": "organ0001-00081",
       "display": "Orqa miya neyroxirurgiyasi bo'limi",
       "designation": [
         {
@@ -1157,7 +1157,7 @@
       ]
     },
     {
-      "code": "organ0001.00082",
+      "code": "organ0001-00082",
       "display": "Toksikologiya bo'limi",
       "designation": [
         {
@@ -1171,7 +1171,7 @@
       ]
     },
     {
-      "code": "organ0001.00083",
+      "code": "organ0001-00083",
       "display": "Torakal onkojarrohlik bo'limi",
       "designation": [
         {
@@ -1185,7 +1185,7 @@
       ]
     },
     {
-      "code": "organ0001.00084",
+      "code": "organ0001-00084",
       "display": "Torakal jarrohlik bo'limi",
       "designation": [
         {
@@ -1199,7 +1199,7 @@
       ]
     },
     {
-      "code": "organ0001.00085",
+      "code": "organ0001-00085",
       "display": "Travmatologiya bo'limi",
       "designation": [
         {
@@ -1213,7 +1213,7 @@
       ]
     },
     {
-      "code": "organ0001.00086",
+      "code": "organ0001-00086",
       "display": "Transplantologiya bo'limi",
       "designation": [
         {
@@ -1227,7 +1227,7 @@
       ]
     },
     {
-      "code": "organ0001.00087",
+      "code": "organ0001-00087",
       "display": "Transfuziologiya bo'limi",
       "designation": [
         {
@@ -1241,7 +1241,7 @@
       ]
     },
     {
-      "code": "organ0001.00088",
+      "code": "organ0001-00088",
       "display": "Urologiya bo'limi",
       "designation": [
         {
@@ -1255,7 +1255,7 @@
       ]
     },
     {
-      "code": "organ0001.00089",
+      "code": "organ0001-00089",
       "display": "Ftiziatriya bo'limi",
       "designation": [
         {
@@ -1269,7 +1269,7 @@
       ]
     },
     {
-      "code": "organ0001.00090",
+      "code": "organ0001-00090",
       "display": "Skelet sistemasining ftiziatriya bo'limi",
       "designation": [
         {
@@ -1283,7 +1283,7 @@
       ]
     },
     {
-      "code": "organ0001.00091",
+      "code": "organ0001-00091",
       "display": "Ftizioginekologiya bo'limi",
       "designation": [
         {
@@ -1297,7 +1297,7 @@
       ]
     },
     {
-      "code": "organ0001.00092",
+      "code": "organ0001-00092",
       "display": "Ftizioftalmologiya bo'limi",
       "designation": [
         {
@@ -1311,7 +1311,7 @@
       ]
     },
     {
-      "code": "organ0001.00093",
+      "code": "organ0001-00093",
       "display": "Ftiziurologiya bo'limi",
       "designation": [
         {
@@ -1325,7 +1325,7 @@
       ]
     },
     {
-      "code": "organ0001.00094",
+      "code": "organ0001-00094",
       "display": "Ftiziojarrohlik bo'limi",
       "designation": [
         {
@@ -1339,7 +1339,7 @@
       ]
     },
     {
-      "code": "organ0001.00095",
+      "code": "organ0001-00095",
       "display": "Funktsional diagnostika bo'limi",
       "designation": [
         {
@@ -1353,7 +1353,7 @@
       ]
     },
     {
-      "code": "organ0001.00096",
+      "code": "organ0001-00096",
       "display": "Kimyoterapiya bo'limi",
       "designation": [
         {
@@ -1367,7 +1367,7 @@
       ]
     },
     {
-      "code": "organ0001.00097",
+      "code": "organ0001-00097",
       "display": "Jarrohlik bo'limi",
       "designation": [
         {
@@ -1381,7 +1381,7 @@
       ]
     },
     {
-      "code": "organ0001.00098",
+      "code": "organ0001-00098",
       "display": "Sitologik diagnostika bo'limi",
       "designation": [
         {
@@ -1395,7 +1395,7 @@
       ]
     },
     {
-      "code": "organ0001.00099",
+      "code": "organ0001-00099",
       "display": "Immunohistokimyoviy diagnostika bo'limi",
       "designation": [
         {
@@ -1409,7 +1409,7 @@
       ]
     },
     {
-      "code": "organ0001.00100",
+      "code": "organ0001-00100",
       "display": "Maksillofasiyal jarrohlik bo'limi",
       "designation": [
         {
@@ -1423,7 +1423,7 @@
       ]
     },
     {
-      "code": "organ0001.00101",
+      "code": "organ0001-00101",
       "display": "Favqulodda kardiologiya bo'limi",
       "designation": [
         {
@@ -1437,7 +1437,7 @@
       ]
     },
     {
-      "code": "organ0001.00102",
+      "code": "organ0001-00102",
       "display": "Favqulodda vaziyatlar bo'limi",
       "designation": [
         {
@@ -1451,7 +1451,7 @@
       ]
     },
     {
-      "code": "organ0001.00103",
+      "code": "organ0001-00103",
       "display": "Favqulodda jarrohlik bo'limi",
       "designation": [
         {
@@ -1465,7 +1465,7 @@
       ]
     },
     {
-      "code": "organ0001.00104",
+      "code": "organ0001-00104",
       "display": "Endovaskulyar neyroxirurgiya bo'limi",
       "designation": [
         {
@@ -1479,7 +1479,7 @@
       ]
     },
     {
-      "code": "organ0001.00105",
+      "code": "organ0001-00105",
       "display": "Endokrinologiya bo'limi",
       "designation": [
         {
@@ -1493,7 +1493,7 @@
       ]
     },
     {
-      "code": "organ0001.00106",
+      "code": "organ0001-00106",
       "display": "Endourologiya bo'limi",
       "designation": [
         {
@@ -1507,7 +1507,7 @@
       ]
     },
     {
-      "code": "organ0001.00107",
+      "code": "organ0001-00107",
       "display": "Ortodontiya",
       "designation": [
         {
@@ -1521,7 +1521,7 @@
       ]
     },
     {
-      "code": "organ0001.00108",
+      "code": "organ0001-00108",
       "display": "Periodontologiya",
       "designation": [
         {
@@ -1535,7 +1535,7 @@
       ]
     },
     {
-      "code": "organ0001.00109",
+      "code": "organ0001-00109",
       "display": "Reproduktologiya",
       "designation": [
         {
@@ -1549,7 +1549,7 @@
       ]
     },
     {
-      "code": "organ0001.00110",
+      "code": "organ0001-00110",
       "display": "Sport tibbiyoti",
       "designation": [
         {
@@ -1563,7 +1563,7 @@
       ]
     },
     {
-      "code": "organ0001.00111",
+      "code": "organ0001-00111",
       "display": "Stomatologiya",
       "designation": [
         {
@@ -1577,7 +1577,7 @@
       ]
     },
     {
-      "code": "organ0001.00112",
+      "code": "organ0001-00112",
       "display": "Umumiy stomatologiya",
       "designation": [
         {
@@ -1591,7 +1591,7 @@
       ]
     },
     {
-      "code": "organ0001.00113",
+      "code": "organ0001-00113",
       "display": "Sud-psixiatriya ekspertizasi",
       "designation": [
         {
@@ -1605,7 +1605,7 @@
       ]
     },
     {
-      "code": "organ0001.00114",
+      "code": "organ0001-00114",
       "display": "O'z joniga qasd qilish",
       "designation": [
         {
@@ -1619,7 +1619,7 @@
       ]
     },
     {
-      "code": "organ0001.00115",
+      "code": "organ0001-00115",
       "display": "Ultratovush diagnostikasi",
       "designation": [
         {
@@ -1633,7 +1633,7 @@
       ]
     },
     {
-      "code": "organ0001.00116",
+      "code": "organ0001-00116",
       "display": "Fizioterapiya",
       "designation": [
         {
@@ -1647,7 +1647,7 @@
       ]
     },
     {
-      "code": "organ0001.00117",
+      "code": "organ0001-00117",
       "display": "Homiladorlik patologiyasi bo'limi",
       "designation": [
         {
@@ -1661,7 +1661,7 @@
       ]
     },
     {
-      "code": "organ0001.00145",
+      "code": "organ0001-00145",
       "display": "Tish jarrohlik",
       "designation": [
         {
@@ -1675,7 +1675,7 @@
       ]
     },
     {
-      "code": "organ0001.00118",
+      "code": "organ0001-00118",
       "display": "Tug'ruqxona",
       "designation": [
         {
@@ -1689,7 +1689,7 @@
       ]
     },
     {
-      "code": "organ0001.00119",
+      "code": "organ0001-00119",
       "display": "Akusherlik bo'limi",
       "designation": [
         {
@@ -1703,7 +1703,7 @@
       ]
     },
     {
-      "code": "organ0001.00120",
+      "code": "organ0001-00120",
       "display": "Erta tug'ilgan chaqaloqlarni parvarish qilish bo'limi",
       "designation": [
         {
@@ -1717,7 +1717,7 @@
       ]
     },
     {
-      "code": "organ0001.00121",
+      "code": "organ0001-00121",
       "display": "Neonatal bo'lim",
       "designation": [
         {
@@ -1731,7 +1731,7 @@
       ]
     },
     {
-      "code": "organ0001.00122",
+      "code": "organ0001-00122",
       "display": "Qabul bo'limi",
       "designation": [
         {
@@ -1745,7 +1745,7 @@
       ]
     },
     {
-      "code": "organ0001.00123",
+      "code": "organ0001-00123",
       "display": "Anesteziologiya va neonatal reanimatsiya bo'limi",
       "designation": [
         {
@@ -1759,7 +1759,7 @@
       ]
     },
     {
-      "code": "organ0001.00124",
+      "code": "organ0001-00124",
       "display": "Neonatal jarrohlik bo'limi",
       "designation": [
         {
@@ -1773,7 +1773,7 @@
       ]
     },
     {
-      "code": "organ0001.00125",
+      "code": "organ0001-00125",
       "display": "Markazlashtirilgan sterilizatsiya bo'limi",
       "designation": [
         {
@@ -1787,7 +1787,7 @@
       ]
     },
     {
-      "code": "organ0001.00126",
+      "code": "organ0001-00126",
       "display": "Bakteriologik laboratoriya",
       "designation": [
         {
@@ -1801,7 +1801,7 @@
       ]
     },
     {
-      "code": "organ0001.00127",
+      "code": "organ0001-00127",
       "display": "Kir yuvish bo'limi",
       "designation": [
         {
@@ -1815,7 +1815,7 @@
       ]
     },
     {
-      "code": "organ0001.00128",
+      "code": "organ0001-00128",
       "display": "Eritmalarni tayyorlash bo'limi",
       "designation": [
         {
@@ -1829,7 +1829,7 @@
       ]
     },
     {
-      "code": "organ0001.00129",
+      "code": "organ0001-00129",
       "display": "Ambulatoriya bo'limi",
       "designation": [
         {
@@ -1843,7 +1843,7 @@
       ]
     },
     {
-      "code": "organ0001.00130",
+      "code": "organ0001-00130",
       "display": "Kunduzgi shifoxona bo'limi",
       "designation": [
         {
@@ -1857,7 +1857,7 @@
       ]
     },
     {
-      "code": "organ0001.00131",
+      "code": "organ0001-00131",
       "display": "Pozitron emissiya tomografiyasi bo'limi",
       "designation": [
         {
@@ -1871,7 +1871,7 @@
       ]
     },
     {
-      "code": "organ0001.00132",
+      "code": "organ0001-00132",
       "display": "Klinik diagnostika laboratoriyasi",
       "designation": [
         {
@@ -1885,7 +1885,7 @@
       ]
     },
     {
-      "code": "organ0001.00133",
+      "code": "organ0001-00133",
       "display": "Biokimyoviy laboratoriya",
       "designation": [
         {
@@ -1899,7 +1899,7 @@
       ]
     },
     {
-      "code": "organ0001.00134",
+      "code": "organ0001-00134",
       "display": "Mikrobiologik laboratoriya",
       "designation": [
         {
@@ -1913,7 +1913,7 @@
       ]
     },
     {
-      "code": "organ0001.00135",
+      "code": "organ0001-00135",
       "display": "Immunologik laboratoriya",
       "designation": [
         {
@@ -1927,7 +1927,7 @@
       ]
     },
     {
-      "code": "organ0001.00136",
+      "code": "organ0001-00136",
       "display": "Patomorfologik laboratoriya",
       "designation": [
         {
@@ -1941,7 +1941,7 @@
       ]
     },
     {
-      "code": "organ0001.00137",
+      "code": "organ0001-00137",
       "display": "Sitologiya laboratoriyasi",
       "designation": [
         {
@@ -1955,7 +1955,7 @@
       ]
     },
     {
-      "code": "organ0001.00138",
+      "code": "organ0001-00138",
       "display": "Genetika laboratoriyasi",
       "designation": [
         {
@@ -1969,7 +1969,7 @@
       ]
     },
     {
-      "code": "organ0001.00139",
+      "code": "organ0001-00139",
       "display": "Molekulyar biologiya laboratoriyasi",
       "designation": [
         {
@@ -1983,7 +1983,7 @@
       ]
     },
     {
-      "code": "organ0001.00140",
+      "code": "organ0001-00140",
       "display": "Radionuklid diagnostikasi bo'limi",
       "designation": [
         {
@@ -1997,7 +1997,7 @@
       ]
     },
     {
-      "code": "organ0001.00141",
+      "code": "organ0001-00141",
       "display": "Narkologiya bo'limi",
       "designation": [
         {
@@ -2011,7 +2011,7 @@
       ]
     },
     {
-      "code": "organ0001.00142",
+      "code": "organ0001-00142",
       "display": "Terapiya bo'limi",
       "designation": [
         {
@@ -2025,7 +2025,7 @@
       ]
     },
     {
-      "code": "organ0001.00143",
+      "code": "organ0001-00143",
       "display": "Ginekologiya bo'limi",
       "designation": [
         {
@@ -2039,7 +2039,7 @@
       ]
     },
     {
-      "code": "organ0001.00144",
+      "code": "organ0001-00144",
       "display": "Virusologiya bo'limi",
       "designation": [
         {

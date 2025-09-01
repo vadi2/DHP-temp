@@ -166,7 +166,7 @@ Usage: #example
   * gender = #male
 * maritalStatus = $v3-MaritalStatus#W "Вдовец, вдова"
 * extension[nationality].extension[code].valueCodeableConcept = NationalityCS#23 "Азербайджанцы"
-* extension[disability].valueCodeableConcept = DisabilityCS#regis0011.00001 "Группа I"
+* extension[disability].valueCodeableConcept = DisabilityCS#regis0011-00001 "Группа I"
 
 Instance: example-david
 InstanceOf: UZCorePatient
@@ -194,7 +194,7 @@ Usage: #example
   * city = "22070011"
   * period.start = "2001-10-16"
 * gender = #other
-* gender.extension[gender-other].valueCoding = GenderOtherCS#regis0007.00005 "Сменил пол на мужчину"
+* gender.extension[gender-other].valueCoding = GenderOtherCS#regis0007-00005 "Сменил пол на мужчину"
 * contact
   * relationship = $v2-0131#C "Emergency Contact"
   * name.text = "Саидов Саид"

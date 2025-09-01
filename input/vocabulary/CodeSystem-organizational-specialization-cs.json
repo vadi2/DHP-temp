@@ -23,7 +23,7 @@
       ]
     },
     {
-      "code": "102.0",
+      "code": "102-0",
       "display": "Kardiologiya",
       "designation": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "code": "103.0",
+      "code": "103-0",
       "display": "Bolalar kardiorevmatologiyasi",
       "designation": [
         {
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "code": "104.0",
+      "code": "104-0",
       "display": "Kattalar gastroenterologiyasi",
       "designation": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "code": "105.0",
+      "code": "105-0",
       "display": "Bolalar gastroenterologiyasi",
       "designation": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "code": "106.0",
+      "code": "106-0",
       "display": "Kattalar allergologiyasi",
       "designation": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "code": "107.0",
+      "code": "107-0",
       "display": "Bolalar allergologiyasi",
       "designation": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "code": "108.0",
+      "code": "108-0",
       "display": "Kattalar uchun reabilitatsiya",
       "designation": [
         {
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "code": "109.0",
+      "code": "109-0",
       "display": "Bolalar uchun reabilitatsiya",
       "designation": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "code": "110.0",
+      "code": "110-0",
       "display": "Kattalar endokrinologiyasi",
       "designation": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "code": "111.0",
+      "code": "111-0",
       "display": "Bolalar endokrinologiyasi",
       "designation": [
         {
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "code": "112.0",
+      "code": "112-0",
       "display": "Kattalar yuqumli kasalliklari",
       "designation": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "code": "113.0",
+      "code": "113-0",
       "display": "Bolalar yuqumli kasalliklari",
       "designation": [
         {
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "code": "114.0",
+      "code": "114-0",
       "display": "Kattalar gematologiyasi",
       "designation": [
         {
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "code": "115.0",
+      "code": "115-0",
       "display": "Bolalar gematologiyasi",
       "designation": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "code": "116.0",
+      "code": "116-0",
       "display": "Kattalar nefrologiyasi",
       "designation": [
         {
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "code": "117.0",
+      "code": "117-0",
       "display": "Bolalar nefrologiyasi",
       "designation": [
         {
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "code": "118.0",
+      "code": "118-0",
       "display": "Kattalar uchun revmatologik",
       "designation": [
         {
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "code": "119.0",
+      "code": "119-0",
       "display": "Bolalar uchun revmatologik",
       "designation": [
         {
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "code": "120.0",
+      "code": "120-0",
       "display": "Kattalar uchun pulmonologik",
       "designation": [
         {
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "code": "121.0",
+      "code": "121-0",
       "display": "Bolalar uchun pulmonologik",
       "designation": [
         {
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "code": "122.0",
+      "code": "122-0",
       "display": "Kattalar jarrohligi",
       "designation": [
         {
@@ -317,7 +317,7 @@
       ]
     },
     {
-      "code": "123.0",
+      "code": "123-0",
       "display": "Bolalar jarrohligi",
       "designation": [
         {
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "code": "124.0",
+      "code": "124-0",
       "display": "Kattalar neyrojarrohligi",
       "designation": [
         {
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "code": "125.0",
+      "code": "125-0",
       "display": "Bolalar neyrojarrohligi",
       "designation": [
         {
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "code": "126.0",
+      "code": "126-0",
       "display": "Kattalar torakal jarrohligi",
       "designation": [
         {
@@ -373,7 +373,7 @@
       ]
     },
     {
-      "code": "127.0",
+      "code": "127-0",
       "display": "Bolalar torakal jarrohligi",
       "designation": [
         {
@@ -387,7 +387,7 @@
       ]
     },
     {
-      "code": "128.0",
+      "code": "128-0",
       "display": "Kattalar kardiojarrohligi",
       "designation": [
         {
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "code": "129.0",
+      "code": "129-0",
       "display": "Bolalar kardiojarrohligi",
       "designation": [
         {
@@ -415,7 +415,7 @@
       ]
     },
     {
-      "code": "130.0",
+      "code": "130-0",
       "display": "Kattalar tomirlar jarrohligi",
       "designation": [
         {
@@ -429,7 +429,7 @@
       ]
     },
     {
-      "code": "131.0",
+      "code": "131-0",
       "display": "Bolalar tomirlar jarrohligi",
       "designation": [
         {
@@ -443,7 +443,7 @@
       ]
     },
     {
-      "code": "132.0",
+      "code": "132-0",
       "display": "Kattalar travmatologiyasi",
       "designation": [
         {
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "code": "133.0",
+      "code": "133-0",
       "display": "Bolalar travmatologiyasi",
       "designation": [
         {
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "code": "134.0",
+      "code": "134-0",
       "display": "Kattalar kuyish kasalligi",
       "designation": [
         {
@@ -485,7 +485,7 @@
       ]
     },
     {
-      "code": "135.0",
+      "code": "135-0",
       "display": "Bolalar kuyish kasalligi",
       "designation": [
         {
@@ -499,7 +499,7 @@
       ]
     },
     {
-      "code": "136.0",
+      "code": "136-0",
       "display": "Kattalar ortopediyasi",
       "designation": [
         {
@@ -513,7 +513,7 @@
       ]
     },
     {
-      "code": "137.0",
+      "code": "137-0",
       "display": "Bolalar ortopediyasi",
       "designation": [
         {
@@ -527,7 +527,7 @@
       ]
     },
     {
-      "code": "138.0",
+      "code": "138-0",
       "display": "Kattalar urologiyasi",
       "designation": [
         {
@@ -541,7 +541,7 @@
       ]
     },
     {
-      "code": "139.0",
+      "code": "139-0",
       "display": "Bolalar urologiyasi",
       "designation": [
         {
@@ -555,7 +555,7 @@
       ]
     },
     {
-      "code": "140.0",
+      "code": "140-0",
       "display": "Kattalar stomatologiyasi",
       "designation": [
         {
@@ -569,7 +569,7 @@
       ]
     },
     {
-      "code": "141.0",
+      "code": "141-0",
       "display": "Bolalar stomatologiyasi",
       "designation": [
         {
@@ -583,7 +583,7 @@
       ]
     },
     {
-      "code": "142.0",
+      "code": "142-0",
       "display": "Proktologik",
       "designation": [
         {
@@ -597,7 +597,7 @@
       ]
     },
     {
-      "code": "143.0",
+      "code": "143-0",
       "display": "Kattalar uchun yiringli jarrohlik",
       "designation": [
         {
@@ -611,7 +611,7 @@
       ]
     },
     {
-      "code": "144.0",
+      "code": "144-0",
       "display": "Bolalar yiringli jarrohlik",
       "designation": [
         {
@@ -625,7 +625,7 @@
       ]
     },
     {
-      "code": "145.0",
+      "code": "145-0",
       "display": "Kattalar onkologiyasi",
       "designation": [
         {
@@ -639,7 +639,7 @@
       ]
     },
     {
-      "code": "146.0",
+      "code": "146-0",
       "display": "Bolalar onkologiyasi",
       "designation": [
         {
@@ -653,7 +653,7 @@
       ]
     },
     {
-      "code": "147.0",
+      "code": "147-0",
       "display": "Radiologik va rentgenologik",
       "designation": [
         {
@@ -667,7 +667,7 @@
       ]
     },
     {
-      "code": "148.0",
+      "code": "148-0",
       "display": "Homilador, tug'adigan va tuqqan ayollar uchun (homiladorlik patologiyasidan tashqari)- jami",
       "designation": [
         {
@@ -681,7 +681,7 @@
       ]
     },
     {
-      "code": "148.1",
+      "code": "148-1",
       "display": "shu jumladan: Tug'adiganlar uchun",
       "designation": [
         {
@@ -695,7 +695,7 @@
       ]
     },
     {
-      "code": "149.0",
+      "code": "149-0",
       "display": "Homiladorlik patologiyasi",
       "designation": [
         {
@@ -709,7 +709,7 @@
       ]
     },
     {
-      "code": "150.0",
+      "code": "150-0",
       "display": "Kattalar uchun ginekologiya (abortlardan tashqari).",
       "designation": [
         {
@@ -723,7 +723,7 @@
       ]
     },
     {
-      "code": "151.0",
+      "code": "151-0",
       "display": "Bolalar uchun ginekologiya",
       "designation": [
         {
@@ -737,7 +737,7 @@
       ]
     },
     {
-      "code": "152.0",
+      "code": "152-0",
       "display": "Abort uchun",
       "designation": [
         {
@@ -751,7 +751,7 @@
       ]
     },
     {
-      "code": "153.0",
+      "code": "153-0",
       "display": "Katta yoshdagi sil kasalligi",
       "designation": [
         {
@@ -765,7 +765,7 @@
       ]
     },
     {
-      "code": "153.1",
+      "code": "153-1",
       "display": "Kattalardagi suyaklar va bo'g'imlarning sil kasalligi",
       "designation": [
         {
@@ -779,7 +779,7 @@
       ]
     },
     {
-      "code": "154.1",
+      "code": "154-1",
       "display": "Bolalarda suyak va bo'g'imlarning sil kasalligi",
       "designation": [
         {
@@ -793,7 +793,7 @@
       ]
     },
     {
-      "code": "155.0",
+      "code": "155-0",
       "display": "Kattalar uchun nevrologiya",
       "designation": [
         {
@@ -807,7 +807,7 @@
       ]
     },
     {
-      "code": "156.0",
+      "code": "156-0",
       "display": "Bolalar uchun nevrologiya",
       "designation": [
         {
@@ -821,7 +821,7 @@
       ]
     },
     {
-      "code": "157.0",
+      "code": "157-0",
       "display": "Kattalar psixiatriyasi (psixonevrologiya)",
       "designation": [
         {
@@ -835,7 +835,7 @@
       ]
     },
     {
-      "code": "158.0",
+      "code": "158-0",
       "display": "Bolalar psixiatriyasi",
       "designation": [
         {
@@ -849,7 +849,7 @@
       ]
     },
     {
-      "code": "159.0",
+      "code": "159-0",
       "display": "Kattalar psixosomatikasi",
       "designation": [
         {
@@ -863,7 +863,7 @@
       ]
     },
     {
-      "code": "160.0",
+      "code": "160-0",
       "display": "Bolalar psixosomatikasi",
       "designation": [
         {
@@ -877,7 +877,7 @@
       ]
     },
     {
-      "code": "161.0",
+      "code": "161-0",
       "display": "Narkologik",
       "designation": [
         {
@@ -891,7 +891,7 @@
       ]
     },
     {
-      "code": "162.0",
+      "code": "162-0",
       "display": "Kattalar toksikologiyasi",
       "designation": [
         {
@@ -905,7 +905,7 @@
       ]
     },
     {
-      "code": "163.0",
+      "code": "163-0",
       "display": "Bolalar uchun toksikologiya",
       "designation": [
         {
@@ -919,7 +919,7 @@
       ]
     },
     {
-      "code": "164.0",
+      "code": "164-0",
       "display": "Kattalar uchun oftalmologiya",
       "designation": [
         {
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "code": "165.0",
+      "code": "165-0",
       "display": "Bolalar oftalmologiyasi",
       "designation": [
         {
@@ -947,7 +947,7 @@
       ]
     },
     {
-      "code": "166.0",
+      "code": "166-0",
       "display": "Kattalar uchun otolaringologiya",
       "designation": [
         {
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "code": "167.0",
+      "code": "167-0",
       "display": "Bolalar otorinolaringologiyasi",
       "designation": [
         {
@@ -975,7 +975,7 @@
       ]
     },
     {
-      "code": "168.0",
+      "code": "168-0",
       "display": "Kattalar uchun dermatovenerologiya",
       "designation": [
         {
@@ -989,7 +989,7 @@
       ]
     },
     {
-      "code": "169.0",
+      "code": "169-0",
       "display": "Bolalar dermatovenerologiyasi",
       "designation": [
         {
@@ -1003,7 +1003,7 @@
       ]
     },
     {
-      "code": "170.0",
+      "code": "170-0",
       "display": "Pediatriya (somatik)",
       "designation": [
         {
@@ -1017,7 +1017,7 @@
       ]
     },
     {
-      "code": "170.1",
+      "code": "170-1",
       "display": "Bolalar patologiyasi",
       "designation": [
         {
@@ -1031,7 +1031,7 @@
       ]
     },
     {
-      "code": "171.0",
+      "code": "171-0",
       "display": "Transplantologiya",
       "designation": [
         {
@@ -1045,7 +1045,7 @@
       ]
     },
     {
-      "code": "172.0",
+      "code": "172-0",
       "display": "Kattalar uchun boshqa",
       "designation": [
         {
@@ -1059,7 +1059,7 @@
       ]
     },
     {
-      "code": "173.0",
+      "code": "173-0",
       "display": "Bolalar uchun boshqa",
       "designation": [
         {
@@ -1073,7 +1073,7 @@
       ]
     },
     {
-      "code": "174.0",
+      "code": "174-0",
       "display": "Kattalar uchun intensiv terapiya",
       "designation": [
         {
@@ -1087,7 +1087,7 @@
       ]
     },
     {
-      "code": "175.0",
+      "code": "175-0",
       "display": "Pediatriya intensiv terapiyasi",
       "designation": [
         {
