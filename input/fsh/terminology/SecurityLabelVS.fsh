@@ -2,7 +2,7 @@ ValueSet: SecurityLabelVS
 Id: security-label-vs
 Title: "Security label"
 Description: "Defines security label in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/ValueSet/security-label-vs"
+* ^url = "https://terminology.dhp.uz/fhir/core/ValueSet/security-label-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ActCodeCS)

@@ -50,7 +50,7 @@
         {
           "id" : "NamingSystem.uniqueId.value",
           "context" : "The string that should be sent over the wire to identify the code system or identifier system.",
-          "source" : "https://dhp.uz/NamingSystem/location-unit",
+          "source" : "https://dhp.uz/fhir/core/NamingSystem/location-unit",
           "target" : null
         },
         {

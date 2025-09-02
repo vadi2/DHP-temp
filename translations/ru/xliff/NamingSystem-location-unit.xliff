@@ -56,7 +56,7 @@
              <notes>
                <note id="n1">The string that should be sent over the wire to identify the code system or identifier system.</note>
              </notes>
-        <source>https://dhp.uz/NamingSystem/location-unit</source>
+        <source>https://dhp.uz/fhir/core/NamingSystem/location-unit</source>
         <target></target>
       </trans-unit>
       <trans-unit id="NamingSystem-location-unit" resname="NamingSystem.uniqueId.comment">

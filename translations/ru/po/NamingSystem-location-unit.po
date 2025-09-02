@@ -36,7 +36,7 @@ msgstr ""
 
 # The string that should be sent over the wire to identify the code system or identifier system.
 #: NamingSystem.uniqueId.value
-msgid "https://dhp.uz/NamingSystem/location-unit"
+msgid "https://dhp.uz/fhir/core/NamingSystem/location-unit"
 msgstr ""
 
 # Notes about the past or intended usage of this identifier.

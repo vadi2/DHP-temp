@@ -2,7 +2,7 @@ CodeSystem: EncounterSubjectStatusCS
 Id: encounter-subject-status-cs
 Title: "Encounter subject status translations"
 Description: "Encounter subject status codes with English and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-subject-status-cs"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/encounter-subject-status-cs"
 * ^experimental = true
 * ^status = #active
 * ^caseSensitive = true
