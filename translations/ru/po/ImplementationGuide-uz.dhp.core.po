@@ -7,12 +7,12 @@ msgstr ""
 # A short, descriptive, user-friendly title for the implementation guide.
 #: ImplementationGuide.title
 msgid "Uzbekistan Digital Health Platform"
-msgstr "Единая цифровая платформа здравоохранения Узбекистана"
+msgstr ""
 
 # The name of the organization or individual responsible for the release and ongoing maintenance of the implementation guide.
 #: ImplementationGuide.publisher
 msgid "Uzinfocom LLC"
-msgstr "ООО «Единый интегратор Uzinfocom»"
+msgstr ""
 
 # The name of an individual to contact.
 #: ContactDetail.name
@@ -22,7 +22,7 @@ msgstr ""
 # A free text natural language description of the implementation guide from a consumer's perspective.
 #: ImplementationGuide.description
 msgid "National implementation guide for Uzbekistan using FHIR R5."
-msgstr "Национальное руководство по внедрению для Узбекистана с использованием FHIR R5."
+msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1547,7 +1547,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core AuditEvent"
-msgstr "UZ Core Событие аудита"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1557,7 +1557,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core Condition"
-msgstr "UZ Core Заболевание"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1567,7 +1567,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core Consent"
-msgstr "UZ Core Согласие"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1577,7 +1577,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core Encounter"
-msgstr "UZ Core Обращение"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1587,7 +1587,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core HealthcareService"
-msgstr "UZ Core Медицинская услуга"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1597,7 +1597,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core Location"
-msgstr "UZ Core Местоположение"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1617,7 +1617,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core Organization"
-msgstr "UZ Core Организация"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1627,7 +1627,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core Patient"
-msgstr "UZ Core Пациент"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1637,7 +1637,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core Practitioner"
-msgstr "UZ Core Медицинский работник"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1647,7 +1647,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core PractitionerRole"
-msgstr "UZ Core Роль медицинского работника"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1657,7 +1657,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core Provenance"
-msgstr "UZ Core Происхождение"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1667,7 +1667,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core RelatedPerson"
-msgstr "UZ Core Связанное лицо"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1677,7 +1677,7 @@ msgstr ""
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "UZ Core Socioeconomic Observation"
-msgstr "UZ Core Социоэкономическое наблюдение"
+msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1877,7 +1877,7 @@ msgstr ""
 # A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
 #: ImplementationGuide.definition.page.title
 msgid "Table of Contents"
-msgstr "Содержание"
+msgstr ""
 
 # Indicates the URL or the actual content to provide for the page.
 #: ImplementationGuide.definition.page.source[x]
@@ -1887,7 +1887,7 @@ msgstr ""
 # A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
 #: ImplementationGuide.definition.page.title
 msgid "Home"
-msgstr "Главная"
+msgstr ""
 
 # Indicates the URL or the actual content to provide for the page.
 #: ImplementationGuide.definition.page.source[x]
@@ -1897,7 +1897,7 @@ msgstr ""
 # A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
 #: ImplementationGuide.definition.page.title
 msgid "Api Access"
-msgstr "Доступ к API"
+msgstr ""
 
 # Indicates the URL or the actual content to provide for the page.
 #: ImplementationGuide.definition.page.source[x]
@@ -1907,7 +1907,7 @@ msgstr ""
 # A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
 #: ImplementationGuide.definition.page.title
 msgid "Changelog"
-msgstr "Журнал изменений"
+msgstr ""
 
 # Indicates the URL or the actual content to provide for the page.
 #: ImplementationGuide.definition.page.source[x]
@@ -1917,7 +1917,7 @@ msgstr ""
 # A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
 #: ImplementationGuide.definition.page.title
 msgid "Fhir Basics"
-msgstr "FHIR Основы"
+msgstr ""
 
 # Indicates the URL or the actual content to provide for the page.
 #: ImplementationGuide.definition.page.source[x]
@@ -1927,7 +1927,7 @@ msgstr ""
 # A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
 #: ImplementationGuide.definition.page.title
 msgid "Services"
-msgstr "Сервисы"
+msgstr ""
 
 # Indicates the URL or the actual content to provide for the page.
 #: ImplementationGuide.definition.page.source[x]
@@ -1937,5 +1937,5 @@ msgstr ""
 # A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.
 #: ImplementationGuide.definition.page.title
 msgid "Translationinfo"
-msgstr "Информация о переводах"
+msgstr ""
 
