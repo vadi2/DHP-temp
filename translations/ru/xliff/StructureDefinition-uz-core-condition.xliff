@@ -14,8 +14,8 @@
              <notes>
                <note id="n1">A short, descriptive, user-friendly title for the structure definition.</note>
              </notes>
-        <source>Uz Core Condition</source>
-        <target>Uz Core Condition</target>
+        <source>UZ Core Condition</source>
+        <target>UZ Core Condition</target>
       </trans-unit>
       <trans-unit id="StructureDefinition-uz-core-condition" resname="StructureDefinition.publisher">
              <notes>
