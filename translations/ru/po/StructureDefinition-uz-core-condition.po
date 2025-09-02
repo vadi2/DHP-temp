@@ -6,8 +6,8 @@ msgstr "UZCoreCondition"
 
 # A short, descriptive, user-friendly title for the structure definition.
 #: StructureDefinition.title
-msgid "Uz Core Condition"
-msgstr "Uz Core Condition"
+msgid "UZ Core Condition"
+msgstr "UZ Core Condition"
 
 # The name of the organization or individual responsible for the release and ongoing maintenance of the structure definition.
 #: StructureDefinition.publisher

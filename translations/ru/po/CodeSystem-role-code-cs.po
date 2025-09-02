@@ -1,4 +1,3 @@
-
 # A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.
 #: CodeSystem.name
 msgid "RoleCodeCS"
@@ -33,4 +32,3 @@ msgstr ""
 #: CodeSystem.concept.designation.value
 msgid "tarjimon"
 msgstr ""
-
