@@ -30,7 +30,8 @@ Description: "Uzbekistan Core profile for EpisodeOfCare, representing a patient'
 * reason.use from EpisodeOfCareReasonUseVS
 * reason.value MS
   * ^short = "Медицинская причина, требующая рассмотрения."
-* reason.value only CodeableReference(UZCoreCondition or Procedure or Observation or UZCoreHealthcareService)
+  //TODO UZCoreProcedure 
+* reason.value only CodeableReference(UZCoreCondition or Procedure or UZCoreObservation or UZCoreHealthcareService)
 * reason.value from $icd-10-vs
 * diagnosis.use MS
   * ^short = "Список медицинских состояний, которые были рассмотрены во время эпизода оказания помощи"
@@ -51,6 +52,7 @@ Description: "Uzbekistan Core profile for EpisodeOfCare, representing a patient'
   * ^short = "Координатор (ответственный) по уходу за пациентом"
 * careManager only Reference(UZCorePractitioner or UZCorePractitionerRole)
 * careTeam MS
+  * ^short = "Другие специалисты, оказывающие помощь в этом эпизоде ​​лечения"
 * careTeam only Reference(CareTeam)
 
 Instance: UZCoreEpisodeOfCare-Example
