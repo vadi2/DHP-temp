@@ -332,7 +332,7 @@ msgstr ""
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Extension to differentiate the diagnosis type, which is different from the condition type / category"
-msgstr ""
+msgstr "Расширение для дифференциации типа диагноза, которое отличается от типа/категории состояния"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -367,7 +367,7 @@ msgstr ""
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Extension for more precise differentiation of the administrative gender 'other', aligned with German base profiles representation of the same concept."
-msgstr ""
+msgstr "Расширение для уточнения административного пола «другой», согласованное с немецкими базовыми профилями."
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
@@ -1377,7 +1377,7 @@ msgstr ""
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Codes for socioeconomic observations including benefits, education, profession, and social status"
-msgstr ""
+msgstr "Коды для социально-экономических наблюдений, включая льготы, образование, профессию и социальный статус"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1552,7 +1552,7 @@ msgstr "UZ Core Событие аудита"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core AuditEvent profile, used to track user and application activity"
-msgstr ""
+msgstr "Uzbekistan Core AuditEvent Profile (профиль - событие аудита), используемый для отслеживания активности пользователей и приложений"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1562,7 +1562,7 @@ msgstr "UZ Core Заболевание"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core Condition profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics"
-msgstr ""
+msgstr "Uzbekistan Core Condition Profile (профиль - состояние), используемый для регистрации клинических состояний пациента и их характеристик"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1572,7 +1572,7 @@ msgstr "UZ Core Согласие"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core Consent profile, used to manage patient consent for data sharing and processing"
-msgstr ""
+msgstr "Uzbekistan Core Consent Profile (профиль - согласие), используемый для управления согласием пациента на обмен и обработку данных"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1582,7 +1582,7 @@ msgstr "UZ Core Обращение"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core Patient profile, used to represent clinical encounters"
-msgstr ""
+msgstr "Uzbekistan Core Encounter Profile (профиль - обращение), используемый для представления клинических обращений"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1592,7 +1592,7 @@ msgstr "UZ Core Медицинская услуга"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core HealthcareService profile, used to define healthcare services available"
-msgstr ""
+msgstr "Uzbekistan Core HealthcareService Profile (профиль - медицинская услуга), используемый для определения доступных медицинских услуг"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1602,7 +1602,7 @@ msgstr "UZ Core Местоположение"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core Location profile, used to define locations of healthcare services"
-msgstr ""
+msgstr "Uzbekistan Core Location Profile (профиль - место оказания медицинских услуг)"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1622,7 +1622,7 @@ msgstr "UZ Core Организация"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core Organization profile, used to define healthcare organizations and sub-units"
-msgstr ""
+msgstr "Uzbekistan Core Organization Profile (профиль - организация), используемый для описания медицинских организаций и их структурных подразделений"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1632,7 +1632,7 @@ msgstr "UZ Core Пациент"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core Patient profile, used to represent patients administrative information"
-msgstr ""
+msgstr "Uzbekistan Core Patient Profile (профиль - пациент), используемый для ведения административной информации о пациенте"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1642,7 +1642,7 @@ msgstr "UZ Core Медицинский работник"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core Practitioner profile, used to define healthcare practitioners"
-msgstr ""
+msgstr "Uzbekistan Core Practitioner Profile (профиль Practitioner), используемый для определения медицинских работников"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1652,7 +1652,7 @@ msgstr "UZ Core Роль медицинского работника"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core PractitionerRole profile, used to define roles of practitioners"
-msgstr ""
+msgstr "Uzbekistan Core PractitionerRole Profile (профиль - роль медицинского работника)"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1662,7 +1662,7 @@ msgstr "UZ Core Происхождение"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core Provenance profile, used to digitally sign documents via myID"
-msgstr ""
+msgstr "Uzbekistan Core Provenance Profile (профиль - происхождение данных), используемый для цифрового подписания документов через myID"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1672,7 +1672,7 @@ msgstr "UZ Core Связанное лицо"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core RelatedPerson profile, used to represent persons related to the patient"
-msgstr ""
+msgstr "Uzbekistan Core RelatedPerson Profile (профиль - связанное лицо), используемый для представления лиц, связанных с пациентом"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1682,7 +1682,7 @@ msgstr "UZ Core Социоэкономическое наблюдение"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core socioeconomic observation profile, used to represent patients' benefits, education, profession, and social status."
-msgstr ""
+msgstr "Uzbekistan Core Observation Profile (профиль - социально-экономическое наблюдение), используемый для представления сведений о социальных льготах, образовании, профессии и социальном статусе пациента"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
