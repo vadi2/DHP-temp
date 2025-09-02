@@ -1,3 +1,4 @@
+
 # A natural language name identifying the value set. This name should be usable as an identifier for the module by machine processing applications such as code generation.
 #: ValueSet.name
 msgid "RelationshipTypeVS"
@@ -22,3 +23,4 @@ msgstr ""
 #: ValueSet.description
 msgid "Diagnosis types in Uzbekistan"
 msgstr ""
+

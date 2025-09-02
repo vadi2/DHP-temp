@@ -1784,6 +1784,30 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Reaction manifestation codes",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Local codes and multilingual names for allergy symptoms.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Reaction substance codes",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Local codes and multilingual names for allergy reaction substance.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Reference range meaning",
           "target" : null
         },
@@ -2313,18 +2337,6 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Uzbekistan Core Provenance profile, used to digitally sign documents via myID",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "UZ Core RelatedPerson",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core RelatedPerson profile, used to represent persons related to the patient",
           "target" : null
         },
         {

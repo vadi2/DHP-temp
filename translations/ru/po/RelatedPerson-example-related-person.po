@@ -1,3 +1,4 @@
+
 # A representation of the meaning of the code in the system, following the rules of the system.
 #: Coding.display
 msgid "National unique individual identifier"
@@ -87,3 +88,4 @@ msgstr ""
 #: Address.country
 msgid "182"
 msgstr ""
+

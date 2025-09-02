@@ -1481,7 +1481,26 @@ msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
+msgid "Reaction manifestation codes"
+msgstr ""
 
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Local codes and multilingual names for allergy symptoms."
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "Reaction substance codes"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Local codes and multilingual names for allergy reaction substance."
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
 msgid "Reference range meaning"
 msgstr ""
 
@@ -1923,16 +1942,6 @@ msgstr ""
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "Uzbekistan Core Provenance profile, used to digitally sign documents via myID"
-msgstr ""
-
-# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
-#: ImplementationGuide.definition.resource.name
-msgid "UZ Core RelatedPerson"
-msgstr ""
-
-# A description of the reason that a resource has been included in the implementation guide.
-#: ImplementationGuide.definition.resource.description
-msgid "Uzbekistan Core RelatedPerson profile, used to represent persons related to the patient"
 msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
