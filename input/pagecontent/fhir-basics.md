@@ -26,7 +26,7 @@ To improve interoperability, standardized terminology is crucial. By using stand
 For further reading, we recommend to use the following links:
 
 * [FHIR summary](http://hl7.org/fhir/r5/summary.html)
-* [Developer’s introduction](http://hl7.org/fhir/r5/overview-dev.html)
+* [Developer's introduction](http://hl7.org/fhir/r5/overview-dev.html)
 * [Data types](http://hl7.org/fhir/r5/datatypes.html)
 * [Using codes](http://hl7.org/fhir/r5/terminologies.html)
 * [References between resources](http://hl7.org/fhir/r5/references.html)
@@ -44,6 +44,8 @@ For further reading, we recommend to use the following links:
 | false | 0 | optional | Elements are optional and may be used as needed. Systems have flexibility to store and display these elements when specific use cases require them, but they are not required to do so. |
 
 What it means in context of DHP: 
+* if an element is marked as 'must support' in a profile supported by DHP, it can be sent to the platform, it will be received by the system, and it will appear in the user interface.
+* if an element is not marked as 'must support' in a profile supported by DHP, it can be sent to the platform, but it will not be saved, and it will not appear in the user interface.
 
 ### Related FHIR IGs
 
