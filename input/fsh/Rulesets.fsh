@@ -39,7 +39,7 @@ RuleSet: TaxIdentifier
   * value 1..1 MS
 
 RuleSet: OriginalCodeSystemDraft(id)
-* ^url = "https://terminology.dhp.uz/CodeSystem/{id}"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/{id}"
 * ^status = #draft
 * ^content = #complete
 * ^caseSensitive = true
@@ -48,7 +48,7 @@ RuleSet: OriginalCodeSystemDraft(id)
 * ^experimental = true
 
 RuleSet: OriginalCodeSystem(id)
-* ^url = "https://terminology.dhp.uz/CodeSystem/{id}"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/{id}"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true
@@ -57,7 +57,7 @@ RuleSet: OriginalCodeSystem(id)
 * ^experimental = false
 
 RuleSet: SupplementCodeSystemDraft(id, supplements, version)
-* ^url = "https://terminology.dhp.uz/CodeSystem/{id}"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/{id}"
 * ^status = #draft
 * ^content = #supplement
 * ^supplements = {supplements}
@@ -66,7 +66,7 @@ RuleSet: SupplementCodeSystemDraft(id, supplements, version)
 * ^experimental = true
 
 RuleSet: SupplementCodeSystem(id, supplements, version)
-* ^url = "https://terminology.dhp.uz/CodeSystem/{id}"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/{id}"
 * ^status = #active
 * ^content = #supplement
 * ^supplements = {supplements}

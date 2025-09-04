@@ -2,7 +2,7 @@ CodeSystem: PositionAndProfessionCS
 Id: position-and-profession-cs
 Title: "Defines the possible positions and professions"
 Description: "State classification of positions of employees and worker professions (KODP-2020)"
-* ^url = "https://terminology.dhp.uz/CodeSystem/position-and-profession-cs"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/position-and-profession-cs"
 * ^status = #active
 * ^experimental = true
 * ^content = #complete

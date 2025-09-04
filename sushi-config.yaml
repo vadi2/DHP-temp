@@ -4,7 +4,7 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: uz.dhp.core
-canonical: https://dhp.uz
+canonical: https://dhp.uz/fhir/core
 name: DHP
 title: Uzbekistan Digital Health Platform
 description: National implementation guide for Uzbekistan using FHIR R5.
@@ -64,7 +64,7 @@ dependencies:
 # http://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/master/CodeSystem-ig-parameters.html
 #
 parameters:
-  special-url-base: https://terminology.dhp.uz
+  special-url-base: https://terminology.dhp.uz/fhir/core
   excludettl: true
   # shownav: true
 

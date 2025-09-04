@@ -12,8 +12,8 @@ This IG is version 5.0.0, while the IG 'fhir.dicom' is from version 4.0.1
 The ImplementationGuide is based on FHIR version 5.0.0 but package fhir.dicom#2025.2.20250411 is based on FHIR version 4.0.1. In general, this version mismatch should be avoided - some tools will try to make this work with variable degrees of success, but others will not even try 
 
 # IG publisher can't find supplements for ISO 3166 - this can be ignored
-The value provided ('UZ') was not found in the value set 'ISO 3166 2 character codes in Uzbek and Russian' (https://terminology.dhp.uz/ValueSet/iso-3166-2-uz-vs%
-Required supplement not found: https://terminology.dhp.uz/CodeSystem/iso3166-two-letter-cs%
+The value provided ('UZ') was not found in the value set 'ISO 3166 2 character codes in Uzbek and Russian' (https://terminology.dhp.uz/fhir/core/ValueSet/iso-3166-2-uz-vs%
+Required supplement not found: https://terminology.dhp.uz/fhir/core/CodeSystem/iso3166-two-letter-cs%
 
 # Issues with IG publisher for i18n - this can be ignored
 The image source 'assets/images/uzb.svg' cannot be resolved

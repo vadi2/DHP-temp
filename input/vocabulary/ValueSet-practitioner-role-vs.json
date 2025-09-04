@@ -5,13 +5,13 @@
   "id": "practitioner-role-vs",
   "title": "Practitioner roles",
   "description": "Defines the roles of medical practitioners",
-  "url": "https://terminology.dhp.uz/ValueSet/practitioner-role-vs",
+  "url": "https://terminology.dhp.uz/fhir/core/ValueSet/practitioner-role-vs",
   "experimental": true,
   "language": "uz",
   "compose": {
     "include": [
       {
-        "system": "https://terminology.dhp.uz/CodeSystem/position-and-profession-cs",
+        "system": "https://terminology.dhp.uz/fhir/core/CodeSystem/position-and-profession-cs",
         "concept": [
           {
             "code": "1342",

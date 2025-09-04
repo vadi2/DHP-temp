@@ -6,7 +6,7 @@
   "id": "mahalla-cs",
   "title": "Mahalla Codes and Names",
   "description": "Mahalla codes and names with translations in Russian and English",
-  "url": "https://terminology.dhp.uz/CodeSystem/mahalla-cs",
+  "url": "https://terminology.dhp.uz/fhir/core/CodeSystem/mahalla-cs",
   "concept": [
     {
       "code": "17150085",
