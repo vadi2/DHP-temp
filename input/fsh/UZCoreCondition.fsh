@@ -53,3 +53,23 @@ Usage: #example
   * function = $provenance-participant-type#author "Author"
 * note
   * text = "Patient complained of mild headache for two days. Condition resolved after rest and hydration."
+
+Instance: example-pregnancy
+InstanceOf: UZCoreCondition
+Title: "Example Uz Core Condition - Pregnancy"
+Description: "Example instance of a pregnancy condition documented during a patient encounter"
+Usage: #example
+* language = #en
+* clinicalStatus = $condition-clinical#active "Active"
+* verificationStatus = $condition-ver-status#confirmed "Confirmed"
+* code = $icd-10#Z34.0
+* extension[diagnosisType].valueCodeableConcept = diagnosis-type-cs#gencl-0001-00005 "Diagnosis of complications of the underlying disease"
+* bodySite = $sct#76752008 "Breast structure"
+* subject = Reference(example-emma)
+* onsetDateTime = "2025-08-15"
+* recordedDate = "2025-09-01"
+* participant
+  * actor = Reference(example-practitioner)
+  * function = $provenance-participant-type#author "Author"
+* note
+  * text = "Patient is in the first trimester of pregnancy. No complications observed at this stage."
