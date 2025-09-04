@@ -2,7 +2,7 @@ ValueSet: EncounterPriorityVS
 Id: encounter-priority-vs
 Title: "Encounter priority translations"
 Description: "Encounter priority codes with English and Russian translations"
-* ^url = "https://terminology.dhp.uz/ValueSet/encounter-priority-vs"
+* ^url = "https://terminology.dhp.uz/fhir/core/ValueSet/encounter-priority-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterPriorityCS)

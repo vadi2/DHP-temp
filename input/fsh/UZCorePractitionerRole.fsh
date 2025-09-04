@@ -38,7 +38,7 @@ Description: "Uzbekistan Core PractitionerRole profile, used to define roles of 
 * specialty.coding contains dhp-specialty 0..1 MS
 * specialty.coding[dhp-specialty]
   * system 1..1 MS
-  * system = "https://terminology.dhp.uz/CodeSystem/profession-specialization-cs"
+  * system = "https://terminology.dhp.uz/fhir/core/CodeSystem/profession-specialization-cs"
   * code 1..1 MS
   * code from profession-specialization-vs (required)
 
@@ -51,7 +51,7 @@ Description: "Uzbekistan Core PractitionerRole profile, used to define roles of 
 * code.coding contains role 0..1 MS
 * code.coding[role]
   * system 1..1 MS
-  * system = "https://terminology.dhp.uz/CodeSystem/position-and-profession-cs"
+  * system = "https://terminology.dhp.uz/fhir/core/CodeSystem/position-and-profession-cs"
   * code 1..1 MS
   * code from practitioner-role-vs (required)
 

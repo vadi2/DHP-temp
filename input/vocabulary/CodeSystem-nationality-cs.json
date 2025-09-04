@@ -6,7 +6,7 @@
   "id": "nationality-cs",
   "title": "Nationality",
   "description": "Defines a nationality of a person as used in Uzbekistan",
-  "url": "https://terminology.dhp.uz/CodeSystem/nationality-cs",
+  "url": "https://terminology.dhp.uz/fhir/core/CodeSystem/nationality-cs",
   "concept": [
     {
       "code": "1",
