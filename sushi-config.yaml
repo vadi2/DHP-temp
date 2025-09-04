@@ -64,7 +64,7 @@ dependencies:
 # http://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/master/CodeSystem-ig-parameters.html
 #
 parameters:
-  special-url-base: https://terminology.dhp.uz
+  special-url-base: https://terminology.dhp.uz/fhir/core
   excludettl: true
   # shownav: true
 
