@@ -624,6 +624,11 @@ msgstr ""
 msgid "Example of EpisodeOfCare"
 msgstr ""
 
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Example EpisodeOfCare for pregnancy management and related treatment services"
+msgstr ""
+
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
 msgid "Example Uz Core Condition - Headache"
@@ -1656,7 +1661,7 @@ msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
-msgid "Uzbekistan Core AuditEvent Profile, used to track user and application activity"
+msgid "Uzbekistan Core AuditEvent profile, used to track user and application activity"
 msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
@@ -1666,7 +1671,7 @@ msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
-msgid "Uzbekistan Core Condition Profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics"
+msgid "Uzbekistan Core Condition profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics"
 msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
@@ -1676,7 +1681,7 @@ msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
-msgid "Uzbekistan Core Consent Profile, used to manage patient consent for data sharing and processing"
+msgid "Uzbekistan Core Consent profile, used to manage patient consent for data sharing and processing"
 msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
@@ -1726,7 +1731,7 @@ msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
-msgid "This profile defines constraints on the FHIR Observation resource to represent clinical and laboratory observations in the context of Uzbekistan's national health data standards."
+msgid "Uzbekistan Core Observation profile, used to represent clinical and laboratory observations"
 msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
@@ -1776,7 +1781,7 @@ msgstr ""
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
-msgid "Uzbekistan Core Provenance Profile, used to digitally sign documents via myID"
+msgid "Uzbekistan Core Provenance profile, used to digitally sign documents via myID"
 msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).

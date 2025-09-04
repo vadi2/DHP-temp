@@ -756,6 +756,12 @@
           "target" : null
         },
         {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Example EpisodeOfCare for pregnancy management and related treatment services",
+          "target" : null
+        },
+        {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Example Uz Core Condition - Headache",
@@ -1994,7 +2000,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core AuditEvent Profile, used to track user and application activity",
+          "source" : "Uzbekistan Core AuditEvent profile, used to track user and application activity",
           "target" : null
         },
         {
@@ -2006,7 +2012,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core Condition Profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics",
+          "source" : "Uzbekistan Core Condition profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics",
           "target" : null
         },
         {
@@ -2018,7 +2024,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core Consent Profile, used to manage patient consent for data sharing and processing",
+          "source" : "Uzbekistan Core Consent profile, used to manage patient consent for data sharing and processing",
           "target" : null
         },
         {
@@ -2078,7 +2084,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "This profile defines constraints on the FHIR Observation resource to represent clinical and laboratory observations in the context of Uzbekistan's national health data standards.",
+          "source" : "Uzbekistan Core Observation profile, used to represent clinical and laboratory observations",
           "target" : null
         },
         {
@@ -2138,7 +2144,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core Provenance Profile, used to digitally sign documents via myID",
+          "source" : "Uzbekistan Core Provenance profile, used to digitally sign documents via myID",
           "target" : null
         },
         {

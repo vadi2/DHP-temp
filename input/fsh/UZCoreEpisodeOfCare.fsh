@@ -95,6 +95,8 @@ Usage: #example
 Instance: UZCoreEpisodeOfCare-Example02
 InstanceOf: UZCoreEpisodeOfCare
 Title: "Example of EpisodeOfCare"
+Description: "Example EpisodeOfCare for pregnancy management and related treatment services"
+Usage: #example
 
 * identifier[0].system = "http://dhp.uz/ids/episode-of-care"
 * identifier[0].value = "EOC-2025-0001"

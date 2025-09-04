@@ -2,7 +2,7 @@ Profile: UZCoreConsent
 Parent: Consent
 Id: uz-core-consent
 Title: "UZ Core Consent"
-Description: "Uzbekistan Core Consent Profile, used to manage patient consent for data sharing and processing"
+Description: "Uzbekistan Core Consent profile, used to manage patient consent for data sharing and processing"
 * ^experimental = true
 * ^status = #active
 * ^date = "2025-06-02"
