@@ -38,7 +38,7 @@ etiladi.
 
 FHIR umumiy ko'rinishi
 
-Fast Healthcare Interoperability Resources (FHIR) --- bu Health Level 7
+Fast Healthcare Interoperability Resources (FHIR) bu Health Level 7
 (HL7) platformasi spetsifikatsiyasi bo'lib, tibbiy axborot almashinuvini
 turli sog'liqni saqlash tizimlari va ilovalari o'rtasida
 qo'llab-quvvatlaydi. Tibbiy ma'lumotlar bemorlar sog'liqni saqlash
@@ -71,7 +71,7 @@ ochiq manbali misollar mavjud.
 Resurslar
 
 FHIRning asosiy qurilish bloklari resurslar deb ataladi, ular DHPda JSON
-formatida ifodalanadi. Resurs --- bu ma'lumot almashish yoki saqlash
+formatida ifodalanadi. Resurs bu ma'lumot almashish yoki saqlash
 uchun mo'ljallangan, ma'lumot elementlari deb ataluvchi axborotlar
 majmuasi sifatida qaraladi. Masalan, Patient (Bemor) resursida parvarish
 olayotgan shaxs haqidagi demografik va ma'muriy tafsilotlar mavjud.
@@ -96,7 +96,7 @@ holatlarini qamrab olish uchun mutaxassislar ishchi guruhlari tomonidan
 yaratiladi. Ularning umumiy tabiatiga ko'ra, ushbu spetsifikatsiyadagi
 qoidalar yetarlicha erkin belgilangan. FHIR resursiga cheklovlar
 to'plamini qo'llash orqali uni aniq qo'llanish holatiga moslashtirish
-mumkin --- masalan, DHP platformasi qo'llab-quvvatlaydigan stsenariylar
+mumkin masalan, DHP platformasi qo'llab-quvvatlaydigan stsenariylar
 kabi. Asosiy resurslarni DHP belgilagan profillar bilan birlashtirish
 orqali O'zbekiston sog'liqni saqlash ekotizimi ehtiyojlariga mos
 ilovalarni yaratish mumkin.
@@ -113,7 +113,7 @@ sog'liqni saqlash tizimlari uchun zarur bo'lgan barcha kodlarni belgilay
 olmaydi. Shu sababli, kodlar va ularning ma'nolarini boshqarish uchun
 ikki xil resurs taqdim etadi:
 
--   CodeSystem --- bu kodlar va ularning ma'nolari to'plamidan iborat.
+-   CodeSystem bu kodlar va ularning ma'nolari to'plamidan iborat.
     Aslida u katalogga o'xshaydi, chunki unda turli kodlar va ularning
     ta'riflari jamlangan bo'ladi. Masalan: SNOMED-CT, LOINC yoki
     mahalliy yaratilgan tizim.

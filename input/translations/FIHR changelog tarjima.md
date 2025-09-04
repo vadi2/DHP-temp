@@ -14,7 +14,7 @@ O\'zgarishlar jurnali
 
 0.2.0 versiyasi
 
-Bu ishlab chiqilish jarayonidagi IG (Implementation Guide --- Joriy
+Bu ishlab chiqilish jarayonidagi IG (Implementation Guide Joriy
 etish qo'llanmasi) ning birinchi nashri bo'lib, unda barcha
 resurslarning kanonik URL manzillari yakuniy versiyaga yangilandi.
 

@@ -63,10 +63,10 @@ backend-сценарии приложений. Централизованный 
 
 DHP поддерживает два основных сценария аутентификации:
 
--   Backend-приложения --- через grant client_credentials (без участия
+-   Backend-приложения через grant client_credentials (без участия
     пользователя),
 
--   Frontend-приложения --- через grant authorization code с
+-   Frontend-приложения через grant authorization code с
     поддержкой redirect_uri и опциональным PKCE (Proof Key for Code
     Exchange).
 
@@ -163,7 +163,7 @@ Authorization: Bearer \<access_token\>
 
 Обработка ошибок
 
-(будет дополнено --- требуется описание обработки ошибок)
+(будет дополнено требуется описание обработки ошибок)
 
 Must Support
 

@@ -56,16 +56,16 @@ Milliy raqamli sog'liqni saqlash platformasida (DHP) OAuth 2.0 xalqaro
 standartiga asoslangan autentifikatsiya va avtorizatsiya tizimi joriy
 etilgan. U ham frontend, ham backend ilovalar ssenariylarini
 qo'llab-quvvatlaydi. Markazlashgan Single Sign-On (SSO) serveri
-platformaning barcha ishtirokchilarini --- bemorlardan va tibbiyot
-tashkilotlaridan tortib tashqi tizimlargacha --- xavfsiz identifikatsiya
+platformaning barcha ishtirokchilarini bemorlardan va tibbiyot
+tashkilotlaridan tortib tashqi tizimlargacha xavfsiz identifikatsiya
 qiladi.
 
 DHP ikkita asosiy autentifikatsiya stsenariysini qo\'llab-quvvatlaydi:
 
--   Backend-ilovalar --- client_credentials grant orqali
+-   Backend-ilovalar client_credentials grant orqali
     (foydalanuvchisiz).
 
--   Frontend-ilovalar --- authorization code grant orqali, redirect_uri
+-   Frontend-ilovalar authorization code grant orqali, redirect_uri
     qo'llab-quvvatlovi va ixtiyoriy Kod almashinuvi uchun isbot kaliti
     (bundan keyin PKCE deb yuritiladi (Proof Key for Code Exchange))
     bilan.
@@ -163,7 +163,7 @@ Authorization: Bearer \<access_token\>
 
 Xatoliklarni qayta ishlash
 
-(Bu qism keyinchalik to'ldiriladi --- xatoliklarni qayta ishlash
+(Bu qism keyinchalik to'ldiriladi xatoliklarni qayta ishlash
 bo'yicha tavsif talab etiladi)
 
 Must Support

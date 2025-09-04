@@ -38,47 +38,47 @@ Bu profillar ushbu amalga oshirish qo'llanmasiga mos tizimlar uchun FHIR
 resurslariga qo'yiladigan cheklovlarni belgilaydi.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [UZ Core AuditEvent](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-auditevent.html)          Audit hodisasi profili --- foydalanuvchi va
+  [UZ Core AuditEvent](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-auditevent.html)          Audit hodisasi profili foydalanuvchi va
                                                                                                                          ilovalar faoliyatini kuzatish uchun qo'llaniladi
   ---------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------
-  [UZ Core Consent](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-consent.html)                Rozilik profili --- bemorning ma'lumot almashish va
+  [UZ Core Consent](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-consent.html)                Rozilik profili bemorning ma'lumot almashish va
                                                                                                                          qayta ishlashga bo'lgan roziligini boshqarish uchun
                                                                                                                          qo'llaniladi
 
-  [UZ Core Encounter](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-encounter.html)            Murojaat profili --- klinik murojaatlarni taqdim
+  [UZ Core Encounter](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-encounter.html)            Murojaat profili klinik murojaatlarni taqdim
                                                                                                                          etish uchun ishlatiladi
 
-  [UZ Core                                                                                                               Tibbiy xizmat profili --- mavjud sog\'liqni saqlash
+  [UZ Core                                                                                                               Tibbiy xizmat profili mavjud sog\'liqni saqlash
   HealthcareService](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-healthcareservice.html)     xizmatlarini aniqlash uchun foydalaniladi
 
-  [UZ Core Location](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-location.html)              Joylashuv profili --- tibbiy xizmat ko\'rsatish
+  [UZ Core Location](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-location.html)              Joylashuv profili tibbiy xizmat ko\'rsatish
                                                                                                                          joyi
 
-  [UZ Core Organization](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-organization.html)      Tashkilot profili --- tibbiyot tashkilotlari va
+  [UZ Core Organization](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-organization.html)      Tashkilot profili tibbiyot tashkilotlari va
                                                                                                                          ularning tarkibiy bo'linmalarini tavsiflash uchun
                                                                                                                          foydalaniladi
 
-  [UZ Core Patient](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-patient.html)                Bemor profili --- bemor haqidagi ma'muriy
+  [UZ Core Patient](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-patient.html)                Bemor profili bemor haqidagi ma'muriy
                                                                                                                          ma'lumotlarni saqlash uchun foydalaniladi
 
-  [UZ Core Practitioner](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-practitioner.html)      Tibbiy xodim profili --- tibbiyot xodimlarini
+  [UZ Core Practitioner](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-practitioner.html)      Tibbiy xodim profili tibbiyot xodimlarini
                                                                                                                          aniqlash uchun ishlatiladi
 
   [UZ Core                                                                                                               Tibbiy xodim roli profili
   PractitionerRole](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-practitioner-role.html)      
 
-  [UZ Core Provenance](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-provenance.html)          Ma\'lumotlar kelib chiqishi profili --- myID orqali
+  [UZ Core Provenance](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-provenance.html)          Ma\'lumotlar kelib chiqishi profili myID orqali
                                                                                                                          hujjatlarni raqamli imzolash uchun foydalaniladi
 
-  [UZ Core RelatedPerson](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-relatedperson.html)    Aloqador shaxs profili --- bemorga aloqador
+  [UZ Core RelatedPerson](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-relatedperson.html)    Aloqador shaxs profili bemorga aloqador
                                                                                                                          shaxslarni ifodalash uchun qo'llaniladi
 
-  [UZ Core Socioeconomic                                                                                                 Ijtimoiy-iqtisodiy kuzatuv profili --- ijtimoiy
+  [UZ Core Socioeconomic                                                                                                 Ijtimoiy-iqtisodiy kuzatuv profili ijtimoiy
   Observation](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-socioeconomic-observation.html)   imtiyozlar, ta'lim, kasb va ijtimoiy maqom
                                                                                                                          to'g'risidagi ma'lumotlarni ifodalash uchun
                                                                                                                          qo'llaniladi
 
-  [UZ Core Condition](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-condition.html)            Klinik holat profili --- bemorning klinik
+  [UZ Core Condition](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-condition.html)            Klinik holat profili bemorning klinik
                                                                                                                          holatlarini va ularning xususiyatlarini qayd etish
                                                                                                                          uchun qo'llaniladi
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -104,7 +104,7 @@ Ushbu qiymat to'plamlari tizimlarda ishlatiladigan kodlar majmuini
 belgilaydi va ushbu qo'llanmaga muvofiq qo'llaniladi.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [Audit event action](https://build.fhir.org/ig/vadi2/DHP-temp/en/ValueSet-audit-event-action-vs.html)                 Audit harakati --- qayd etiladigan audit
+  [Audit event action](https://build.fhir.org/ig/vadi2/DHP-temp/en/ValueSet-audit-event-action-vs.html)                 Audit harakati qayd etiladigan audit
                                                                                                                         hodisasi harakatlarini aniqlaydi
   --------------------------------------------------------------------------------------------------------------------- --------------------------------------------
   [Audit event outcome](https://build.fhir.org/ig/vadi2/DHP-temp/en/ValueSet-audit-event-outcome-vs.html)               O'zbek va rus tillarida qayd etiladigan

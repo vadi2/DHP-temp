@@ -51,7 +51,7 @@ Platform](https://www.kfw.de/About-KfW/Newsroom/Latest-News/Pressemitteilungen-D
 doirasida sinov va fikr-mulohazalarni yig'ish maqsadida mo'ljallangan.
 IG yanada ishlab chiqilishi davomida mazmuni o'zgarishi mumkin.
 
-Joriy ustuvor yo'nalish --- asosiy resurslar profillarini yakunlash va
+Joriy ustuvor yo'nalish asosiy resurslar profillarini yakunlash va
 ularni DHPga joriy etish imkoniyatini ta'minlash. Shundan so'ng,
 modellashtirish imkoniyatlari yetarli bo'lganda, IGning matn qismi
 to'ldiriladi.
@@ -147,7 +147,7 @@ O'zbekiston Respublikasi Sog'liqni saqlash Raqamli Platformasi quyidagi
 
 Versiyalarni identifikatsiyalash
 
-Ushbu IG doirasidagi artefaktlar --- profillar, kengaytmalar, kod
+Ushbu IG doirasidagi artefaktlar profillar, kengaytmalar, kod
 tizimlari, qiymatlar to'plamlari, nomlash tizimlari va FHIR paketi ---
 IGning o'zi bilan bir xil versiyalash qoidalariga amal qiladi. IG
 versiyalash
@@ -158,7 +158,7 @@ raqamiga ega bo'ladi. Bu artefaktning qaysi IG versiyasiga tegishli
 ekanini oson aniqlash imkonini beradi.
 
 Artefakt ishlab chiqilayotgan bo'lsa va ishlab chiqarishga tayyor
-bo'lmasa --- statusi draft bo'ladi. Ishlab chiqarishda qo'llashga tayyor
+bo'lmasa statusi draft bo'ladi. Ishlab chiqarishda qo'llashga tayyor
 bo'lsa ---active sifatida belgilanadi. Ishlatishdan chiqarilgan bo'lsa
 ---retired statusi beriladi.
 

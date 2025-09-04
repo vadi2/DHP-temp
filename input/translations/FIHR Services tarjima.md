@@ -183,7 +183,7 @@ quyidagilardan iborat:
     ishonchli, standartlashtirilgan va himoyalangan oʻzaro aloqani
     quyidagilar orqali taʼminlash.
 
-    -   Metamaʼlumotlar --- FHIR serverining imkoniyatlari, cheklovlari
+    -   Metamaʼlumotlar FHIR serverining imkoniyatlari, cheklovlari
         va tuzilmasini markazlashgan hamda mashina oʻqiy oladigan tarzda
         tavsiflash; bu CapabilityStatement resursi, StructureDefinition
         profillari, shuningdek lugʻatlar va klassifikatorlar
@@ -242,10 +242,10 @@ Hamshiralik ishi
 
 Bemorning davolanish jarayonini boshqarish (PHJM)
 
-PHJM xizmati bemorning raqamli "yoʻlini" belgilaydi --- dastlabki
+PHJM xizmati bemorning raqamli "yoʻlini" belgilaydi dastlabki
 murojaatdan davolash epizodining yakuniy natijasigacha, oraliq
 kuzatuvlar, klinik tayinlovlar va oʻzaro taʼsirlarni ham oʻz ichiga
-olgan holda. Xizmatning maqsadi --- Yagona raqamli sogʻliqni saqlash
+olgan holda. Xizmatning maqsadi Yagona raqamli sogʻliqni saqlash
 platformasi (UDHP) doirasida bemorning davolanish jarayonini uzluksiz,
 tuzilmaviy va ishonchli tarzda qoʻllab-quvvatlash, quyidagilar orqali:
 
@@ -258,7 +258,7 @@ tuzilmaviy va ishonchli tarzda qoʻllab-quvvatlash, quyidagilar orqali:
     (MIS) hamda platforma oʻrtasida bogʻlash;
 
 -   bemor, shifokor va administrator uchun davolashning yagona
-    manzarasini taqdim etish --- mashina oʻqiy oladigan, tahliliy va
+    manzarasini taqdim etish mashina oʻqiy oladigan, tahliliy va
     vizual shakllarda.
 
 PHJMning asosiy vazifalari va qoʻllanish holatlari:

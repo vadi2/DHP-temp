@@ -39,7 +39,7 @@
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   [UZ Core AuditEvent](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-auditevent.html)          Uzbekistan Core AuditEvent Profile (профиль AuditEvent
-                                                                                                                         --- событие аудита), используемый для отслеживания
+                                                                                                                         событие аудита), используемый для отслеживания
                                                                                                                          активности пользователей и приложений
   ---------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------
   [UZ Core Consent](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-consent.html)                Uzbekistan Core Consent Profile (профиль Consent ---
@@ -47,11 +47,11 @@
                                                                                                                          пациента на обмен и обработку данных
 
   [UZ Core Encounter](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-encounter.html)            Uzbekistan Core Encounter Profile (профиль Encounter
-                                                                                                                         --- обращение), используемый для представления
+                                                                                                                         обращение), используемый для представления
                                                                                                                          клинических обращений
 
   [UZ Core                                                                                                               Uzbekistan Core HealthcareService Profile (профиль
-  HealthcareService](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-healthcareservice.html)     HealthcareService --- медицинская услуга),
+  HealthcareService](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-healthcareservice.html)     HealthcareService медицинская услуга),
                                                                                                                          используемый для определения доступных медицинских
                                                                                                                          услуг
 
@@ -59,7 +59,7 @@
                                                                                                                          место оказания медицинских услуг)
 
   [UZ Core Organization](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-organization.html)      Uzbekistan Core Organization Profile (профиль
-                                                                                                                         Organization --- организация), используемый для
+                                                                                                                         Organization организация), используемый для
                                                                                                                          описания медицинских организаций и их структурных
                                                                                                                          подразделений
 
@@ -72,24 +72,24 @@
                                                                                                                          медицинских работников
 
   [UZ Core                                                                                                               Uzbekistan Core PractitionerRole Profile (профиль
-  PractitionerRole](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-practitioner-role.html)      PractitionerRole --- роль медицинского работника)
+  PractitionerRole](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-practitioner-role.html)      PractitionerRole роль медицинского работника)
 
   [UZ Core Provenance](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-provenance.html)          Uzbekistan Core Provenance Profile (профиль Provenance
-                                                                                                                         --- происхождение данных), используемый для цифрового
+                                                                                                                         происхождение данных), используемый для цифрового
                                                                                                                          подписания документов через myID
 
   [UZ Core RelatedPerson](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-relatedperson.html)    Uzbekistan Core RelatedPerson Profile (профиль
-                                                                                                                         RelatedPerson --- связанное лицо), используемый для
+                                                                                                                         RelatedPerson связанное лицо), используемый для
                                                                                                                          представления лиц, связанных с пациентом
 
   [UZ Core Socioeconomic                                                                                                 Uzbekistan Core Observation Profile (профиль
-  Observation](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-socioeconomic-observation.html)   Observation --- социально-экономическое наблюдение),
+  Observation](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-socioeconomic-observation.html)   Observation социально-экономическое наблюдение),
                                                                                                                          используемый для представления сведений о социальных
                                                                                                                          льготах, образовании, профессии и социальном статусе
                                                                                                                          пациента
 
   [UZ Core Condition](https://build.fhir.org/ig/vadi2/DHP-temp/en/StructureDefinition-uz-core-condition.html)            Uzbekistan Core Condition Profile (профиль Condition
-                                                                                                                         --- состояние), используемый для регистрации
+                                                                                                                         состояние), используемый для регистрации
                                                                                                                          клинических состояний пациента и их характеристик
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
