@@ -52,3 +52,5 @@ What it means in context of DHP:
 <!-- { // not yet supported by i18n in IG publisher: % include dependency-table.xhtml %} -->
 
 <!-- { // same issue: % include globals-table.xhtml %} -->
+
+{% include markdown-link-references.md %}
