@@ -35,9 +35,9 @@ POST /oauth/token
 
 | Параметр      | Значение           |
 |---------------|-------------------|
-| grant_type    | client_credentials |
-| client_id     | <client_id>       |
-| client_secret | <client_secret>   |
+| grant\_type    | client\_credentials |
+| client\_id     | \<client\_id>       |
+| client\_secret | \<client\_secret>   |
 
 ### Ошибки (Error Responses)
 
@@ -46,7 +46,7 @@ POST /oauth/token
 
 ## Интеграция frontend
 
-В этом разделе описывается, как frontend-приложения могут авторизовать пользователей через сервер SSO, используя стандартный grant Authorization Code протокола OAuth 2.0. Данный поток обеспечивает единый вход и безопасную аутентификацию пользователей в экосистеме DHP.
+В этом разделе описывается, как frontend-приложения могут авторизовать пользователей через сервер SSO, используя стандартный `Authorization Code` grant протокола OAuth 2.0. Данный поток обеспечивает единый вход и безопасную аутентификацию пользователей в экосистеме DHP.
 
 ### Конфигурация клиента
 
@@ -67,8 +67,8 @@ GET sso.medcore.uz
 
 | Параметр     | Значение        |
 |--------------|-----------------|
-| client_id    | <client_id>     |
-| redirect_uri | <redirect_uri>  |
+| client\_id    | \<client\_id>     |
+| redirect\_uri | \<redirect\_uri>  |
 
 2. **Код авторизации:**
 
@@ -76,7 +76,7 @@ GET sso.medcore.uz
 
 3. **Обмен кода на токен:**
 
-Этот обмен необходимо выполнить на стороне backend для защиты `client_secret`. Если у приложения нет backend, используйте PKCE.
+Этот обмен необходимо выполнить на стороне backend для защиты `client_secret`. Если у приложения нет backend, используйте `PKCE`.
 
 4. **Использование токена:**
 
@@ -99,3 +99,5 @@ Authorization: Bearer <access_token>
 2. **Специфические профили DHP**: элемент поддерживается DHP, и клиентские системы обязаны заполнять его, если данные доступны.
 
 Если элемент не может быть заполнен, потому что данные отсутствуют в исходной системе, и правила кардинальности позволяют это, элемент может оставаться пустым. Если же правила кардинальности требуют обязательного заполнения, необходимо использовать расширение [Data Absent Reason](https://hl7.org/fhir/extensions/StructureDefinition-data-absent-reason.html).
+
+{% include markdown-link-references.md %}
