@@ -1,12 +1,10 @@
 Profile: UZCoreEpisodeOfCare
 Parent: EpisodeOfCare
-Id: uz-core-episode-of-care 
-Title: "Uz Core EpisodeOfCare"
-Description: "Uzbekistan Core profile for EpisodeOfCare, representing a patient's period of care within the national health information exchange."
+Id: uz-core-episodeofcare 
+Title: "UZ Core EpisodeOfCare"
+Description: "Uzbekistan Core profile for EpisodeOfCare, representing a patient's period of long-term care"
 * ^experimental = true
 * ^status = #active
-* ^date = "2025-08-08"
-* ^publisher = "Uzinfocom"
 //rules
 * identifier MS
   * ^short = "Идентификатор, соответствующий этому Episode of Care"
