@@ -85,12 +85,10 @@ Usage: #example
 * managingOrganization = Reference(example-organization)
 
 * period.start = "2025-08-01"
-//I did not create an example for the referralRequest element because there is no profile named UZCoreServiceRequest yet.
-//* referralRequest = Reference(ServiceRequest / SR-Example)
+
 
 * careManager = Reference(example-practitioner)
-//I did not create an example for the careTeam element because there is no profile named UZCoreCareTeam yet.
-//* careTeam[0] = Reference(CareTeam /CareTeam-Example)
+
 
 Instance: UZCoreEpisodeOfCare-Example02
 InstanceOf: UZCoreEpisodeOfCare
