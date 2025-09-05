@@ -79,6 +79,7 @@ Alias: $v3-RoleCode = http://terminology.hl7.org/CodeSystem/v3-RoleCode
 Alias: $v3-ParticipationType = http://terminology.hl7.org/CodeSystem/v3-ParticipationType
 Alias: $v3ActPriority = http://terminology.hl7.org/CodeSystem/v3-ActPriority
 Alias: $valueset-supplement = http://hl7.org/fhir/StructureDefinition/valueset-supplement
+Alias: $episode-of-care-status = http://hl7.org/fhir/episode-of-care-status
 Alias: $bodysite = http://hl7.org/fhir/ValueSet/body-site
 Alias: $icd-10-vs = http://hl7.org/fhir/ValueSet/icd-10
 Alias: $participation-role-type = http://terminology.hl7.org/CodeSystem/provenance-participant-type
