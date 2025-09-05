@@ -6,6 +6,5 @@ Description: "Allowed codes for EpisodeOfCare status in Uzbekistan's health info
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EpisodeOfCareStatusCS)
-* ^version = "5.0.0"
 
 * include codes from system $episode-of-care-status
