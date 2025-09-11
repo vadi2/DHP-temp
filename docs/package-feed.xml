@@ -14,20 +14,27 @@
     <pubDate>Wed, 27 Aug 2025 12:00:00 GMT</pubDate>
     <language>en</language>
     
-    <item>
-      <title>DHP Package v0.2.0</title>
-      <description>DHP Implementation Guide Package version 0.2.0</description>
-      <link>https://github.com/vadi2/DHP-temp/releases/tag/0.2.0</link>
-      <guid isPermaLink="true">https://github.com/vadi2/DHP-temp/releases/tag/0.2.0</guid>
-      <dc:creator>vadi2</dc:creator>
-      <fhir:version>0.2.0</fhir:version>
-      <fhir:kind>IG</fhir:kind>
-      <fhir:packageId>uz.dhp.core</fhir:packageId>
-      <fhir:canonical>http://dhp.uz</fhir:canonical>
-      <fhir:download>https://github.com/vadi2/DHP-temp/releases/download/0.2.0/package.tgz</fhir:download>
-      <pubDate>Wed, 27 Aug 2025 12:00:00 GMT</pubDate>
-    </item>
-    
-    
+     <item>
+       <title>uz.dhp.core#0.2.0</title>
+       <description>DHP Implementation Guide Package version 0.2.0</description>
+       <link>https://github.com/vadi2/DHP-temp/releases/download/0.2.0/package.tgz</link>
+       <guid isPermaLink="true">https://github.com/vadi2/DHP-temp/releases/download/0.2.0/package.tgz</guid>
+       <dc:creator>vadi2</dc:creator>
+       <fhir:version>5.0.0</fhir:version>
+       <fhir:kind>IG</fhir:kind>
+       <pubDate>Wed, 27 Aug 2025 12:00:00 +0000</pubDate>
+     </item>
+
+     <item>
+       <title>uz.dhp.core#0.3.0</title>
+       <description>DHP Implementation Guide Package version 0.3.0</description>
+       <link>https://github.com/vadi2/DHP-temp/releases/download/0.3.0/package.tgz</link>
+       <guid isPermaLink="true">https://github.com/vadi2/DHP-temp/releases/download/0.3.0/package.tgz</guid>
+       <dc:creator>vadi2</dc:creator>
+       <fhir:version>5.0.0</fhir:version>
+       <fhir:kind>IG</fhir:kind>
+       <pubDate>Fri, 05 Sep 2025 08:17:22 +0000</pubDate>
+     </item>
+       
   </channel>
 </rss>

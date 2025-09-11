@@ -202,3 +202,37 @@ Usage: #example
 * maritalStatus = $v3-MaritalStatus#M "Состоит в браке"
 * multipleBirthInteger = 2
 * extension[nationality].extension[code].valueCodeableConcept = NationalityCS#32 "Армяне"
+
+Instance: example-emma
+InstanceOf: UZCorePatient
+Description: "Example of a patient named Emma"
+Usage: #example
+* language = #en
+* identifier[driverslicense]
+  * value = "AG1141110"
+* active = false
+* name
+  * use = #anonymous
+  * text = "Emma Watson"
+* telecom
+  * system = #sms
+  * use = #temp
+  * rank = 1
+  * period.start = "2024-02-10"
+* birthDate = "2000-10-16"
+* address
+  * use = #temp
+  * type = #physical
+  * line = "ул.Муминова 4"
+  * country = "182"
+  * district = "1703202"
+  * city = "22070013"
+  * period.start = "2000-10-16"
+* gender = #female
+* contact
+  * relationship = $v2-0131#C "Emergency Contact"
+  * name.text = "Isabella"
+  * gender = #female
+* maritalStatus = $v3-MaritalStatus#U "Unmarried"
+* multipleBirthInteger = 2
+* extension[nationality].extension[code].valueCodeableConcept = NationalityCS#42 "British"
