@@ -1,0 +1,1409 @@
+{
+  "id" : "CodeSystem-procedure-code-cs",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "CodeSystem.name",
+          "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "ProcedureCodeCS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.title",
+          "context" : "A short, descriptive, user-friendly title for the code system.",
+          "source" : "Procedure Code Codes",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.description",
+          "context" : "A free text natural language description of the code system from a consumer's perspective.",
+          "source" : "Procedure code CodeSystem with translations in English, Russian and Uzbek",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Amplipulsterapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Амплипульстерапия (СМТ-терапия)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Amplipulse therapy (SMC-therapy)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Aeroionterapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Аэроионотерапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Advanced oxygen therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Baroterapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Баротерапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Barotherapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Suv muolajasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Водолечение",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Hydrotherapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Dorivor vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны лекарственные",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Therapeutic baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gidrogalvanik vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны гидрогальванические",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Hydrogalvanic baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Mineral vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны минеральные",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mineral Baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Vodorod sulfidli vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны сероводородные",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Hydrosulfuric baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Rodon vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны радоновые",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Radon baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gaz vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны газовые",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gas baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gazli vanna(kislorod)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванна газовая (кислород)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gas bath (oxygen)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gazli vanna(karbonat angidrid)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванна газовая (карбонат)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gas bath (carbon)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gazli vanna(azot)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванна газовая (азот)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Gas bath (nitrogen)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Xushbo‘y vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны ароматические",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Aromatic baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Kontrast vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны контрастные",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Contrast baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Uyurmali vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны вихревые",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Vortex baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Quruq havoli vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны суховоздушные",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Dry air baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Loyli vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Грязевые ванны",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mud baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Havo pufakchali vannalar (marvaridli)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванны воздушно-пузырьковые (жемчужные)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Air bubble baths (pearl baths)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Subakval ichak vannasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ванна субаквальная кишечная",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Subaquatic intestinal bath",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Yodbromli vanna",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Йодобромная ванна",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Iodine-bromine bath",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Qumli vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Песочные ванны",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sand baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Davolovchi dush",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Душ лечебный",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Therapeutic shower",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Suv osti dush-massaji",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Подводный душ-массаж",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Underwater massage shower",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Umurtqa pog‘onasini suv ostida cho‘zish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Подводное вытяжение позвоночника",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Underwater spinal traction",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Galvanizatsiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гальванизация",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Galvanization",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gelioterapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гелиотерапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Heliotherapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gipoksiterapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гипокситерапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Hypoxitherapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Loy bilan davolash",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Грязелечение",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mud treatment",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Galoterapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Галотерапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Halotherapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Galvanik loy bilan davolash",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Гальваногрязелечение",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Galvanic-mud therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Loyqa induktotermiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Грязеиндуктотермия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Mud inductothermy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Pelofonoterapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Пелофонотерапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Pelofofonotherapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Darsonvalizatsiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Дарсонвализация",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Darsonvalization",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Detsimetrli terapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Дециметровая терапия (ДМВ-терапия)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Decimeter therapy (DMV therapy)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Diadinamoterapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Диадинамотерапия (ДДТ)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Diadynamic therapy (DDT)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Duodenal zondlash",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Дуоденальное зондирование",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Duodenal sounding",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Induktometriya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Индуктотермия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Inductothermy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ingalyatsiya (aerozolterapiya)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ингаляция (Аэрозольтерапия)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Inhalation (Aerosol therapy)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Infraqizil nurlanish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Инфракрасное облучение",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Infrared radiation",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Interferent terapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Интерференцтерапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Interferential therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "chodirda kislorod terapiyasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Кислородотерапия в палатке",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oxygen therapy in a tent",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "O‘ta yuqori chastotali terapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Крайне высокочастотная терапия (КВЧ-терапия)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Extremely high-frequency therapy (EHF therapy)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Lazer terapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лазеротерапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laser therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Lazer punktura",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лазеропунктура",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Laser acupuncture",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Davolash jismoniy tarbiyasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Лечебная физическая культура (ЛФК)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Physical therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Magnit terapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Магнитотерапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Magnetic therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Magnit punktura",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Магнитопунктура",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Magnetic puncture",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Davolovchi massaj",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Массаж лечебный",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Therapeutic massage",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Kriomassaj",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Криомассаж",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Cryomassage",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Vakuumli massaj",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Вакуумный массаж",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Vacuum massage",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ultrabinafsha nurlanish (UB-nurlanish) uchun biomiqdorni aniqlash",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Определение биодозы для ультрафиолетового облучения (УФ-облучение)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Biodose determination for ultraviolet irradiation (UV irradiation)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ozokeritli davolash",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Озокеритолечение",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ozokeritotherapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Oksigen terapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Оксигенотерапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Oxygen therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Parafinli davolash",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Парафинолечение",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Paraffin-wax treatment",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Santimetr to‘lqinli terapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сантиметроволновая терапия (СМВ-терапия)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Centimeter wave therapy (CMW therapy)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "O‘ta yuqori chastotali elektroterapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Сверхвысокочастотная электротерапия (СВЧ-терапия)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Super high-frequency electrotherapy (SHF electrotherapy)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Nur bilan davolash",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Светолечение",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Light therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Nurli vanna",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Световая ванна",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Light bath",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Skeletni cho‘zish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Скелетное вытяжение",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Skeletal traction",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Issiqlik bilan davolash",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Теплолечение",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Thermal therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Tyubaj",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Тюбаж",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tubage",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Umurtqa pog‘onasini traksion cho‘zish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Тракционное вытяжение позвоночника",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Spinal traction therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ultratonli davolash",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ультратонотерапия (УТТ)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ultratonotherapy (UTT)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ultra yuqori chastotali terapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ультравысокочастотная терапия (УВЧ-терапия)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ultrahigh-frequency therapy (UHF therapy)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ultratovushli terapiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ультразвуковая терапия",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ultrasound therapy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ultrabinafsha nurlanish (UB nurlanish)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ультрафиолетовое облучение (УФ-облучение)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ultraviolet irradiation (UV irradiation)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ultrabinafsha nurlanish. PUVA-vannalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ультрафиолетовое облучение. ПУВА-ванны",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ultraviolet irradiation. PUVA baths",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ultrabinafsha nurlanish. Tubus-kvarts",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ультрафиолетовое облучение. Тубус-кварц",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ultraviolet irradiation. Tubus-quartz",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Franklinizatsiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Франклинизация",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Franklinization",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Fonoforez",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Фонофорез",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Phonophoresis",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Flyuktuorizatsiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Флюктуоризация",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Fluxtuorization",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Elektroforez",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Электрофорез",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Electrophoresis",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Elektro uyqu",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Электросон",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Electrosleep",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Elektrotrankvilizatsiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Электротранквилизация",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Electrotranquillization",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Elektrostimulyatsiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Электростимуляция",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Electrostimulation",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
