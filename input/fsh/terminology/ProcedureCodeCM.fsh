@@ -3,7 +3,7 @@ InstanceOf: ConceptMap
 Usage: #definition
 Title: "UZ local procedure code → SNOMED CT"
 Description: "Maps local UZ procedure code to SNOMED CT for Procedure.code"
-* url = "https://terminology.dhp.uz/ConceptMap/procedure-code-to-snomed"
+* url = "https://dhp.uz/fhir/core/ConceptMap/procedure-code-to-snomed"
 * name = "ProcedureCodeToSnomed"
 * status = #draft
 * experimental = true

@@ -2,7 +2,7 @@ CodeSystem: ProcedureCategoryCS
 Id: procedure-category-cs
 Title: "Procedure Category Codes"
 Description: "Procedure category CodeSystem with translations in English, Russian and Uzbek"
-* ^url = "https://terminology.dhp.uz/CodeSystem/procedure-category-cs"
+* ^url = "https://dhp.uz/fhir/core/CodeSystem/procedure-category-cs"
 * ^status = #active
 * ^content = #fragment
 * ^experimental = true

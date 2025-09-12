@@ -2,7 +2,7 @@ CodeSystem: ProcedureCodeCS
 Id: procedure-code-cs
 Title: "Procedure Code Codes"
 Description: "Procedure code CodeSystem with translations in English, Russian and Uzbek"
-* ^url = "https://terminology.dhp.uz/CodeSystem/procedure-code-cs"
+* ^url = "https://dhp.uz/fhir/core/CodeSystem/procedure-code-cs"
 * ^status = #active
 * ^content = #fragment
 * ^experimental = true
