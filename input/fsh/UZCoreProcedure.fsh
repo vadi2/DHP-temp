@@ -11,7 +11,7 @@ Description: "Uzbekistan Core Procedure Profile, used for documenting an action 
 * identifier MS
 * basedOn MS
 * status MS
-* category MS
+* category MS 
 * code MS
 * subject MS
 * encounter MS
@@ -32,7 +32,7 @@ Description: "Uzbekistan Core Procedure Profile, used for documenting an action 
 * outcome from ProcedureOutcomeVS (preferred)
 
 * basedOn only Reference(CarePlan or ServiceRequest)
-* subject only Reference(UZCorePatient or UZCoreLocation or UZCoreOrganization or UZCoreProcedure or UZCorePractitioner or Medication)
+* subject only Reference(UZCorePatient or Group or Device or UZCorePractitioner or UZCoreOrganization or UZCoreLocation)
 * encounter only Reference(UZCoreEncounter)
 * recorder only Reference(UZCorePatient or RelatedPerson or UZCorePractitioner or UZCorePractitionerRole)
 * performer.actor only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCoreOrganization or UZCorePatient or RelatedPerson or Device or CareTeam or UZCoreHealthcareService)
