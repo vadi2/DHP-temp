@@ -1,4 +1,8 @@
-// Alias: $encounter-class = https://terminology.dhp.uz/fhir/core/ValueSet/encounter-class
+
+// Alias: $encounter-class = https://terminology.dhp.uz/ValueSet/encounter-class
+Alias: $careplan-request-status = http://hl7.org/fhir/request-status
+Alias: $care-plan-intent = http://hl7.org/fhir/request-intent
+Alias: $event-status = http://hl7.org/fhir/event-status
 Alias: $address-type = http://hl7.org/fhir/address-type
 Alias: $address-use = http://hl7.org/fhir/address-use
 Alias: $audit-event-action = http://hl7.org/fhir/audit-event-action
@@ -61,6 +65,7 @@ Alias: $reason-use-cs = https://terminology.dhp.uz/fhir/core/CodeSystem/ReasonUs
 Alias: $reason-use-vs = https://terminology.dhp.uz/fhir/core/ValueSet/ReasonUseVS
 Alias: $sample-security-structural-codes = http://hl7.org/fhir/sample-security-structural-roles
 Alias: $sct = http://snomed.info/sct
+Alias: $sct-vs = http://snomed.info/sct?fhir_vs
 Alias: $security-source-type = http://terminology.hl7.org/CodeSystem/security-source-type
 Alias: $socieeconomic-observation = https://dhp.uz/fhir/core/StructureDefinition/uz-core-socioeconomic-observation
 Alias: $specialization = https://dhp.uz/fhir/core/CodeSystem/specialization

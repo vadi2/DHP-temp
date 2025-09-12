@@ -1,0 +1,53 @@
+{
+  "id" : "ConceptMap-procedure-category-to-snomed",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "ConceptMap.name",
+          "context" : "A natural language name identifying the concept map. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "ProcedureCategoryToSnomed",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.title",
+          "context" : "A short, descriptive, user-friendly title for the concept map.",
+          "source" : "UZ local procedure category → SNOMED CT",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the concept map.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.description",
+          "context" : "A free text natural language description of the concept map from a consumer's perspective.",
+          "source" : "Maps local UZ procedure category to SNOMED CT for Procedure.category",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fizioterapiya protsedurasi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Physical therapy procedure",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
