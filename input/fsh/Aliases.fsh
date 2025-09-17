@@ -1,4 +1,8 @@
-// Alias: $encounter-class = https://terminology.dhp.uz/fhir/core/ValueSet/encounter-class
+
+// Alias: $encounter-class = https://terminology.dhp.uz/ValueSet/encounter-class
+Alias: $careplan-request-status = http://hl7.org/fhir/request-status
+Alias: $care-plan-intent = http://hl7.org/fhir/request-intent
+Alias: $event-status = http://hl7.org/fhir/event-status
 Alias: $address-type = http://hl7.org/fhir/address-type
 Alias: $address-use = http://hl7.org/fhir/address-use
 Alias: $audit-event-action = http://hl7.org/fhir/audit-event-action
