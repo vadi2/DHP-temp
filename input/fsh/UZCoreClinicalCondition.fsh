@@ -1,8 +1,8 @@
-Profile: UZCoreCondition
+Profile: UZCoreClinicalCondition
 Parent: Condition
-Id: uz-core-condition 
-Title: "UZ Core Condition"
-Description: "Uzbekistan Core Condition profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics"
+Id: uz-core-clinical-condition 
+Title: "UZ Core Clinical Condition"
+Description: "Uzbekistan Core Clinical Condition profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics"
 * ^experimental = true
 * ^status = #active
 //rules
