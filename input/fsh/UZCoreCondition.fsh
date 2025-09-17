@@ -25,13 +25,13 @@ Description: "Uzbekistan Core Condition profile, used for documenting general, n
 * subject MS
 * subject only Reference(UZCorePatient)
 * encounter MS
-* encounter only Reference(Encounter)
+* encounter only Reference(UZCoreEncounter)
 * onset[x] MS
 * abatement[x] MS
 * recordedDate MS
 
 * participant  0..1 MS
-* participant.actor  only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or RelatedPerson or Device)
+* participant.actor  only Reference(UZCorePractitioner or UZCorePractitionerRole or UZCorePatient or UZCoreRelatedPerson or Device)
 * participant.function MS
 * participant.function from ConditionParticipationRoleTypeVS (extensible) 
 
