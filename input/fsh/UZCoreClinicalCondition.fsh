@@ -2,10 +2,9 @@ Profile: UZCoreClinicalCondition
 Parent: Condition
 Id: uz-core-clinical-condition 
 Title: "UZ Core Clinical Condition"
-Description: "Uzbekistan Core Clinical Condition profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics"
+Description: "Uzbekistan Core Clinical Condition profile, used for documenting a patient's clinical symptoms, conditions, and their characteristics"
 * ^experimental = true
 * ^status = #active
-//rules
 * clinicalStatus MS
 * clinicalStatus from ClinicalStatusVS (required)
 * verificationStatus MS
@@ -20,7 +19,6 @@ Description: "Uzbekistan Core Clinical Condition profile, used for documenting a
 * subject MS
 * subject only Reference(UZCorePatient)
 * encounter MS
-// TODO Позже можно заменить на UzCoreEncounter
 * encounter only Reference(Encounter)
 * onset[x] MS
 * abatement[x] MS
