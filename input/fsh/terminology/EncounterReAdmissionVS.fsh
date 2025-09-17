@@ -7,4 +7,5 @@ Description: "Encounter readmission codes with English and Russian translations"
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(EncounterReAdmissionCS)
 
-* include codes from system $v2-admission
+* include $v2-admission#R
+* include encounter-admission-cs#mserv-0006-00001
