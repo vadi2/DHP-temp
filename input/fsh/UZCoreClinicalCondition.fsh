@@ -32,7 +32,7 @@ Description: "Uzbekistan Core Clinical Condition profile, used for documenting a
 * note MS
 
 Instance: example-headache
-InstanceOf: UZCoreCondition
+InstanceOf: UZCoreClinicalCondition
 Title: "Example Uz Core Condition - Headache"
 Description: "Example instance of a headache condition documented during a patient encounter"
 Usage: #example
@@ -53,7 +53,7 @@ Usage: #example
   * text = "Patient complained of mild headache for two days. Condition resolved after rest and hydration."
 
 Instance: example-pregnancy
-InstanceOf: UZCoreCondition
+InstanceOf: UZCoreClinicalCondition
 Title: "Example Uz Core Condition - Pregnancy"
 Description: "Example instance of a pregnancy condition documented during a patient encounter"
 Usage: #example

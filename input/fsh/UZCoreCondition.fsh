@@ -14,7 +14,7 @@ Description: "Uzbekistan Core Condition profile, used for documenting general, n
 // we might not know what severity codesystems other, non-clinical conditions use - so relax this requirement compared to the clinical one
 * severity from ConditionSeverityVS (preferred)
 * code MS
-* code from $sct-vs (example)
+* code from $clinical-findings (example)
   * ^binding.additional[+].purpose = #required
   * ^binding.additional[=].valueSet = Canonical(DisabilityVS)
   * ^binding.additional[=].usage.code = $general-condition#Condition.code
