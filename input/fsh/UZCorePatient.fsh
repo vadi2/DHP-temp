@@ -100,12 +100,10 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* extension contains patient-nationality named nationality 0..1 MS and 
-    patient-citizenship named citizenship 0..1 MS and
-    patient-disability named disability 0..1 MS
+* extension contains patient-nationality named nationality 0..1 MS and
+    patient-citizenship named citizenship 0..1 MS
 * extension[nationality].extension[code].valueCodeableConcept from NationalityVS (required)
 * extension[citizenship].extension[code].valueCodeableConcept from CountriesDigitalMVDVS (required)
-* extension[disability].valueCodeableConcept from DisabilityVS (required)
 * gender MS
   * extension contains GenderOtherUZ named gender-other 0..1 MS
 * obeys gender-other-2
@@ -166,7 +164,6 @@ Usage: #example
   * gender = #male
 * maritalStatus = $v3-MaritalStatus#W "Вдовец, вдова"
 * extension[nationality].extension[code].valueCodeableConcept = NationalityCS#23 "Азербайджанцы"
-* extension[disability].valueCodeableConcept = DisabilityCS#regis0011.00001 "Группа I"
 
 Instance: example-david
 InstanceOf: UZCorePatient
