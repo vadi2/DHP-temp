@@ -6,11 +6,12 @@ Description: "Uzbekistan Core Condition profile, used for documenting general, n
 * ^experimental = true
 * ^status = #active
 * clinicalStatus MS
-* clinicalStatus from ClinicalStatusVS (example)
+* clinicalStatus from ClinicalStatusVS
 * verificationStatus MS
-* verificationStatus from ConditionVerificationStatusVS (required)
+* verificationStatus from ConditionVerificationStatusVS
 * severity MS
-* severity from ConditionSeverityVS (required)
+// we might not know what severity codesystems other, non-clinical conditions use - so relax this requirement compared to the clinical one
+* severity from ConditionSeverityVS (preferred)
 * code MS
 * code from $sct-vs (example)
 * extension contains DiagnosisType named diagnosisType 0..1 MS
