@@ -4,7 +4,7 @@ Instance: uzb-hrm-argoz
 InstanceOf: NamingSystem
 Description: "Healthcare provider identifiers assigned by the Uzbekistan Human Resource Management (HRM) system"
 Usage: #definition
-* name = "Uzbekistan_HRM_Argoz_System"
+* name = "UzbekistanHrmArgozSystem"
 * status = #active
 * kind = #identifier
 * publisher = "Uzinfocom"
@@ -23,7 +23,7 @@ Instance: uzb-soliq
 InstanceOf: NamingSystem
 Description: "Tax identification numbers and other identifiers assigned by the Uzbekistan Tax Authority (Soliq)"
 Usage: #definition
-* name = "Uzbekistan_Soliq_System"
+* name = "UzbekistanSoliqSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -42,7 +42,7 @@ Instance: uzb-national-unique-id
 InstanceOf: NamingSystem
 Description: "National unique identifiers (PINFL) assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
-* name = "Uzbekistan_National_Unique_ID_System"
+* name = "UzbekistanNationalUniqueIdSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -61,7 +61,7 @@ Instance: uzb-passport-local
 InstanceOf: NamingSystem
 Description: "Local passport identifiers assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
-* name = "Uzbekistan_Passport_Local_System"
+* name = "UzbekistanPassportLocalSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -80,7 +80,7 @@ Instance: uzb-passport-international
 InstanceOf: NamingSystem
 Description: "International passport identifiers assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
-* name = "Uzbekistan_Passport_International_System"
+* name = "UzbekistanPassportInternationalSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -99,7 +99,7 @@ Instance: uzb-birth-certificate
 InstanceOf: NamingSystem
 Description: "Birth certificate identifiers assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
-* name = "Uzbekistan_Birth_Certificate_System"
+* name = "UzbekistanBirthCertificateSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -118,7 +118,7 @@ Instance: uzb-drivers-license
 InstanceOf: NamingSystem
 Description: "Driver's license identifiers assigned by the Uzbekistan Ministry of Internal Affairs"
 Usage: #definition
-* name = "Uzbekistan_Drivers_License_System"
+* name = "UzbekistanDriversLicenseSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -137,7 +137,7 @@ Instance: uzb-diplomatic-passport
 InstanceOf: NamingSystem
 Description: "Diplomatic passport identifiers assigned by the Uzbekistan Ministry of Foreign Affairs"
 Usage: #definition
-* name = "Uzbekistan_Diplomatic_Passport_System"
+* name = "UzbekistanDiplomaticPassportSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -156,7 +156,7 @@ Instance: uzb-health-card-number
 InstanceOf: NamingSystem
 Description: "Health card number identifiers assigned by the Uzbekistan Ministry of Health"
 Usage: #definition
-* name = "Uzbekistan_Health_Card_Number_System"
+* name = "UzbekistanHealthCardNumberSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -175,7 +175,7 @@ Instance: uzb-military-id-number
 InstanceOf: NamingSystem
 Description: "Military ID number identifiers assigned by the Uzbekistan Ministry of Defense"
 Usage: #definition
-* name = "Uzbekistan_Military_ID_Number_System"
+* name = "UzbekistanMilitaryIdNumberSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -194,7 +194,7 @@ Instance: uzb-penitentiary-institution-number
 InstanceOf: NamingSystem
 Description: "Penitentiary institution number identifiers assigned by the Uzbekistan correctional system"
 Usage: #definition
-* name = "Uzbekistan_Penitentiary_Institution_Number_System"
+* name = "UzbekistanPenitentiaryInstitutionNumberSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -212,7 +212,7 @@ Usage: #definition
 Instance: location-unit
 InstanceOf: NamingSystem
 Usage: #definition
-* name = "Uzbekistan_DHP_Location_Unit_System"
+* name = "UzDhpLocationUnitSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -233,7 +233,7 @@ Usage: #definition
 Title: "DHP UZ EpisodeOfCare Identifier System"
 Description: "Identifier system used for EpisodeOfCare resources within the Uzbekistan DHP context."
 
-* name = "UZ_DHP_EpisodeOfCare_Identifier"
+* name = "UzDhpEpisodeOfCareIdentifier"
 * status = #active
 * kind = #identifier
 * date = "2025-08-13"
