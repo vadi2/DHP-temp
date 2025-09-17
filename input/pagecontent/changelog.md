@@ -1,4 +1,11 @@
 ### In development
+
+UZ Core Clinical Condition added to differentiate clinical (ICD-10) and non-ICD-10 based conditions.
+
+Patient disability status has been moved from the Patient resource (using a FHIR-standard extension) to the Condition resource.
+
+Underscores have been removed from NamingSystem identifiers.
+
 ### Version 0.3.0
 
 UZ Core profiles for Encounter, EpisodeOfCare, and Observation have been added.

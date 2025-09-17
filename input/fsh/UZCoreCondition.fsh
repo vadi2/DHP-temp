@@ -12,9 +12,8 @@ Description: "Uzbekistan Core Condition profile, used for documenting general, n
 * verificationStatus from ConditionVerificationStatusVS
 * severity MS
 // we might not know what severity codesystems other, non-clinical conditions use - so relax this requirement compared to the clinical one
-* severity from ConditionSeverityVS (preferred)
 * code MS
-* code from $clinical-findings (example)
+* severity from ConditionSeverityVS (preferred)
   * ^binding.additional[+].purpose = #required
   * ^binding.additional[=].valueSet = Canonical(DisabilityVS)
   * ^binding.additional[=].usage.code = $general-condition#Condition.code
@@ -65,7 +64,8 @@ Usage: #example
 * language = #uz
 * clinicalStatus = $condition-clinical#active "Faol"
 * verificationStatus = $condition-ver-status#confirmed "Tasdiqlangan"
-* code = DisabilityCS#regis0011.00001 "I guruh"
+* code = $sct#21134002 "Disability"
+* severity = DisabilityCS#regis0011.00001 "I guruh"
 * subject = Reference(example-salim)
 * onsetDateTime = "2020-03-10"
 * recordedDate = "2025-09-17"
