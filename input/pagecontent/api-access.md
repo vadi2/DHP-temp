@@ -91,12 +91,4 @@ Authorization: Bearer <access_token>
 
 *\<to be filled in - describe error handling here\>*
 
-# Must Support
-[Must Support] in this implementation guide is used in two contexts:
-
-1. UZ Core profiles: indicates that the element is expected to be populated when exchanged by systems within Uzbekistan.
-2. DHP-specific profiles: indicates that the DHP supports the element, and client systems must populate it with data should it be available.
-
-In case an element cannot be populated because it is not available in the source system, if the cardinality rules allow it, the element can be left unfilled. In case the cardinality rules require an element to be populated, the [Data Absent Reason] extension SHALL be used.
-
 {% include markdown-link-references.md %}

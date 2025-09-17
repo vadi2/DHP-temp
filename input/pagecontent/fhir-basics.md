@@ -26,15 +26,31 @@ To improve interoperability, standardized terminology is crucial. By using stand
 For further reading, we recommend to use the following links:
 
 * [FHIR summary](http://hl7.org/fhir/r5/summary.html)
-* [Developer’s introduction](http://hl7.org/fhir/r5/overview-dev.html)
+* [Developer's introduction](http://hl7.org/fhir/r5/overview-dev.html)
 * [Data types](http://hl7.org/fhir/r5/datatypes.html)
 * [Using codes](http://hl7.org/fhir/r5/terminologies.html)
 * [References between resources](http://hl7.org/fhir/r5/references.html)
 * [How to read resource & profile definitions](http://hl7.org/fhir/r5/formats.html#table)
 * [Base resource definitions](http://hl7.org/fhir/r5/resource.html)
 
+### Must Support
+[Must Support] indicates that the element is expected to be supported by systems within Uzbekistan and shall be populated when exchanged between systems. In particular:
+
+| Must Support | Min Cardinality | Requirement | Description |
+|--------------|-----------------|-------------|-------------|
+| true | 0 | system must support working with the element, but it is nullable and not required | Systems must support the element in their database and user interface, but population is optional. When exchanging data within Uzbekistan, if the information is available, it must be included in the resource and accepted from other systems. |
+| true | 1 | system must support working with the element, it is non-nullable and required | Systems must support the element with a value always present. The field must exist in the database, be displayed in the interface, and be populated. When exchanging data within Uzbekistan, the information must be included in the resource and accepted from other systems. If for some reason there is no data available at all, the [Data Absent Reason] extension SHALL be used. |
+| false | 1 | system must support working with the element, it is non-nullable and required | All elements with a minimum cardinality of 1 in the base resource will be marked as Must Support, but they if they are not, consider them as if they are. |
+| false | 0 | optional | Elements are optional and may be used as needed. Systems have flexibility to store and display these elements when specific use cases require them, but they are not required to do so. |
+
+What it means in context of DHP: 
+* if an element is marked as 'must support' in a profile supported by DHP, it can be sent to the platform, it will be received by the system, and it will appear in the user interface.
+* if an element is not marked as 'must support' in a profile supported by DHP, it can be sent to the platform, but it will not be saved, and it will not appear in the user interface.
+
 ### Related FHIR IGs
 
 <!-- { // not yet supported by i18n in IG publisher: % include dependency-table.xhtml %} -->
 
 <!-- { // same issue: % include globals-table.xhtml %} -->
+
+{% include markdown-link-references.md %}
