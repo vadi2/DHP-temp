@@ -6,6 +6,8 @@ Patient disability status has been moved from the Patient resource (using a FHIR
 
 Underscores have been removed from NamingSystem identifiers.
 
+Add a capabilitystatement describing DHP's supported resources, profiles, operations and searchparameters.
+
 ### Version 0.3.0
 
 UZ Core profiles for Encounter, EpisodeOfCare, and Observation have been added.
