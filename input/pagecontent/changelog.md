@@ -6,6 +6,8 @@ Patient disability status has been moved from the Patient resource (using a FHIR
 
 Underscores have been removed from NamingSystem identifiers.
 
+Name of the Observation Interpretation codesystem supplement has been fixed.
+
 ### Version 0.3.0
 
 UZ Core profiles for Encounter, EpisodeOfCare, and Observation have been added.
