@@ -75,7 +75,7 @@
 - Указывают на критические изменения или значительные архитектурные обновления
 
 ### Заявления об интеллектуальной собственности (IP Statements)
-<!-- { // not yet supported by i18n in IG publisher: % include ip-statements.xhtml %} -->
+{ % include ip-statements-ru.xhtml %}
 
 ### Авторы и партнёры
 

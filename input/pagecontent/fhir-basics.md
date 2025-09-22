@@ -35,6 +35,6 @@ For further reading, we recommend to use the following links:
 
 ### Related FHIR IGs
 
-<!-- { // not yet supported by i18n in IG publisher: % include dependency-table.xhtml %} -->
+{% include dependency-table-en.xhtml %}
 
-<!-- { // same issue: % include globals-table.xhtml %} -->
+{% include globals-table-en.xhtml %}

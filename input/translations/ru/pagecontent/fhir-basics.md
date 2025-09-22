@@ -38,6 +38,6 @@ FHIR предназначен для стандартизации и обесп�
 
 ### Связанные руководства FHIR
 
-<!-- { // not yet supported by i18n in IG publisher: % include dependency-table.xhtml %} -->
+{% include dependency-table-ru.xhtml %}
 
-<!-- { // same issue: % include globals-table.xhtml %} -->
+{% include globals-table-ru.xhtml %}
