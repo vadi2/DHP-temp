@@ -6,7 +6,9 @@ Patient disability status has been moved from the Patient resource (using a FHIR
 
 Underscores have been removed from NamingSystem identifiers.
 
-Add a capabilitystatement describing DHP's supported resources, profiles, operations and searchparameters.
+Added a capabilitystatement describing DHP's supported resources, profiles, operations and searchparameters.
+
+Name of the Observation Interpretation codesystem supplement has been fixed.
 
 ### Version 0.3.0
 
