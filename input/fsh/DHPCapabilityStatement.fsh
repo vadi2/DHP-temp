@@ -7,7 +7,10 @@ Usage: #definition
 * format[0] = #json
 * format[+] = #application/fhir+json
 * date = "2025-08-14T09:59:08+05:00"
-* kind = #capability
+* implementation
+  * description = "FHIR R5 Server"
+  * url = "https://playground.medcore.uz/fhir"
+* kind = #instance
 * rest
   * mode = #server
   * resource[0]
