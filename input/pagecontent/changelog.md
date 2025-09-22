@@ -8,6 +8,8 @@ Underscores have been removed from NamingSystem identifiers.
 
 Name of the Observation Interpretation codesystem supplement has been fixed.
 
+Documented use of ConceptMaps and their associated strategy.
+
 ### Version 0.3.0
 
 UZ Core profiles for Encounter, EpisodeOfCare, and Observation have been added.
