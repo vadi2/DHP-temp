@@ -6,6 +6,8 @@ Patient disability status has been moved from the Patient resource (using a FHIR
 
 Underscores have been removed from NamingSystem identifiers.
 
+Canonical URLs of NamingSystems now start with `https://terminology.dhp.uz`.
+
 Name of the Observation Interpretation codesystem supplement has been fixed.
 
 Documented use of ConceptMaps and their associated strategy.
