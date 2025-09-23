@@ -1,8 +1,8 @@
-# Руководство по моделированию национальных профилей (HL7 FHIR R5)
+# Руководство по моделированию национальных профилей Узбекистана
 
 ## 1) Назначение и область применения
 
-Данное руководство описывает подходы и методики создания национальных профилей FHIR ресурсов, адаптированных к требованиям здравоохранения Узбекистана. В качестве примера рассматривается профиль **UZCoreCondition** — национальный профиль ресурса **Condition**, используемый для документирования клинических симптомов и состояний (заболеваний, диагнозов).
+Данное руководство описывает подходы и методики создания национальных профилей FHIR ресурсов, адаптированных к требованиям здравоохранения Узбекистана используя HL7 FHIR R5.
 
 ## 2) Конвенции именования
 
@@ -271,7 +271,7 @@ Description: "Clinical status supplement with translations in Uzbek and Russian"
 ```fsh
 ValueSet: ClinicalStatusVS
 Id: clinical-status-vs
-Title: "Clinical Status ValueSet (UZ)"
+Title: "Clinical Status"
 * ^url = "http://terminology.dhp.uz/ValueSet/clinical-status-vs"
 * ^status = #active
 * ^extension[0].url = $valueset-supplement
