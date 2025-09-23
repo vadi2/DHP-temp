@@ -4,24 +4,92 @@
 
 Данное руководство описывает подходы и методики создания национальных профилей FHIR ресурсов, адаптированных к требованиям здравоохранения Узбекистана. В качестве примера рассматривается профиль **UZCoreCondition** — национальный профиль ресурса **Condition**, используемый для документирования клинических симптомов и состояний (заболеваний, диагнозов).
 
-## 2) Структура профиля
+## 2) Конвенции именования
 
-Каждый национальный профиль должен следовать единой структуре. Пример для UZCoreCondition:
+### 2.1 Общие принципы именования
+
+Все артефакты в национальных профилях должны следовать единым конвенциям именования для обеспечения консистентности и поддерживаемости кода.
+
+### 2.2 Именование профилей
+
+Каждый национальный профиль должен следовать единой структуре:
 
 ```fsh
 Profile: UZCoreCondition
 Parent: Condition
-Id: uz-core-condition 
+Id: uz-core-condition
 Title: "Uz Core Condition"
 Description: "Uzbekistan Core Condition profile, used for documenting a patient's clinical symptoms, conditions, and their characteristics"
 ```
 
-Для других ресурсов используется аналогичная структура:
+**Конвенции для профилей:**
 - **Profile**: `UZCore[ResourceName]` (например, `UZCorePatient`, `UZCoreObservation`)
 - **Parent**: Соответствующий базовый FHIR ресурс
-- **Id**: `uz-core-[resource-name]` в нижнем регистре
+- **Id**: `uz-core-[resource-name]` в нижнем регистре с дефисами
 - **Title**: `"Uz Core [Resource Name]"`
 - **Description**: `"Uzbekistan Core [Resource Name] profile, used to [описание назначения]"`
+
+### 2.3 Именование файлов
+
+**Основные профили:**
+- Формат: `UZCore[ResourceName].fsh`
+- Примеры: `UZCorePatient.fsh`, `UZCoreCondition.fsh`, `UZCoreObservation.fsh`
+
+**Терминологические артефакты:**
+- CodeSystem: `[PurposeName]CS.fsh` (например, `ClinicalStatusCS.fsh`)
+- ValueSet: `[PurposeName]VS.fsh` (например, `ClinicalStatusVS.fsh`)
+
+**Специальные файлы:**
+- `Extensions.fsh` - все расширения
+- `Aliases.fsh` - все псевдонимы
+- `Rulesets.fsh` - наборы правил
+
+### 2.5 Именование расширений (Extensions)
+
+**Структура именования Extensions:**
+```fsh
+Extension: DiagnosisType
+Id: diagnosis-type
+Title: "Diagnosis Type"
+```
+
+**Конвенции для Extensions:**
+- **Extension name**: CamelCase, описательное имя
+- **Id**: `[purpose-name]` в нижнем регистре с дефисами
+- **Title**: Человекочитаемое название в Title Case
+
+### 2.6 Именование инвариантов
+
+**Формат именования инвариантов:**
+- Для ресурсов: `uzcore-[resource-abbreviation]-[number]`
+- Для расширений: `uzcore-[extension-purpose]-[number]`
+- Примеры:
+  - Ресурсы: `uzcore-con-1`, `uzcore-pat-1`, `uzcore-obs-1`
+  - Расширения: `uzcore-gender-other-1`, `uzcore-diagnosis-type-1`
+
+```fsh
+* obeys uzcore-con-1
+* ^constraint[0].key = "uzcore-con-1"
+* ^constraint[=].severity = #error
+* ^constraint[=].human = "Condition must have either a code or a bodySite"
+* ^constraint[=].expression = "code.exists() or bodySite.exists()"
+```
+
+### 2.7 Именование поисковых параметров
+
+**Формат для национальных поисковых параметров:**
+**Конвенции:**
+- **Id**: `uz-core-[resource]-[parameter-name]` в нижнем регистре с дефисами
+- **Name**: PascalCase с префиксом UZ
+
+```fsh
+SearchParameter: uz-core-condition-diagnosis-type
+Id: uz-core-condition-diagnosis-type
+* name = "UZConditionDiagnosisType"
+* description = "Search for conditions by diagnosis type"
+```
+
+## 3) Структура профиля
 
 ## 3) Конвенции слайсинга
 
