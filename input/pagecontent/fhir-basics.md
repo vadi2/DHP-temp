@@ -21,6 +21,9 @@ To improve interoperability, standardized terminology is crucial. By using stand
 
 * ValueSet - specifies a selection of codes extracted from one or more CodeSystems, intended for use in a particular context. A ValueSet contains the links to the actual codes from a particular CodeSystem. The advantage is that when a CodeSystem gets updated, the ValueSets containing codes from this CodeSystem will be updated automatically.
 
+#### ConceptMaps
+ConceptMaps in FHIR define relationships and mappings between codes from different terminology systems, enabling semantic interoperability across disparate coding schemes. Within the DHP implementation, applications must exclusively use locally-defined codes for data exchange and storage. To facilitate integration with international standards, DHP provides ConceptMap resources that establish mappings between common international terminologies (such as ICD-10, SNOMED CT, or LOINC) and the corresponding local Uzbekistan codes. Applications can leverage the ConceptMap $translate operation to programmatically convert standard international codes into the required local codes, ensuring compliance with DHP requirements while maintaining compatibility with global healthcare standards.
+
 ### Links
 
 For further reading, we recommend to use the following links:
