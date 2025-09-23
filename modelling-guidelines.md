@@ -18,7 +18,7 @@
 Profile: UZCoreCondition
 Parent: Condition
 Id: uz-core-condition
-Title: "Uz Core Condition"
+Title: "UZ Core Condition"
 Description: "Uzbekistan Core Condition profile, used for documenting a patient's clinical symptoms, conditions, and their characteristics"
 ```
 
@@ -26,7 +26,7 @@ Description: "Uzbekistan Core Condition profile, used for documenting a patient'
 - **Profile**: `UZCore[ResourceName]` (например, `UZCorePatient`, `UZCoreObservation`)
 - **Parent**: Соответствующий базовый FHIR ресурс
 - **Id**: `uz-core-[resource-name]` в нижнем регистре с дефисами
-- **Title**: `"Uz Core [Resource Name]"`
+- **Title**: `"UZ Core [Resource Name]"`
 - **Description**: `"Uzbekistan Core [Resource Name] profile, used to [описание назначения]"`
 
 ### 2.3 Именование файлов
