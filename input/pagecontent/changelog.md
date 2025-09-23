@@ -6,6 +6,8 @@ Patient disability status has been moved from the Patient resource (using a FHIR
 
 Underscores have been removed from NamingSystem identifiers.
 
+Added IP statements, globals table, and a dependency table to the IG.
+
 Name of the Observation Interpretation codesystem supplement has been fixed.
 
 ### Version 0.3.0
