@@ -29,7 +29,7 @@ RuleSet: HumanName
   * use and text and family and given and suffix and period MS
 
 RuleSet: TaxIdentifier
-* identifier[tax-id]
+* identifier[taxId]
   * ^short = "Unique identifier of the organization in Soliq"
   * system 1..1 MS
   * system = $organization-tax-id-system
