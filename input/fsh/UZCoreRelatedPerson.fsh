@@ -100,7 +100,7 @@ Description: "Uzbekistan Core RelatedPerson profile, used to represent persons r
   * use from TelecomUseVS (required)
 * gender MS
   * extension contains GenderOtherUZ named gender-other-2 0..1 MS
-* obeys gender-other-2
+* obeys uzcore-gender-other-2
 * insert AddressRules
 * insert HumanName
 * active MS

@@ -36,7 +36,7 @@ Description: "Uzbekistan Core Practitioner profile, used to define healthcare pr
   * system from ContactPointSystemVS (required)
 * gender MS
   * extension contains GenderOtherUZ named gender-other 0..1 MS
-* obeys gender-other-2
+* obeys uzcore-gender-other-2
 * birthDate MS
 * deceasedDateTime and deceasedBoolean MS
 * insert AddressRules

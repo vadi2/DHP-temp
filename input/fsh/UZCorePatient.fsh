@@ -106,7 +106,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
 * extension[citizenship].extension[code].valueCodeableConcept from CountriesDigitalMVDVS (required)
 * gender MS
   * extension contains GenderOtherUZ named gender-other 0..1 MS
-* obeys gender-other-2
+* obeys uzcore-gender-other-2
 * insert AddressRules
 * maritalStatus from MaritalStatusVS (required)
 * insert HumanName
