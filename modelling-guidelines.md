@@ -373,21 +373,9 @@ Description: "Example instance of a headache condition documented during a patie
 * recordedDate = "2025-07-29"
 ```
 
-## 5) Особенности версий FHIR
+## 5) Переводы и локализация
 
-При работе с разными версиями FHIR необходимо учитывать изменения в структуре ресурсов. Например, в R5 для ресурса Condition используйте `Condition.participant` вместо `asserter`.
-
-## 6) Пример JSON
-
-*(как в предыдущей версии документа)*
-
-## 7) Сериализация, валидация и поисковые параметры
-
-*(без изменений)*
-
-## 8) Переводы и локализация
-
-### 8.1 Принципы работы с переводами
+### Принципы работы с переводами
 
 **Важное правило**: В FSH файлах используется **только английский язык**. Это касается всех текстовых элементов, включая:
 - `^short` - краткие описания
@@ -395,7 +383,7 @@ Description: "Example instance of a headache condition documented during a patie
 - `^definition` - определения элементов
 - Все другие текстовые метаданные
 
-### 8.2 Рабочий процесс перевода
+### Рабочий процесс перевода
 
 Переводы выполняются через систему .po файлов после сборки IG:
 
@@ -436,7 +424,7 @@ msgstr "Лицо, которое получает или получало мед
 **Шаг 5: Пересборка IG**
  - Соберите IG опять и переводы будут там
 
-### 8.3 Структура папок переводов
+### Структура папок переводов
 
 ```
 input/
@@ -461,12 +449,4 @@ input/
 **Качество:**
 - Переводите не дословно, а по смыслу
 - Учитывайте контекст использования в медицинских системах
-
-## 9) Источники FSH
-
-При создании любого национального профиля используется следующая структура файлов (на примере UZCoreCondition):
-
-`UZCoreCondition.fsh`, `ClinicalStatusCS.fsh`, `ClinicalStatusVS.fsh`, `ConditionVerificationStatusCS.fsh`, `ConditionVerificationStatusVS.fsh`, `ConditionSeverityVS.fsh`, `ConditionParticipationRoleTypeVS.fsh`, `DiagnosisTypeCS.fsh`, `DiagnosisTypeVS.fsh`, `Extensions.fsh`, `Aliases.fsh`, `UZCorePatient.fsh`.
-
-Аналогичная структура применяется для всех других ресурсов (Patient, Observation, Procedure и т.д.).
 
