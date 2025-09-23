@@ -8,6 +8,8 @@ Underscores have been removed from NamingSystem identifiers.
 
 Name of the Observation Interpretation codesystem supplement has been fixed.
 
+Added multilingual terminology strategy with Uzbek-authored CodeSystems and THO supplements for UI localization.
+
 ### Version 0.3.0
 
 UZ Core profiles for Encounter, EpisodeOfCare, and Observation have been added.
