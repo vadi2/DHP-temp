@@ -100,12 +100,10 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* extension contains patient-nationality named nationality 0..1 MS and 
-    patient-citizenship named citizenship 0..1 MS and
-    patient-disability named disability 0..1 MS
+* extension contains patient-nationality named nationality 0..1 MS and
+    patient-citizenship named citizenship 0..1 MS
 * extension[nationality].extension[code].valueCodeableConcept from NationalityVS (required)
 * extension[citizenship].extension[code].valueCodeableConcept from CountriesDigitalMVDVS (required)
-* extension[disability].valueCodeableConcept from DisabilityVS (required)
 * gender MS
   * extension contains GenderOtherUZ named gender-other 0..1 MS
 * obeys gender-other-2
@@ -166,7 +164,6 @@ Usage: #example
   * gender = #male
 * maritalStatus = $v3-MaritalStatus#W "Вдовец, вдова"
 * extension[nationality].extension[code].valueCodeableConcept = NationalityCS#23 "Азербайджанцы"
-* extension[disability].valueCodeableConcept = DisabilityCS#regis0011.00001 "Группа I"
 
 Instance: example-david
 InstanceOf: UZCorePatient
@@ -202,3 +199,37 @@ Usage: #example
 * maritalStatus = $v3-MaritalStatus#M "Состоит в браке"
 * multipleBirthInteger = 2
 * extension[nationality].extension[code].valueCodeableConcept = NationalityCS#32 "Армяне"
+
+Instance: example-emma
+InstanceOf: UZCorePatient
+Description: "Example of a patient named Emma"
+Usage: #example
+* language = #en
+* identifier[driverslicense]
+  * value = "AG1141110"
+* active = false
+* name
+  * use = #anonymous
+  * text = "Emma Watson"
+* telecom
+  * system = #sms
+  * use = #temp
+  * rank = 1
+  * period.start = "2024-02-10"
+* birthDate = "2000-10-16"
+* address
+  * use = #temp
+  * type = #physical
+  * line = "ул.Муминова 4"
+  * country = "182"
+  * district = "1703202"
+  * city = "22070013"
+  * period.start = "2000-10-16"
+* gender = #female
+* contact
+  * relationship = $v2-0131#C "Emergency Contact"
+  * name.text = "Isabella"
+  * gender = #female
+* maritalStatus = $v3-MaritalStatus#U "Unmarried"
+* multipleBirthInteger = 2
+* extension[nationality].extension[code].valueCodeableConcept = NationalityCS#42 "British"

@@ -6,7 +6,7 @@
   "id": "countries-digital-mvd-cs",
   "title": "Countries digital MVD translations",
   "description": "Countries digital MVD codes with translations in Russian and English",
-  "url": "https://terminology.dhp.uz/CodeSystem/countries-digital-mvd-cs",
+  "url": "https://terminology.dhp.uz/fhir/core/CodeSystem/countries-digital-mvd-cs",
   "concept": [
     {
       "code": "0",
