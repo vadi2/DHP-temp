@@ -14,6 +14,8 @@ Name of the Observation Interpretation codesystem supplement has been fixed.
 
 Documented use of ConceptMaps and their associated strategy.
 
+Updated slice names to follow best practice naming convention of lower camelCase.
+
 ### Version 0.3.0
 
 UZ Core profiles for Encounter, EpisodeOfCare, and Observation have been added.
