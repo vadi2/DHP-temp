@@ -24,6 +24,9 @@ To improve interoperability, standardized terminology is crucial. By using stand
 #### CodeSystems and language support
 This IG utilizes two distinct approaches to terminology management. For Uzbekistan-specific clinical concepts, we define original CodeSystems with codes authored in Uzbek as the default language, supplemented with Russian and English designations to support multilingual implementations. For standardized terminologies from HL7 Terminology (THO) used by FHIR, we provide CodeSystem supplements that add Uzbek and Russian translations to the existing English-based terminology. These multilingual designations serve exclusively presentation purposes in user interfaces - the underlying codes themselves remain language-independent identifiers that applications can process consistently regardless of the display language selected by end users.
 
+#### ConceptMaps
+ConceptMaps in FHIR define relationships and mappings between codes from different terminology systems, enabling semantic interoperability across disparate coding schemes. Within the DHP implementation, applications must exclusively use locally-defined codes for data exchange and storage. To facilitate integration with international standards, DHP provides ConceptMap resources that establish mappings between common international terminologies (such as ICD-10, SNOMED CT, or LOINC) and the corresponding local Uzbekistan codes. Applications can leverage the ConceptMap $translate operation to programmatically convert standard international codes into the required local codes, ensuring compliance with DHP requirements while maintaining compatibility with global healthcare standards.
+
 ### Links
 
 For further reading, we recommend to use the following links:
