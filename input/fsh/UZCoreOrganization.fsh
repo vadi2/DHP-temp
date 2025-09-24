@@ -14,11 +14,11 @@ Description: "Uzbekistan Core Organization profile, used to define healthcare or
 * identifier ^slicing.rules = #open
 * identifier ^slicing.description = "Ways an organization can be categorized"
 * identifier ^slicing.ordered = false
-* identifier contains tax-id 0..1 MS and argoz-id 0..1 MS
+* identifier contains taxId 0..1 MS and argozId 0..1 MS
 
 * insert TaxIdentifier
 
-* identifier[argoz-id]
+* identifier[argozId]
   * system 1..1 MS
   * system = $organization-argoz-id-system
   * type 1..1 MS
@@ -98,12 +98,12 @@ InstanceOf: UZCoreOrganization
 Description: "Example of a hospital organization"
 Usage: #example
 * language = #uz
-* identifier[tax-id]
+* identifier[taxId]
   * use = #official
   * type = $identifier-type#TAX "Tax ID number"
   * system = $organization-tax-id-system
   * value = "200935935"
-* identifier[argoz-id]
+* identifier[argozId]
   * use = #official
   * type = $identifier-type#XX "Organization Identifier"
   * system = $organization-argoz-id-system

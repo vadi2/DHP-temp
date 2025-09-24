@@ -4,6 +4,7 @@ Instance: uzb-hrm-argoz
 InstanceOf: NamingSystem
 Description: "Healthcare provider identifiers assigned by the Uzbekistan Human Resource Management (HRM) system"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-hrm-argoz"
 * name = "UzbekistanHrmArgozSystem"
 * status = #active
 * kind = #identifier
@@ -23,6 +24,7 @@ Instance: uzb-soliq
 InstanceOf: NamingSystem
 Description: "Tax identification numbers and other identifiers assigned by the Uzbekistan Tax Authority (Soliq)"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-soliq"
 * name = "UzbekistanSoliqSystem"
 * status = #active
 * kind = #identifier
@@ -42,6 +44,7 @@ Instance: uzb-national-unique-id
 InstanceOf: NamingSystem
 Description: "National unique identifiers (PINFL) assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-national-unique-id"
 * name = "UzbekistanNationalUniqueIdSystem"
 * status = #active
 * kind = #identifier
@@ -61,6 +64,7 @@ Instance: uzb-passport-local
 InstanceOf: NamingSystem
 Description: "Local passport identifiers assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-passport-local"
 * name = "UzbekistanPassportLocalSystem"
 * status = #active
 * kind = #identifier
@@ -80,6 +84,7 @@ Instance: uzb-passport-international
 InstanceOf: NamingSystem
 Description: "International passport identifiers assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-passport-international"
 * name = "UzbekistanPassportInternationalSystem"
 * status = #active
 * kind = #identifier
@@ -99,6 +104,7 @@ Instance: uzb-birth-certificate
 InstanceOf: NamingSystem
 Description: "Birth certificate identifiers assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-birth-certificate"
 * name = "UzbekistanBirthCertificateSystem"
 * status = #active
 * kind = #identifier
@@ -118,6 +124,7 @@ Instance: uzb-drivers-license
 InstanceOf: NamingSystem
 Description: "Driver's license identifiers assigned by the Uzbekistan Ministry of Internal Affairs"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-drivers-license"
 * name = "UzbekistanDriversLicenseSystem"
 * status = #active
 * kind = #identifier
@@ -137,6 +144,7 @@ Instance: uzb-diplomatic-passport
 InstanceOf: NamingSystem
 Description: "Diplomatic passport identifiers assigned by the Uzbekistan Ministry of Foreign Affairs"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-diplomatic-passport"
 * name = "UzbekistanDiplomaticPassportSystem"
 * status = #active
 * kind = #identifier
@@ -156,6 +164,7 @@ Instance: uzb-health-card-number
 InstanceOf: NamingSystem
 Description: "Health card number identifiers assigned by the Uzbekistan Ministry of Health"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-health-card-number"
 * name = "UzbekistanHealthCardNumberSystem"
 * status = #active
 * kind = #identifier
@@ -175,6 +184,7 @@ Instance: uzb-military-id-number
 InstanceOf: NamingSystem
 Description: "Military ID number identifiers assigned by the Uzbekistan Ministry of Defense"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-military-id-number"
 * name = "UzbekistanMilitaryIdNumberSystem"
 * status = #active
 * kind = #identifier
@@ -194,6 +204,7 @@ Instance: uzb-penitentiary-institution-number
 InstanceOf: NamingSystem
 Description: "Penitentiary institution number identifiers assigned by the Uzbekistan correctional system"
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-penitentiary-institution-number"
 * name = "UzbekistanPenitentiaryInstitutionNumberSystem"
 * status = #active
 * kind = #identifier
@@ -212,6 +223,7 @@ Usage: #definition
 Instance: location-unit
 InstanceOf: NamingSystem
 Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/location-unit"
 * name = "UzDhpLocationUnitSystem"
 * status = #active
 * kind = #identifier
@@ -227,12 +239,11 @@ Usage: #definition
 * uniqueId.preferred = true
 * uniqueId.comment = "This is the canonical URI for the Uzbekistan DHP Location Unit identifier system"
 
-Instance: NS-EpisodeOfCare-Identifier
+Instance: episodeofcare-identifier
 InstanceOf: NamingSystem
 Usage: #definition
-Title: "DHP UZ EpisodeOfCare Identifier System"
 Description: "Identifier system used for EpisodeOfCare resources within the Uzbekistan DHP context."
-
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/episodeofcare-identifier"
 * name = "UzDhpEpisodeOfCareIdentifier"
 * status = #active
 * kind = #identifier
