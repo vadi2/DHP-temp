@@ -12,6 +12,8 @@ Canonical URLs of NamingSystems now start with `https://terminology.dhp.uz`.
 
 Name of the Observation Interpretation codesystem supplement has been fixed.
 
+Added multilingual terminology strategy with Uzbek-authored CodeSystems and THO supplements for UI localization.
+
 Documented use of ConceptMaps and their associated strategy.
 
 Updated slice names to follow best practice naming convention of lower camelCase.
