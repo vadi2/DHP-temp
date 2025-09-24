@@ -182,11 +182,13 @@ Usage: #example
   * rank = 1
   * period.start = "2024-02-10"
 * birthDate = "2001-10-16"
-* address
+* address[uzAddress]
   * use = #temp
   * type = #physical
   * line = "2 квартал 13 дом 12 квартира"
   * country = "182"
+  * country.extension[iso3166Country].valueCoding.system = "urn:iso:std:iso:3166"
+  * country.extension[iso3166Country].valueCoding.code = #UZ
   * district = "1703206"
   * city = "22070011"
   * period.start = "2001-10-16"
@@ -210,20 +212,20 @@ Usage: #example
 * active = false
 * name
   * use = #anonymous
-  * text = "Emma Watson"
+  * text = "Emma Sanders"
 * telecom
   * system = #sms
   * use = #temp
   * rank = 1
   * period.start = "2024-02-10"
 * birthDate = "2000-10-16"
-* address
+* address[i18nAddress]
   * use = #temp
   * type = #physical
-  * line = "ул.Муминова 4"
-  * country = "182"
-  * district = "1703202"
-  * city = "22070013"
+  * line = "123 Baker Street"
+  * country = "501"
+  * country.extension[iso3166Country].valueCoding.system = "urn:iso:std:iso:3166"
+  * country.extension[iso3166Country].valueCoding.code = #GB
   * period.start = "2000-10-16"
 * gender = #female
 * contact

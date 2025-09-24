@@ -17,6 +17,7 @@ RuleSet: IntAndUzAddressRules
   * country.extension contains iso21090-codedString named iso3166Country 0..1 MS
   * country.extension[iso3166Country].valueCoding.system = "urn:iso:std:iso:3166"
   * country.extension[iso3166Country].valueCoding.code = #UZ
+  * country.extension[iso3166Country].valueCoding from ISO3166_2 (required)
   * district from RegionsVS (required)
   * state from StateVS (required)
   * city from MahallaVS (required)
@@ -25,6 +26,7 @@ RuleSet: IntAndUzAddressRules
   * district ^short = "District or city code"
   * state ^short = "Region code"
   * city ^short = "Mahalla code (citizens' assembly)"
+  * country 1..
   * country ^short = "Country code (Uzbek MVD system with optional ISO3166 extension)"
   * country.extension[iso3166Country] ^short = "ISO3166 country code (UZ for Uzbekistan)"
   * period ^short = "Time period when the address was/is used"
@@ -38,15 +40,17 @@ RuleSet: IntAndUzAddressRules
   * country from CountriesDigitalMVDVS (required)
   * country from InternationalCountriesVS (required)
   * country.extension contains iso21090-codedString named iso3166Country 0..1 MS
+  * country.extension[iso3166Country].valueCoding from ISO3166_2 (required)
+  * country 1..
   * country ^short = "Country code (Uzbek MVD system excluding Uzbekistan, with optional ISO3166 extension)"
-  * country.extension[] ^short = "ISO3166 country code for international interoperability"
+  * country.extension[iso3166Country] ^short = "ISO3166 country code for international interoperability"
   * text ^short = "Text part of the address"
   * line ^short = "Street name or address line"
   * district ^short = "District, county, or administrative division"
   * state ^short = "State, province, or region"
   * city ^short = "City or locality"
   * period ^short = "Time period when the address was/is used"
-  iso3166Country
+
 RuleSet: UzAddressRules
 * address MS
   * type and use and text and line and city and district and state and country and period MS
