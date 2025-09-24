@@ -1,4 +1,53 @@
-RuleSet: AddressRules
+RuleSet: IntAndUzAddressRules
+* address MS
+* address ^slicing.discriminator.type = #value
+* address ^slicing.discriminator.path = "country"
+* address ^slicing.rules = #open
+* address ^slicing.description = "Address slicing based on country to support Uzbek and international addresses"
+* address contains uzAddress 0..* MS and i18nAddress 0..* MS
+
+* address[uzAddress]
+  * ^short = "An Uzbekistan address"
+  * type and use and text and line and city and district and state and country and period MS
+  * type from AddressTypeVS (required)
+  * use from AddressUseVS (required)
+  * use ^short = "Type of address, home | temp"
+  * country from CountriesDigitalMVDVS (required)
+  * country = countries-digital-mvd-cs#182
+  * country.extension contains iso21090-codedString named iso3166Country 0..1 MS
+  * country.extension[iso3166Country].valueCoding.system = "urn:iso:std:iso:3166"
+  * country.extension[iso3166Country].valueCoding.code = #UZ
+  * district from RegionsVS (required)
+  * state from StateVS (required)
+  * city from MahallaVS (required)
+  * text ^short = "Text part of the address provided by DPM. Mahalla name, street, house number, apartment number"
+  * line ^short = "Text street name provided by DPM"
+  * district ^short = "District or city code"
+  * state ^short = "Region code"
+  * city ^short = "Mahalla code (citizens' assembly)"
+  * country ^short = "Country code (Uzbek MVD system with optional ISO3166 extension)"
+  * country.extension[iso3166Country] ^short = "ISO3166 country code (UZ for Uzbekistan)"
+  * period ^short = "Time period when the address was/is used"
+
+* address[i18nAddress]
+  * ^short = "An international, non-Uzbekistan address"
+  * type and use and text and line and city and district and state and country and period MS
+  * type from AddressTypeVS (required)
+  * use from AddressUseVS (required)
+  * use ^short = "Type of address, home | temp"
+  * country from CountriesDigitalMVDVS (required)
+  * country from InternationalCountriesVS (required)
+  * country.extension contains iso21090-codedString named iso3166Country 0..1 MS
+  * country ^short = "Country code (Uzbek MVD system excluding Uzbekistan, with optional ISO3166 extension)"
+  * country.extension[] ^short = "ISO3166 country code for international interoperability"
+  * text ^short = "Text part of the address"
+  * line ^short = "Street name or address line"
+  * district ^short = "District, county, or administrative division"
+  * state ^short = "State, province, or region"
+  * city ^short = "City or locality"
+  * period ^short = "Time period when the address was/is used"
+  iso3166Country
+RuleSet: UzAddressRules
 * address MS
   * type and use and text and line and city and district and state and country and period MS
   * type from AddressTypeVS (required) 
@@ -9,20 +58,19 @@ RuleSet: AddressRules
   * state from StateVS (required) 
   * city from MahallaVS (required)
 
-  * text ^short = "Текстовая часть адреса, предоставляемая ГЦП. Название махалли, улицы,  номер дома, номер квартиры"
-  * line ^short = "Текстовае название улицы, предоставляемое ГЦП"
-  * district ^short = "Код pайона или города"
-  * state ^short = "Код области"
-  * city ^short = "Код махалли (сход граждан)"
-  * country ^short = "Код страны"
-  * period ^short = "Период времени, когда адрес использовался/используется"
-  
+  * country ^short = "Country code"
+  * text ^short = "Text part of the address"
+  * line ^short = "Street name or address line"
+  * district ^short = "District, county, or administrative division"
+  * state ^short = "State, province, or region"
+  * city ^short = "City or locality"
+  * period ^short = "Time period when the address was/is used"
 
 RuleSet: MultilingualName(entityType)
 * name 1..1 MS
-  * ^short = "Наименование {entityType} (на узбекском языке)"
+  * ^short = "{entityType} name (in Uzbek language)"
   * extension contains translation named translation 0..* MS
-    * ^short = "Наименование {entityType} (на русском и английском языках)"
+    * ^short = "{entityType} name (in Russian and English languages)"
 
 RuleSet: HumanName
 * name MS

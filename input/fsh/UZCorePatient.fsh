@@ -107,7 +107,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
 * gender MS
   * extension contains GenderOtherUZ named gender-other 0..1 MS
 * obeys uzcore-gender-other-2
-* insert AddressRules
+* insert IntAndUzAddressRules
 * maritalStatus from MaritalStatusVS (required)
 * insert HumanName
 * active MS
