@@ -20,59 +20,54 @@ UZ Core supports both Uzbekistan and international addresses.
 
 ##### Uzbekistan addresses
 
-Use country code "182" and include official administrative codes:
+Use country code "182" and include official administrative codes. Use the `_country` element with an extension to specify ISO 3166 code (optional but recommended).
 
 ```json
-  "address": [{
-      "line": ["2 квартал 13 дом 12 квартира"],
-      "country": "182",
-      // _country with an extension to specify ISO 3166 code is optional, but recommended
-      "_country": {
-        "extension": [{
-            "valueCoding": {
-              "system": "urn:iso:std:iso:3166",
-              "code": "UZ"
-            },
-            "url": "http://hl7.org/fhir/StructureDefinition/iso21090-codedString"
-          }]
+"address": [{
+  "line": ["2 квартал 13 дом 12 квартира"],
+  "country": "182",
+  "_country": {
+    "extension": [{
+      "valueCoding": {
+        "system": "urn:iso:std:iso:3166",
+        "code": "UZ"
       },
-      "use": "temp",
-      "type": "physical",
-      "district": "1703206",
-      "city": "22070011"
-    }],
+      "url": "http://hl7.org/fhir/StructureDefinition/iso21090-codedString"
+    }]
+  },
+  "use": "temp",
+  "type": "physical",
+  "district": "1703206",
+  "city": "22070011"
+}]
 ```
 
 ##### International addresses
 
-Use any other country code and free-text address fields:
+Use any other country code and free-text address fields. Use the `_country` element with an extension to specify ISO 3166 code (optional but recommended):
 
 ```json
-  "address": [{
-      "line": ["123 Baker Street"],
-      "use": "temp",
-      "type": "physical",
-      "country": "501",
-      // _country with an extension to specify ISO 3166 code is optional, but recommended
-      "_country": {
-        "extension": [
-          {
-            "valueCoding": {
-              "system": "urn:iso:std:iso:3166",
-              "code": "GB"
-            },
-            "url": "http://hl7.org/fhir/StructureDefinition/iso21090-codedString"
-          }
-        ]
-      }
-    }],
+"address": [{
+  "line": ["123 Baker Street"],
+  "use": "temp",
+  "type": "physical",
+  "country": "501",
+  "_country": {
+    "extension": [{
+      "valueCoding": {
+        "system": "urn:iso:std:iso:3166",
+        "code": "GB"
+      },
+      "url": "http://hl7.org/fhir/StructureDefinition/iso21090-codedString"
+    }]
+  },
+}]
 ```
 
 Requirements:
-- Uzbek addresses (country: "182"): Must use official government codes for
-district/state/city
-- International addresses (any other country): Use free text for all location fields
-- ISO country extension: Optional but recommended for international interoperability
+- Uzbek addresses (country: "182"): must use official government codes for district/state/city per profile
+- International addresses (any other country): use free text for all location fields
+- ISO country extension: optional but recommended for international interoperability
 
 ### Terminology
 To improve interoperability, standardized terminology is crucial. By using standardized terminology, healthcare information can be collected, documented and processed in similar data concepts. This allows healthcare providers to share and compare clinical knowledge in a consistent and internationally accepted system. FHIR cannot define every code required in a healthcare system across the world, so instead, they provided two resources to manage codes and their meaning, namely:
