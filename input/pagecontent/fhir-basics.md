@@ -14,6 +14,66 @@ The basic building blocks of FHIR are called resources, which are represented in
 ### Profiling
 A profile defines the use of a resource in a specific scenario. The term profiling refers to the act of applying constraints to the so-called core resources. These resources are created by workgroups of specialists to accommodate the most common use cases. Because of the generic nature, the rules in this specification are fairly loose. By applying a set of constraints to a FHIR resource, it can be tailored to a specific scenario - such as the specific usecasdes that DHP supports. By combining core resources with the profiles that DHP defines, you can build applications that suit your needs in Uzbekistan's healthcare ecosystem.
 
+#### Working with addresses
+
+UZ Core supports both Uzbekistan and international addresses. 
+
+##### Uzbekistan addresses
+
+Use country code "182" and include official administrative codes:
+
+```json
+  "address": [{
+      "line": ["2 квартал 13 дом 12 квартира"],
+      "country": "182",
+      // _country with an extension to specify ISO 3166 code is optional, but recommended
+      "_country": {
+        "extension": [{
+            "valueCoding": {
+              "system": "urn:iso:std:iso:3166",
+              "code": "UZ"
+            },
+            "url": "http://hl7.org/fhir/StructureDefinition/iso21090-codedString"
+          }]
+      },
+      "use": "temp",
+      "type": "physical",
+      "district": "1703206",
+      "city": "22070011"
+    }],
+```
+
+##### International addresses
+
+Use any other country code and free-text address fields:
+
+```json
+  "address": [{
+      "line": ["123 Baker Street"],
+      "use": "temp",
+      "type": "physical",
+      "country": "501",
+      // _country with an extension to specify ISO 3166 code is optional, but recommended
+      "_country": {
+        "extension": [
+          {
+            "valueCoding": {
+              "system": "urn:iso:std:iso:3166",
+              "code": "GB"
+            },
+            "url": "http://hl7.org/fhir/StructureDefinition/iso21090-codedString"
+          }
+        ]
+      }
+    }],
+```
+
+Requirements:
+- Uzbek addresses (country: "182"): Must use official government codes for
+district/state/city
+- International addresses (any other country): Use free text for all location fields
+- ISO country extension: Optional but recommended for international interoperability
+
 ### Terminology
 To improve interoperability, standardized terminology is crucial. By using standardized terminology, healthcare information can be collected, documented and processed in similar data concepts. This allows healthcare providers to share and compare clinical knowledge in a consistent and internationally accepted system. FHIR cannot define every code required in a healthcare system across the world, so instead, they provided two resources to manage codes and their meaning, namely:
 
