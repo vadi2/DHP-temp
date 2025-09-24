@@ -39,7 +39,7 @@ Description: "Uzbekistan Core Practitioner profile, used to define healthcare pr
 * obeys uzcore-gender-other-2
 * birthDate MS
 * deceasedDateTime and deceasedBoolean MS
-* insert AddressRules
+* insert IntAndUzAddressRules
 * photo MS
   * url and size MS
 * qualification MS

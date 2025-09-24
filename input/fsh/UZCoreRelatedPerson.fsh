@@ -101,7 +101,7 @@ Description: "Uzbekistan Core RelatedPerson profile, used to represent persons r
 * gender MS
   * extension contains GenderOtherUZ named gender-other-2 0..1 MS
 * obeys uzcore-gender-other-2
-* insert AddressRules
+* insert IntAndUzAddressRules
 * insert HumanName
 * active MS
 * birthDate MS
