@@ -99,6 +99,14 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * type = $identifier-type#PCN "Penitentiary/correctional institution Number"
   * use = #official
   * value 1..1 MS
+/*  
+* identifier[mother-national-id-birth-time] 
+  * system 1..1 MS
+  * system = $passport-local
+  * type 1..1 MS
+  * type = $identifier-type#PPN "identifier for child"
+  * use = #official
+  * value 1..1 MS*/
 
 * extension contains patient-nationality named nationality 0..1 MS and 
     patient-citizenship named citizenship 0..1 MS and
