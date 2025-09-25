@@ -2,7 +2,7 @@ CodeSystem: AllergenCodesCS
 Id: allergen-codes-cs
 Title: "Allergen codes"
 Description: "Allergy codes supplement with translations in uzbek and russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/allergen-codes-cs"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/allergen-codes-cs"
 * ^status = #active
 * ^content = #complete
 * ^experimental = true

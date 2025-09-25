@@ -6,6 +6,5 @@ Description: "Value set defining codes that represent the verification status of
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(AllergyVerificationStatusCS)
-* ^version = "5.0.0"
 
 * include codes from system $allergy-verification

@@ -2,13 +2,7 @@ CodeSystem: AllergyVerificationStatusCS
 Id: allergy-verification-status-cs
 Title: "Allergy verification status"
 Description: "Allergy verification status supplement with translations in uzbek and russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/allergy-verification-status-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $allergy-verification
-* ^version = "5.0.0"
-* ^language = #en
-
+* insert SupplementCodeSystem(allergy-verification-status-cs, $allergy-verification, 1.0.1)
 * #unconfirmed
   * ^designation[0].language = #ru
   * ^designation[=].value = "Не подтверждена"

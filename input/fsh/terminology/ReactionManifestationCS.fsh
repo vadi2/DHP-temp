@@ -2,11 +2,11 @@ CodeSystem: ReactionManifestationCS
 Id: allergy-reaction-manifestation-cs
 Title: "Reaction manifestation codes"
 Description: "Local codes and multilingual names for allergy symptoms."
-* ^url = "https://terminology.dhp.uz/CodeSystem/allergy-reaction-manifestation-cs"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/allergy-reaction-manifestation-cs"
+* ^experimental = true
 * ^status = #active
-* ^content = #complete
 * ^caseSensitive = true
-* ^experimental = false
+* ^hierarchyMeaning = #is-a
 * ^language = #uz
 
 * #aller-0004-00001 "Aksirish"

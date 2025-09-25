@@ -6,6 +6,5 @@ Description: "Categories of allergies or intolerances  with Uzbek and Russian de
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(AllergyCategoryCS)
-* ^version = "5.0.0"
 
 * include codes from system $allergy-category

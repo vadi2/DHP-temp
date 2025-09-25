@@ -2,12 +2,7 @@ CodeSystem: AllergyReactionSeverityCS
 Id: allergy-reaction-severity-cs
 Title: "Allergy reaction severity"
 Description: "Allergy reaction severity supplement with translations in uzbek and russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/allergy-reaction-severity-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $allergy-reaction-severity
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystem(allergy-reaction-severity-cs, $allergy-reaction-severity, 5.0.0)
 
 * #mild
   * ^designation[0].language = #ru
