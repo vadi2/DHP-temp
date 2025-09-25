@@ -1,0 +1,35 @@
+{
+  "id" : "QuestionnaireResponse-example-uzcore-questionnaire-response",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "QuestionnaireResponse.item.text",
+          "context" : "Text that is displayed above the contents of the group or as the text of the question being answered.",
+          "source" : "Вы курите?",
+          "target" : ""
+        },
+        {
+          "id" : "QuestionnaireResponse.item.text",
+          "context" : "Text that is displayed above the contents of the group or as the text of the question being answered.",
+          "source" : "Сколько лет Вы курите?",
+          "target" : ""
+        },
+        {
+          "id" : "QuestionnaireResponse.item.text",
+          "context" : "Text that is displayed above the contents of the group or as the text of the question being answered.",
+          "source" : "Вы употребляете алкоголь?",
+          "target" : ""
+        },
+        {
+          "id" : "QuestionnaireResponse.item.text",
+          "context" : "Text that is displayed above the contents of the group or as the text of the question being answered.",
+          "source" : "Как часто Вы употребляете алкоголь?",
+          "target" : ""
+        }
+      ]
+    }
+  ]
+}

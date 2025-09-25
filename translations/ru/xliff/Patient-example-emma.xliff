@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="Patient-example-emma" original="Resource Patient-example-emma" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="Patient-example-emma" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>British</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Patient-example-emma" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Driver's license number</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Patient-example-emma" resname="HumanName.text">
+             <notes>
+               <note id="n1">Specifies the entire name as it should be displayed e.g. on an application UI. This may be provided instead of or as well as the specific parts.</note>
+             </notes>
+        <source>Emma Watson</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Patient-example-emma" resname="Address.line">
+             <notes>
+               <note id="n1">This component contains the house number, apartment number, street name, street direction,  P.O. Box number, delivery hints, and similar address information.</note>
+             </notes>
+        <source>ул.Муминова 4</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Patient-example-emma" resname="Address.city">
+             <notes>
+               <note id="n1">The name of the city, town, suburb, village or other community or delivery center.</note>
+             </notes>
+        <source>22070013</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Patient-example-emma" resname="Address.district">
+             <notes>
+               <note id="n1">The name of the administrative area (county).</note>
+             </notes>
+        <source>1703202</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Patient-example-emma" resname="Address.country">
+             <notes>
+               <note id="n1">Country - a nation as commonly understood or generally accepted.</note>
+             </notes>
+        <source>182</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Patient-example-emma" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Unmarried</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Patient-example-emma" resname="Coding.display">
+             <notes>
+               <note id="n1">A representation of the meaning of the code in the system, following the rules of the system.</note>
+             </notes>
+        <source>Emergency Contact</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Patient-example-emma" resname="HumanName.text">
+             <notes>
+               <note id="n1">Specifies the entire name as it should be displayed e.g. on an application UI. This may be provided instead of or as well as the specific parts.</note>
+             </notes>
+        <source>Isabella</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

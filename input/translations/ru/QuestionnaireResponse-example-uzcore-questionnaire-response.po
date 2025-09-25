@@ -1,0 +1,21 @@
+
+# Text that is displayed above the contents of the group or as the text of the question being answered.
+#: QuestionnaireResponse.item.text
+msgid "Вы курите?"
+msgstr ""
+
+# Text that is displayed above the contents of the group or as the text of the question being answered.
+#: QuestionnaireResponse.item.text
+msgid "Сколько лет Вы курите?"
+msgstr ""
+
+# Text that is displayed above the contents of the group or as the text of the question being answered.
+#: QuestionnaireResponse.item.text
+msgid "Вы употребляете алкоголь?"
+msgstr ""
+
+# Text that is displayed above the contents of the group or as the text of the question being answered.
+#: QuestionnaireResponse.item.text
+msgid "Как часто Вы употребляете алкоголь?"
+msgstr ""
+
