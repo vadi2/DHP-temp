@@ -23,3 +23,12 @@ An HTML fragment from the set%
 # Warning that can be ignored for our use since our instances use Uzbek/Russian but generated narrative in English
 Resource has a language (uz), and the XHTML has a lang (en), but they differ 
 Resource has a language (ru), and the XHTML has a lang (en), but they differ
+
+# Publisher bug with new .ai.html pages
+unexpected non-end of element null::div at line%
+
+# Publisher issue where codesystems and valuesets can no longer share the same name
+There are multiple resources with the same title%
+
+# This is not a canonical URL, but an instance URL and should not be checked - reported
+No definition could be found for URL value 'https://dhp.uz/fhir/core'
