@@ -75,7 +75,7 @@ The only exception to versioning are translation supplements of official [THO](h
 - Indicates breaking changes in parts of the IG or significant architectural updates
 
 ### IP Statements
-<!-- { // not yet supported by i18n in IG publisher: % include ip-statements.xhtml %} -->
+{% include ip-statements-en.xhtml %}
 
 ### Contributors
 

@@ -15,14 +15,14 @@ Description: "Uzbekistan Core Provenance profile, used to digitally sign documen
 * agent
   * type and who MS
   * type from ProvenanceParticipationRoleTypeVS (required)
-  * who only Reference(PractitionerRole)
+  * who only Reference(UZCorePractitionerRole)
 * entity
   * role and what MS
   * role from ProvenanceEntityRoleVS (required)
 * signature
   * type and when and who and sigFormat and data MS
   * type from SignatureTypeVS (required)
-  * who only Reference(PractitionerRole)
+  * who only Reference(UZCorePractitionerRole)
 
 Instance: example-pdf-document
 InstanceOf: DocumentReference

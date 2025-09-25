@@ -4,7 +4,8 @@ Instance: uzb-hrm-argoz
 InstanceOf: NamingSystem
 Description: "Healthcare provider identifiers assigned by the Uzbekistan Human Resource Management (HRM) system"
 Usage: #definition
-* name = "Uzbekistan_HRM_Argoz_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-hrm-argoz"
+* name = "UzbekistanHrmArgozSystem"
 * status = #active
 * kind = #identifier
 * publisher = "Uzinfocom"
@@ -23,7 +24,8 @@ Instance: uzb-soliq
 InstanceOf: NamingSystem
 Description: "Tax identification numbers and other identifiers assigned by the Uzbekistan Tax Authority (Soliq)"
 Usage: #definition
-* name = "Uzbekistan_Soliq_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-soliq"
+* name = "UzbekistanSoliqSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -42,7 +44,8 @@ Instance: uzb-national-unique-id
 InstanceOf: NamingSystem
 Description: "National unique identifiers (PINFL) assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
-* name = "Uzbekistan_National_Unique_ID_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-national-unique-id"
+* name = "UzbekistanNationalUniqueIdSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -61,7 +64,8 @@ Instance: uzb-passport-local
 InstanceOf: NamingSystem
 Description: "Local passport identifiers assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
-* name = "Uzbekistan_Passport_Local_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-passport-local"
+* name = "UzbekistanPassportLocalSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -80,7 +84,8 @@ Instance: uzb-passport-international
 InstanceOf: NamingSystem
 Description: "International passport identifiers assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
-* name = "Uzbekistan_Passport_International_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-passport-international"
+* name = "UzbekistanPassportInternationalSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -99,7 +104,8 @@ Instance: uzb-birth-certificate
 InstanceOf: NamingSystem
 Description: "Birth certificate identifiers assigned by the Uzbekistan Personalization Agency"
 Usage: #definition
-* name = "Uzbekistan_Birth_Certificate_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-birth-certificate"
+* name = "UzbekistanBirthCertificateSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -118,7 +124,8 @@ Instance: uzb-drivers-license
 InstanceOf: NamingSystem
 Description: "Driver's license identifiers assigned by the Uzbekistan Ministry of Internal Affairs"
 Usage: #definition
-* name = "Uzbekistan_Drivers_License_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-drivers-license"
+* name = "UzbekistanDriversLicenseSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -137,7 +144,8 @@ Instance: uzb-diplomatic-passport
 InstanceOf: NamingSystem
 Description: "Diplomatic passport identifiers assigned by the Uzbekistan Ministry of Foreign Affairs"
 Usage: #definition
-* name = "Uzbekistan_Diplomatic_Passport_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-diplomatic-passport"
+* name = "UzbekistanDiplomaticPassportSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -156,7 +164,8 @@ Instance: uzb-health-card-number
 InstanceOf: NamingSystem
 Description: "Health card number identifiers assigned by the Uzbekistan Ministry of Health"
 Usage: #definition
-* name = "Uzbekistan_Health_Card_Number_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-health-card-number"
+* name = "UzbekistanHealthCardNumberSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -175,7 +184,8 @@ Instance: uzb-military-id-number
 InstanceOf: NamingSystem
 Description: "Military ID number identifiers assigned by the Uzbekistan Ministry of Defense"
 Usage: #definition
-* name = "Uzbekistan_Military_ID_Number_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-military-id-number"
+* name = "UzbekistanMilitaryIdNumberSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -194,7 +204,8 @@ Instance: uzb-penitentiary-institution-number
 InstanceOf: NamingSystem
 Description: "Penitentiary institution number identifiers assigned by the Uzbekistan correctional system"
 Usage: #definition
-* name = "Uzbekistan_Penitentiary_Institution_Number_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uzb-penitentiary-institution-number"
+* name = "UzbekistanPenitentiaryInstitutionNumberSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -212,7 +223,8 @@ Usage: #definition
 Instance: location-unit
 InstanceOf: NamingSystem
 Usage: #definition
-* name = "Uzbekistan_DHP_Location_Unit_System"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/location-unit"
+* name = "UzDhpLocationUnitSystem"
 * status = #active
 * kind = #identifier
 * date = "2025-04-16"
@@ -227,13 +239,12 @@ Usage: #definition
 * uniqueId.preferred = true
 * uniqueId.comment = "This is the canonical URI for the Uzbekistan DHP Location Unit identifier system"
 
-Instance: NS-EpisodeOfCare-Identifier
+Instance: episodeofcare-identifier
 InstanceOf: NamingSystem
 Usage: #definition
-Title: "DHP UZ EpisodeOfCare Identifier System"
 Description: "Identifier system used for EpisodeOfCare resources within the Uzbekistan DHP context."
-
-* name = "UZ_DHP_EpisodeOfCare_Identifier"
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/episodeofcare-identifier"
+* name = "UzDhpEpisodeOfCareIdentifier"
 * status = #active
 * kind = #identifier
 * date = "2025-08-13"
