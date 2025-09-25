@@ -2,7 +2,7 @@ ValueSet: EncounterClassVS
 Id: encounter-class-vs
 Title: "Encounter class translations"
 Description: "Encounter Class codes with English and Russian translations"
-* ^url = "https://terminology.dhp.uz/ValueSet/encounter-class-vs"
+* ^url = "https://terminology.dhp.uz/fhir/core/ValueSet/encounter-class-vs"
 * ^experimental = true
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(ActCodeCS)

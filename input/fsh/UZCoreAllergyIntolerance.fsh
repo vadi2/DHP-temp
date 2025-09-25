@@ -63,7 +63,7 @@ Description: "Example instance conforming to UZCoreAllergyIntolerance."
 
 * onsetDateTime = "2025-07-10"
 
-* extension[abatement].url = "https://terminology.dhp.uz/StructureDefinition/uz-allergy-abatement"
+* extension[abatement].url = "https://terminology.dhp.uz/fhir/core/StructureDefinition/uz-allergy-abatement"
 * extension[abatement].valueString = "Symptoms resolved after antihistamine course"
 // Реакция
 * reaction.severity = #severe

@@ -24,6 +24,17 @@
        <fhir:kind>IG</fhir:kind>
        <pubDate>Wed, 27 Aug 2025 12:00:00 +0000</pubDate>
      </item>
-    
+
+     <item>
+       <title>uz.dhp.core#0.3.0</title>
+       <description>DHP Implementation Guide Package version 0.3.0</description>
+       <link>https://github.com/vadi2/DHP-temp/releases/download/0.3.0/package.tgz</link>
+       <guid isPermaLink="true">https://github.com/vadi2/DHP-temp/releases/download/0.3.0/package.tgz</guid>
+       <dc:creator>vadi2</dc:creator>
+       <fhir:version>5.0.0</fhir:version>
+       <fhir:kind>IG</fhir:kind>
+       <pubDate>Fri, 05 Sep 2025 08:17:22 +0000</pubDate>
+     </item>
+       
   </channel>
 </rss>

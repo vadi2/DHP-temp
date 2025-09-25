@@ -17,9 +17,18 @@ A profile defines the use of a resource in a specific scenario. The term profili
 ### Terminology
 To improve interoperability, standardized terminology is crucial. By using standardized terminology, healthcare information can be collected, documented and processed in similar data concepts. This allows healthcare providers to share and compare clinical knowledge in a consistent and internationally accepted system. FHIR cannot define every code required in a healthcare system across the world, so instead, they provided two resources to manage codes and their meaning, namely:
 
-* CodeSystem – is a collection of codes that define several codes and their meaning. The concept of a CodeSystem is similar to a catalog, containing all kinds of codes and their definitions. The CodeSystem may be SNOMED-CT or LOINC or even one you created yourself.
+* CodeSystem - is a collection of codes that define several codes and their meaning. The concept of a CodeSystem is similar to a catalog, containing all kinds of codes and their definitions. The CodeSystem may be SNOMED-CT or LOINC or even one you created yourself.
 
 * ValueSet - specifies a selection of codes extracted from one or more CodeSystems, intended for use in a particular context. A ValueSet contains the links to the actual codes from a particular CodeSystem. The advantage is that when a CodeSystem gets updated, the ValueSets containing codes from this CodeSystem will be updated automatically.
+
+#### CodeSystems and language support
+This IG utilizes two distinct approaches to terminology management. For Uzbekistan-specific clinical concepts, we define original CodeSystems with codes authored in Uzbek as the default language, supplemented with Russian and English designations to support multilingual implementations. For standardized terminologies from HL7 Terminology (THO) used by FHIR, we provide CodeSystem supplements that add Uzbek and Russian translations to the existing English-based terminology. These multilingual designations serve exclusively presentation purposes in user interfaces - the underlying codes themselves remain language-independent identifiers that applications can process consistently regardless of the display language selected by end users.
+
+#### ConceptMaps
+ConceptMaps in FHIR define relationships and mappings between codes from different terminology systems, enabling semantic interoperability across disparate coding schemes. Within the DHP implementation, applications must exclusively use locally-defined codes for data exchange and storage. To facilitate integration with international standards, DHP provides ConceptMap resources that establish mappings between common international terminologies (such as ICD-10, SNOMED CT, or LOINC) and the corresponding local Uzbekistan codes. Applications can leverage the ConceptMap $translate operation to programmatically convert standard international codes into the required local codes, ensuring compliance with DHP requirements while maintaining compatibility with global healthcare standards.
+
+### Capability discovery
+Applications can dynamically discover and configure their behavior by querying the FHIR server's `/metadata` endpoint, which returns a CapabilityStatement resource describing the server's supported operations, resource types, profiles, and extensions. This enables applications to automatically adapt to the specific capabilities and requirements of the DHP implementation, ensuring compatibility and optimal functionality without requiring hard-coded configurations. The DHP's complete capability statement can be viewed at [CapabilityStatement-DHPCapabilityStatement.html](CapabilityStatement-DHPCapabilityStatement.html), which provides the same information as the `/metadata` endpoint.
 
 ### Links
 
@@ -35,6 +44,6 @@ For further reading, we recommend to use the following links:
 
 ### Related FHIR IGs
 
-<!-- { // not yet supported by i18n in IG publisher: % include dependency-table.xhtml %} -->
+{% include dependency-table-en.xhtml %}
 
-<!-- { // same issue: % include globals-table.xhtml %} -->
+{% include globals-table-en.xhtml %}

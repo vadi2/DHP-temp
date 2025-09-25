@@ -14,7 +14,7 @@ Description: "Uzbekistan Core Location profile, used to define locations of heal
 * identifier ^slicing.rules = #open
 * identifier ^slicing.description = "Ways an organization can be categorized"
 * identifier ^slicing.ordered = false
-* identifier contains tax-id 0..1 MS and unit 0..1 MS
+* identifier contains taxId 0..1 MS and unit 0..1 MS
 
 * insert TaxIdentifier
 * identifier[unit]
@@ -42,7 +42,7 @@ Description: "Uzbekistan Core Location profile, used to define locations of heal
 * type.coding contains type 0..1 MS
 * type.coding[type]
   * system 1..1 MS
-  // * system = "https://terminology.dhp.uz/CodeSystem/location-types-cs"
+  // * system = "https://terminology.dhp.uz/fhir/core/CodeSystem/location-types-cs"
   * code 1..1 MS
   * code from LocationTypesVS (required)
 
@@ -51,7 +51,7 @@ InstanceOf: UZCoreLocation
 Description: "Example of an organization location"
 Usage: #example
 * language = #uz
-* identifier[tax-id]
+* identifier[taxId]
   * value = "200935935"
 * status = #active
 * mode = #instance

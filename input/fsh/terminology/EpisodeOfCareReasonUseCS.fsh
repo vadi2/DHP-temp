@@ -2,13 +2,7 @@ CodeSystem: EpisodeOfCareReasonUseCS
 Id: episode-of-care-reason-use-cs
 Title: "EpisodeOfCare reason use"
 Description: "Episode of care reason use in Uzbekistan"
-* ^url = "https://terminology.dhp.uz/CodeSystem/episode-of-care-reason-use-cs"
-* ^status = #active
-* ^content = #complete
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystemDraft(episode-of-care-reason-use-cs)
 
 * #mserv-0002-00001 "Kasallik"
   * ^designation[0].language = #ru
