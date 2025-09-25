@@ -2,7 +2,7 @@ CodeSystem: AllergyClinicalStatusCS
 Id: allergy-clinical-status-cs
 Title: "Allergy clinical status"
 Description: "Allergy clinical status supplement with translations in uzbek and russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/allergy-clinical-status-cs"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/allergy-clinical-status-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $allergy-clinical

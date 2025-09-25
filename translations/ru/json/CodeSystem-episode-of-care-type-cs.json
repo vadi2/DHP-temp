@@ -21,7 +21,7 @@
           "id" : "CodeSystem.publisher",
           "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
           "source" : "Uzinfocom LLC",
-          "target" : null
+          "target" : "ООО «Единый интегратор Uzinfocom»"
         },
         {
           "id" : "ContactDetail.name",
@@ -44,12 +44,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Профилактические",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Preventive services",
           "target" : null
         },
@@ -57,12 +51,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Diagnostika",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Диагностические",
           "target" : null
         },
         {
@@ -80,12 +68,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Консультативные",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Consultative",
           "target" : null
         },
@@ -93,12 +75,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Davolash",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Лечебные",
           "target" : null
         },
         {
@@ -116,12 +92,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Паллиатив (психологическое и лечебная)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Palliative care (psychological and therapeutic)",
           "target" : null
         },
@@ -134,12 +104,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Суд мед экспертиза",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Forensic medical examination",
           "target" : null
         },
@@ -147,12 +111,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Patologoanatomik xizmat",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Паталогаанатомическая служба",
           "target" : null
         },
         {

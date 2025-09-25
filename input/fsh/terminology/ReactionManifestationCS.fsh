@@ -2,7 +2,7 @@ CodeSystem: ReactionManifestationCS
 Id: allergy-reaction-manifestation-cs
 Title: "Reaction manifestation codes"
 Description: "Local codes and multilingual names for allergy symptoms."
-* ^url = "https://terminology.dhp.uz/CodeSystem/allergy-reaction-manifestation-cs"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/allergy-reaction-manifestation-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true

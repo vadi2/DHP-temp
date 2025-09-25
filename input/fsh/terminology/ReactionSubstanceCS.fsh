@@ -2,7 +2,7 @@ CodeSystem: ReactionSubstanceCS
 Id: allergy-reaction-substance-cs
 Title: "Reaction substance codes"
 Description: "Local codes and multilingual names for allergy reaction substance."
-* ^url = "https://terminology.dhp.uz/CodeSystem/allergy-reaction-substance-cs"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/allergy-reaction-substance-cs"
 * ^status = #active
 * ^content = #complete
 * ^caseSensitive = true

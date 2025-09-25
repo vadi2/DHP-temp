@@ -14,7 +14,7 @@
              <notes>
                <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
              </notes>
-        <source>Relationship Types</source>
+        <source>Relationship type</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.publisher">
@@ -22,7 +22,7 @@
                <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
              </notes>
         <source>Uzinfocom LLC</source>
-        <target></target>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
       </trans-unit>
       <trans-unit id="CodeSystem-relationship-type-cs" resname="ContactDetail.name">
              <notes>
@@ -49,13 +49,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>cвидетель</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>witness</source>
         <target></target>
       </trans-unit>
@@ -64,13 +57,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>notarius</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>нотариус</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
@@ -91,13 +77,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>экстренный контакт</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>emergency contact</source>
         <target></target>
       </trans-unit>
@@ -106,13 +85,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>yaqin qarindosh</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>ближайший родственник</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
@@ -133,13 +105,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>сотрудник</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>employee</source>
         <target></target>
       </trans-unit>
@@ -148,13 +113,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>ish beruvchi</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>работодатель</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
@@ -175,13 +133,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>другой</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>other</source>
         <target></target>
       </trans-unit>
@@ -196,13 +147,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>неизвестный</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>unknown</source>
         <target></target>
       </trans-unit>
@@ -211,13 +155,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>tarjimon</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>устный переводчик</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.concept.designation.value">

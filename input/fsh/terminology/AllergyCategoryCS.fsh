@@ -2,7 +2,7 @@ CodeSystem: AllergyCategoryCS
 Id: allergy-category-cs
 Title: "Allergy category"
 Description: "Allergy category supplement with translations in uzbek and russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/allergy-category-cs"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/allergy-category-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $allergy-category

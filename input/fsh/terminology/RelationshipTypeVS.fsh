@@ -1,8 +1,8 @@
 ValueSet: RelationshipTypeVS
 Id: relationship-type-vs
-Title: "Diagnosis Type"
-Description: "Diagnosis types in Uzbekistan"
-* ^url = "https://terminology.dhp.uz/ValueSet/relationship-type-vs"
+Title: "Relationship type"
+Description: "Relationship types in Uzbekistan"
+* ^url = "https://terminology.dhp.uz/fhir/core/ValueSet/relationship-type-vs"
 * ^experimental = true
 * ^language = #uz
 * ^extension[0].url = $valueset-supplement
@@ -13,7 +13,6 @@ Description: "Diagnosis types in Uzbekistan"
 * ^extension[=].valueCanonical = Canonical(ContactRole2CS)
 * ^extension[+].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(RoleCodeCS)
-* ^version = "5.0.0"
 
 * include $v3-ParticipationType#WIT
 * include $v3-RoleClass#NOT 

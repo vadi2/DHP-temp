@@ -1,12 +1,10 @@
 Profile: UZCoreEpisodeOfCare
 Parent: EpisodeOfCare
-Id: uz-core-episode-of-care 
-Title: "Uz Core EpisodeOfCare"
-Description: "Uzbekistan Core profile for EpisodeOfCare, representing a patient's period of care within the national health information exchange."
+Id: uz-core-episodeofcare 
+Title: "UZ Core EpisodeOfCare"
+Description: "Uzbekistan Core profile for EpisodeOfCare, representing a patient's period of long-term care"
 * ^experimental = true
 * ^status = #active
-* ^date = "2025-08-08"
-* ^publisher = "Uzinfocom"
 //rules
 * identifier MS
   * ^short = "Идентификатор, соответствующий этому Episode of Care"
@@ -30,7 +28,8 @@ Description: "Uzbekistan Core profile for EpisodeOfCare, representing a patient'
 * reason.use from EpisodeOfCareReasonUseVS
 * reason.value MS
   * ^short = "Медицинская причина, требующая рассмотрения."
-* reason.value only CodeableReference(UZCoreCondition or Procedure or Observation or UZCoreHealthcareService)
+  //TODO UZCoreProcedure 
+* reason.value only CodeableReference(UZCoreCondition or Procedure or UZCoreObservation or UZCoreHealthcareService)
 * reason.value from $icd-10-vs
 * diagnosis.use MS
   * ^short = "Список медицинских состояний, которые были рассмотрены во время эпизода оказания помощи"
@@ -51,6 +50,7 @@ Description: "Uzbekistan Core profile for EpisodeOfCare, representing a patient'
   * ^short = "Координатор (ответственный) по уходу за пациентом"
 * careManager only Reference(UZCorePractitioner or UZCorePractitionerRole)
 * careTeam MS
+  * ^short = "Другие специалисты, оказывающие помощь в этом эпизоде ​​лечения"
 * careTeam only Reference(CareTeam)
 
 Instance: UZCoreEpisodeOfCare-Example
@@ -59,6 +59,7 @@ Title: "Example for EpisodeOfCare"
 Description: "Test example of an episode of care for the UZCoreEpisodeOfCare profile."
 Usage: #example
 
+* identifier[0].system = "http://dhp.uz/ids/episode-of-care"
 * identifier[0].value = "EOC-2025-0001"
 
 * status = #active
@@ -66,11 +67,11 @@ Usage: #example
 * statusHistory[0].period.start = "2025-07-28"
 * statusHistory[0].period.end = "2025-08-01"
 
-* type[0].coding[0].system = "https://terminology.dhp.uz/CodeSystem/episode-of-care-type-cs"
+* type[0].coding[0].system = "https://terminology.dhp.uz/fhir/core/CodeSystem/episode-of-care-type-cs"
 * type[0].coding[0].code = #mserv-0001-00001
 * type[0].text = "Preventive services"
 
-* reason[0].use.coding[0].system = "https://terminology.dhp.uz/CodeSystem/episode-of-care-reason-use-cs"
+* reason[0].use.coding[0].system = "https://terminology.dhp.uz/fhir/core/CodeSystem/episode-of-care-reason-use-cs"
 * reason[0].use.coding[0].code = #mserv-0002-00002
 * reason[0].use.text = "Preventive visit"
 * reason[0].value = Reference(example-headache)
@@ -82,9 +83,38 @@ Usage: #example
 * managingOrganization = Reference(example-organization)
 
 * period.start = "2025-08-01"
-//I did not create an example for the referralRequest element because there is no profile named UZCoreServiceRequest yet.
-//* referralRequest = Reference(ServiceRequest / SR-Example)
+
 
 * careManager = Reference(example-practitioner)
-//I did not create an example for the careTeam element because there is no profile named UZCoreCareTeam yet.
-//* careTeam[0] = Reference(CareTeam /CareTeam-Example)
+
+
+Instance: UZCoreEpisodeOfCare-Example02
+InstanceOf: UZCoreEpisodeOfCare
+Title: "Example of EpisodeOfCare"
+Description: "Example EpisodeOfCare for pregnancy management and related treatment services"
+Usage: #example
+
+* identifier[0].system = "http://dhp.uz/ids/episode-of-care"
+* identifier[0].value = "EOC-2025-0001"
+* status = #planned
+* statusHistory[0].status = #active
+* statusHistory[0].period.start = "2025-08-16"
+* statusHistory[0].period.end = "2025-09-01"
+
+* type[0].coding[0].system = "https://terminology.dhp.uz/fhir/core/CodeSystem/episode-of-care-type-cs"
+* type[0].coding[0].code = #mserv-0001-00004
+* type[0].text = "Treatment services"
+
+* reason[0].use.coding[0].system = "https://terminology.dhp.uz/fhir/core/CodeSystem/episode-of-care-reason-use-cs"
+* reason[0].use.coding[0].code = #mserv-0002-00001
+* reason[0].use.text = "Disease"
+* reason[0].value = Reference(example-pregnancy)
+* diagnosis[0].condition = Reference(example-pregnancy)
+* diagnosis[0].use.coding[0].system = "http://terminology.hl7.org/CodeSystem/diagnosis-role"
+* diagnosis[0].use.coding[0].code = #DD
+* diagnosis[0].use.text = "Primary diagnosis"
+* patient = Reference(example-emma)
+* managingOrganization = Reference(example-organization)
+
+* period.start = "2025-08-01"
+* careManager = Reference(example-practitioner)

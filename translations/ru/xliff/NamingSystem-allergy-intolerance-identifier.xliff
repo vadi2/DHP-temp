@@ -22,7 +22,7 @@
                <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the naming system.</note>
              </notes>
         <source>Uzinfocom LLC</source>
-        <target></target>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
       </trans-unit>
       <trans-unit id="NamingSystem-allergy-intolerance-identifier" resname="ContactDetail.name">
              <notes>
@@ -42,7 +42,7 @@
              <notes>
                <note id="n1">The string that should be sent over the wire to identify the code system or identifier system.</note>
              </notes>
-        <source>https://terminology.dhp.uz/AllergyIntolerance</source>
+        <source>https://terminology.dhp.uz/fhir/core/AllergyIntolerance</source>
         <target></target>
       </trans-unit>
     </body>

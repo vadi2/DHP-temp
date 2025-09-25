@@ -21,7 +21,7 @@
           "id" : "NamingSystem.publisher",
           "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the naming system.",
           "source" : "Uzinfocom LLC",
-          "target" : null
+          "target" : "ООО «Единый интегратор Uzinfocom»"
         },
         {
           "id" : "ContactDetail.name",
@@ -38,7 +38,7 @@
         {
           "id" : "NamingSystem.uniqueId.value",
           "context" : "The string that should be sent over the wire to identify the code system or identifier system.",
-          "source" : "https://terminology.dhp.uz/AllergyIntolerance",
+          "source" : "https://terminology.dhp.uz/fhir/core/AllergyIntolerance",
           "target" : null
         }
       ]

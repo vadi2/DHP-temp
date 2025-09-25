@@ -9,19 +9,19 @@
           "id" : "ImplementationGuide.name",
           "context" : "A natural language name identifying the implementation guide. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
           "source" : "DHP",
-          "target" : null
+          "target" : "ЕПЦЗ"
         },
         {
           "id" : "ImplementationGuide.title",
           "context" : "A short, descriptive, user-friendly title for the implementation guide.",
           "source" : "Uzbekistan Digital Health Platform",
-          "target" : null
+          "target" : "Единая цифровая платформа здравоохранения Узбекистана"
         },
         {
           "id" : "ImplementationGuide.publisher",
           "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the implementation guide.",
           "source" : "Uzinfocom LLC",
-          "target" : null
+          "target" : "ООО «Единый интегратор Uzinfocom»"
         },
         {
           "id" : "ContactDetail.name",
@@ -33,7 +33,7 @@
           "id" : "ImplementationGuide.description",
           "context" : "A free text natural language description of the implementation guide from a consumer's perspective.",
           "source" : "National implementation guide for Uzbekistan using FHIR R5.",
-          "target" : null
+          "target" : "Национальное руководство по внедрению для Узбекистана с использованием FHIRR5."
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
@@ -51,31 +51,31 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Act code translations",
-          "target" : null
+          "target" : "Act code translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Act code supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение кодов действий с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Act reason translations",
-          "target" : null
+          "target" : "Act reason translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Act reason supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение оснований действий с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Address registration translations",
-          "target" : null
+          "target" : "Address registration translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -87,19 +87,19 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Address type translations",
-          "target" : null
+          "target" : "Address type translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Address type supplement with Uzbek and Russian translations",
-          "target" : null
+          "target" : "Дополнение типов адресов с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Admit source from home",
-          "target" : null
+          "target" : "Admit source from home"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -111,7 +111,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "All FHIR Types",
-          "target" : null
+          "target" : "All FHIR Types"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -303,91 +303,91 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Audit event action",
-          "target" : null
+          "target" : "Действие аудита"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines audit event action that is being recorded in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет действие аудита, регистрируемое на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Audit event action translations",
-          "target" : null
+          "target" : "Audit event action translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Audit event action supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение действий события аудита с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Audit event outcome",
-          "target" : null
+          "target" : "Исход события аудита"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the outcome of the event that is being recorded in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет исход события, фиксируемый на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Audit event outcome translations",
-          "target" : null
+          "target" : "Audit event outcome translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Audit event outcome supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение исходов события аудита с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Audit event role type",
-          "target" : null
+          "target" : "Audit event role type"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines how the participant participated in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет способы участия участника на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Audit event subtype",
-          "target" : null
+          "target" : "Audit event subtype"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the subtype of event that is being recorded in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет подтип события аудита на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Audit event type",
-          "target" : null
+          "target" : "Audit event type"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the type of event that is being recorded in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет типы событий аудита на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Cancer Types",
-          "target" : null
+          "target" : "Cancer Types"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -399,192 +399,216 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Cancer-related services",
-          "target" : null
+          "target" : "Cancer-related services"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the actual cancer-related services in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет конкретные онкологические услуги на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Categories of cancer-related services",
-          "target" : null
+          "target" : "Categories of cancer-related services"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines categories of cancer-related services in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет категории онкологических услуг на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Clinical status translations",
-          "target" : null
+          "target" : "Переводы клинического статуса"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Clinical status supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение клинического статуса с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Confidentiality translations",
-          "target" : null
+          "target" : "Confidentiality translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Confidentiality supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение конфиденциальности с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Consent policies",
-          "target" : null
+          "target" : "Политики согласия"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Determines the regulatory basis for consent",
-          "target" : null
+          "target" : "Определяет нормативно-правовую основу для согласия"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the regulatory basis for consent",
-          "target" : null
+          "target" : "Определяет нормативно-правовую основу для согласия"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Consent provision type",
-          "target" : null
+          "target" : "Тип предоставления согласия"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Determines the type of consent",
-          "target" : null
+          "target" : "Определяет тип предоставления согласия"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Consent provision type translations",
-          "target" : null
+          "target" : "Consent provision type translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Consent provision type supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение конфиденциальности с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Consent purpose of use",
-          "target" : null
+          "target" : "Цели использования согласия"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the purposes of use for consent",
-          "target" : null
+          "target" : "Определяет цели использования данных в рамках согласия"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Consent State Codes",
-          "target" : null
+          "target" : "Consent State Codes"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the consent state codes in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет коды состояний согласия на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Consent State Codes translations",
-          "target" : null
+          "target" : "Consent State Codes translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Consent State Codes supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение кодов состояния согласия с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Countries digital MVD translations",
-          "target" : null
+          "target" : "Countries digital MIA codes translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Countries digital MVD codes with translations in Russian and English",
+          "target" : "Цифровые коды стран от МВД с переводами на русский и английский языки"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Data absent reason",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Data absent reason supplement with translations in Uzbek and Russian",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Defines a nationality of a person as used in Uzbekistan",
-          "target" : null
+          "target" : "Определяет национальность лица, используемую в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Nationality",
-          "target" : null
+          "target" : "Национальность"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Defines a nomenclature group (grouping of institutions)",
-          "target" : null
+          "target" : "Определяет номенклатурную группу (группировку учреждений)"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Nomenclature group",
-          "target" : null
+          "target" : "Nomenclature group"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Defines the possible location types",
-          "target" : null
+          "target" : "Определяет возможные типы местоположений на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the possible location types in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет виды местоположений на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Defines the possible positions and professions",
-          "target" : null
+          "target" : "Position and profession"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "State classification of positions of employees and worker professions (KODP-2020)",
-          "target" : null
+          "target" : "Национальная классификация должностей служащих и профессий рабочих (KODP-2020)"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "State classification of positions of employees and worker professions based on [CBPEPW-2020](https://cs.egov.uz/#/tableData/65f3d311971593b975865fd8) using the 14.05.2025 update",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "DHP CapabilityStatement",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "DHP platform capability statement, describing the supported resources, profiles, and searchparameters",
           "target" : null
         },
         {
@@ -603,7 +627,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Diagnosis type",
-          "target" : null
+          "target" : "Diagnosis type"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -615,25 +639,25 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Diagnosis Type",
-          "target" : null
+          "target" : "Diagnosis type"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Diagnosis types in Uzbekistan",
-          "target" : null
+          "target" : "Типы диагнозов в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Diagnosis Types",
-          "target" : null
+          "target" : "Diagnosis types"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "DICOM Controlled Terminology Definitions",
-          "target" : null
+          "target" : "DICOM Controlled Terminology Definitions"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -645,7 +669,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Differentiation of the administrative gender 'other'",
-          "target" : null
+          "target" : "Differentiation of the administrative gender 'other'"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -663,73 +687,73 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Differentiation of the administrative gender 'other' in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет уточнение административного пола «другой» на узбекском и русскомязыках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Disability levels",
-          "target" : null
+          "target" : "Уровни инвалидности"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Disability levels in Uzbekistan",
-          "target" : null
+          "target" : "Уровни инвалидности в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Education levels",
-          "target" : null
+          "target" : "Уровни образования"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Education levels in Uzbekistan",
-          "target" : null
+          "target" : "Уровни образования в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter admission translations",
-          "target" : null
+          "target" : "Encounter admission translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter readmission codes with English and Russian translations",
-          "target" : null
+          "target" : "Коды повторных госпитализаций с переводами на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter admit source translations",
-          "target" : null
+          "target" : "Encounter admit source translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter admit source codes with English and Russian translations",
-          "target" : null
+          "target" : "Коды источников поступления пациента с переводами на английский и русскийязыки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter class translations",
-          "target" : null
+          "target" : "Encounter class translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter Class codes with English and Russian translations",
-          "target" : null
+          "target" : "Коды источников поступления пациента с переводами на английский и русскийязыки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter discharge disposition from died",
-          "target" : null
+          "target" : "Encounter discharge disposition from died"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -741,109 +765,109 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter discharge disposition translations",
-          "target" : null
+          "target" : "Encounter discharge disposition translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter discharge disposition codes with English and Russian translations",
-          "target" : null
+          "target" : "Коды исходов обращения с переводами на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter participant type translations",
-          "target" : null
+          "target" : "Encounter participant type translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter participant type codes with English and Russian translations",
-          "target" : null
+          "target" : "Коды типов участников обращения с переводами на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter priority home translations",
-          "target" : null
+          "target" : "Encounter priority home translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter priority home codes with English and Russian translations",
-          "target" : null
+          "target" : "Коды приоритетов обращения: выписка домой, с переводами на английский ирусский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter priority translations",
-          "target" : null
+          "target" : "Encounter priority translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter priority codes with English and Russian translations",
-          "target" : null
+          "target" : "Коды приоритетов обращений с переводами на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter reason use translations",
-          "target" : null
+          "target" : "Encounter reason use translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter reason use codes with English and Russian translations",
-          "target" : null
+          "target" : "Коды причин обращения с переводами на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter status translations",
-          "target" : null
+          "target" : "Encounter status translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter status codes with English and Russian translations",
-          "target" : null
+          "target" : "Коды статусов обращений с переводами на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter subject status translations",
-          "target" : null
+          "target" : "Encounter subject status translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter subject status codes with English and Russian translations",
-          "target" : null
+          "target" : "Коды статуса субъектов с переводами на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter type translations",
-          "target" : null
+          "target" : "Encounter type translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines encounter type codes with English and Russian translations",
-          "target" : null
+          "target" : "Определяет коды типов обращений с переводами на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Encounter Type translations",
-          "target" : null
+          "target" : "Encounter type translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter type codes with English and Russian translations",
-          "target" : null
+          "target" : "Определяет коды типов обращений с переводами на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
@@ -920,14 +944,26 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Example Encounter",
+          "source" : "episodeofcare-identifier",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Example of an psychiatric encounter",
+          "source" : "Identifier system used for EpisodeOfCare resources within the Uzbekistan DHP context.",
           "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Example Encounter",
+          "target" : "Example Encounter"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Example of an psychiatric encounter",
+          "target" : "Образец психиатрического обращения"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
@@ -944,14 +980,74 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Example Uz Core Condition - Headache",
+          "source" : "Example of EpisodeOfCare",
           "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Example EpisodeOfCare for pregnancy management and related treatment services",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Example Uz Core Condition - Cancer",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Example instance of a cancer diagnosis documented during a patient encounter",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Example Uz Core Condition - Disability Group I",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Example instance of a disability condition with Group I classification",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Example Uz Core Condition - Headache",
+          "target" : "Example Uz Core Condition - Headache"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example instance of a headache condition documented during a patient encounter",
           "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Example Uz Core Condition - Pregnancy",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Example instance of a pregnancy condition documented during a patient encounter",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Example Uz Core Observation - Blood Pressure",
+          "target" : "Example Uz Core Observation - Blood Pressure"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Example instance of a blood pressure measurement for a patient",
+          "target" : "Пример экземпляра измерения артериального давления у пациента"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
@@ -981,7 +1077,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-auditevent-condition-lookup",
-          "target" : null
+          "target" : "example-auditevent-condition-lookup"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -993,331 +1089,331 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-auditevent-login",
-          "target" : null
+          "target" : "example-auditevent-login"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of an audit event where a user logs in",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.name",
-          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "example-condition",
-          "target" : null
-        },
-        {
-          "id" : "ImplementationGuide.definition.resource.description",
-          "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Example of a condition",
-          "target" : null
+          "target" : "Образец события аудита, когда пользователь входит в систему"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-consent",
-          "target" : null
+          "target" : "example-consent"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a consent",
-          "target" : null
+          "target" : "Образец согласия"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-david",
-          "target" : null
+          "target" : "example-david"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a patient named David",
-          "target" : null
+          "target" : "Образец пациента по имени Давид"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-david-benefits",
-          "target" : null
+          "target" : "example-david-benefits"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example benefits observation for David",
-          "target" : null
+          "target" : "Образец наблюдения о социальных льготах Давида"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-david-education",
-          "target" : null
+          "target" : "example-david-education"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example education observation for David",
-          "target" : null
+          "target" : "Образец наблюдения об образовании Давида"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-david-profession",
-          "target" : null
+          "target" : "example-david-profession"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example profession observation for David",
-          "target" : null
+          "target" : "Образец наблюдения о профессии Давида"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-david-social-status",
-          "target" : null
+          "target" : "example-david-social-status"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example social status observation for David",
+          "target" : "Образец наблюдения о социальном статусе Давида"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "example-emma",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Example of a patient named Emma",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-healthcareservice",
-          "target" : null
+          "target" : "example-healthcareservice"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a healthcare service",
-          "target" : null
+          "target" : "Образец медицинской услуги"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-location",
-          "target" : null
+          "target" : "example-location"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of psychiatric hospital",
-          "target" : null
+          "target" : "Образец психиатрической больницы"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-location-1",
-          "target" : null
+          "target" : "example-location-1"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of an organization location",
-          "target" : null
+          "target" : "Образец местоположения организации"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-location-2",
-          "target" : null
+          "target" : "example-location-2"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a branch location",
-          "target" : null
+          "target" : "Образец местоположения филиала"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-organization",
-          "target" : null
+          "target" : "example-organization"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a hospital organization",
-          "target" : null
+          "target" : "Образец медицинской организации"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-patient",
-          "target" : null
+          "target" : "example-patient"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a patient",
-          "target" : null
+          "target" : "Образец пациента"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-pdf-document",
-          "target" : null
+          "target" : "example-pdf-document"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example ofa PDF document signed with myID",
-          "target" : null
+          "target" : "Образец PDF-документа, подписанного с использованием myID"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-practitioner",
-          "target" : null
+          "target" : "example-practitioner"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a practitioner",
-          "target" : null
+          "target" : "Образец медицинского работника"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-practitioner-gender-other",
-          "target" : null
+          "target" : "example-practitioner-gender-other"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a practitioner with a gender extension",
-          "target" : null
+          "target" : "Образец медицинского специалиста с расширением пола \"другой\""
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-practitionerrole",
-          "target" : null
+          "target" : "example-practitionerrole"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a practitioner's role",
-          "target" : null
+          "target" : "Образец роли медицинского работника"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-provenance",
-          "target" : null
+          "target" : "example-provenance"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a provenance event",
-          "target" : null
+          "target" : "Образец события Provenance"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-related-person",
-          "target" : null
+          "target" : "example-related-person"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a related person",
-          "target" : null
+          "target" : "Образец связанного лица"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-salim",
-          "target" : null
+          "target" : "example-salim"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example of a patient named Salim",
-          "target" : null
+          "target" : "Образец пациента по имени Салим"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-salim-benefits",
-          "target" : null
+          "target" : "example-salim-benefits"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example benefits observation for Salim",
-          "target" : null
+          "target" : "Образец наблюдения социальных льгот для Салима"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-salim-education",
-          "target" : null
+          "target" : "example-salim-education"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example education status for Salim",
-          "target" : null
+          "target" : "Образец наблюдения об образовании для Салима"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-salim-profession",
-          "target" : null
+          "target" : "example-salim-profession"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example profession observation for Salim",
-          "target" : null
+          "target" : "Образец наблюдения о профессии Салима"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "example-salim-social-status",
-          "target" : null
+          "target" : "example-salim-social-status"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Example social status observation for Salim",
-          "target" : null
+          "target" : "Образец наблюдения социального статуса Салима"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "HTTP interaction translations",
-          "target" : null
+          "target" : "HTTP interaction translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "HTTP interaction supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение «HTTP-взаимодействие» с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "License, certificate, degree",
-          "target" : null
+          "target" : "Лицензия, сертификат, степень"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the type of license, certificate, degree in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет тип лицензии, сертификата, степени на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "License, certificate, degree translations",
-          "target" : null
+          "target" : "License, certificate, degree translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -1329,43 +1425,43 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Location Kinds",
-          "target" : null
+          "target" : "Виды мест"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the kind of Location in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет виды мест на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Location status",
-          "target" : null
+          "target" : "Статус места"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines type of Location `status` in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет тип статуса места на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Location status translations",
-          "target" : null
+          "target" : "Location status translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Location status supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение «Статус местоположения» с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Location types",
-          "target" : null
+          "target" : "Типы мест"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -1377,7 +1473,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "location-unit",
-          "target" : null
+          "target" : "location-unit"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -1389,49 +1485,49 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Mahalla Codes and Names",
-          "target" : null
+          "target" : "Mahalla Codes and Names"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Mahalla codes and names with translations in Russian and English",
-          "target" : null
+          "target" : "Коды и названия махалли с переводами на русский и английский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Mahallas translations",
-          "target" : null
+          "target" : "Mahallas translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Mahallas names with English and Russian translations",
-          "target" : null
+          "target" : "Названия махаллей с переводом на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Marital status translations",
-          "target" : null
+          "target" : "Переводы семейного положения"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Encounter reason use codes with Uzbek and Russian translations",
-          "target" : null
+          "target" : "Коды причин обращения с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines marital status codes in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет коды семейного положения на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Marital status supplement with Uzbek and Russian translations",
-          "target" : null
+          "target" : "Дополнение «Семейное положение» с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
@@ -1461,145 +1557,229 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Null Flavor translations",
-          "target" : null
+          "target" : "Null Flavor translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Null Flavor supplement with Uzbek and Russian translations",
-          "target" : null
+          "target" : "Дополнение Null Flavor с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Object role",
-          "target" : null
+          "target" : "Роль объекта"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines object's role in Uzbek and Russian",
+          "target" : "Определяет роль объекта на узбекском и русском языках"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Observation category",
+          "target" : "Observation category"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Observation category in Uzbekistan",
+          "target" : "Категория наблюдения в Узбекистане"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Observation category translations",
+          "target" : "Observation category translations"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Observation category with translations in Uzbek and Russian",
+          "target" : "Категория наблюдения с переводами на узбекский и русский языки."
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Observation interpretation",
           "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Observation interpretation supplement with translations in Uzbek and Russian",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Observation normal value",
+          "target" : "Observation normal value"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Observation normal value in Uzbekistan",
+          "target" : "Нормальные значения наблюдения в Узбекистане"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Observation normal value translations",
+          "target" : "Переводы нормальных значений наблюдения"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Translation of observation's normal value concept into Uzbek and Russian",
+          "target" : "Перевод концепта нормального значения Observation на узбекский и русскийязыки"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Observation status",
+          "target" : "Observation status"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Observation status in Uzbekistan",
+          "target" : "Статус наблюдения в Узбекистане"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Observation status translations",
+          "target" : "Observation status translations"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Observation status with translations in Uzbek and Russian",
+          "target" : "Статус наблюдения с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Organizational service group",
-          "target" : null
+          "target" : "Организационно-сервисная группа"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the organizational and service group of a medical institution",
-          "target" : null
+          "target" : "Определяет организационно-сервисную группу медицинского учреждения"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Organizational specialization",
-          "target" : null
+          "target" : "Организационная специализация"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Determines the specialization of a medical organization",
-          "target" : null
+          "target" : "Определяет специализацию медицинской организации"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Organizational structure",
-          "target" : null
+          "target" : "Организационная структура"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the organizational structure of a medical institution",
-          "target" : null
+          "target" : "Определяет организационную структуру медицинского учреждения"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Organizational Structure",
-          "target" : null
+          "target" : "Organizational Structure"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Organizational subordination group",
-          "target" : null
+          "target" : "Группа подчинения медорганизации"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the subordination group of the medical organization",
-          "target" : null
+          "target" : "Определяет возможные группы подчинённости медицинских организаций"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Organizational subordination institution",
-          "target" : null
+          "target" : "Организационное подчинение учреждения"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the type of medical organizations without forming a legal entity",
-          "target" : null
+          "target" : "Определяет типы медицинских организаций без образования юридического лица"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Participant type translations",
-          "target" : null
+          "target" : "Participant type translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Participant type supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение «Тип участника» с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Participation type translations",
-          "target" : null
+          "target" : "Participation type translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Participation type supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение «Тип участия» с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Possible consent actions",
-          "target" : null
+          "target" : "Possible consent actions"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Determines the actions that can be taken with consent",
-          "target" : null
+          "target" : "Определяет действия, которые могут быть предприняты с согласием"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Possible consent actions translations",
-          "target" : null
+          "target" : "Possible consent actions translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Possible consent actions supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение «Возможные действия в рамках согласия» с переводами на узбекскийи русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Possible identifier uses translations",
-          "target" : null
+          "target" : "Possible identifier uses translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -1611,7 +1791,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Possible identifiers translations",
-          "target" : null
+          "target" : "Possible identifiers translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -1623,97 +1803,97 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Possible name uses translations",
-          "target" : null
+          "target" : "Possible name uses translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Types of possible name uses supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет возможные варианты использования имён на узбекском и русскомязыках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Practitioner roles",
-          "target" : null
+          "target" : "Роли медицинских работников"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the roles of medical practitioners",
-          "target" : null
+          "target" : "Определяет роли медицинских работников"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Profession specializations",
-          "target" : null
+          "target" : "Специализации профессий"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the specializations of medical professions",
-          "target" : null
+          "target" : "Определяет классификацию медицинских профессий по специализациям"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Provenance Activity Types",
-          "target" : null
+          "target" : "Provenance Activity Types"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the provenance activity types.",
-          "target" : null
+          "target" : "Определяет виды действий Provenance (происхождения данных)."
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Provenance Activity Types translations",
-          "target" : null
+          "target" : "Provenance Activity Types translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Provenance Activity Types supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение «Типы действий по происхождению» с переводами на узбекский ирусский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Provenance Entity Role",
-          "target" : null
+          "target" : "Provenance Entity Role"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the provenance entity role.",
-          "target" : null
+          "target" : "Определяет роль сущностей ресурса Provenance."
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Provenance Entity Role translations",
-          "target" : null
+          "target" : "Provenance Entity Role translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Provenance Entity Role supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение Provenance Entity Role с переводами на узбекский и русский языки."
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Provenance Participation Role Type",
-          "target" : null
+          "target" : "Provenance Participation Role Type"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Provenance Participation Role Type translations",
-          "target" : null
+          "target" : "Provenance Participation Role Type translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -1725,48 +1905,35 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Purpose of use",
-          "target" : null
+          "target" : "Цели использования"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines agent's the purpose of use in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет цели использования агента на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-<<<<<<< HEAD
           "source" : "Questionnaire enable behavior",
-=======
-          "source" : "Reaction manifestation codes",
->>>>>>> 1425663ca3a2129b4ee52a9067b50d905e42abeb
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-<<<<<<< HEAD
           "source" : "Defines the enable behavior codes for Questionnaire resources",
-=======
-          "source" : "Local codes and multilingual names for allergy symptoms.",
->>>>>>> 1425663ca3a2129b4ee52a9067b50d905e42abeb
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-<<<<<<< HEAD
           "source" : "Questionnaire enable behavior code system",
-=======
-          "source" : "Reaction substance codes",
->>>>>>> 1425663ca3a2129b4ee52a9067b50d905e42abeb
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-<<<<<<< HEAD
           "source" : "Code system that defines enable behavior codes for Questionnaire resources, supplemented with translations in Uzbek and Russian.",
           "target" : null
         },
@@ -1882,40 +2049,85 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines subject types codes for Questionnaire resources in Uzbekistan",
-=======
-          "source" : "Local codes and multilingual names for allergy reaction substance.",
->>>>>>> 1425663ca3a2129b4ee52a9067b50d905e42abeb
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Relationship Types",
+          "source" : "Reaction manifestation codes",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Local codes and multilingual names for allergy symptoms.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Reaction substance codes",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Local codes and multilingual names for allergy reaction substance.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Reference range meaning",
+          "target" : "Reference range meaning"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Reference range meaning in Uzbekistan",
+          "target" : "Значения референсного диапазона в Узбекистане"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Reference range meaning translations",
+          "target" : "Переводы значений референсного диапазона"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Meaning of reference range, supplemented with translations in Uzbek and Russian",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Relationship type",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Relationship types in Uzbekistan",
-          "target" : null
+          "target" : "Типы родственных связей в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Role class",
-          "target" : null
+          "target" : "Role class"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Provides localized definitions of role class codes in Uzbek and Russian.",
-          "target" : null
+          "target" : "Содержит локализованные определения кодов классов ролей на узбекском ирусском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Role code",
-          "target" : null
+          "target" : "Role code"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -1927,7 +2139,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Sample security structural roles",
-          "target" : null
+          "target" : "Sample security structural roles"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -1939,7 +2151,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Secondary Contact Role Definitions",
-          "target" : null
+          "target" : "Secondary Contact Role Definitions"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -1951,19 +2163,19 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Security label",
-          "target" : null
+          "target" : "Метка безопасности"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines security label in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет метки безопасности на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Security role type",
-          "target" : null
+          "target" : "Security role type"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -1975,43 +2187,55 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Security role type translations",
-          "target" : null
+          "target" : "Security role type translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Security role type supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение «Тип роли безопасности» с переводами на узбекский и русский языки"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Severity types",
+          "target" : "Severity types"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Severity status in Uzbekistan",
+          "target" : "Статус степени тяжести в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Signature Type",
-          "target" : null
+          "target" : "Signature Type"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the possible Provenance signature types.",
-          "target" : null
+          "target" : "Определяет возможные типы подписей используемых в Provenance."
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Social status",
-          "target" : null
+          "target" : "Социальный статус"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Social status types in Uzbekistan",
-          "target" : null
+          "target" : "Типы социального статуса в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Socioeconomic Observation Codes",
-          "target" : null
+          "target" : "Socioeconomic Observation Codes"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2023,109 +2247,133 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "tashkent-diseases-hospital",
-          "target" : null
+          "target" : "tashkent-diseases-hospital"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Telecom use",
-          "target" : null
+          "target" : "Telecom use"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Telecom use type supplement with translation in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение Типов использования контактных данных с переводами на узбекский ирусский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Telecom usu",
-          "target" : null
+          "target" : "Telecom use"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Telecom use types in Uzbekistan",
-          "target" : null
+          "target" : "Типы использования контактных данных в Узбекистане"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Triggered by type",
+          "target" : "Triggered by type"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Triggered by types in Uzbekistan",
+          "target" : "Типы инициаторов в Узбекистане"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "Triggered by type translations",
+          "target" : "Triggered by type translations"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Triggered by type words with translations in Uzbek and Russian",
+          "target" : "Слова для поля «Triggered by type» с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of address registration",
-          "target" : null
+          "target" : "Types of address registration"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines type of address registration in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет тип адресной регистрации на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of benefits",
-          "target" : null
+          "target" : "Виды льгот"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Types of benefits in Uzbekistan",
-          "target" : null
+          "target" : "Виды льгот в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of clinical status",
-          "target" : null
+          "target" : "Типы клинического статуса"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Types of clinical status in Uzbekistan",
-          "target" : null
+          "target" : "Типы клинического статуса в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of participation role",
-          "target" : null
+          "target" : "Types of participation role"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Types of participation role in Uzbekistan",
-          "target" : null
+          "target" : "Типы роли участия в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of possible addresses",
-          "target" : null
+          "target" : "Types of possible addresses"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the types of addresses with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет типы адресов с переводами на узбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of possible contact points",
-          "target" : null
+          "target" : "Types of possible contact points"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the contact point `system` types ub Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет типы систем контактных данных на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of possible contact points translations",
-          "target" : null
+          "target" : "Types of possible contact points translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2137,61 +2385,61 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of possible identifier uses",
-          "target" : null
+          "target" : "Types of possible identifier uses"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the `use` of an identifier in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение «Виды возможного использования идентификаторов» с переводами наузбекский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of possible identifiers",
-          "target" : null
+          "target" : "Types of possible identifiers"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines identifier `type`s in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет типы использования идентификаторов на узбекском и русском языках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of possible name uses",
-          "target" : null
+          "target" : "Types of possible name uses"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Defines the different uses of a name in Uzbek and Russian",
-          "target" : null
+          "target" : "Определяет возможные варианты использования имён на узбекском и русскомязыках"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of severity",
-          "target" : null
+          "target" : "Types of severity"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Types of severity in Uzbekistan",
-          "target" : null
+          "target" : "Степени тяжести в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Types of verification status",
-          "target" : null
+          "target" : "Types of verification status"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Types of verification status in Uzbekistan",
-          "target" : null
+          "target" : "Типы статусов верификации в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
@@ -2209,67 +2457,79 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "UZ Core AuditEvent",
-          "target" : null
+          "target" : "UZ Core AuditEvent"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core AuditEvent Profile, used to track user and application activity",
+          "source" : "Uzbekistan Core AuditEvent profile, used to track user and application activity",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uz Core Condition",
+          "source" : "UZ Core Clinical Condition",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core Condition Profile, used for documenting a patient's clinical symptoms,  conditions, and their characteristics",
+          "source" : "Uzbekistan Core Clinical Condition profile, used for documenting a patient's clinical symptoms, conditions, and their characteristics",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core Condition",
+          "target" : "UZ Core Condition"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core Condition profile, used for documenting general, non-clinical symptoms, conditions, and their characteristics. Generally, this means ICD-10 codes are not applicable for such conditions",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "UZ Core Consent",
-          "target" : null
+          "target" : "UZ Core Consent"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core Consent Profile, used to manage patient consent for data sharing and processing",
+          "source" : "Uzbekistan Core Consent profile, used to manage patient consent for data sharing and processing",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "UZ Core Encounter",
-          "target" : null
+          "target" : "UZ Core Encounter"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core Patient profile, used to represent clinical encounters",
+          "source" : "Uzbekistan Core Encounter profile, used to represent clinical encounters",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "Uz Core EpisodeOfCare",
+          "source" : "UZ Core EpisodeOfCare",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core profile for EpisodeOfCare, representing a patient's period of care within the national health information exchange.",
+          "source" : "Uzbekistan Core profile for EpisodeOfCare, representing a patient's period of long-term care",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "UZ Core HealthcareService",
-          "target" : null
+          "target" : "UZ Core HealthcareService"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2281,7 +2541,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "UZ Core Location",
-          "target" : null
+          "target" : "UZ Core Location"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2292,8 +2552,20 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-          "source" : "UZ Core Organization",
+          "source" : "Uz Core Observation",
+          "target" : "Uz Core Observation"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Uzbekistan Core Observation profile, used to represent clinical and laboratory observations",
           "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZ Core Organization",
+          "target" : "UZ Core Organization"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2305,7 +2577,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "UZ Core Patient",
-          "target" : null
+          "target" : "UZ Core Patient"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2317,19 +2589,19 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "UZ Core Practitioner",
-          "target" : null
+          "target" : "UZ Core Practitioner"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Uzbekistan Core Practitioner profile, used to define healthcare practitioners",
-          "target" : null
+          "target" : "Профиль Uzbekistan Core Practitioner, используемый для определениямедицинских работников"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "UZ Core PractitionerRole",
-          "target" : null
+          "target" : "UZ Core PractitionerRole"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2341,18 +2613,17 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "UZ Core Provenance",
-          "target" : null
+          "target" : "UZ Core Provenance"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Uzbekistan Core Provenance Profile, used to digitally sign documents via myID",
-          "target" : null
+          "source" : "Uzbekistan Core Provenance profile, used to digitally sign documents via myID",
+          "target" : "Профиль Uzbekistan Core Provenance, используемый для цифровой подписидокументов через myID"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-<<<<<<< HEAD
           "source" : "UZ Core Questionnaire",
           "target" : null
         },
@@ -2377,10 +2648,8 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
-=======
->>>>>>> 1425663ca3a2129b4ee52a9067b50d905e42abeb
           "source" : "UZ Core RelatedPerson",
-          "target" : null
+          "target" : "UZ Core RelatedPerson"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2392,7 +2661,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "UZ Core Socioeconomic Observation",
-          "target" : null
+          "target" : "UZ Core Socioeconomic Observation"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2440,7 +2709,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-birth-certificate",
-          "target" : null
+          "target" : "uzb-birth-certificate"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2452,7 +2721,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-diplomatic-passport",
-          "target" : null
+          "target" : "uzb-diplomatic-passport"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2464,7 +2733,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-drivers-license",
-          "target" : null
+          "target" : "uzb-drivers-license"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2476,19 +2745,19 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-health-card-number",
-          "target" : null
+          "target" : "uzb-health-card-number"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Health card number identifiers assigned by the Uzbekistan Ministry of Health",
-          "target" : null
+          "target" : "Идентификаторы номеров медицинских карт, присваиваемые Министерствомздравоохранения Республики Узбекистан"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-hrm-argoz",
-          "target" : null
+          "target" : "uzb-hrm-argoz"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2500,19 +2769,19 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-military-id-number",
-          "target" : null
+          "target" : "uzb-military-id-number"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Military ID number identifiers assigned by the Uzbekistan Ministry of Defense",
-          "target" : null
+          "target" : "Идентификаторы номеров военных билетов, присваиваемые Министерством обороныРеспублики Узбекистан"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-national-unique-id",
-          "target" : null
+          "target" : "uzb-national-unique-id"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2524,7 +2793,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-passport-international",
-          "target" : null
+          "target" : "uzb-passport-international"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2536,19 +2805,19 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-passport-local",
-          "target" : null
+          "target" : "uzb-passport-local"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Local passport identifiers assigned by the Uzbekistan Personalization Agency",
-          "target" : null
+          "target" : "Идентификаторы внутренних паспортов, присваиваемые Агентством поперсонализации Республики Узбекистан"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-penitentiary-institution-number",
-          "target" : null
+          "target" : "uzb-penitentiary-institution-number"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2560,7 +2829,7 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uzb-soliq",
-          "target" : null
+          "target" : "uzb-soliq"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
@@ -2572,49 +2841,79 @@
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Uzbekistan Regions and Locations",
-          "target" : null
+          "target" : "Uzbekistan Regions and Locations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "List of regions and locations in Uzbekistan",
-          "target" : null
+          "target" : "Перечень регионов и населённых пунктов Узбекистана"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Uzbekistan states and Locations",
-          "target" : null
+          "target" : "Uzbekistan States and Locations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "List of states and locations in Uzbekistan",
+          "target" : "Перечень областей и населённых пунктов Узбекистана"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZCore Data Absent Reason",
+          "target" : "UZCore Data Absent Reason"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Defines the reasons why a value is missing in an observation within the Uzbekistan Core Implementation",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "UZCore observation interpretation",
+          "target" : "UZCore observation interpretation"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Codes representing the clinical meaning of an observation result in the Uzbekistan Core.",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Verification status types",
-          "target" : null
+          "target" : "Verification status types"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Verification status supplement with translations in Uzbek and Russian",
-          "target" : null
+          "target" : "Дополнение клинического статуса с переводами на узбекский и русский языки"
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Verification status in Uzbekistan",
+          "target" : "Статус проверки в Узбекистане"
         },
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "World countries name translations",
-          "target" : null
+          "target" : "World countries name translations"
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "World countries names with English and Russian translations",
-          "target" : null
+          "target" : "Названия стран мира с переводами на английский и русский языки"
         },
         {
           "id" : "ImplementationGuide.definition.page.source[x]",
@@ -2626,7 +2925,7 @@
           "id" : "ImplementationGuide.definition.page.title",
           "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
           "source" : "Table of Contents",
-          "target" : null
+          "target" : "Содержание"
         },
         {
           "id" : "ImplementationGuide.definition.page.source[x]",
@@ -2638,7 +2937,7 @@
           "id" : "ImplementationGuide.definition.page.title",
           "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
           "source" : "Home",
-          "target" : null
+          "target" : "Главная"
         },
         {
           "id" : "ImplementationGuide.definition.page.source[x]",
@@ -2650,7 +2949,7 @@
           "id" : "ImplementationGuide.definition.page.title",
           "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
           "source" : "Api Access",
-          "target" : null
+          "target" : "Доступ к API"
         },
         {
           "id" : "ImplementationGuide.definition.page.source[x]",
@@ -2662,7 +2961,7 @@
           "id" : "ImplementationGuide.definition.page.title",
           "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
           "source" : "Changelog",
-          "target" : null
+          "target" : "Журнал изменений"
         },
         {
           "id" : "ImplementationGuide.definition.page.source[x]",
@@ -2674,7 +2973,7 @@
           "id" : "ImplementationGuide.definition.page.title",
           "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
           "source" : "Fhir Basics",
-          "target" : null
+          "target" : "FHIR Основы"
         },
         {
           "id" : "ImplementationGuide.definition.page.source[x]",
@@ -2686,7 +2985,7 @@
           "id" : "ImplementationGuide.definition.page.title",
           "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
           "source" : "Services",
-          "target" : null
+          "target" : "Сервисы"
         },
         {
           "id" : "ImplementationGuide.definition.page.source[x]",
@@ -2698,7 +2997,7 @@
           "id" : "ImplementationGuide.definition.page.title",
           "context" : "A short title used to represent this page in navigational structures such as table of contents, bread crumbs, etc.",
           "source" : "Translationinfo",
-          "target" : null
+          "target" : "Информация о переводах"
         }
       ]
     }

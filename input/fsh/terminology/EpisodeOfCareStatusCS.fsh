@@ -2,12 +2,7 @@ CodeSystem: EpisodeOfCareStatusCS
 Id: episode-of-care-status-cs
 Title: "EpisodeOfCare status translations"
 Description: "EpisodeOfCare status supplement with translation in Uzbek and Russian."
-* ^url = "https://terminology.dhp.uz/CodeSystem/episode-of-care-status-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $episode-of-care-status
-* ^version = "5.0.0"
-* ^language = #en
+* insert SupplementCodeSystemDraft(episode-of-care-status-cs, $episode-of-care-status, 5.0.0)
 
 * #planned
   * ^designation[0].language = #ru

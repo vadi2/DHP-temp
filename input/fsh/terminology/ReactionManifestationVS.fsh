@@ -2,7 +2,7 @@ ValueSet: ReactionManifestationVS
 Id: allergy-reaction-manifestation-vs
 Title: "Allergy reaction manifestation value set"
 Description: "Value set containing SNOMED CT codes and local codes for allergy reaction manifestation "
-* ^url = "https://terminology.dhp.uz/ValueSet/allergy-reaction-manifestation-vs"
+* ^url = "https://terminology.dhp.uz/fhir/core/ValueSet/allergy-reaction-manifestation-vs"
 * ^status = #active
 * ^experimental = false
 * include codes from system allergy-reaction-manifestation-cs

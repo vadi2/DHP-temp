@@ -22,7 +22,7 @@
                <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
              </notes>
         <source>Uzinfocom LLC</source>
-        <target></target>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="ContactDetail.name">
              <notes>
@@ -49,13 +49,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Пыльца трав</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Grass pollen</source>
         <target></target>
       </trans-unit>
@@ -64,13 +57,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Daraxt gulchanglari</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Пыльца деревьев</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -91,13 +77,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Пыльца сорняков</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Weed pollen</source>
         <target></target>
       </trans-unit>
@@ -106,13 +85,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Yevropa uy changi kanasi</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Европейский клещ домашней пыли</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -133,13 +105,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Плесневые грибы</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Molds mushrooms</source>
         <target></target>
       </trans-unit>
@@ -148,13 +113,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Dukkakli don ekinlari</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Бобовые</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -175,13 +133,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Злаки / Зерновые</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Cereals / Grains</source>
         <target></target>
       </trans-unit>
@@ -190,13 +141,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Ziravorlar</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Специи</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -217,13 +161,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Фрукты</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Fruits</source>
         <target></target>
       </trans-unit>
@@ -232,13 +169,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Sabzavotlar</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Овощи</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -259,13 +189,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Орехи</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Nuts</source>
         <target></target>
       </trans-unit>
@@ -274,13 +197,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Urug'lar</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Семена</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -301,13 +217,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Молоко</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Milk</source>
         <target></target>
       </trans-unit>
@@ -316,13 +225,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Tuxum</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Яйцо</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -343,13 +245,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Морепродукты / Моллюски</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Seafood / Shellfish</source>
         <target></target>
       </trans-unit>
@@ -358,13 +253,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Go'sht</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Мясо</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -385,13 +273,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Яд огненного муравья</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Fire ant venom</source>
         <target></target>
       </trans-unit>
@@ -400,13 +281,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Asalari zahari</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Пчелиный яд</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -427,13 +301,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Осиный яд</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Wasp venom</source>
         <target></target>
       </trans-unit>
@@ -442,13 +309,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Suvarak</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Таракан</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -469,13 +329,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Домашняя собака</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Domestic dog</source>
         <target></target>
       </trans-unit>
@@ -484,13 +337,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Uy mushugi</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Домашняя кошка</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -511,13 +357,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Латекс</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Latex</source>
         <target></target>
       </trans-unit>
@@ -526,13 +365,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Fikus turlari</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Растения рода фикус</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -553,13 +385,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Аллергия на металл</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Allergy to metal</source>
         <target></target>
       </trans-unit>
@@ -568,13 +393,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Fermentlanlagan ozuqa</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Ферментированная пища</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -595,13 +413,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Аллергия на пищевые грибы</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Allergy to dietary mushroom</source>
         <target></target>
       </trans-unit>
@@ -610,13 +421,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Spirtli ichimlik</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Алкогольный напиток</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -637,13 +441,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Кофеинсодержащий напиток</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Caffeined beverage</source>
         <target></target>
       </trans-unit>
@@ -652,13 +449,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Shakarli ichimlik</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Подслащенный напиток</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -679,13 +469,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Аллергия на химическое вещество</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Allergy to chemical substance</source>
         <target></target>
       </trans-unit>
@@ -694,13 +477,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Kosmetikaga allergiya</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Аллергия на косметику</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -721,13 +497,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Аллергия на животное</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Allergy to animal</source>
         <target></target>
       </trans-unit>
@@ -736,13 +505,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Gelmint (parazit qurt)</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Гельминт (паразитический червь)</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -763,13 +525,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Аллергия на растительное волокно</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Allergy to plant fibre</source>
         <target></target>
       </trans-unit>
@@ -778,13 +533,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Sulfanilamid antibiotik allergiyasi</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Аллергия на сульфаниламидный антибиотик</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -805,13 +553,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Аллергия на миорелаксанты</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Allergy to muscle relaxants</source>
         <target></target>
       </trans-unit>
@@ -820,13 +561,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Mahalliy anestezik allergiyasi</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Аллергия на местный анестетик</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -847,13 +581,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Аллергия на лекарства</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Allergy to drugs</source>
         <target></target>
       </trans-unit>
@@ -862,13 +589,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Tibbiy ferment allergiyasi</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Аллергия на лекарственные ферменты</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -889,13 +609,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Складовой клещ</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Storage mite</source>
         <target></target>
       </trans-unit>
@@ -904,13 +617,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Analgetikka allergik reaksiya</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Аллергическая реакция на анальгетик</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
@@ -931,13 +637,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Аллергия на пищевую добавку</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Allergy to food additive</source>
         <target></target>
       </trans-unit>
@@ -952,13 +651,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Аллергия на яд насекомого</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Allergy to insect venom</source>
         <target></target>
       </trans-unit>
@@ -967,13 +659,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Tibbiy ichimlik</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Медицинский напиток</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-allergen-codes-cs" resname="CodeSystem.concept.designation.value">

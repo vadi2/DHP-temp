@@ -49,13 +49,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Лёгкая степень</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-severity-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Mild</source>
         <target></target>
       </trans-unit>
@@ -70,13 +63,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Умеренная степень</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-severity-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Moderate</source>
         <target></target>
       </trans-unit>
@@ -85,13 +71,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Og'ir daraja</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-severity-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Тяжёлая степень</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-severity-cs" resname="CodeSystem.concept.designation.value">

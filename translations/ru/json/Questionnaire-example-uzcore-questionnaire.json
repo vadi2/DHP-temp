@@ -21,7 +21,7 @@
           "id" : "Questionnaire.publisher",
           "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the questionnaire.",
           "source" : "Uzinfocom LLC",
-          "target" : null
+          "target" : "ООО «Единый интегратор Uzinfocom»"
         },
         {
           "id" : "ContactDetail.name",

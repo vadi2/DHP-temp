@@ -2,7 +2,7 @@ CodeSystem: AllergyVerificationStatusCS
 Id: allergy-verification-status-cs
 Title: "Allergy verification status"
 Description: "Allergy verification status supplement with translations in uzbek and russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/allergy-verification-status-cs"
+* ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/allergy-verification-status-cs"
 * ^experimental = true
 * ^content = #supplement
 * ^supplements = $allergy-verification

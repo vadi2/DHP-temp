@@ -2,7 +2,7 @@
 // Id: iso3166-two-letter-cs
 // Title: "ISO 3166-1 two-letter translations"
 // Description: "ISO 3166-1 2-letter supplement with Uzbek and Russian translations"
-// * ^url = "https://terminology.dhp.uz/CodeSystem/iso3166-two-letter-cs"
+// * ^url = "https://terminology.dhp.uz/fhir/core/CodeSystem/iso3166-two-letter-cs"
 // * ^experimental = true
 // * ^content = #supplement
 // * ^supplements = "urn:iso:std:iso:3166"
