@@ -22,7 +22,7 @@
                <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
              </notes>
         <source>Uzinfocom LLC</source>
-        <target></target>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
       </trans-unit>
       <trans-unit id="CodeSystem-episode-of-care-reason-use-cs" resname="ContactDetail.name">
              <notes>
@@ -49,13 +49,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Заболевание</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-episode-of-care-reason-use-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Disease</source>
         <target></target>
       </trans-unit>
@@ -70,13 +63,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Профилактический приём</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-episode-of-care-reason-use-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Preventive visit</source>
         <target></target>
       </trans-unit>
@@ -85,13 +71,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Boshqa</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-episode-of-care-reason-use-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Другое</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-episode-of-care-reason-use-cs" resname="CodeSystem.concept.designation.value">

@@ -21,7 +21,7 @@
           "id" : "CodeSystem.publisher",
           "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
           "source" : "Uzinfocom LLC",
-          "target" : null
+          "target" : "ООО «Единый интегратор Uzinfocom»"
         },
         {
           "id" : "ContactDetail.name",
@@ -44,12 +44,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Свинорой пальчатый (Cyn d)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cyn d",
           "target" : null
         },
@@ -57,12 +51,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Ajiriq (Cyn d 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Свинорой пальчатый (Cyn d 1)",
           "target" : null
         },
         {
@@ -80,12 +68,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Плевел многолетний (Lol p 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Lol p 1",
           "target" : null
         },
@@ -93,12 +75,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Paspalum/grechka (Pas n)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Паспалум/гречка заметная (Pas n)",
           "target" : null
         },
         {
@@ -116,12 +92,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Тимофеевка луговая (Phl p 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Timothy grass (Phl p 1)",
           "target" : null
         },
@@ -129,12 +99,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Ajiriqbosh (Phl p 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Тимофеевка луговая (Phl p 2)",
           "target" : null
         },
         {
@@ -152,12 +116,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Тимофеевка луговая (Phl p 5-0101)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Timothy grass (Phl p 5-0101)",
           "target" : null
         },
@@ -165,12 +123,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Ajiriqbosh (Phl p 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Тимофеевка луговая (Phl p 6)",
           "target" : null
         },
         {
@@ -188,12 +140,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Тимофеевка луговая (Phl p 7)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Timothy grass (Phl p 7)",
           "target" : null
         },
@@ -201,12 +147,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Ajiriqbosh (Phl p 12)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Тимофеевка луговая (Phl p 12)",
           "target" : null
         },
         {
@@ -224,12 +164,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Тростник (Phr c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Reed (Phr c)",
           "target" : null
         },
@@ -237,12 +171,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Javdar changi (Sec c pollen)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Рожь, пыльца (Sec c pollen)",
           "target" : null
         },
         {
@@ -260,12 +188,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Акация серебристая (Aca m)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Silver acacia (Aca m)",
           "target" : null
         },
@@ -273,12 +195,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Baland aylant (Ail a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Айлант высочайший (Ail a)",
           "target" : null
         },
         {
@@ -296,12 +212,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ольха (Aln g 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Alder (Aln g 1)",
           "target" : null
         },
@@ -309,12 +219,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Qandag'och (Aln g 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ольха (Aln g 4)",
           "target" : null
         },
         {
@@ -332,12 +236,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Берёза повислая (Bet v 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Bet v 1",
           "target" : null
         },
@@ -345,12 +243,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Serbuqoq qayin (Bet v 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Берёза повислая (Bet v 2)",
           "target" : null
         },
         {
@@ -368,12 +260,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Берёза повислая (Bet v 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Bet v 6",
           "target" : null
         },
@@ -381,12 +267,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Qog'ozdaraxt (tut) (Bro pa)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Бумажная шелковица (Bro pa)",
           "target" : null
         },
         {
@@ -404,12 +284,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Орешник (Лещина) (Cor a_pollen)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Hazel (Cor a_pollen)",
           "target" : null
         },
@@ -417,12 +291,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "O'rmon yong'og'i (Cor a 1-0103)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Орешник (Лещина) (Cor a 1-0103)",
           "target" : null
         },
         {
@@ -440,12 +308,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Криптомерия японская (Cry j 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cryptomeria japonica (Cry j 1)",
           "target" : null
         },
@@ -453,12 +315,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Sarv (Cup a 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кипарис (Cup a 1)",
           "target" : null
         },
         {
@@ -476,12 +332,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кипарис (Cup s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cypress (Cup s)",
           "target" : null
         },
@@ -489,12 +339,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Qoraqayin (Fag s 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Бук (Fag s 1)",
           "target" : null
         },
         {
@@ -512,12 +356,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ясень (Fra e)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Ash (Fra e)",
           "target" : null
         },
@@ -525,12 +363,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Shumtol (Fra e 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Ясень (Fra e 1)",
           "target" : null
         },
         {
@@ -548,12 +380,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Грецкий орех, пыльца (Jug r_pollen)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Walnut, pollen (Jug r_pollen)",
           "target" : null
         },
@@ -561,12 +387,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Kedr (Jun a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кедр (Jun a)",
           "target" : null
         },
         {
@@ -584,12 +404,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Шелковица (Mor r)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Mulberry (Mor r)",
           "target" : null
         },
@@ -597,12 +411,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Zaytun (Ole e 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Олива (Ole e 1)",
           "target" : null
         },
         {
@@ -620,12 +428,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Олива (Ole e 9)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Olive (Ole e 9)",
           "target" : null
         },
@@ -633,12 +435,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Xurmo daraxti (Pho d 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Финиковая пальма (Pho d 2)",
           "target" : null
         },
         {
@@ -656,12 +452,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Платан кленолистный (Pla a 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Plane maple (Pla a 1)",
           "target" : null
         },
@@ -669,12 +459,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Chinor (Pla a 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Платан кленолистный (Pla a 2)",
           "target" : null
         },
         {
@@ -692,12 +476,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Платан кленолистный (Pla a 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Plane tree (Pla a 3)",
           "target" : null
         },
@@ -705,12 +483,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Terak (Pop n)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Тополь (Pop n)",
           "target" : null
         },
         {
@@ -728,12 +500,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Вяз (Ulm c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Elm (Ulm c)",
           "target" : null
         },
@@ -741,12 +507,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Oddiy olabuta (Ama r)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Обыкновенная марь (Ama r)",
           "target" : null
         },
         {
@@ -764,12 +524,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Амброзия (Amb a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Ragweed (Amb a)",
           "target" : null
         },
@@ -777,12 +531,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Ambroziya (Amb a 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Амброзия (Amb a 1)",
           "target" : null
         },
         {
@@ -800,12 +548,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Амброзия (Amb a 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Ragweed (Amb a 4)",
           "target" : null
         },
@@ -813,12 +555,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Shuvoq (Art v)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Полынь (Art v)",
           "target" : null
         },
         {
@@ -836,12 +572,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Полынь (Art v 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Wormwood (Art v 1)",
           "target" : null
         },
@@ -849,12 +579,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Shuvoq (Art v 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Полынь (Art v 3)",
           "target" : null
         },
         {
@@ -872,12 +596,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Конопля (Can s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Hemp (Can s)",
           "target" : null
         },
@@ -885,12 +603,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Nasha (Can s 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Конопля (Can s 3)",
           "target" : null
         },
         {
@@ -908,12 +620,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Марь белая (Che a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "White goosefoot (Che a)",
           "target" : null
         },
@@ -921,12 +627,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Oq olabuta (Che a 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Марь белая (Che a 1)",
           "target" : null
         },
         {
@@ -944,12 +644,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пролесник однолетний (Mer a 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Annual wood-snow (Mer a 1)",
           "target" : null
         },
@@ -957,12 +651,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Postennitsa (Par j)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Постенница (Par j)",
           "target" : null
         },
         {
@@ -980,12 +668,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Постенница (Par j 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Wallflower (Par j 2)",
           "target" : null
         },
@@ -993,12 +675,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Zubturum (Pla l)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Подорожник (Pla l)",
           "target" : null
         },
         {
@@ -1016,12 +692,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Подорожник (Pla l 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Plantain (Pla l 1)",
           "target" : null
         },
@@ -1029,12 +699,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Sho'rak (Sal k)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Солянка (Sal k)",
           "target" : null
         },
         {
@@ -1052,12 +716,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Солянка (Sal k 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Salwort (Sal k 1)",
           "target" : null
         },
@@ -1065,12 +723,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Gazanda (Urt d)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Крапива (Urt d)",
           "target" : null
         },
         {
@@ -1088,12 +740,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Американский клещ домашней пыли (Der f 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "American house dust mite (Der f 1)",
           "target" : null
         },
@@ -1101,12 +747,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Amerika uy changi kanasi (Der f 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Американский клещ домашней пыли (Der f 2)",
           "target" : null
         },
         {
@@ -1124,12 +764,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Европейский клещ домашней пыли (Der p 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "European house dust mite (Der p 1)",
           "target" : null
         },
@@ -1137,12 +771,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Yevropa uy changi kanasi (Der p 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Европейский клещ домашней пыли (Der p 2)",
           "target" : null
         },
         {
@@ -1160,12 +788,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Европейский клещ домашней пыли (Der p 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "European house dust mite (Der p 5)",
           "target" : null
         },
@@ -1173,12 +795,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Yevropa uy changi kanasi (Der p 7)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Европейский клещ домашней пыли (Der p 7)",
           "target" : null
         },
         {
@@ -1196,12 +812,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Европейский клещ домашней пыли (Der p 10)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "European house dust mite (Der p 10)",
           "target" : null
         },
@@ -1209,12 +819,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Yevropa uy changi kanasi (Der p 11)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Европейский клещ домашней пыли (Der p 11)",
           "target" : null
         },
         {
@@ -1232,12 +836,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Европейский клещ домашней пыли (Der p 20)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "European house dust mite (Der p 20)",
           "target" : null
         },
@@ -1245,12 +843,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Yevropa uy changi kanasi (Der p 21)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Европейский клещ домашней пыли (Der p 21)",
           "target" : null
         },
         {
@@ -1268,12 +860,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Европейский клещ домашней пыли (Der p 23)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "European house dust mite (Der p 23)",
           "target" : null
         },
@@ -1281,12 +867,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Un kanasi (Aca s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Амбарный или мучной клещ (Acarus siro) (Aca s)",
           "target" : null
         },
         {
@@ -1304,12 +884,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Клещ домашней пыли Blomia tropicalis (Blo t 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "House dust mite Blomia tropicalis (Blo t 5)",
           "target" : null
         },
@@ -1317,12 +891,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Uy changi kanasi Blomia tropicalis (Blo t 10)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Клещ домашней пыли Blomia tropicalis (Blo t 10)",
           "target" : null
         },
         {
@@ -1340,12 +908,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Клещ домашней пыли Blomia tropicalis (Blo t 21)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "House dust mite Blomia tropicalis (Blo t 21)",
           "target" : null
         },
@@ -1353,12 +915,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Uy changi kanasi Glycyphagus domesticus (Gly d 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Клещ домашней пыли Glycyphagus domesticus (Gly d 2)",
           "target" : null
         },
         {
@@ -1376,12 +932,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Клещ домашней пыли Lepidoglyphus destructor (Lep d 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "House dust mite Lepidoglyphus destructor (Lep d 2)",
           "target" : null
         },
@@ -1389,12 +939,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Uy changi kanasi Tyrophagus putrescentiae (Tyr p)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Клещ домашней пыли Tyrophagus putrescentiae (Tyr p)",
           "target" : null
         },
         {
@@ -1412,12 +956,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Клещ домашней пыли Tyrophagus putrescentiae (Tyr p 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "House dust mite Tyrophagus putrescentiae (Tyr p 2)",
           "target" : null
         },
@@ -1425,12 +963,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Xamirturushli zamburug' Malassezia sympodialis (Mala s 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Дрожжевые грибы рода Malassezia Malassezia sympodialis (Mala s 5)",
           "target" : null
         },
         {
@@ -1448,12 +980,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Дрожжевые грибы рода Malassezia Malassezia sympodialis (Mala s 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Yeasts of the genus Malassezia Malassezia sympodialis (Mala s 6)",
           "target" : null
         },
@@ -1461,12 +987,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Xamirturushli zamburug' Malassezia sympodialis (Mala s 11)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Дрожжевые грибы рода Malassezia Malassezia sympodialis (Mala s 11)",
           "target" : null
         },
         {
@@ -1484,12 +1004,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пекарские дрожжи (Sac c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Baker's yeast (Sac c)",
           "target" : null
         },
@@ -1497,12 +1011,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Alternariya (Alternaria alternata) (Alt a 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Альтернария (Alternaria alternata) (Alt a 1)",
           "target" : null
         },
         {
@@ -1520,12 +1028,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Альтернария (Alternaria alternata) (Alt a 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Alternaria (Alternaria alternata) (Alt a 6)",
           "target" : null
         },
@@ -1533,12 +1035,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Аспергил дымящий (Aspergillus fumigatus) (Asp f 1)",
           "target" : null
         },
         {
@@ -1556,12 +1052,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Аспергил дымящий (Aspergillus fumigatus) (Asp f 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Aspergillus fumigatus (Asp f 3)",
           "target" : null
         },
@@ -1569,12 +1059,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Аспергил дымящий (Aspergillus fumigatus) (Asp f 4)",
           "target" : null
         },
         {
@@ -1592,12 +1076,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Аспергил дымящий (Aspergillus fumigatus) (Asp f 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Aspergillus fumigatus (Asp f 6)",
           "target" : null
         },
@@ -1610,12 +1088,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кладоспориум гербарум (Cla h)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cladosporium herbarum (Cla h)",
           "target" : null
         },
@@ -1623,12 +1095,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Cladosporium herbarum (Cla h 8)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кладоспориум гербарум (Cla h 8)",
           "target" : null
         },
         {
@@ -1646,12 +1112,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пенициллин золотистый (Penicilium chrysogenum) (Pen ch)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Penicillium chrysogenum (Pen ch)",
           "target" : null
         },
@@ -1659,12 +1119,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Yeryong'oq (Ara h 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Арахис (Ara h 1)",
           "target" : null
         },
         {
@@ -1682,12 +1136,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Арахис (Ara h 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Peanut (Ara h 2)",
           "target" : null
         },
@@ -1695,12 +1143,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Yeryong'oq (Ara h 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Арахис (Ara h 3)",
           "target" : null
         },
         {
@@ -1718,12 +1160,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Арахис (Ara h 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Peanut (Ara h 6)",
           "target" : null
         },
@@ -1731,12 +1167,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Yeryong'oq (Ara h 8)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Арахис (Ara h 8)",
           "target" : null
         },
         {
@@ -1754,12 +1184,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Арахис (Ara h 9)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Peanut (Ara h 9)",
           "target" : null
         },
@@ -1767,12 +1191,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Yeryong'oq (Ara h 15)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Арахис (Ara h 15)",
           "target" : null
         },
         {
@@ -1790,12 +1208,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Нут обыкновенный (Cic a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Chickpea (Cic a)",
           "target" : null
         },
@@ -1803,12 +1215,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Soya loviyasi (Gly m 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Соя (Gly m 4)",
           "target" : null
         },
         {
@@ -1826,12 +1232,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Соя (Gly m 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Soybean (Gly m 5)",
           "target" : null
         },
@@ -1839,12 +1239,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Soya loviyasi (Gly m 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Соя (Gly m 6)",
           "target" : null
         },
         {
@@ -1862,12 +1256,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Соя (Gly m 8)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Soybean (Gly m 8)",
           "target" : null
         },
@@ -1875,12 +1263,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Yasmiq (Len c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Чечевица (Len c)",
           "target" : null
         },
         {
@@ -1898,12 +1280,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Зеленая фасоль (Pha v)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Green beans (Pha v)",
           "target" : null
         },
@@ -1911,12 +1287,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "No'xat (Pis s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Горох (Pis s)",
           "target" : null
         },
         {
@@ -1934,12 +1304,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Овес (Ave s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Oats (Ave s)",
           "target" : null
         },
@@ -1947,12 +1311,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Kinoa (Che q)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Киноа (Che q)",
           "target" : null
         },
         {
@@ -1970,12 +1328,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Гречиха обыкновенная (Fag e)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Buckwheat (Fag e)",
           "target" : null
         },
@@ -1983,12 +1335,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Oddiy marjumak (Fag e 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Гречиха обыкновенная (Fag e 2)",
           "target" : null
         },
         {
@@ -2006,12 +1352,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Ячмень (Hor v)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Barley (Hor v)",
           "target" : null
         },
@@ -2019,12 +1359,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Bo'rilukkak urug'i (Lup a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Семена люпина (Lup a)",
           "target" : null
         },
         {
@@ -2042,12 +1376,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Рис (Ory s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Rice (Ory s)",
           "target" : null
         },
@@ -2055,12 +1383,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Tariq (Pan m)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Пшено (Pan m)",
           "target" : null
         },
         {
@@ -2078,12 +1400,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Рожь (Sec c_flour)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Rye (Sec c_flour)",
           "target" : null
         },
@@ -2091,12 +1407,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Bo'g'doy (Tri a aA_TI)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Пшеница (Tri a aA_TI)",
           "target" : null
         },
         {
@@ -2114,12 +1424,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пшеница (Tri a 14)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Wheat (Tri a 14)",
           "target" : null
         },
@@ -2127,12 +1431,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Bo'g'doy (Tri a 19)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Пшеница (Tri a 19)",
           "target" : null
         },
         {
@@ -2150,12 +1448,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пшеница спельта (Tri s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Spelt wheat (Tri s)",
           "target" : null
         },
@@ -2163,12 +1455,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Makkajo'hori (Zea m)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кукуруза (Zea m)",
           "target" : null
         },
         {
@@ -2186,12 +1472,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кукуруза (Zea m 14)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Corn (Zea m 14)",
           "target" : null
         },
@@ -2199,12 +1479,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Paprika (Cap a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Паприка (Cap a)",
           "target" : null
         },
         {
@@ -2222,12 +1496,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Тмин обикновенный (Car c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Caraway (Car c)",
           "target" : null
         },
@@ -2235,12 +1503,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Oregano (Ori v)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Орегано (Ori v)",
           "target" : null
         },
         {
@@ -2258,12 +1520,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Петрушка (Pet c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Parsley (Pet c)",
           "target" : null
         },
@@ -2271,12 +1527,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Arpabodiyon (Pim a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Анис (Pim a)",
           "target" : null
         },
         {
@@ -2294,12 +1544,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Горчица (Sin)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Mustard (Sin)",
           "target" : null
         },
@@ -2307,12 +1551,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Xantal (Sin a 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Горчица (Sin a 1)",
           "target" : null
         },
         {
@@ -2330,12 +1568,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Киви (Act d 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Kiwi (Act d 1)",
           "target" : null
         },
@@ -2343,12 +1575,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Kivi (Act d 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Киви (Act d 2)",
           "target" : null
         },
         {
@@ -2366,12 +1592,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Киви (Act d 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Kiwi (Act d 5)",
           "target" : null
         },
@@ -2379,12 +1599,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Kivi (Act d 10)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Киви (Act d 10)",
           "target" : null
         },
         {
@@ -2402,12 +1616,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Папайя (Car p)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Papaya (Car p)",
           "target" : null
         },
@@ -2415,12 +1623,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Apelsin (Cit s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Апельсин (Cit s)",
           "target" : null
         },
         {
@@ -2438,12 +1640,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Дыня (Cuc m 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Melon (Cuc m 2)",
           "target" : null
         },
@@ -2451,12 +1647,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Anjir (Fic c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Инжир (Fic c)",
           "target" : null
         },
         {
@@ -2474,12 +1664,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Клубника (Fra a 1+3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Strawberry (Fra a 1+3)",
           "target" : null
         },
@@ -2487,12 +1671,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Olma (Mal d 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Яблоко (Mal d 1)",
           "target" : null
         },
         {
@@ -2510,12 +1688,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Яблоко (Mal d 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Apple (Mal d 2)",
           "target" : null
         },
@@ -2523,12 +1695,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Olma (Mal d 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Яблоко (Mal d 3)",
           "target" : null
         },
         {
@@ -2546,12 +1712,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Манго (Man i)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Mango (Man i)",
           "target" : null
         },
@@ -2559,12 +1719,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Banan (Mus a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Банан (Mus a)",
           "target" : null
         },
         {
@@ -2582,12 +1736,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Авокадо (Pers a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Avocado (Pers a)",
           "target" : null
         },
@@ -2595,12 +1743,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Gilos (Pru av)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Вишня (Pru av)",
           "target" : null
         },
         {
@@ -2618,12 +1760,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Персик (Pru p 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Peach (Pru p 3)",
           "target" : null
         },
@@ -2631,12 +1767,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Nok (Pyr c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Груша (Pyr c)",
           "target" : null
         },
         {
@@ -2654,12 +1784,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Черника (Vac m)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Blueberry (Vac m)",
           "target" : null
         },
@@ -2667,12 +1791,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Uzum (Vit v 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Виноград (Vit v 1)",
           "target" : null
         },
         {
@@ -2690,12 +1808,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Лук (All c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Onion (All c)",
           "target" : null
         },
@@ -2703,12 +1815,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Sarimsoqpiyoz (All s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Чеснок (All s)",
           "target" : null
         },
         {
@@ -2726,12 +1832,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Сельдерей (Api g 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Celery (Api g 1)",
           "target" : null
         },
@@ -2739,12 +1839,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Selderey (Api g 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Сельдерей (Api g 2)",
           "target" : null
         },
         {
@@ -2762,12 +1856,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Сельдерей (Api g 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Celery (Api g 6)",
           "target" : null
         },
@@ -2775,12 +1863,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Sabzi (Dau c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Морковь (Dau c)",
           "target" : null
         },
         {
@@ -2798,12 +1880,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Морковь (Dau c 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Carrot (Dau c 1)",
           "target" : null
         },
@@ -2811,12 +1887,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Kartoshka (Sol t)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Картофель (Sol t)",
           "target" : null
         },
         {
@@ -2834,12 +1904,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Помидор (Sola l)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Tomato (Sola l)",
           "target" : null
         },
@@ -2847,12 +1911,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Pomidor (Sola l 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Помидор (Sola l 6)",
           "target" : null
         },
         {
@@ -2870,12 +1928,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кешью (Ana o)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cashew (Ana o)",
           "target" : null
         },
@@ -2883,12 +1935,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Hind yong'og'i (keshyu) (Ana o 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кешью (Ana o 2)",
           "target" : null
         },
         {
@@ -2906,12 +1952,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кешью (Ana o 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cashew (Ana o 3)",
           "target" : null
         },
@@ -2919,12 +1959,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Braziliya yong'og'i (Ber e)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Бразильский орех (Ber e)",
           "target" : null
         },
         {
@@ -2942,12 +1976,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Бразильский орех (Ber e 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Brazil nut (Ber e 1)",
           "target" : null
         },
@@ -2955,12 +1983,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Pekan yong'og'i (Car i)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Пекан, орех (Car i)",
           "target" : null
         },
         {
@@ -2978,12 +2000,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Фундук (Cor a 1-0401)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Hazelnut (Cor a 1-0401)",
           "target" : null
         },
@@ -2991,12 +2007,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Funduk yong'og'i (Cor a 8)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Фундук (Cor a 8)",
           "target" : null
         },
         {
@@ -3014,12 +2024,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Фундук (Cor a 9)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Hazelnut (Cor a 9)",
           "target" : null
         },
@@ -3027,12 +2031,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Funduk yong'og'i (Cor a 11)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Фундук (Cor a 11)",
           "target" : null
         },
         {
@@ -3050,12 +2048,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Фундук (Cor a 14)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Hazelnut (Cor a 14)",
           "target" : null
         },
@@ -3063,12 +2055,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Gretsiya yong'og'i (Jug r 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Грецкий орех (Jug r 1)",
           "target" : null
         },
         {
@@ -3086,12 +2072,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Грецкий орех (Jug r 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Walnut (Jug r 2)",
           "target" : null
         },
@@ -3099,12 +2079,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Gretsiya yong'og'i (Jug r 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Грецкий орех (Jug r 3)",
           "target" : null
         },
         {
@@ -3122,12 +2096,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Грецкий орех (Jug r 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Walnut (Jug r 4)",
           "target" : null
         },
@@ -3135,12 +2103,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Gretsiya yong'og'i (Jug r 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Грецкий орех (Jug r 6)",
           "target" : null
         },
         {
@@ -3158,12 +2120,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Орех макадамия (Mac i 2S Albumin)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Macadamia nut (Mac i 2S Albumin)",
           "target" : null
         },
@@ -3171,12 +2127,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Makadamiya yong'og'i (Mac inte)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Орех макадамия (Mac inte)",
           "target" : null
         },
         {
@@ -3194,12 +2144,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Фисташки (Pis v 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Pistachio (Pis v 1)",
           "target" : null
         },
@@ -3207,12 +2151,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Pistalar (Pis v 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Фисташки (Pis v 2)",
           "target" : null
         },
         {
@@ -3230,12 +2168,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Фисташки (Pis v 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Pistachio (Pis v 3)",
           "target" : null
         },
@@ -3243,12 +2175,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Bodom (Pru du)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Миндаль (Pru du)",
           "target" : null
         },
         {
@@ -3266,12 +2192,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Семена тыквы (Cuc p)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Pumpkin seeds (Cuc p)",
           "target" : null
         },
@@ -3279,12 +2199,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Kungaboqar urug'i (Hel a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Семена подсолнечника (Hel a)",
           "target" : null
         },
         {
@@ -3302,12 +2216,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Мак (Pap s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Poppy seeds (Pap s)",
           "target" : null
         },
@@ -3315,12 +2223,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Ko'knor urug'i (Pap s 2S Albumin)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Мак (Pap s 2S Albumin)",
           "target" : null
         },
         {
@@ -3338,12 +2240,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кунжут (Ses i)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Sesame (Ses i)",
           "target" : null
         },
@@ -3351,12 +2247,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Kunjut (Ses i 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кунжут (Ses i 1)",
           "target" : null
         },
         {
@@ -3374,12 +2264,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Семена пажитника (Tri fo)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Fenugreek seeds (Tri fo)",
           "target" : null
         },
@@ -3387,12 +2271,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Sigir suti (Bos d_milk)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Коровье молоко (Bos d_milk)",
           "target" : null
         },
         {
@@ -3410,12 +2288,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Коровье молоко (Bos d 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cow's milk (Bos d 4)",
           "target" : null
         },
@@ -3423,12 +2295,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Sigir suti (Bos d 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Коровье молоко (Bos d 5)",
           "target" : null
         },
         {
@@ -3446,12 +2312,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Коровье молоко (Bos d 8)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cow's milk",
           "target" : null
         },
@@ -3459,12 +2319,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Tuya suti (Cam d)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Верблюжье молоко (Cam d)",
           "target" : null
         },
         {
@@ -3482,12 +2336,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Козье молоко (Cap h_milk)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Goat milk (Cap h_milk)",
           "target" : null
         },
@@ -3495,12 +2343,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Baytal (ot) suti (qimiz) (Equ c_milk)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кобылье молоко (Equ c_milk)",
           "target" : null
         },
         {
@@ -3518,12 +2360,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Овечье молоко (Ovi a_milk)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Sheep milk (Ovi a_milk)",
           "target" : null
         },
@@ -3531,12 +2367,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Tuxum oqsili (Gal d_white)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Яичный белок (Gal d_white)",
           "target" : null
         },
         {
@@ -3554,12 +2384,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Яичный желток (Gal d_yolk)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Egg yolk (Gal d_yolk)",
           "target" : null
         },
@@ -3567,12 +2391,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Tuxum oqsili (Gal d 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Яичный белок (Gal d 1)",
           "target" : null
         },
         {
@@ -3590,12 +2408,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Яичный белок (Gal d 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Egg white (Gal d 2)",
           "target" : null
         },
@@ -3603,12 +2415,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Tuxum oqsili (Gal d 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Яичный белок (Gal d 3)",
           "target" : null
         },
         {
@@ -3626,12 +2432,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Яичный белок (Gal d 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Egg white (Gal d 4)",
           "target" : null
         },
@@ -3639,12 +2439,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Tuxum sarig'i (Gal d 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Яичный желток (Gal d 5)",
           "target" : null
         },
         {
@@ -3662,12 +2456,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Сельдиной черв (Ani s 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Herring worm (Ani s 1)",
           "target" : null
         },
@@ -3675,12 +2463,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Seld balig'i qurti (Ani s 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Сельдяной черв (Ani s 3)",
           "target" : null
         },
         {
@@ -3698,12 +2480,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Краб (Chi spp-)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Crab (Chi spp-)",
           "target" : null
         },
@@ -3711,12 +2487,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Atlantika seld balig'i (Clu h)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Сельд атлантическая (Clu h)",
           "target" : null
         },
         {
@@ -3734,12 +2504,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Сельд атлантическая (Clu h 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Atlantic herring (Clu h 1)",
           "target" : null
         },
@@ -3747,12 +2511,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Oddiy krevetka (Cra c 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Обыкновенная креветка (Cra c 6)",
           "target" : null
         },
         {
@@ -3770,12 +2528,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Карп (Cyp c 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Carp (Cyp c 1)",
           "target" : null
         },
@@ -3783,12 +2535,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Atlantika treska balig'i (Gad m)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Атлантическая треска (Gad m)",
           "target" : null
         },
         {
@@ -3806,12 +2552,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Атлантическая треска (Gad m 2+3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Atlantic cod (Gad m 2+3)",
           "target" : null
         },
@@ -3819,12 +2559,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Atlantika treska balig'i (Gad m 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Атлантическая треска (Gad m 1)",
           "target" : null
         },
         {
@@ -3842,12 +2576,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Омар (Hom g)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Lobster (Hom g)",
           "target" : null
         },
@@ -3855,12 +2583,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Krevetka (Lit s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Креветка (Lit s)",
           "target" : null
         },
         {
@@ -3878,12 +2600,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кальмар (Lol spp-)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Squid (Lol spp-)",
           "target" : null
         },
@@ -3891,12 +2607,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Yeyishli midiya (Myt e)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Мидия съедобная (Myt e)",
           "target" : null
         },
         {
@@ -3914,12 +2624,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Устрица (Ost e)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Oyster (Ost e)",
           "target" : null
         },
@@ -3927,12 +2631,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Shimoliy krevetka (Pan b)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Северная креветка (Pan b)",
           "target" : null
         },
         {
@@ -3950,12 +2648,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Морской гребешок (Pec spp-)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Scallop (Pec spp-)",
           "target" : null
         },
@@ -3963,12 +2655,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Qora yo'lbarssimon krevetka (Pen m 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Черная тигровая креветка (Pen m 1)",
           "target" : null
         },
         {
@@ -3986,12 +2672,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Черная тигровая креветка (Pen m 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Black tiger shrimp (Pen m 2)",
           "target" : null
         },
@@ -3999,12 +2679,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Qora yo'lbarssimon krevetka (Pen m 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Черная тигровая креветка (Pen m 3)",
           "target" : null
         },
         {
@@ -4022,12 +2696,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Черная тигровая креветка (Pen m 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Black tiger shrimp (Pen m 4)",
           "target" : null
         },
@@ -4035,12 +2703,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Dengiz tulkisi yoki tikanli skat (Raj c)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Морская лисица или колючий (Raj c)",
           "target" : null
         },
         {
@@ -4058,12 +2720,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Морская лисица или колючий скат (Raj c Parvalbumin)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Thresher or spiny ray (Raj c Parvalbumin)",
           "target" : null
         },
@@ -4071,12 +2727,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Mollyuska (Rud spp-)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Моллюск (Rud spp-)",
           "target" : null
         },
         {
@@ -4094,12 +2744,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Лосось (Sal s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Salmon (Sal s)",
           "target" : null
         },
@@ -4107,12 +2751,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Losos (Sal s 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Лосось (Sal s 1)",
           "target" : null
         },
         {
@@ -4130,12 +2768,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Атлантическая скумбрия (Sco s)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Atlantic mackerel (Sco s)",
           "target" : null
         },
@@ -4143,12 +2775,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Atlantika skumbriya balig'i (Sco s 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Атлантическая скумбрия (Sco s 1)",
           "target" : null
         },
         {
@@ -4166,12 +2792,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Тунец (Thu a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Tuna (Thu a)",
           "target" : null
         },
@@ -4179,12 +2799,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Tunes (Thu a 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Тунец (Thu a 1)",
           "target" : null
         },
         {
@@ -4202,12 +2816,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Рыба-меч (Xip g 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Swordfish (Xip g 1)",
           "target" : null
         },
@@ -4215,12 +2823,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Uy chigirtkasi (Ach d)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Сверчок домовой (Ach d)",
           "target" : null
         },
         {
@@ -4238,12 +2840,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Говядина (Bos d_meat)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Beef (Bos d_meat)",
           "target" : null
         },
@@ -4251,12 +2847,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Mol go'shti (Bos d 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Говядина (Bos d 6)",
           "target" : null
         },
         {
@@ -4274,12 +2864,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Конина (Equ c_meat)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Horse meat (Equ c_meat)",
           "target" : null
         },
@@ -4287,12 +2871,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Tovuq go'shti (Gal d_meat)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Курятина (Gal d_meat)",
           "target" : null
         },
         {
@@ -4310,12 +2888,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Перелетная саранча (Loc m)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Migratory locust (Loc m)",
           "target" : null
         },
@@ -4323,12 +2895,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Kurka go'shti (Mel g)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Индюшатина (Mel g)",
           "target" : null
         },
         {
@@ -4346,12 +2912,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кролятина (Ory_meat)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Rabbit (Ory_meat)",
           "target" : null
         },
@@ -4359,12 +2919,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Qo'y go'shti (Ovi a_meat)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Баранина (Ovi a_meat)",
           "target" : null
         },
         {
@@ -4382,12 +2936,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Свинина (Sus d_meat)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Pork (Sus d_meat)",
           "target" : null
         },
@@ -4395,12 +2943,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Cho'chqa go'shti (Sus d 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Свинина (Sus d 1)",
           "target" : null
         },
         {
@@ -4418,12 +2960,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Большой мучной хрущак (Ten m)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Large mealworm (Ten m)",
           "target" : null
         },
@@ -4431,12 +2967,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Olovli chumoli (Sol spp-)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Огненный муравей (Sol spp-)",
           "target" : null
         },
         {
@@ -4454,12 +2984,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пчела медоносная (Api m)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Honey bee (Api m)",
           "target" : null
         },
@@ -4467,12 +2991,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Asalari (Api m 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Пчела медоносная (Api m 1)",
           "target" : null
         },
         {
@@ -4490,12 +3008,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Пчела медоносная (Api m 10)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Honey bee (Api m 10)",
           "target" : null
         },
@@ -4503,12 +3015,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Sakson arisi (Dol spp)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Оса саксонская (Dol spp)",
           "target" : null
         },
         {
@@ -4526,12 +3032,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Оса бумажная (Pol d)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Paper wasp (Pol d)",
           "target" : null
         },
@@ -4539,12 +3039,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Qog'oz ari (Pol d 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Оса бумажная (Pol d 5)",
           "target" : null
         },
         {
@@ -4562,12 +3056,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Оса обыкновенная (Ves v)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Common wasp (Ves v)",
           "target" : null
         },
@@ -4575,12 +3063,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Oddiy ari (Ves v 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Оса обыкновенная (Ves v 1)",
           "target" : null
         },
         {
@@ -4598,12 +3080,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Оса обыкновенная (Ves v 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Common wasp (Ves v 5)",
           "target" : null
         },
@@ -4611,12 +3087,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Nemes suvaragi (Bla g 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Немецкий таракан (Bla g 1)",
           "target" : null
         },
         {
@@ -4634,12 +3104,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Немецкий таракан (Bla g 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "German cockroach (Bla g 2)",
           "target" : null
         },
@@ -4647,12 +3111,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Nemes suvaragi (Bla g 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Немецкий таракан (Bla g 4)",
           "target" : null
         },
         {
@@ -4670,12 +3128,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Немецкий таракан (Bla g 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "German cockroach (Bla g 5)",
           "target" : null
         },
@@ -4683,12 +3135,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Nemes suvaragi (Bla g 9)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Немецкий таракан (Bla g 9)",
           "target" : null
         },
         {
@@ -4706,12 +3152,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Американский таракан (Per a)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "American cockroach (Per a)",
           "target" : null
         },
@@ -4719,12 +3159,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Amerika suvaragi (Per a 7)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Американский таракан (Per a 7)",
           "target" : null
         },
         {
@@ -4742,12 +3176,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Собака (Can f_Fd1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Dog (Can f_Fd1)",
           "target" : null
         },
@@ -4755,12 +3183,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "It siydigi (shu jumladan Can f 5) (Can f_male urine)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Моча собаки (вкл- Can f 5) (Can f_male urine)",
           "target" : null
         },
         {
@@ -4778,12 +3200,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Собака (Can f 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Dog (Can f 1)",
           "target" : null
         },
@@ -4791,12 +3207,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "It (Can f 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Собака (Can f 2)",
           "target" : null
         },
         {
@@ -4814,12 +3224,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Собака (Can f 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Dog (Can f 3)",
           "target" : null
         },
@@ -4827,12 +3231,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "It (Can f 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Собака (Can f 4)",
           "target" : null
         },
         {
@@ -4850,12 +3248,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Собака (Can f 6)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Dog (Can f 6)",
           "target" : null
         },
@@ -4863,12 +3255,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Dengiz cho'chqasi (Cav p 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Морская свинка (Cav p 1)",
           "target" : null
         },
         {
@@ -4886,12 +3272,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кот (Fel d 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cat (Fel d 1)",
           "target" : null
         },
@@ -4899,12 +3279,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Mushuk (Fel d 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кот (Fel d 2)",
           "target" : null
         },
         {
@@ -4922,12 +3296,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кот (Fel d 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cat (Fel d 4)",
           "target" : null
         },
@@ -4935,12 +3303,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Mushuk (Fel d 7)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кот (Fel d 7)",
           "target" : null
         },
         {
@@ -4958,12 +3320,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Мышь домашняя, эпидермис (Mus m 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "House mouse, epidermis (Mus m 1)",
           "target" : null
         },
@@ -4971,12 +3327,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Quyon epiteliyasi (Ory c 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кролик, эпителий (Ory c 1)",
           "target" : null
         },
         {
@@ -4994,12 +3344,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Кролик, эпителий (Ory c 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Rabbit, epithelium (Ory c 2)",
           "target" : null
         },
@@ -5007,12 +3351,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Quyon epiteliyasi (Ory c 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Кролик, эпителий (Ory c 3)",
           "target" : null
         },
         {
@@ -5030,12 +3368,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Джунгарский хомяк (Phod s 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Djungarian hamster (Phod s 1)",
           "target" : null
         },
@@ -5043,12 +3375,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Kalamush epiteliyasi (Rat n)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Крыса, эпителий (Rat n)",
           "target" : null
         },
         {
@@ -5066,12 +3392,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Корова, эпителий (Bos d 2)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Cow, epithelium (Bos d 2)",
           "target" : null
         },
@@ -5079,12 +3399,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Echki epiteliyasi (Cap h_epithelia)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Коза, эпителий (Cap h_epithelia)",
           "target" : null
         },
         {
@@ -5102,12 +3416,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Лошадь, эпителий (Equ c 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Horse, epithelium (Equ c 1)",
           "target" : null
         },
@@ -5115,12 +3423,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Ot epiteliyasi (Equ c 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Лошадь, эпителий (Equ c 3)",
           "target" : null
         },
         {
@@ -5138,12 +3440,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Лошадь, эпителий (Equ c 4)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Horse, epithelium (Equ c 4)",
           "target" : null
         },
@@ -5151,12 +3447,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Qo'y epiteliyasi (Ovi a_epithelia)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Овца, эпителий (Ovi a_epithelia)",
           "target" : null
         },
         {
@@ -5174,12 +3464,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Свинья, эпителий (Sus d_epithelia)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Pig, epithelium (Sus d_epithelia)",
           "target" : null
         },
@@ -5187,12 +3471,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Lateks (Hev b 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Латекс (Hev b 1)",
           "target" : null
         },
         {
@@ -5210,12 +3488,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Латекс (Hev b 3)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Latex (Hev b 3)",
           "target" : null
         },
@@ -5223,12 +3495,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Lateks (Hev b 5)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Латекс (Hev b 5)",
           "target" : null
         },
         {
@@ -5246,12 +3512,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Латекс (Hev b 6-02)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Latex (Hev b 6-02)",
           "target" : null
         },
@@ -5259,12 +3519,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Lateks (Hev b 8)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Латекс (Hev b 8)",
           "target" : null
         },
         {
@@ -5282,12 +3536,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Латекс (Hev b 11)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Latex (Hev b 11)",
           "target" : null
         },
@@ -5295,12 +3543,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Fikus (Fic b)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Фикус (Fic b)",
           "target" : null
         },
         {
@@ -5318,12 +3560,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Лактоферрин (Hom s Lactoferrin) (Hom s LF)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Lactoferrin (Hom s Lactoferrin) (Hom s LF)",
           "target" : null
         },
@@ -5331,12 +3567,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Qisqichbaqasimon kana (Argas reflexus) (Arg r 1)",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Раковинный клещ (Argas reflexus) (Arg r 1)",
           "target" : null
         },
         {

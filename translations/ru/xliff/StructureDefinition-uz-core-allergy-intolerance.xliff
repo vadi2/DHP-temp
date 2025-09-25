@@ -22,7 +22,7 @@
                <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the structure definition.</note>
              </notes>
         <source>Uzinfocom LLC</source>
-        <target>Uzinfocom LLC</target>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
       </trans-unit>
       <trans-unit id="StructureDefinition-uz-core-allergy-intolerance" resname="StructureDefinition.contact.name">
              <notes>

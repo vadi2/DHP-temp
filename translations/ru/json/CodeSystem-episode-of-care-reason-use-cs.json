@@ -21,7 +21,7 @@
           "id" : "CodeSystem.publisher",
           "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
           "source" : "Uzinfocom LLC",
-          "target" : null
+          "target" : "ООО «Единый интегратор Uzinfocom»"
         },
         {
           "id" : "ContactDetail.name",
@@ -44,12 +44,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Заболевание",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Disease",
           "target" : null
         },
@@ -62,12 +56,6 @@
         {
           "id" : "CodeSystem.concept.designation.value",
           "context" : "The text value for this designation.",
-          "source" : "Профилактический приём",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
           "source" : "Preventive visit",
           "target" : null
         },
@@ -75,12 +63,6 @@
           "id" : "CodeSystem.concept.display",
           "context" : "A human readable string that is the recommended default way to present this concept to a user.",
           "source" : "Boshqa",
-          "target" : null
-        },
-        {
-          "id" : "CodeSystem.concept.designation.value",
-          "context" : "The text value for this designation.",
-          "source" : "Другое",
           "target" : null
         },
         {

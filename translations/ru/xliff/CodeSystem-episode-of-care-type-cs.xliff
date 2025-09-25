@@ -22,7 +22,7 @@
                <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
              </notes>
         <source>Uzinfocom LLC</source>
-        <target></target>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
       </trans-unit>
       <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="ContactDetail.name">
              <notes>
@@ -49,13 +49,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Профилактические</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Preventive services</source>
         <target></target>
       </trans-unit>
@@ -64,13 +57,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Diagnostika</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Диагностические</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="CodeSystem.concept.designation.value">
@@ -91,13 +77,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Консультативные</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Consultative</source>
         <target></target>
       </trans-unit>
@@ -106,13 +85,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Davolash</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Лечебные</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="CodeSystem.concept.designation.value">
@@ -133,13 +105,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Паллиатив (психологическое и лечебная)</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Palliative care (psychological and therapeutic)</source>
         <target></target>
       </trans-unit>
@@ -154,13 +119,6 @@
              <notes>
                <note id="n1">The text value for this designation.</note>
              </notes>
-        <source>Суд мед экспертиза</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
         <source>Forensic medical examination</source>
         <target></target>
       </trans-unit>
@@ -169,13 +127,6 @@
                <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
              </notes>
         <source>Patologoanatomik xizmat</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="CodeSystem.concept.designation.value">
-             <notes>
-               <note id="n1">The text value for this designation.</note>
-             </notes>
-        <source>Паталогаанатомическая служба</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-episode-of-care-type-cs" resname="CodeSystem.concept.designation.value">
