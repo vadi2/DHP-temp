@@ -6,13 +6,13 @@ msgstr ""
 
 # A short, descriptive, user-friendly title for the code system.
 #: CodeSystem.title
-msgid "Relationship Types"
+msgid "Relationship type"
 msgstr ""
 
 # The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
 #: CodeSystem.publisher
 msgid "Uzinfocom LLC"
-msgstr ""
+msgstr "ООО «Единый интегратор Uzinfocom»"
 
 # The name of an individual to contact.
 #: ContactDetail.name

@@ -6,13 +6,13 @@ msgstr ""
 
 # A short, descriptive, user-friendly title for the value set.
 #: ValueSet.title
-msgid "Diagnosis Type"
+msgid "Relationship type"
 msgstr ""
 
 # The name of the organization or individual responsible for the release and ongoing maintenance of the value set.
 #: ValueSet.publisher
 msgid "Uzinfocom LLC"
-msgstr ""
+msgstr "ООО «Единый интегратор Uzinfocom»"
 
 # The name of an individual to contact.
 #: ContactDetail.name
@@ -21,6 +21,6 @@ msgstr ""
 
 # A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.
 #: ValueSet.description
-msgid "Diagnosis types in Uzbekistan"
+msgid "Relationship types in Uzbekistan"
 msgstr ""
 

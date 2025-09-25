@@ -14,7 +14,7 @@
              <notes>
                <note id="n1">A short, descriptive, user-friendly title for the value set.</note>
              </notes>
-        <source>Diagnosis Type</source>
+        <source>Relationship type</source>
         <target></target>
       </trans-unit>
       <trans-unit id="ValueSet-relationship-type-vs" resname="ValueSet.publisher">
@@ -22,7 +22,7 @@
                <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the value set.</note>
              </notes>
         <source>Uzinfocom LLC</source>
-        <target></target>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
       </trans-unit>
       <trans-unit id="ValueSet-relationship-type-vs" resname="ContactDetail.name">
              <notes>
@@ -35,7 +35,7 @@
              <notes>
                <note id="n1">A free text natural language description of the value set from a consumer's perspective. The textual description specifies the span of meanings for concepts to be included within the Value Set Expansion, and also may specify the intended use and limitations of the Value Set.</note>
              </notes>
-        <source>Diagnosis types in Uzbekistan</source>
+        <source>Relationship types in Uzbekistan</source>
         <target></target>
       </trans-unit>
     </body>

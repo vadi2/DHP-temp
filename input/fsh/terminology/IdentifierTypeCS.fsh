@@ -68,3 +68,8 @@ Description: "Types of possible identifiers supplement with translations in Uzbe
   * ^designation[=].value = "Универсальный идентификатор устройства"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Universal qurilma identifikatori"
+* #DEA
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "Регистрационный номер Управления по контролю за лекарственными средствами"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "Dori vositalari nazorati boshqarmasi ro'yxatga olish raqami"

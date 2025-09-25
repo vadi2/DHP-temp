@@ -14,7 +14,7 @@
              <notes>
                <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
              </notes>
-        <source>Relationship Types</source>
+        <source>Relationship type</source>
         <target></target>
       </trans-unit>
       <trans-unit id="CodeSystem-relationship-type-cs" resname="CodeSystem.publisher">
@@ -22,7 +22,7 @@
                <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
              </notes>
         <source>Uzinfocom LLC</source>
-        <target></target>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
       </trans-unit>
       <trans-unit id="CodeSystem-relationship-type-cs" resname="ContactDetail.name">
              <notes>

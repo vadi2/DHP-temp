@@ -21,7 +21,7 @@
           "id" : "CodeSystem.publisher",
           "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
           "source" : "Uzinfocom LLC",
-          "target" : null
+          "target" : "ООО «Единый интегратор Uzinfocom»"
         },
         {
           "id" : "ContactDetail.name",

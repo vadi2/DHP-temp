@@ -14,14 +14,14 @@
         {
           "id" : "CodeSystem.title",
           "context" : "A short, descriptive, user-friendly title for the code system.",
-          "source" : "UZCore data absent reason code sytem",
+          "source" : "Data absent reason",
           "target" : null
         },
         {
           "id" : "CodeSystem.publisher",
           "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
           "source" : "Uzinfocom LLC",
-          "target" : null
+          "target" : "ООО «Единый интегратор Uzinfocom»"
         },
         {
           "id" : "ContactDetail.name",
@@ -32,7 +32,7 @@
         {
           "id" : "CodeSystem.description",
           "context" : "A free text natural language description of the code system from a consumer's perspective.",
-          "source" : "Data absent reason suplement",
+          "source" : "Data absent reason supplement with translations in Uzbek and Russian",
           "target" : null
         },
         {
