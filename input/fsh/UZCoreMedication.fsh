@@ -63,6 +63,8 @@ Description: "UZ Core Medication profile defines the core structure for represen
   * value 1..1 MS
 * code 0..1 MS
 * code from MedicationClassificationVS 
+* status 0..1 MS
+* status from MedicationStatusVS
   
   //Since the analysis of the UZ Core Medication profile has not been completed, the creation of the IG through FHIR FSH has been temporarily suspended.
 
