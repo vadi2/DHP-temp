@@ -5,5 +5,5 @@ Description: "This ValueSet combines the Anatomical Therapeutic Chemical (ATC) c
 * ^url = "https://terminology.dhp.uz/fhir/core/ValueSet/medication-classification-vs"
 * ^experimental = true
 * ^language = #uz
-* include codes from system atc-classification-cs
+* include codes from system $medical-product-classification
 * include codes from system inn-medication-name-cs

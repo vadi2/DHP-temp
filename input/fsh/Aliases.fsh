@@ -105,3 +105,4 @@ Alias: $globalTradeItemID = https://mobile-api.aslbelgisi.uz/gtin
 Alias: $markingID = https://mobile-api.aslbelgisi.uz/marking
 Alias: $uzpharm-agency = https://uzpharmagency.uz/pharm_id
 Alias: $medicaton-status = http://hl7.org/fhir/CodeSystem/medication-status
+Alias: $medical-product-classification = http://hl7.org/fhir/ValueSet/medicinal-product-classification
