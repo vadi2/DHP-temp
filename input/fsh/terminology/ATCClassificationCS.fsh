@@ -898,7 +898,7 @@ Description: "Anatomical Therapeutic Chemical (ATC) classification system for me
 * #A03AB15
   * ^designation[0].language = #ru
   * ^designation[=].value = "Дифенамил"
-  * ^designation[+].anguage = #uz
+  * ^designation[+].language = #uz
   * ^designation[=].value = "Difenamil"
 
 * #A03AB16

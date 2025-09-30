@@ -907,7 +907,7 @@ Description: "Local code system of pharmaceutical dose forms (e.g., tablet, caps
 * #PLM101 "dorivor plastinalar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "пластины лекарственные"
-* #LOM101 "dorivor shiimladigan tabletkalar"
+* #LOZ101 "dorivor shimladigan tabletkalar"
   * ^designation[0].language = #ru
   * ^designation[=].value = "леденцы лекарственные"
 * #DRA101 "draje"

@@ -106,3 +106,5 @@ Alias: $markingID = https://mobile-api.aslbelgisi.uz/marking
 Alias: $uzpharm-agency = https://uzpharmagency.uz/pharm_id
 Alias: $medicaton-status = http://hl7.org/fhir/CodeSystem/medication-status
 Alias: $medical-product-classification = http://hl7.org/fhir/ValueSet/medicinal-product-classification
+Alias: $ucum = http://unitsofmeasure.org
+Alias: $ucum-vs = http://terminology.hl7.org/ValueSet/ucum-common

@@ -69,6 +69,8 @@ Description: "UZ Core Medication profile defines the core structure for represen
 * marketingAuthorizationHolder only Reference(UZCoreOrganization)
 * doseForm MS
 * doseForm from MedicationDoseFormVS
-  
+* totalVolume MS
+* totalVolume only Quantity
+* totalVolume.code from MedicationTotalVolumeUnitsVS (preferred)
   //Since the analysis of the UZ Core Medication profile has not been completed, the creation of the IG through FHIR FSH has been temporarily suspended.
 
