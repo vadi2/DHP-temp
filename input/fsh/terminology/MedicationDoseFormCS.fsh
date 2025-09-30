@@ -2143,3 +2143,408 @@ Description: "Local code system of pharmaceutical dose forms (e.g., tablet, caps
 * #LYO288 "rektal emulsiya tayyorlash uchun liofilizat"
   * ^designation[0].language = #ru
   * ^designation[=].value = "лиофилизат для приготовления эмульсии ректальной"
+* #PIL101 "pilyulalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пилюли"
+* #PLA101 "plasterlar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пластырь"
+* #PLA102 "teri yuzasiga yopishtirish uchun plasterlar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пластырь для наклеивания на поверхность кожи"
+* #PLA103 "og'iz bo'shlig'i shilliq qavati uchun plasterlar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пластырь для слизистой оболочки полости рта"
+* #PLA104 "transdermal plasterlar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пластырь трансдермальный"
+* #TIL101 "plitkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "плитки"
+* #FIL101 "plyonkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пленки"
+* #FIL102 "ko'z plyonkalari"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пленки глазные"
+* #FIL103 "og'iz bo'shlig'ida dispersiyalanadigan plyonkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пленки, диспергируемые в полости рта"
+* #FIL104 "milkka yopishtirish uchun plenkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пленки для наклеивания на десну"
+* #FIL105 "lunj plyonkalari"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пленки защечные"
+* #FIL106 "periodontal plyonkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пленки периодонтальные"
+* #FIL107 "til osti plyonkalari"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "пленки подъязычные"
+* #DRM101 "quruq ekstrakt"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "экстракт сухой"
+* #SUP101 "suppozitoriylar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "суппозитории"
+* #SUP102 "vaginal suppazitoriylar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "суппозитории вагинальные"
+* #SUP103 "rektal suppozitoriylar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "суппозитории ректальные"
+* #SYS101 "sistema"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "система"
+* #SYS102 "vaginal terapevtik sistema"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "система вагинальная терапевтическая"
+* #SYS103 "bachadon ichiga terapevtik sistema"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "система внутриматочная терапевтическая"
+* #AMW101 "so'riladigan dorivor salfetkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "салфетки лекарственные рассасывающиеся"
+* #TAB101 "tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки"
+* #TAB102 "vaginal tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки вагинальные"
+* #TAB103 "vishillovchi vaginal tabletkalari"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки вагинальные шипучие"
+* #TAB104 "bachadon ichi tabletkalari"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки внутриматочные"
+* #TAB105 "og'iz bo'shlig'ida dispersiyalanadigan tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки, диспергируемые в полости рта"
+* #TAB106 "dispersiyalanadigan tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки диспергируемые"
+* #TAB107 "implantatsiya uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для имплантации"
+* #TAB108 "ingalyatsiya uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для ингаляций"
+* #TAB109 "shimish uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для рассасывания"
+* #TAB110 "chaynaladigan tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки жевательные"
+* #TAB111 "lunj orti sohasiga qo’llash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки защечные"
+* #TAB112 "lunj orti sohasiga qo'llash uchun mukoadgeziv tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки защечные мукоадгезивные"
+* #TAB113 "ichakda eriydigan tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки кишечнорастворимые"
+* #TAB114 "ichakda eriydigan, taʼsiri uzaytirilgan tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки кишечнорастворимые с пролонгированным высвобождением"
+* #TAB115 "liofilizat tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки лиофилизат"
+* #TAB116 "til osti tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки подъязычные"
+* #TAB117 "qobiq bilan qoplangan tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки, покрытые оболочкой"
+* #TAB118 "plyonka qobiq bilan qoplangan tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки, покрытые пленочной оболочкой"
+* #TAB119 "eruvchi tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки растворимые"
+* #TAB120 "ajralib chiqarilishi modifikatsiyalangan tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки с модифицированным высвобождением"
+* #TAB121 "taʼsiri uzaytirilgan tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки с пролонгированным высвобождением"
+* #TAB122 "vishillovchi tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки шипучие"
+* #TAB123 "ko'z tomchilarini tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления капель глазных"
+* #TAB124 "taʼsiri uzaytirilgan ko'z tomchilarini tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления капель глазных с пролонгированным высвобождением"
+* #TAB125 "ingalyatsiya uchun tomchi tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления капель для ингаляции"
+* #TAB126 "mahalliy qo'llash uchun tomchi tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления капель для местного применения"
+* #TAB127 "og'iz bo'shlig'iga surtish uchun tomchi tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления капель для нанесения на слизистую оболочку полости рта"
+* #TAB128 "ichga qabul qilish uchun tomchi tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления капель для приема внутрь"
+* #TAB129 "tishga tomchi tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления капель зубных"
+* #TAB130 "burun tomchilarini tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления капель назальных"
+* #TAB131 "til ostiga tomchi tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления капель подъязычных"
+* #TAB132 "quloq tomchilari tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления капель ушных"
+* #TAB133 "qin ichiga eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора вагинального"
+* #TAB134 "bachadon ichiga eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора внутриматочного"
+* #TAB135 "arteriya ichiga yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для внутриартериального введения"
+* #TAB136 "qorin bo'shlig'i ichiga yuborish uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для внутрибрюшинного введения"
+* #TAB137 "vena ichiga yuborish uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для внутривенного введения"
+* #TAB138 "ko'z ichiga yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для внутриглазного введения"
+* #TAB139 "teri ichiga yuborish uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для внутрикожного введения"
+* #TAB140 "koronar tomir ichiga yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для внутрикоронарного введения"
+* #TAB141 "mushak ichiga yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для внутримышечного введения"
+* #TAB142 "bo'shliq ichiga yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для внутриполостного введения"
+* #TAB143 "pufak ichiga yuborish uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для внутрипузырного введения"
+* #TAB144 "bo'g'im ichiga yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для внутрисуставного введения"
+* #TAB145 "gastroenteral yuborish uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для гастроэнтерального введения"
+* #TAB146 "gemodializ uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для гемодиализа"
+* #TAB147 "gemofiltratsiya uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для гемофильтрации"
+* #TAB148 "ingalyatsiya uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для ингаляций"
+* #TAB149 "intraamniotik (amniotik qavat ichiga) yuborish uchun"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для интраамниального введения"
+* #TAB150 "limfa ichiga yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для интралимфатического введения"
+* #TAB151 "infuziya uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для инфузий"
+* #TAB152 "inyeksiya uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для инъекций"
+* #TAB153 "mahalliy qo'llash uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для местного применения"
+* #TAB154 "teri ustiga skarifikatsiya sinamasi uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для накожного скарифицированного нанесения"
+* #TAB155 "milklarga surtish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для нанесения на десны"
+* #TAB156 "sirtga qo'llash uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для наружного применения"
+* #TAB157 "bo'g'im atrofiga yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для околосуставного введения"
+* #TAB158 "meʼdani yuvish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для орошения желудка"
+* #TAB159 "siydik pufagini yuvish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для орошения мочевого пузыря"
+* #TAB160 "parabulbar yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для парабульбарного введения"
+* #TAB161 "peritoneal dializ uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для перитонеального диализа"
+* #TAB162 "teri ostiga yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для подкожного введения"
+* #TAB163 "chayish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для полоскания"
+* #TAB164 "ichga qabul qilish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для приема внутрь"
+* #TAB165 "prik-test o'tkazish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для проведения прик-теста"
+* #TAB166 "ko'zni yuvish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для промывания глаз"
+* #TAB167 "burun bo'shlig'ini yuvish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для промывания полости носа"
+* #TAB168 "og'iz bo'shlig'ini yuvish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для промывания полости рта"
+* #TAB169 "eshitish yo'llarini yuvish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для промывания слухового прохода"
+* #TAB170 "og'iz bo'shlig'i shilliq qavati uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для слизистой оболочки полости рта"
+* #TAB171 "subkonyunktival yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для субконъюктивального введения"
+* #TAB172 "ekstraamniotik (amniotik qavat sirtiga) yuborish uchun eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для экстраамниального введения"
+* #TAB173 "endosinusial yuborish uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для эндосинусиального введения"
+* #TAB174 "endotraxeal yuborish uchun eritmani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора для эндотрахеального введения"
+* #TAB175 "tish eritmasi tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора зубного"
+* #TAB176 "rektal eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора ректального"
+* #TAB177 "transdermal eritma tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления раствора трансдермального"
+* #TAB178 "vaginal suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии вагинальной"
+* #TAB179 "teri ichiga yuborish uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для внутрикожного введения"
+* #TAB180 "mushak ichiga yuborish uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для внутримышечного введения"
+* #TAB181 "bo'g'im ichiga yuborish uchun suspenziyani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для внутрисуставного введения"
+* #TAB182 "gastroenteral yuborish uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для гастроэнтерального введения"
+* #TAB183 "inyeksiya uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для инъекций"
+* #TAB184 "taʼsiri uzaytirilgan inyeksiya uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для инъекций с пролонгированным высвобождением"
+* #TAB185 "implantatsiya uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для имплантации"
+* #TAB186 "ingalyatsiya uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для ингаляций"
+* #TAB187 "mahalliy qo'llash uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для местного применения"
+* #TAB188 "teri ustiga skarifikatsiya sinamasi uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для накожного скарификационного нанесения"
+* #TAB189 "sirtga qo'llash uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для наружного применения"
+* #TAB190 "bo'g'im atrofiga yuborish uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для околосуставного введения"
+* #TAB191 "teri ostiga yuborish uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для подкожного введения"
+* #TAB192 "ichga qabul qilish uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для приема внутрь"
+* #TAB193 "og'iz bo'shlig'i shilliq qavati uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для слизистой оболочки полости рта"
+* #TAB194 "endosinusial yuborish uchun suspenziya tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для эндосинусиального введения"
+* #TAB195 "endotraxeal yuborish uchun suspenziyani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии для эндотрахеального введения"
+* #TAB196 "tish suspenziyasini tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии зубной"
+* #TAB197 "rektal suspenziyani tayyorlash uchun tabletkalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "таблетки для приготовления суспензии ректальной"
+* #TAM101 "dorivor tamponlar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "тампоны лекарственные"
+* #TAM102 "vaginal dorivor tamponlar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "тампоны лекарственные вагинальные"
+* #TAM103 "ingalyatsiya uchun dorivor tamponlar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "тампоны лекарственные для ингаляций"
+* #TAM104 "rektal dorivor tamponlar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "тампоны лекарственные ректальные"
+* #TAM105 "quloq uchun dorivor tamponlar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "тампоны лекарственные ушные"
+* #STI101 "tayoqchalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "палочки"
+* #STI102 "dental tayoqchalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "палочки дентальные"
+* #STI103 "nazal tayoqchalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "палочки назальные"
+* #STI104 "periodontal tayoqchalar"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "палочки периодонтальные"
+* #STI105 "siydik yo'llari tayoqchalari"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "палочки уретральные"
+* #STI106 "quloq tayoqchalari"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "палочки ушные"
+* #MED101 "dorivor tirnoq bo'yog'i"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "лак для ногтей лекарственный"
+* #EXT101 "mahalliy qo'llash uchun ekstrakt"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "экстракт для местного применения"
+* #EXT102 "sirtga qo'llash uchun ekstrakt"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "экстракт для наружного применения"
+* #EXT103 "ichga qabul qilish uchun ekstrakt"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "экстракт для приема внутрь"
+* #SLT102 "erituvchi"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "растворитель"
+* #OTH101 "boshqa dori shakllari"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "другие лекарственные формы"
