@@ -12,12 +12,6 @@ RuleSet: IntAndUzAddressRules
   * type from AddressTypeVS (required)
   * use from AddressUseVS (required)
   * use ^short = "Type of address, home | temp"
-  * country from CountriesDigitalMVDVS (required)
-  * country = countries-digital-mvd-cs#182
-  * country.extension contains iso21090-codedString named iso3166Country 0..1 MS
-  * country.extension[iso3166Country].valueCoding.system = "urn:iso:std:iso:3166"
-  * country.extension[iso3166Country].valueCoding.code = #UZ
-  * country.extension[iso3166Country].valueCoding from ISO3166_2 (required)
   * district from RegionsVS (required)
   * state from StateVS (required)
   * city from MahallaVS (required)
@@ -27,8 +21,8 @@ RuleSet: IntAndUzAddressRules
   * state ^short = "Region code"
   * city ^short = "Mahalla code (citizens' assembly)"
   * country 1..
-  * country ^short = "Country code (Uzbek MVD system with optional ISO3166 extension)"
-  * country.extension[iso3166Country] ^short = "ISO3166 country code (UZ for Uzbekistan)"
+  * country = $iso-3166#UZ
+  * country ^short = "Country code (ISO 3166-1 2 letter code)"
   * period ^short = "Time period when the address was/is used"
 
 * address[i18nAddress]
@@ -37,13 +31,9 @@ RuleSet: IntAndUzAddressRules
   * type from AddressTypeVS (required)
   * use from AddressUseVS (required)
   * use ^short = "Type of address, home | temp"
-  * country from CountriesDigitalMVDVS (required)
-  * country from InternationalCountriesVS (required)
-  * country.extension contains iso21090-codedString named iso3166Country 0..1 MS
-  * country.extension[iso3166Country].valueCoding from ISO3166_2 (required)
+  * country from ISO3166_2SansUZ (required)
   * country 1..
-  * country ^short = "Country code (Uzbek MVD system excluding Uzbekistan, with optional ISO3166 extension)"
-  * country.extension[iso3166Country] ^short = "ISO3166 country code for international interoperability"
+  * country ^short = "Country code (ISO 3166-1 2 letter code)"
   * text ^short = "Text part of the address"
   * line ^short = "Street name or address line"
   * district ^short = "District, county, or administrative division"
@@ -57,7 +47,7 @@ RuleSet: UzAddressRules
   * type from AddressTypeVS (required) 
   * use from AddressUseVS (required) 
   * use ^short = "Type of address, home | temp"
-  * country from CountriesDigitalMVDVS (required) 
+  * country from ISO3166_2 (required)
   * district from RegionsVS (required)
   * state from StateVS (required) 
   * city from MahallaVS (required)

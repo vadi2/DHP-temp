@@ -72,7 +72,7 @@ Usage: #example
   * line = "Farobi, 383"
   * city = "22070022"
   * district = "1735243"
-  * country = "182"
+  * country = "UZ"
 * managingOrganization = Reference(Organization/example-organization)
 
 Instance: example-location-2

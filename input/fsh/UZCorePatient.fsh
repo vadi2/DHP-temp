@@ -186,9 +186,7 @@ Usage: #example
   * use = #temp
   * type = #physical
   * line = "2 квартал 13 дом 12 квартира"
-  * country = "182"
-  * country.extension[iso3166Country].valueCoding.system = "urn:iso:std:iso:3166"
-  * country.extension[iso3166Country].valueCoding.code = #UZ
+  * country = "UZ"
   * district = "1703206"
   * city = "22070011"
   * period.start = "2001-10-16"
@@ -223,9 +221,7 @@ Usage: #example
   * use = #temp
   * type = #physical
   * line = "123 Baker Street"
-  * country = "501"
-  * country.extension[iso3166Country].valueCoding.system = "urn:iso:std:iso:3166"
-  * country.extension[iso3166Country].valueCoding.code = #GB
+  * country = "GB"
   * period.start = "2000-10-16"
 * gender = #female
 * contact
