@@ -44,6 +44,6 @@ FHIR предназначен для стандартизации и обесп�
 
 ### Связанные руководства FHIR
 
-{% include dependency-table-ru.xhtml %}
+{% include dependency-table.xhtml %}
 
-{% include globals-table-ru.xhtml %}
+{% include globals-table.xhtml %}

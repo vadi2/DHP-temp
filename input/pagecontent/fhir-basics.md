@@ -42,32 +42,47 @@ Use country code "182" and include official administrative codes. Use the `_coun
 }]
 ```
 
-##### International addresses
+## Working with Addresses
 
-Use any other country code and free-text address fields. Use the `_country` element with an extension to specify ISO 3166 code (optional but recommended):
+UZ Core supports both Uzbekistan and international addresses.
+
+### Creating an Uzbekistan Address
+
+For Uzbekistan addresses, you must use **coded values** from official registries for administrative divisions. The system validates that district, state, and city match codes from the Digital Population Management (DPM) system:
 
 ```json
-"address": [{
-  "line": ["123 Baker Street"],
-  "use": "temp",
-  "type": "physical",
-  "country": "501",
-  "_country": {
-    "extension": [{
-      "valueCoding": {
-        "system": "urn:iso:std:iso:3166",
-        "code": "GB"
-      },
-      "url": "http://hl7.org/fhir/StructureDefinition/iso21090-codedString"
-    }]
-  },
-}]
+{
+  "address": [{
+    "use": "home",
+    "type": "physical",
+    "country": "UZ",
+    "state": "1727",            // Region code must come from StateVS (e.g., "1727" for Tashkent Region)
+    "district": "1727220",      // District code must come from from RegionsVS (e.g., "1727220" for Bekobod district)
+    "city": "17150085",        // Mahalla code must come from MahallaVS (citizens' assembly)
+    "line": ["Amir Temur ko'chasi"],
+    "text": "Yangi Sergeli mahallasi, Amir Temur ko'chasi, 15-uy, 42-xonadon"
+  }]
+}
 ```
 
-Requirements:
-- Uzbek addresses (country: "182"): must use official government codes for district/state/city per profile
-- International addresses (any other country): use free text for all location fields
-- ISO country extension: optional but recommended for international interoperability
+### Creating an International Address
+
+For non-Uzbekistan addresses, administrative divisions are **free text** without required valuesets, allowing flexible representation of foreign address structures:
+
+```json
+{
+  "address": [{
+    "use": "home",
+    "type": "physical",
+    "country": "US",
+    "state": "California",       // Free text
+    "district": "Los Angeles County",  // Free text
+    "city": "Los Angeles",       // Free text
+    "line": ["123 Main Street", "Apt 4B"],
+    "postalCode": "90001"
+  }]
+}
+```
 
 ### Terminology
 To improve interoperability, standardized terminology is crucial. By using standardized terminology, healthcare information can be collected, documented and processed in similar data concepts. This allows healthcare providers to share and compare clinical knowledge in a consistent and internationally accepted system. FHIR cannot define every code required in a healthcare system across the world, so instead, they provided two resources to manage codes and their meaning, namely:
@@ -96,6 +111,6 @@ For further reading, we recommend to use the following links:
 
 ### Related FHIR IGs
 
-{% include dependency-table-en.xhtml %}
+{% include dependency-table.xhtml %}
 
-{% include globals-table-en.xhtml %}
+{% include globals-table.xhtml %}
