@@ -14,39 +14,11 @@ The basic building blocks of FHIR are called resources, which are represented in
 ### Profiling
 A profile defines the use of a resource in a specific scenario. The term profiling refers to the act of applying constraints to the so-called core resources. These resources are created by workgroups of specialists to accommodate the most common use cases. Because of the generic nature, the rules in this specification are fairly loose. By applying a set of constraints to a FHIR resource, it can be tailored to a specific scenario - such as the specific usecasdes that DHP supports. By combining core resources with the profiles that DHP defines, you can build applications that suit your needs in Uzbekistan's healthcare ecosystem.
 
-#### Working with addresses
-
-UZ Core supports both Uzbekistan and international addresses. 
-
-##### Uzbekistan addresses
-
-Use country code "182" and include official administrative codes. Use the `_country` element with an extension to specify ISO 3166 code (optional but recommended).
-
-```json
-"address": [{
-  "line": ["2 квартал 13 дом 12 квартира"],
-  "country": "182",
-  "_country": {
-    "extension": [{
-      "valueCoding": {
-        "system": "urn:iso:std:iso:3166",
-        "code": "UZ"
-      },
-      "url": "http://hl7.org/fhir/StructureDefinition/iso21090-codedString"
-    }]
-  },
-  "use": "temp",
-  "type": "physical",
-  "district": "1703206",
-  "city": "22070011"
-}]
-```
-
-## Working with Addresses
+## Working with addresses
 
 UZ Core supports both Uzbekistan and international addresses.
 
-### Creating an Uzbekistan Address
+### Creating an Uzbekistan address
 
 For Uzbekistan addresses, you must use **coded values** from official registries for administrative divisions. The system validates that district, state, and city match codes from the Digital Population Management (DPM) system:
 
@@ -56,9 +28,9 @@ For Uzbekistan addresses, you must use **coded values** from official registries
     "use": "home",
     "type": "physical",
     "country": "UZ",
-    "state": "1727",            // Region code must come from StateVS (e.g., "1727" for Tashkent Region)
-    "district": "1727220",      // District code must come from from RegionsVS (e.g., "1727220" for Bekobod district)
-    "city": "17150085",        // Mahalla code must come from MahallaVS (citizens' assembly)
+    "state": "1727",            // Region code must come from https://terminology.dhp.uz/fhir/core/ValueSet/state-vs (e.g., "1727" for Tashkent Region)
+    "district": "1727220",      // District code must come from from https://terminology.dhp.uz/fhir/core/ValueSet/regions-vs (e.g., "1727220" for Bekobod district)
+    "city": "17150085",        // Mahalla code must come from https://terminology.dhp.uz/fhir/core/ValueSet/mahalla-vs (citizens' assembly)
     "line": ["Amir Temur ko'chasi"],
     "text": "Yangi Sergeli mahallasi, Amir Temur ko'chasi, 15-uy, 42-xonadon"
   }]
