@@ -256,6 +256,18 @@ Description: "Medicaion total volume UCUM units with Uzbek and Russian translati
   * ^designation[+].language = #ru
   * ^designation[=].value = "единица D-антигена"
 
+* #{OD_unit}
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "optik birlik"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "оптическая единица"
+
+* #ug/uL
+  * ^designation[0].language = #uz
+  * ^designation[=].value = "mikrolitrda mikrogramm"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "микрограмм на микролитр"
+
 /* UCUM arbitrary unit with a decimal multiplier
 * #10*6.{cell}
   * ^designation[0].language = #uz

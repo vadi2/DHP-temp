@@ -220,6 +220,20 @@
         <source>Universal qurilma identifikatori</source>
         <target></target>
       </trans-unit>
+      <trans-unit id="CodeSystem-identifier-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Регистрационный номер Управления по контролю за лекарственными средствами</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-identifier-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Dori vositalari nazorati boshqarmasi ro'yxatga olish raqami</source>
+        <target></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

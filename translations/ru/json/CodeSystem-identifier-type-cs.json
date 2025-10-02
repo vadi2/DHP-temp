@@ -190,6 +190,18 @@
           "context" : "The text value for this designation.",
           "source" : "Universal qurilma identifikatori",
           "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Регистрационный номер Управления по контролю за лекарственными средствами",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Dori vositalari nazorati boshqarmasi ro'yxatga olish raqami",
+          "target" : null
         }
       ]
     }

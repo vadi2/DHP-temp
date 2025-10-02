@@ -20,13 +20,14 @@ Description: "UZ Core Medication profile defines the core structure for represen
     globalTradeItemID 0..1 MS and 
     markingID 0..1 MS and 
     productServiceID 0..1 MS and
-    uzpharmInfo 0..1 MS
+    uzpharmInfo 0..1 MS and
+    registrationCertificateID 0..1 MS
 
 * identifier[uzpharmBoxGroupID]
   * system 1..1 MS
   * system = $uzpharmBoxGroupID
   * type 1..1 MS
-  * type = $medicine-identifier-types#box_group_id "Dori qadoq identifikatori"
+  * type = $medicine-identifier-types#box_group_id "Medicine packaging identifier"
   * use = #official
   * value 1..1 MS
 
@@ -34,7 +35,7 @@ Description: "UZ Core Medication profile defines the core structure for represen
   * system 1..1 MS
   * system = $globalTradeItemID 
   * type 1..1 MS
-  * type = $medicine-identifier-types#gtin "Global savdo elementi raqami"
+  * type = $medicine-identifier-types#gtin "Global Trade Item Number"
   * use = #official
   * value 1..1 MS
 
@@ -42,7 +43,15 @@ Description: "UZ Core Medication profile defines the core structure for represen
   * system 1..1 MS
   * system = $markingID
   * type 1..1 MS
-  * type = $medicine-identifier-types#marking "Markirovka"
+  * type = $medicine-identifier-types#marking "Marking"
+  * use = #official
+  * value 1..1 MS
+
+* identifier[registrationCertificateID]
+  * system 1..1 MS
+  * system = $registrationCertificateID
+  * type 1..1 MS
+  * type = $medicine-identifier-types#registration_number "Registration Certificate"
   * use = #official
   * value 1..1 MS
 
@@ -50,7 +59,7 @@ Description: "UZ Core Medication profile defines the core structure for represen
   * system 1..1 MS
   * system = $productServiceID
   * type 1..1 MS
-  * type = $medicine-identifier-types#icps "Mahsulot va xizmatlar identifikatsiya kodlari"
+  * type = $medicine-identifier-types#icps "Product and service identification codes"
   * use = #official
   * value 1..1 MS
 
@@ -58,7 +67,7 @@ Description: "UZ Core Medication profile defines the core structure for represen
   * system 1..1 MS
   * system = $uzpharm-agency
   * type 1..1 MS
-  * type = $medicine-identifier-types#pharm_id "Farmasevtika agentlik dorining IDsi"
+  * type = $medicine-identifier-types#pharm_id "Pharmaceutical agency drug ID"
   * use = #official
   * value 1..1 MS
 * code MS
@@ -72,6 +81,21 @@ Description: "UZ Core Medication profile defines the core structure for represen
 * totalVolume MS
 * totalVolume only Quantity
 * totalVolume.code from MedicationTotalVolumeUnitsVS (preferred)
-* totalVolume.comparator.code from QuantityComparatorVS
-  //Since the analysis of the UZ Core Medication profile has not been completed, the creation of the IG through FHIR FSH has been temporarily suspended.
+* totalVolume.comparator from QuantityComparatorVS
+
+* ingredient MS
+* ingredient.item only CodeableReference (UZCoreMedication)
+* ingredient.item from MedicationClassificationVS
+
+* ingredient.strength[x] MS
+* ingredient.strengthRatio.numerator.code from MedicationTotalVolumeUnitsVS (preferred)
+* ingredient.strengthRatio.denominator.code from MedicationTotalVolumeUnitsVS (preferred)
+* ingredient.strengthRatio.numerator.comparator from QuantityComparatorVS
+
+* batch MS
+  * ^short = "Подробная информация об упакованных лекарствах"
+* batch.lotNumber ^short = "Идентификатор, присвоенный партии (АИК)"
+* batch.expirationDate ^short = "Когда истекает срок годности партии"
+
+
 

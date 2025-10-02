@@ -28,7 +28,7 @@ Description: "Encounter reason use codes with English and Russian translations"
   * ^designation[0].language = #en
   * ^designation[=].value = "Registration Certificate"
   * ^designation[+].language = #ru
-  * ^designation[=].value = "Регистрационное Удостоверение "
+  * ^designation[=].value = "Регистрационное Удостоверение"
 * #marking "Markirovka"
   * ^designation[0].language = #en
   * ^designation[=].value = "Marking"

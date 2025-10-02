@@ -154,3 +154,13 @@ msgstr ""
 msgid "Universal qurilma identifikatori"
 msgstr ""
 
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Регистрационный номер Управления по контролю за лекарственными средствами"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Dori vositalari nazorati boshqarmasi ro'yxatga olish raqami"
+msgstr ""
+
