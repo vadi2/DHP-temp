@@ -8,5 +8,4 @@ Description: "This ValueSet combines the Anatomical Therapeutic Chemical (ATC) c
 * ^extension[=].valueCanonical = Canonical(ATCClassificationCS)
 
 * include codes from system $medical-product-classification
-//TO DO write codesystem or supplement?
 * include codes from system inn-medication-name-cs 

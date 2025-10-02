@@ -58,13 +58,13 @@ Description: "Local code system for representing measurement units of total medi
   * ^designation[0].language = #ru
   * ^designation[=].value = "единица мутности"
 
-* #ep-act-unit "Yevropa farmakopeyasining taʼsir birligi"
+* #ep-act-unit "Yevropa farmakopeyasining ta'sir birligi"
   * ^designation[+].language = #en
   * ^designation[=].value = "European Pharmacopoeia unit of action"
   * ^designation[0].language = #ru
   * ^designation[=].value = "единица действия Европейской фармакопеи"
 
-* #bioact-unit "biologik faollikning taʼsir birligi"
+* #bioact-unit "biologik faollikning ta'sir birligi"
   * ^designation[+].language = #en
   * ^designation[=].value = "unit of action of biological activity"
   * ^designation[0].language = #ru
@@ -112,7 +112,7 @@ Description: "Local code system for representing measurement units of total medi
   * ^designation[0].language = #ru
   * ^designation[=].value = "единица иммуноферментного анализа"
 
-* #antithrombotic-IU "antitrombotik taʼsirning xalqaro birligi"
+* #antithrombotic-IU "antitrombotik ta'sirning xalqaro birligi"
   * ^designation[+].language = #en
   * ^designation[=].value = "international unit of antithrombotic action"
   * ^designation[0].language = #ru
@@ -130,7 +130,7 @@ Description: "Local code system for representing measurement units of total medi
   * ^designation[0].language = #ru
   * ^designation[=].value = "единица полулетальной дозы"
 
-* #elisa-bioact-unit "Elayza biologik faolligining taʼsir birligi"
+* #elisa-bioact-unit "Elayza biologik faolligining ta'sir birligi"
   * ^designation[+].language = #en
   * ^designation[=].value = "Elisa biological activity unit (ELISA)"
   * ^designation[0].language = #ru
@@ -148,7 +148,7 @@ Description: "Local code system for representing measurement units of total medi
   * ^designation[0].language = #ru
   * ^designation[=].value = "единицы дозы полупатологоанатомических изменений"
 
-* #PCD50-unit "yarimsitopatik taʼsir birligi dozasi"
+* #PCD50-unit "yarimsitopatik ta'sir birligi dozasi"
   * ^designation[+].language = #en
   * ^designation[=].value = "unit dose of semi-cytopathic effect"
   * ^designation[0].language = #ru
@@ -178,13 +178,13 @@ Description: "Local code system for representing measurement units of total medi
   * ^designation[0].language = #ru
   * ^designation[=].value = "единица антигена"
 
-* #frog-unit "qurbaqa taʼsiri birligi"
+* #frog-unit "qurbaqa ta'siri birligi"
   * ^designation[+].language = #en
   * ^designation[=].value = "frog action unit"
   * ^designation[0].language = #ru
   * ^designation[=].value = "лягушачья единица действия"
 
-* #bioact-unit-per-mL "millilitrda biologik faollikning taʼsir birligi"
+* #bioact-unit-per-mL "millilitrda biologik faollikning ta'sir birligi"
   * ^designation[+].language = #en
   * ^designation[=].value = "unit of biological activity per milliliter"
   * ^designation[0].language = #ru

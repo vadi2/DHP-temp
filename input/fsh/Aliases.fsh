@@ -108,3 +108,4 @@ Alias: $medicaton-status = http://hl7.org/fhir/CodeSystem/medication-status
 Alias: $medical-product-classification = http://hl7.org/fhir/ValueSet/medicinal-product-classification
 Alias: $ucum = http://unitsofmeasure.org
 Alias: $ucum-vs = http://terminology.hl7.org/ValueSet/ucum-common
+Alias: $quantity-comparator = http://hl7.org/fhir/quantity-comparator
