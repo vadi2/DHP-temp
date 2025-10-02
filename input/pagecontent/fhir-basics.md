@@ -14,42 +14,42 @@ The basic building blocks of FHIR are called resources, which are represented in
 ### Profiling
 A profile defines the use of a resource in a specific scenario. The term profiling refers to the act of applying constraints to the so-called core resources. These resources are created by workgroups of specialists to accommodate the most common use cases. Because of the generic nature, the rules in this specification are fairly loose. By applying a set of constraints to a FHIR resource, it can be tailored to a specific scenario - such as the specific usecasdes that DHP supports. By combining core resources with the profiles that DHP defines, you can build applications that suit your needs in Uzbekistan's healthcare ecosystem.
 
-## Working with addresses
+### Working with addresses
 
 UZ Core supports both Uzbekistan and international addresses.
 
-### Creating an Uzbekistan address
+#### Creating an Uzbekistan address
 
 For Uzbekistan addresses, you must use **coded values** from official registries for administrative divisions. The system validates that district, state, and city match codes from the Digital Population Management (DPM) system:
 
-```json
+```jsonc
 {
   "address": [{
     "use": "home",
     "type": "physical",
     "country": "UZ",
-    "state": "1727",            // Region code must come from https://terminology.dhp.uz/fhir/core/ValueSet/state-vs (e.g., "1727" for Tashkent Region)
-    "district": "1727220",      // District code must come from from https://terminology.dhp.uz/fhir/core/ValueSet/regions-vs (e.g., "1727220" for Bekobod district)
-    "city": "17150085",        // Mahalla code must come from https://terminology.dhp.uz/fhir/core/ValueSet/mahalla-vs (citizens' assembly)
+    "state": "1727",            // Region code must come from https://terminology.dhp.uz/fhir/core/ValueSet/state-vs (e.g., 1727 for Tashkent Region)
+    "district": "1727220",      // District code must come from from https://terminology.dhp.uz/fhir/core/ValueSet/regions-vs (e.g., 1727220 for Bekobod district)
+    "city": "17150085",         // Mahalla code must come from https://terminology.dhp.uz/fhir/core/ValueSet/mahalla-vs (citizens' assembly)
     "line": ["Amir Temur ko'chasi"],
     "text": "Yangi Sergeli mahallasi, Amir Temur ko'chasi, 15-uy, 42-xonadon"
   }]
 }
 ```
 
-### Creating an International Address
+#### Creating an International address
 
-For non-Uzbekistan addresses, administrative divisions are **free text** without required valuesets, allowing flexible representation of foreign address structures:
+For non-Uzbekistan addresses, administrative divisions are free text without required valuesets, allowing flexible representation of foreign address structures:
 
-```json
+```jsonc
 {
   "address": [{
     "use": "home",
     "type": "physical",
     "country": "US",
-    "state": "California",       // Free text
+    "state": "California",             // Free text
     "district": "Los Angeles County",  // Free text
-    "city": "Los Angeles",       // Free text
+    "city": "Los Angeles",             // Free text
     "line": ["123 Main Street", "Apt 4B"],
     "postalCode": "90001"
   }]
@@ -83,6 +83,6 @@ For further reading, we recommend to use the following links:
 
 ### Related FHIR IGs
 
-{% include dependency-table.xhtml %}
+{% include dependency-table-en.xhtml %}
 
-{% include globals-table.xhtml %}
+{% include globals-table-en.xhtml %}
