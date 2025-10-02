@@ -37,6 +37,7 @@ Alias: $identifier-use = http://hl7.org/fhir/identifier-use
 Alias: $iiv = https://gov.uz/ru/iiv
 Alias: $imposeProfile = http://hl7.org/fhir/StructureDefinition/structuredefinition-imposeProfile
 Alias: $iso-3166 = urn:iso:std:iso:3166
+Alias: $iso3166-1-2 = http://hl7.org/fhir/ValueSet/iso3166-1-2
 Alias: $issue-severity = http://hl7.org/fhir/issue-severity
 Alias: $location-status = http://hl7.org/fhir/location-status
 Alias: $location-unit = https://dhp.uz/fhir/core/NamingSystem/location-unit
