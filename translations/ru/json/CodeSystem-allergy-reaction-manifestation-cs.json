@@ -1,0 +1,485 @@
+{
+  "id" : "CodeSystem-allergy-reaction-manifestation-cs",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "CodeSystem.name",
+          "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "ReactionManifestationCS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.title",
+          "context" : "A short, descriptive, user-friendly title for the code system.",
+          "source" : "Reaction manifestation codes",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
+          "source" : "Uzinfocom LLC",
+          "target" : "ООО «Единый интегратор Uzinfocom»"
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.description",
+          "context" : "A free text natural language description of the code system from a consumer's perspective.",
+          "source" : "Local codes and multilingual names for allergy symptoms.",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Aksirish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sneezing",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Burun oqishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Nasal discharge",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Burun qichishishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Itchy nose",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Burunda polip borligi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "The presence of polyps in the nose (Nasal polyposis)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Burundan toza rangsiz suyuqlik kelishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Clear, colorless discharge from the nose",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Xurrak otish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Snoring",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Xid bilishning pasayishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Loss of sense of smell",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Yuz, soxasida og'riq",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Pain in face",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Tomoqda og'riq, achishish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sore throat; Pain in throat",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Tomoq qichishish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Itching in the tonsil",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Og'iz bo'shlig'i yumshoq to'qimalarining qichishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Pruritus of oral soft tissues",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ovoz bo'g'ilishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Choking",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Yo'tal",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Coughing",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Burindan tomog'iga suyuqlik oqishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Nasal discharge into the throat",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Tomoq qurib ketishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Dry throat",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Tomoqning tiqilishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Congestion of throat",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Tomoqning shishishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sweelling of throat,Pharyngeal swelling",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Tomoq qizarishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Redness of throat",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Shovqinli nafas ( xirillashlar )",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Noisy breathing",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Nafas siqishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Shortness of breath (Dyspnea)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Xavo yetishmasligi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Shortness of breath",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ko'krak qafasida siqilish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Chest tightness",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Balg'am ajralishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sputum (Expectoration)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Quloq qichishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Itching of ear",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Eshitishning pasayishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Hearing loss",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Quloq shangillashi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ringing in ears",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Quloq bitib qolishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sensation of blocked ear",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Kulodqan suyuqlik kelishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Otorrhea, discharge of ear",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ko'zda qichishish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Itchy eyes",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ko'z qizarishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Redness of the eyes",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ko'z atrofi shishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Edema of eyelid",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ko'zning tez qurib qolishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Rapid drying of the eyes",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ko'z yoshlanishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tearing",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Terisida toshmalar toshishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Skin rash",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Terisida qichishish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Itchy skin",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Terining qurib ketishi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Dry skin",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Barmorlar kaft soxasida shish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Edema of palm of hand",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

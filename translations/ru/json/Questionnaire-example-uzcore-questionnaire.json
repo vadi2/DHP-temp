@@ -1,0 +1,113 @@
+{
+  "id" : "Questionnaire-example-uzcore-questionnaire",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "Questionnaire.name",
+          "context" : "A natural language name identifying the questionnaire. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "HabitQuestionnaire",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.title",
+          "context" : "A short, descriptive, user-friendly title for the questionnaire.",
+          "source" : "Анкета о привычках пациента",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the questionnaire.",
+          "source" : "Uzinfocom LLC",
+          "target" : "ООО «Единый интегратор Uzinfocom»"
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.description",
+          "context" : "A free text natural language description of the questionnaire from a consumer's perspective.",
+          "source" : "Эта анкета используется для сбора базовой информации о привычках пациента в медицинских организациях.",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.purpose",
+          "context" : "Explanation of why this questionnaire is needed and why it has been designed as it has.",
+          "source" : "Сбор данных о курении и употреблении алкоголя для дальнейшего анализа.",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.text",
+          "context" : "The name of a section, the text of a question or text content for a display item.",
+          "source" : "Вы курите?",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.text",
+          "context" : "The name of a section, the text of a question or text content for a display item.",
+          "source" : "Сколько лет Вы курите?",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.enableWhen.question",
+          "context" : "The linkId for the question whose answer (or lack of answer) governs whether this item is enabled.",
+          "source" : "q1",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.enableWhen.answer[x]",
+          "context" : "A value that the referenced question is tested using the specified operator in order for the item to be enabled.  If there are multiple answers, a match on any of the answers suffices.  If different behavior is desired (all must match, at least 2 must match, etc.), consider using the enableWhenExpression extension.",
+          "source" : "true",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.text",
+          "context" : "The name of a section, the text of a question or text content for a display item.",
+          "source" : "Вы употребляете алкоголь?",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.text",
+          "context" : "The name of a section, the text of a question or text content for a display item.",
+          "source" : "Как часто Вы употребляете алкоголь?",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.enableWhen.question",
+          "context" : "The linkId for the question whose answer (or lack of answer) governs whether this item is enabled.",
+          "source" : "q3",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.answerOption.value[x]",
+          "context" : "A potential answer that's allowed as the answer to this question.",
+          "source" : "Каждый день",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.answerOption.value[x]",
+          "context" : "A potential answer that's allowed as the answer to this question.",
+          "source" : "Раз в неделю",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.answerOption.value[x]",
+          "context" : "A potential answer that's allowed as the answer to this question.",
+          "source" : "Раз в месяц",
+          "target" : null
+        },
+        {
+          "id" : "Questionnaire.item.answerOption.value[x]",
+          "context" : "A potential answer that's allowed as the answer to this question.",
+          "source" : "Редко",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

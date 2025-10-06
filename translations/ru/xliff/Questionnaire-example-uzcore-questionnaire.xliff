@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="Questionnaire-example-uzcore-questionnaire" original="Resource Questionnaire-example-uzcore-questionnaire" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.name">
+             <notes>
+               <note id="n1">A natural language name identifying the questionnaire. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>HabitQuestionnaire</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the questionnaire.</note>
+             </notes>
+        <source>Анкета о привычках пациента</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the questionnaire.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.description">
+             <notes>
+               <note id="n1">A free text natural language description of the questionnaire from a consumer's perspective.</note>
+             </notes>
+        <source>Эта анкета используется для сбора базовой информации о привычках пациента в медицинских организациях.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.purpose">
+             <notes>
+               <note id="n1">Explanation of why this questionnaire is needed and why it has been designed as it has.</note>
+             </notes>
+        <source>Сбор данных о курении и употреблении алкоголя для дальнейшего анализа.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.text">
+             <notes>
+               <note id="n1">The name of a section, the text of a question or text content for a display item.</note>
+             </notes>
+        <source>Вы курите?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.text">
+             <notes>
+               <note id="n1">The name of a section, the text of a question or text content for a display item.</note>
+             </notes>
+        <source>Сколько лет Вы курите?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.enableWhen.question">
+             <notes>
+               <note id="n1">The linkId for the question whose answer (or lack of answer) governs whether this item is enabled.</note>
+             </notes>
+        <source>q1</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.enableWhen.answer[x]">
+             <notes>
+               <note id="n1">A value that the referenced question is tested using the specified operator in order for the item to be enabled.  If there are multiple answers, a match on any of the answers suffices.  If different behavior is desired (all must match, at least 2 must match, etc.), consider using the enableWhenExpression extension.</note>
+             </notes>
+        <source>true</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.text">
+             <notes>
+               <note id="n1">The name of a section, the text of a question or text content for a display item.</note>
+             </notes>
+        <source>Вы употребляете алкоголь?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.text">
+             <notes>
+               <note id="n1">The name of a section, the text of a question or text content for a display item.</note>
+             </notes>
+        <source>Как часто Вы употребляете алкоголь?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.enableWhen.question">
+             <notes>
+               <note id="n1">The linkId for the question whose answer (or lack of answer) governs whether this item is enabled.</note>
+             </notes>
+        <source>q3</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.answerOption.value[x]">
+             <notes>
+               <note id="n1">A potential answer that's allowed as the answer to this question.</note>
+             </notes>
+        <source>Каждый день</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.answerOption.value[x]">
+             <notes>
+               <note id="n1">A potential answer that's allowed as the answer to this question.</note>
+             </notes>
+        <source>Раз в неделю</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.answerOption.value[x]">
+             <notes>
+               <note id="n1">A potential answer that's allowed as the answer to this question.</note>
+             </notes>
+        <source>Раз в месяц</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="Questionnaire-example-uzcore-questionnaire" resname="Questionnaire.item.answerOption.value[x]">
+             <notes>
+               <note id="n1">A potential answer that's allowed as the answer to this question.</note>
+             </notes>
+        <source>Редко</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

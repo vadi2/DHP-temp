@@ -1,0 +1,47 @@
+{
+  "id" : "NamingSystem-allergy-intolerance-identifier",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "NamingSystem.name",
+          "context" : "A natural language name identifying the naming system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "UZ_DHP_AllergyIntolerance_Identifier",
+          "target" : null
+        },
+        {
+          "id" : "NamingSystem.title",
+          "context" : "A short, descriptive, user-friendly title for the naming system.",
+          "source" : "DHP UZ AllergyIntolerance Identifier System",
+          "target" : null
+        },
+        {
+          "id" : "NamingSystem.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the naming system.",
+          "source" : "Uzinfocom LLC",
+          "target" : "ООО «Единый интегратор Uzinfocom»"
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "NamingSystem.description",
+          "context" : "A free text natural language description of the naming system from a consumer's perspective. Details about what the namespace identifies including scope, granularity, version labeling, etc.",
+          "source" : "Identifier namespace used for AllergyIntolerance resources in the Uzbekistan DHP.",
+          "target" : null
+        },
+        {
+          "id" : "NamingSystem.uniqueId.value",
+          "context" : "The string that should be sent over the wire to identify the code system or identifier system.",
+          "source" : "https://terminology.dhp.uz/fhir/core/AllergyIntolerance",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

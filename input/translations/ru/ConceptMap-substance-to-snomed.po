@@ -1,0 +1,2976 @@
+
+# A natural language name identifying the concept map. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: ConceptMap.name
+msgid "AllergySubstanceToSnomed"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the concept map.
+#: ConceptMap.title
+msgid "UZ local allergy substance → SNOMED CT"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the concept map.
+#: ConceptMap.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the concept map from a consumer's perspective.
+#: ConceptMap.description
+msgid "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIntolerance.reaction.substance."
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ajiriq (Cyn d)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cyn d"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ajiriq (Cyn d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cyn d 1"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ko'p yillik mastak (Lol p 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Lol p 1"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Paspalum/grechka (Pas n)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Paspalum/conspicuous buckwheat (Pas n)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ajiriqbosh (Phl p 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Timothy grass (Phl p 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ajiriqbosh (Phl p 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Timothy grass (Phl p 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ajiriqbosh (Phl p 5-0101)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Timothy grass (Phl p 5-0101)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ajiriqbosh (Phl p 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Timothy grass (Phl p 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ajiriqbosh (Phl p 7)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Timothy grass (Phl p 7)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ajiriqbosh (Phl p 12)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Timothy grass (Phl p 12)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qamish (Phr c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Reed (Phr c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Javdar changi (Sec c pollen)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Rye, pollen (Sec c pollen)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kumush akatsiya (Aca m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Silver acacia (Aca m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Baland aylant (Ail a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Ailanthus altissima (Ail a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qandag'och (Aln g 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Alder (Aln g 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qandag'och (Aln g 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Alder (Aln g 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Serbuqoq qayin (Bet v 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Bet v 1"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Serbuqoq qayin (Bet v 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Bet v 2"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Serbuqoq qayin (Bet v 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Bet v 6"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qog'ozdaraxt (tut) (Bro pa)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Paper mulberry (Bro pa)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "O'rmon yong'og'i (Cor a_pollen)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Hazel (Cor a_pollen)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "O'rmon yong'og'i (Cor a 1-0103)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Hazel (Cor a 1-0103)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yapon kriptomeriyasi (Cry j 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cryptomeria japonica (Cry j 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sarv (Cup a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cypress (Cup a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sarv (Cup s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cypress (Cup s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qoraqayin (Fag s 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Beech (Fag s 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Shumtol (Fra e)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Ash (Fra e)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Shumtol (Fra e 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Ash (Fra e 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yong'oq changi (Jug r_pollen)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Walnut, pollen (Jug r_pollen)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kedr (Jun a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cedar (Jun a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tut (Mor r)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Mulberry (Mor r)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Zaytun (Ole e 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Olive (Ole e 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Zaytun (Ole e 9)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Olive (Ole e 9)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Xurmo daraxti (Pho d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Date palm (Pho d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Chinor (Pla a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Plane maple (Pla a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Chinor (Pla a 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Plane tree (Pla a 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Chinor (Pla a 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Plane tree (Pla a 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Terak (Pop n)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Poplar (Pop n)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qayrag'och (Ulm c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Elm (Ulm c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oddiy olabuta (Ama r)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Common goosefoot (Ama r)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ambroziya (Amb a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Ragweed (Amb a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ambroziya (Amb a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Ragweed (Amb a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ambroziya (Amb a 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Ragweed (Amb a 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Shuvoq (Art v)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Wormwood (Art v)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Shuvoq (Art v 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Wormwood (Art v 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Shuvoq (Art v 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Wormwood (Art v 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Nasha (Can s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Hemp (Can s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Nasha (Can s 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Hemp (Can s 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oq olabuta (Che a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "White goosefoot (Che a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oq olabuta (Che a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "White goosefoot (Che a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Bir yillik prolesnik (Mer a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Annual wood-snow (Mer a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Postennitsa (Par j)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Wallflower (Par j)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Postennitsa (Par j 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Wallflower (Par j 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Zubturum (Pla l)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Plantain (Pla l)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Zubturum (Pla l 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Plantain (Pla l 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sho'rak (Sal k)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Salwort (Sal k)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sho'rak (Sal k 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Salwort (Sal k 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Gazanda (Urt d)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Nettle (Urt d)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Amerika uy changi kanasi (Der f 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "American house dust mite (Der f 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Amerika uy changi kanasi (Der f 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "American house dust mite (Der f 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yevropa uy changi kanasi (Der p 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "European house dust mite (Der p 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yevropa uy changi kanasi (Der p 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "European house dust mite (Der p 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yevropa uy changi kanasi (Der p 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "European house dust mite (Der p 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yevropa uy changi kanasi (Der p 7)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "European house dust mite (Der p 7)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yevropa uy changi kanasi (Der p 10)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "European house dust mite (Der p 10)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yevropa uy changi kanasi (Der p 11)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "European house dust mite (Der p 11)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yevropa uy changi kanasi (Der p 20)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "European house dust mite (Der p 20)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yevropa uy changi kanasi (Der p 21)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "European house dust mite (Der p 21)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yevropa uy changi kanasi (Der p 23)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "European house dust mite (Der p 23)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Un kanasi (Aca s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Barn or flour mite (Acarus siro) (Aca s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy changi kanasi Blomia tropicalis (Blo t 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "House dust mite Blomia tropicalis (Blo t 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy changi kanasi Blomia tropicalis (Blo t 10)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "House dust mite Blomia tropicalis (Blo t 10)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy changi kanasi Blomia tropicalis (Blo t 21)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "House dust mite Blomia tropicalis (Blo t 21)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy changi kanasi Glycyphagus domesticus (Gly d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "House dust mite Glycyphagus domesticus (Gly d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy changi kanasi Lepidoglyphus destructor (Lep d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "House dust mite Lepidoglyphus destructor (Lep d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy changi kanasi Tyrophagus putrescentiae (Tyr p)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "House dust mite Tyrophagus putrescentiae (Tyr p)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy changi kanasi Tyrophagus putrescentiae (Tyr p 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "House dust mite Tyrophagus putrescentiae (Tyr p 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Xamirturushli zamburug' Malassezia sympodialis (Mala s 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Yeasts of the genus Malassezia Malassezia sympodialis (Mala s 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Xamirturushli zamburug' Malassezia sympodialis (Mala s 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Yeasts of the genus Malassezia Malassezia sympodialis (Mala s 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Xamirturushli zamburug' Malassezia sympodialis (Mala s 11)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Yeasts of the genus Malassezia Malassezia sympodialis (Mala s 11)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Novvoylik xamiturushlari (Sac c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Baker's yeast (Sac c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Alternariya (Alternaria alternata) (Alt a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Alternaria (Alternaria alternata) (Alt a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Alternariya (Alternaria alternata) (Alt a 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Alternaria (Alternaria alternata) (Alt a 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Aspergillus fumigatus (Asp f 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Aspergillus fumigatus (Asp f 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Aspergillus fumigatus (Asp f 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Aspergillus fumigatus (Asp f 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Cladosporium herbarum (Cla h)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cladosporium herbarum (Cla h)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Cladosporium herbarum (Cla h 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cladosporium herbarum (Cla h 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oltinrang penitsillin (Penicilium chrysogenum) (Pen ch)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Penicillium chrysogenum (Pen ch)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yeryong'oq (Ara h 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Peanuts (Ara h 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yeryong'oq (Ara h 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Peanut (Ara h 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yeryong'oq (Ara h 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Peanut (Ara h 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yeryong'oq (Ara h 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Peanut (Ara h 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yeryong'oq (Ara h 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Peanut (Ara h 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yeryong'oq (Ara h 9)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Peanut (Ara h 9)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yeryong'oq (Ara h 15)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Peanut (Ara h 15)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oddiy no'xat (Cic a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Chickpea (Cic a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Soya loviyasi (Gly m 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Soybean (Gly m 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Soya loviyasi (Gly m 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Soybean (Gly m 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Soya loviyasi (Gly m 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Soybean (Gly m 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Soya loviyasi (Gly m 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Soybean (Gly m 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yasmiq (Len c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Lentils (Len c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yashil loviya (Pha v)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Green beans (Pha v)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "No'xat (Pis s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Peas (Pis s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Suli (Ave s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Oats (Ave s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kinoa (Che q)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Quinoa (Che q)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oddiy marjumak (Fag e)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Buckwheat (Fag e)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oddiy marjumak (Fag e 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Buckwheat (Fag e 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Arpa (Hor v)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Barley (Hor v)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Bo'rilukkak urug'i (Lup a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Lupin seeds (Lup a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Guruch (Ory s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Rice (Ory s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tariq (Pan m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Millet (Pan m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Javdar (Sec c_flour)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Rye (Sec c_flour)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Bo'g'doy (Tri a aA_TI)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Wheat (Tri a aA_TI)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Bo'g'doy (Tri a 14)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Wheat (Tri a 14)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Bo'g'doy (Tri a 19)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Wheat (Tri a 19)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Spelta bo'g'doyi (Tri s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Spelt wheat (Tri s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Makkajo'hori (Zea m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Corn (Zea m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Makkajo'hori (Zea m 14)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Corn (Zea m 14)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Paprika (Cap a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Paprika (Cap a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oddiy zira (Car c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Caraway (Car c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oregano (Ori v)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Oregano (Ori v)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Maydanoz (Pet c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Parsley (Pet c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Arpabodiyon (Pim a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Anise (Pim a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Xantal (Sin)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Mustard (Sin)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Xantal (Sin a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Mustard (Sin a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kivi (Act d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Kiwi (Act d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kivi (Act d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Kiwi (Act d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kivi (Act d 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Kiwi (Act d 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kivi (Act d 10)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Kiwi (Act d 10)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Papayya (Car p)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Papaya (Car p)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Apelsin (Cit s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Orange (Cit s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qovun (Cuc m 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Melon (Cuc m 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Anjir (Fic c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Fig (Fic c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qulupnay (Fra a 1+3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Strawberry (Fra a 1+3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Olma (Mal d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Apple (Mal d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Olma (Mal d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Apple (Mal d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Olma (Mal d 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Apple (Mal d 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mango (Man i)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Mango (Man i)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Banan (Mus a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Banana (Mus a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Avokado (Pers a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Avocado (Pers a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Gilos (Pru av)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cherry (Pru av)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Shaftoli (Pru p 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Peach (Pru p 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Nok (Pyr c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pear (Pyr c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Buta mevasi (chernika) (Vac m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Blueberry (Vac m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uzum (Vit v 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Grapes (Vit v 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Piyoz (All c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Onion (All c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sarimsoqpiyoz (All s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Garlic (All s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Selderey (Api g 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Celery (Api g 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Selderey (Api g 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Celery (Api g 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Selderey (Api g 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Celery (Api g 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sabzi (Dau c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Carrot (Dau c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sabzi (Dau c 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Carrot (Dau c 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kartoshka (Sol t)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Potato (Sol t)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Pomidor (Sola l)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Tomato (Sola l)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Pomidor (Sola l 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Tomato (Sola l 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Hind yong'og'i (keshyu) (Ana o)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cashew (Ana o)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Hind yong'og'i (keshyu) (Ana o 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cashew (Ana o 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Hind yong'og'i (keshyu) (Ana o 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cashew (Ana o 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Braziliya yong'og'i (Ber e)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Brazil nut (Ber e)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Braziliya yong'og'i (Ber e 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Brazil nut (Ber e 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Pekan yong'og'i (Car i)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pecan, nut (Car i)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Funduk yong'og'i (Cor a 1-0401)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Hazelnut (Cor a 1-0401)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Funduk yong'og'i (Cor a 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Hazelnut (Cor a 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Funduk yong'og'i (Cor a 9)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Hazelnut (Cor a 9)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Funduk yong'og'i (Cor a 11)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Hazelnut (Cor a 11)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Funduk yong'og'i (Cor a 14)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Hazelnut (Cor a 14)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Gretsiya yong'og'i (Jug r 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Walnut (Jug r 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Gretsiya yong'og'i (Jug r 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Walnut (Jug r 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Gretsiya yong'og'i (Jug r 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Walnut (Jug r 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Gretsiya yong'og'i (Jug r 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Walnut (Jug r 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Gretsiya yong'og'i (Jug r 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Walnut (Jug r 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Makadamiya yong'og'i (Mac i 2S Albumin)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Macadamia nut (Mac i 2S Albumin)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Makadamiya yong'og'i (Mac inte)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Macadamia nut (Mac inte)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Pistalar (Pis v 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pistachio (Pis v 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Pistalar (Pis v 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pistachio (Pis v 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Pistalar (Pis v 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pistachio (Pis v 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Bodom (Pru du)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Almond (Pru du)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qovoq urug'i (Cuc p)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pumpkin seeds (Cuc p)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kungaboqar urug'i (Hel a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Sunflower seeds (Hel a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ko'knor urug'i (Pap s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Poppy seeds (Pap s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ko'knor urug'i (Pap s 2S Albumin)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Poppy seeds (Pap s 2S Albumin)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kunjut (Ses i)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Sesame (Ses i)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kunjut (Ses i 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Sesame (Ses i 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Fenugrek urug'i (Tri fo)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Fenugreek seeds (Tri fo)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sigir suti (Bos d_milk)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cow's milk (Bos d_milk)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sigir suti (Bos d 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cow's milk (Bos d 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sigir suti (Bos d 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cow's milk (Bos d 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sigir suti (Bos d 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cow's milk"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tuya suti (Cam d)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Camel milk (Cam d)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Echki suti (Cap h_milk)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Goat milk (Cap h_milk)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Baytal (ot) suti (qimiz) (Equ c_milk)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Mare's milk (Equ c_milk)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qo'y suti (Ovi a_milk)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Sheep milk (Ovi a_milk)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tuxum oqsili (Gal d_white)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Egg white (Gal d_white)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tuxum sarig'i (Gal d_yolk)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Egg yolk (Gal d_yolk)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tuxum oqsili (Gal d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Egg white (Gal d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tuxum oqsili (Gal d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Egg white (Gal d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tuxum oqsili (Gal d 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Egg white (Gal d 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tuxum oqsili (Gal d 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Egg white (Gal d 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tuxum sarig'i (Gal d 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Egg yolk (Gal d 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Seld balig'i qurti (Ani s 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Herring worm (Ani s 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Seld balig'i qurti (Ani s 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Herring worm (Ani s 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Krab (Chi spp-)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Crab (Chi spp-)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Atlantika seld balig'i (Clu h)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Atlantic herring (Clu h)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Atlantika seld balig'i (Clu h 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Atlantic herring (Clu h 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oddiy krevetka (Cra c 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Common shrimp (Cra c 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Karp (Cyp c 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Carp (Cyp c 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Atlantika treska balig'i (Gad m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Atlantic cod (Gad m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Atlantika treska balig'i (Gad m 2+3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Atlantic cod (Gad m 2+3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Atlantika treska balig'i (Gad m 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Atlantic cod (Gad m 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Omar (Hom g)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Lobster (Hom g)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Krevetka (Lit s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Shrimp (Lit s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kalmar (Lol spp-)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Squid (Lol spp-)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yeyishli midiya (Myt e)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Edible mussel (Myt e)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ustritsa (Ost e)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Oyster (Ost e)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Shimoliy krevetka (Pan b)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Northern shrimp (Pan b)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Dengiz chig'anog'i (Pec spp-)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Scallop (Pec spp-)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qora yo'lbarssimon krevetka (Pen m 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Black tiger shrimp (Pen m 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qora yo'lbarssimon krevetka (Pen m 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Black tiger shrimp (Pen m 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qora yo'lbarssimon krevetka (Pen m 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Black tiger shrimp (Pen m 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qora yo'lbarssimon krevetka (Pen m 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Black tiger shrimp (Pen m 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Dengiz tulkisi yoki tikanli skat (Raj c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Thresher or spiny (Raj c)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Dengiz tulkisi yoki tikanli skat (Raj c Parvalbumin)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Thresher or spiny ray (Raj c Parvalbumin)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mollyuska (Rud spp-)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Shellfish (Rud spp-)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Losos (Sal s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Salmon (Sal s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Losos (Sal s 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Salmon (Sal s 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Atlantika skumboriya balig'i (Sco s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Atlantic mackerel (Sco s)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Atlantika skumbriya balig'i (Sco s 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Atlantic mackerel (Sco s 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tunes (Thu a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Tuna (Thu a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tunes (Thu a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Tuna (Thu a 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qilich baliq (Xip g 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Swordfish (Xip g 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy chigirtkasi (Ach d)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "House cricket (Ach d)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mol go'shti (Bos d_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Beef (Bos d_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mol go'shti (Bos d 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Beef (Bos d 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ot go'shti (Equ c_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Horse meat (Equ c_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tovuq go'shti (Gal d_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Chicken (Gal d_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ko'chmanchi chigirtka (Loc m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Migratory locust (Loc m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kurka go'shti (Mel g)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Turkey (Mel g)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Quyon go'shti (Ory_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Rabbit (Ory_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qo'y go'shti (Ovi a_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Lamb (Ovi a_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Cho'chqa go'shti (Sus d_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pork (Sus d_meat)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Cho'chqa go'shti (Sus d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pork (Sus d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Katta un qo'ng'izi (Ten m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Large mealworm (Ten m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Olovli chumoli (Sol spp-)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Fire ant (Sol spp-)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Asalari (Api m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Honey bee (Api m)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Asalari (Api m 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Honey bee (Api m 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Asalari (Api m 10)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Honey bee (Api m 10)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sakson arisi (Dol spp)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Saxon wasp (Dol spp)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qog'oz ari (Pol d)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Paper wasp (Pol d)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qog'oz ari (Pol d 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Paper wasp (Pol d 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oddiy ari (Ves v)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Common wasp (Ves v)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oddiy ari (Ves v 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Common wasp (Ves v 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Oddiy ari (Ves v 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Common wasp (Ves v 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Nemes suvaragi (Bla g 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "German cockroach (Bla g 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Nemes suvaragi (Bla g 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "German cockroach (Bla g 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Nemes suvaragi (Bla g 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "German cockroach (Bla g 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Nemes suvaragi (Bla g 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "German cockroach (Bla g 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Nemes suvaragi (Bla g 9)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "German cockroach (Bla g 9)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Amerika suvaragi (Per a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "American cockroach (Per a)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Amerika suvaragi (Per a 7)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "American cockroach (Per a 7)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "It (Can f_Fd1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Dog (Can f_Fd1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "It siydigi (shu jumladan Can f 5) (Can f_male urine)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Dog urine (incl- Can f 5) (Can f_male urine)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "It (Can f 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Dog (Can f 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "It (Can f 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Dog (Can f 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "It (Can f 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Dog (Can f 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "It (Can f 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Dog (Can f 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "It (Can f 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Dog (Can f 6)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Dengiz cho'chqasi (Cav p 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Guinea pig (Cav p 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mushuk (Fel d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cat (Fel d 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mushuk (Fel d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cat (Fel d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mushuk (Fel d 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cat (Fel d 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mushuk (Fel d 7)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cat (Fel d 7)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy sichqoni epiteliyasi (Mus m 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "House mouse, epidermis (Mus m 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Quyon epiteliyasi (Ory c 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Rabbit, epithelium (Ory c 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Quyon epiteliyasi (Ory c 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Rabbit, epithelium (Ory c 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Quyon epiteliyasi (Ory c 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Rabbit, epithelium (Ory c 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Djungar og'maxoni (Phod s 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Djungarian hamster (Phod s 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kalamush epiteliyasi (Rat n)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Rat, epithelium (Rat n)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sigir epiteliyasi (Bos d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cow, epithelium (Bos d 2)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Echki epiteliyasi (Cap h_epithelia)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Goat, epithelium (Cap h_epithelia)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ot epiteliyasi (Equ c 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Horse, epithelium (Equ c 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ot epiteliyasi (Equ c 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Horse, epithelium (Equ c 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ot epiteliyasi (Equ c 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Horse, epithelium (Equ c 4)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qo'y epiteliyasi (Ovi a_epithelia)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Sheep, epithelium (Ovi a_epithelia)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Cho'chqa epiteliyasi (Sus d_epithelia)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pig, epithelium (Sus d_epithelia)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Lateks (Hev b 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Latex (Hev b 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Lateks (Hev b 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Latex (Hev b 3)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Lateks (Hev b 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Latex (Hev b 5)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Lateks (Hev b 6-02)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Latex (Hev b 6-02)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Lateks (Hev b 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Latex (Hev b 8)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Lateks (Hev b 11)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Latex (Hev b 11)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Fikus (Fic b)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Ficus (Fic b)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Laktoferrin (Hom s Lactoferrin) (Hom s LF)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Lactoferrin (Hom s Lactoferrin) (Hom s LF)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qisqichbaqasimon kana (Argas reflexus) (Arg r 1)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Shell mite (Argas reflexus) (Arg r 1)"
+msgstr ""
+

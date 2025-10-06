@@ -1,0 +1,581 @@
+{
+  "id" : "CodeSystem-allergen-codes-cs",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "CodeSystem.name",
+          "context" : "A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "AllergenCodesCS",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.title",
+          "context" : "A short, descriptive, user-friendly title for the code system.",
+          "source" : "Allergen codes",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the code system.",
+          "source" : "Uzinfocom LLC",
+          "target" : "ООО «Единый интегратор Uzinfocom»"
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.description",
+          "context" : "A free text natural language description of the code system from a consumer's perspective.",
+          "source" : "Allergy codes supplement with translations in uzbek and russian",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "O't changlari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Grass pollen",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Daraxt gulchanglari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Tree pollen",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Begona o'tlar changlari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Weed pollen",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Yevropa uy changi kanasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "European house dust mite",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Xamirturushlar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Molds mushrooms",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Dukkakli don ekinlari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Legumes",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Donli mahsulotlar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Cereals / Grains",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ziravorlar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Spices",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Mevalar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Fruits",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Sabzavotlar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Vegetables",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Yong'oqlar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Nuts",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Urug'lar",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Seeds",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Sut",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Milk",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Tuxum",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Egg",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Dengiz mahsulotlari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Seafood / Shellfish",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Go'sht",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Meat",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Yondiruvchi qurt chaqishi zahari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Fire ant venom",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Asalari zahari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Bee venom",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Qoriq zahari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Wasp venom",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Suvarak",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Cockroach",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Uy iti",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Domestic dog",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Uy mushugi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Domestic cat",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Lateks",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Latex",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Fikus turlari",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Ficus spp",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Metallga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to metal",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Fermentlanlagan ozuqa",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Fermented food",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ozuqaviy qo'ziqorinlarga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to dietary mushroom",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Spirtli ichimlik",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Alcoholic beverage",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Kofeinli ichimlik",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Caffeined beverage",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Shakarli ichimlik",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Sugar sweetened beverage",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Kimyoviy modda allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to chemical substance",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Kosmetikaga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to cosmetic",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Hayvonlarga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to animal",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Gelmint (parazit qurt)",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Helminth",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "O'simlik tolasi allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to plant fibre",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Sulfanilamid antibiotik allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to sulfonamide antibiotic",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Mushak bo'shatuvchi dori allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to muscle relaxants",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Mahalliy anestezik allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to local anaesthetic",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Dorilarga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to drugs",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Tibbiy ferment allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Medical enzyme allergy",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ombor kanasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Storage mite",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Analgetikka allergik reaksiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergic reaction caused by analgesic",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Ovqat qo'shimchasiga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to food additive",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Hasharot chaqishi allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Allergy to insect venom",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.display",
+          "context" : "A human readable string that is the recommended default way to present this concept to a user.",
+          "source" : "Tibbiy ichimlik",
+          "target" : null
+        },
+        {
+          "id" : "CodeSystem.concept.designation.value",
+          "context" : "The text value for this designation.",
+          "source" : "Medical beverage",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
