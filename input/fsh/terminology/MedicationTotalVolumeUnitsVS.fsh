@@ -7,7 +7,5 @@ Description: "Используемые в Узбекистане единицы 
 * ^extension[0].url = $valueset-supplement
 * ^extension[=].valueCanonical = Canonical(MedicationTotalVolumeUCUMUnitsCS)
 
+* include codes from system medication-total-volume-local-units-cs
 * include codes from system $ucum-vs
-* include codes from system medication-total-volume-units-cs
-
-//* include codes from system $ucum where code in ("mL" "L" "g" "mg" "ug" "µg" "1")

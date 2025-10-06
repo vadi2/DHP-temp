@@ -249,11 +249,30 @@ Description: "Identifier system used for EpisodeOfCare resources within the Uzbe
 * kind = #identifier
 * date = "2025-08-13"
 * publisher = "Uzinfocom"
-
 // Необязательно: тип идентификатора (v2-0203 "Visit number")
 * type = http://terminology.hl7.org/CodeSystem/v2-0203#VN "Visit number"
-
 // Уникальные идентификаторы NamingSystem
 * uniqueId[0].type = #uri
 * uniqueId[0].value = "http://dhp.uz/ids/episode-of-care"
 * uniqueId[0].preferred = true
+
+Instance: uz-pharm-box-id
+InstanceOf: NamingSystem
+Description: "Naming system for the box-level aggregation identifier used to group serialized pharmaceutical packs into a shipping/carton unit 
+within Uzbekistan's national track-and-trace program "
+Usage: #definition
+* url = "https://terminology.dhp.uz/fhir/core/NamingSystem/uz-pharm-box-id"
+* name = "Uzbekistan pharm box group id"
+* status = #active
+* kind = #identifier
+* date = "2025-10-06"
+* publisher = "Uzinfocom"
+* responsible = "Ministry of Health of the Republic of Uzbekistan."
+* type = $medicine-identifier-types#box_group_id "Medicine packaging identifier"
+* description = "Box-level aggregate identifier for serialized pharmaceutical packaging in Uzbekistan's track-and-trace system."
+* jurisdiction = urn:iso:std:iso:3166#UZ "Uzbekistan"
+* usage = "Use as Identifier.system for box-level aggregation (pharm box group ID) in Uzbekistan's pharma track-and-trace."
+* uniqueId[0].type = #uri
+* uniqueId[=].value = $uzpharmBoxGroupID
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "Canonical URI to populate Identifier.system when recording a pharm box group ID."
