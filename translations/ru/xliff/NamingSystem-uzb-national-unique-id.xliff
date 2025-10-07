@@ -56,7 +56,7 @@
              <notes>
                <note id="n1">The string that should be sent over the wire to identify the code system or identifier system.</note>
              </notes>
-        <source>https://dpm.uz/identifier/nationaluniqueID</source>
+        <source>https://dpm.uz/identifier/national-unique-id</source>
         <target></target>
       </trans-unit>
       <trans-unit id="NamingSystem-uzb-national-unique-id" resname="NamingSystem.uniqueId.comment">

@@ -50,7 +50,7 @@
         {
           "id" : "NamingSystem.uniqueId.value",
           "context" : "The string that should be sent over the wire to identify the code system or identifier system.",
-          "source" : "https://dpm.uz/identifier/nationaluniqueID",
+          "source" : "https://dpm.uz/identifier/national-unique-id",
           "target" : null
         },
         {
