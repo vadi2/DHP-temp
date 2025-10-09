@@ -1,13 +1,8 @@
 CodeSystem: EncounterStatusCS
 Id: encounter-status-cs
 Title: "Encounter status translations"
-Description: "Encounter status codes with English, Uzbek, and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-status-cs"
-* ^experimental = true
-* ^status = #active
-* ^content = #supplement
-* ^supplements = $encounter-status
-* ^language = #en
+Description: "Encounter status codes with English and Russian translations"
+* insert SupplementCodeSystem(encounter-status-cs, $encounter-status, 5.0.0)
 
 * #planned "Planned"
   * ^designation[0].language = #uz
@@ -43,10 +38,4 @@ Description: "Encounter status codes with English, Uzbek, and Russian translatio
   * ^designation[0].language = #uz
   * ^designation[=].value = "Noma'lum"
   * ^designation[+].language = #ru
-  * ^designation[=].value = "Неизвестный"
-
-* #other "Other"
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Boshqa"
-  * ^designation[+].language = #ru
-  * ^designation[=].value = "Другое"
+  * ^designa*

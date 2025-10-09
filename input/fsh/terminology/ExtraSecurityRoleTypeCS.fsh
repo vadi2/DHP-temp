@@ -2,12 +2,7 @@ CodeSystem: ExtraSecurityRoleTypeCS
 Id: extra-security-role-type-cs
 Title: "Security role type translations"
 Description: "Security role type supplement with translations in Uzbek and Russian"
-* ^url = "https://terminology.dhp.uz/CodeSystem/extra-security-role-type-cs"
-* ^experimental = true
-* ^content = #supplement
-* ^supplements = $extra-security-role-type
-* ^version = "1.0.1"
-* ^language = #en
+* insert SupplementCodeSystemDraft(extra-security-role-type-cs, $extra-security-role-type, 1.0.1)
 * #authserver
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сервер авторизации"

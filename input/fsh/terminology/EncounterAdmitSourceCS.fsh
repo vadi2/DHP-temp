@@ -2,12 +2,7 @@ CodeSystem: EncounterAdmitSourceCS
 Id: encounter-admit-source-cs
 Title: "Encounter admit source translations"
 Description: "Encounter admit source codes with English and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/encounter-admit-source-cs"
-* ^experimental = true
-* ^status = #active
-* ^content = #supplement
-* ^supplements = $encounter-admit-source
-* ^language = #en
+* insert SupplementCodeSystem(encounter-admit-source-cs, $encounter-admit-source, 1.0.1)
 
 * #hosp-trans
   * ^designation[0].language = #uz

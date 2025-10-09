@@ -2,13 +2,7 @@ CodeSystem: AdmitSourceHomeCS
 Id: admit-source-home-cs
 Title: "Admit source from home"
 Description: "Admit source home code for Admit Source ValueSet with English and Russian translations"
-* ^url = "https://terminology.dhp.uz/CodeSystem/admit-source-home-cs"
-* ^content = #complete
-* ^status = #active
-* ^caseSensitive = true
-* ^hierarchyMeaning = #is-a
-* ^language = #uz
-* ^experimental = true
+* insert OriginalCodeSystemDraft(admit-source-home-cs)
 
 * #mserv-0003-00001 "Uydan"
   * ^designation[0].language = #en

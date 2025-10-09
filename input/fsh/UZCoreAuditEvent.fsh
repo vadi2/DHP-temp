@@ -2,7 +2,7 @@ Profile: UZCoreAuditEvent
 Parent: AuditEvent
 Id: uz-core-auditevent
 Title: "UZ Core AuditEvent"
-Description: "Uzbekistan Core AuditEvent Profile, used to track user and application activity"
+Description: "Uzbekistan Core AuditEvent profile, used to track user and application activity"
 * ^experimental = true
 * ^status = #active
 * ^date = "2025-03-29"
@@ -85,7 +85,7 @@ Usage: #example
   * authorization = $v3-ActReason#TREAT
   * who = Reference(example-practitionerrole)
 * entity
-  * what = Reference(example-condition)
+  * what = Reference(example-headache)
   * securityLabel = $v3-ActCode#NOAUTH
   * role = $object-role#4 "Domain Resource"
 * source

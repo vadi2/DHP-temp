@@ -17,18 +17,17 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
 * identifier ^slicing.rules = #open
 * identifier ^slicing.description = "Ways a practitioner can be identified"
 * identifier ^slicing.ordered = false
-* identifier contains national-id 0..1 MS and
-    passport-local 0..1 MS and
-    passport-international 0..1 MS and
-    birthcertificate 0..1 MS and
-    driverslicense 0..1 MS and
-    diplomaticpassport 0..1 MS and
-    healthcard 0..1 MS and
-    militaryID 0..1 MS and
-    // socialsecurity 0..1 MS and
-    penitentiaryinstitution 0..1 MS
+* identifier contains nationalId 0..1 MS and
+    passportLocal 0..1 MS and
+    passportInternational 0..1 MS and
+    birthCertificate 0..1 MS and
+    driversLicense 0..1 MS and
+    diplomaticPassport 0..1 MS and
+    healthCardId 0..1 MS and
+    militaryId 0..1 MS and
+    penitentiaryInstitution 0..1 MS
 
-* identifier[passport-local] 
+* identifier[passportLocal] 
   * system 1..1 MS
   * system = $passport-local
   * type 1..1 MS
@@ -36,7 +35,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* identifier[passport-international]
+* identifier[passportInternational]
   * system 1..1 MS
   * system = $passport-international
   * type 1..1 MS
@@ -44,7 +43,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* identifier[national-id]
+* identifier[nationalId]
   * system 1..1 MS
   * system = $nationaluniqueID
   * type 1..1 MS
@@ -52,7 +51,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* identifier[birthcertificate]
+* identifier[birthCertificate]
   * system 1..1 MS
   * system = $birthcertificate
   * type 1..1 MS
@@ -60,7 +59,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* identifier[driverslicense]
+* identifier[driversLicense]
   * system 1..1 MS
   * system = $driverslicense
   * type 1..1 MS
@@ -68,7 +67,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* identifier[diplomaticpassport]
+* identifier[diplomaticPassport]
   * system 1..1 MS
   * system = $diplomaticpassport
   * type 1..1 MS
@@ -76,7 +75,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* identifier[healthcard]
+* identifier[healthCardId]
   * system 1..1 MS
   * system = $healthcard
   * type 1..1 MS
@@ -84,7 +83,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* identifier[militaryID]
+* identifier[militaryId]
   * system 1..1 MS
   * system = $militaryID
   * type 1..1 MS
@@ -92,7 +91,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* identifier[penitentiaryinstitution]
+* identifier[penitentiaryInstitution]
   * system 1..1 MS
   * system = $penitentiaryinstitution
   * type 1..1 MS
@@ -100,16 +99,15 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
   * use = #official
   * value 1..1 MS
 
-* extension contains patient-nationality named nationality 0..1 MS and 
-    patient-citizenship named citizenship 0..1 MS and
-    patient-disability named disability 0..1 MS
+* extension contains patient-nationality named nationality 0..1 MS and
+    patient-citizenship named citizenship 0..1 MS
 * extension[nationality].extension[code].valueCodeableConcept from NationalityVS (required)
 * extension[citizenship].extension[code].valueCodeableConcept from CountriesDigitalMVDVS (required)
-* extension[disability].valueCodeableConcept from DisabilityVS (required)
+
 * gender MS
   * extension contains GenderOtherUZ named gender-other 0..1 MS
-* obeys gender-other-2
-* insert AddressRules
+* obeys uzcore-gender-other-2
+* insert IntAndUzAddressRules
 * maritalStatus from MaritalStatusVS (required)
 * insert HumanName
 * active MS
@@ -120,23 +118,23 @@ InstanceOf: UZCorePatient
 Description: "Example of a patient named Salim"
 Usage: #example
 * language = #ru
-* identifier[national-id]
+* identifier[nationalId]
   * value = "30211975910033"
-* identifier[passport-local]
+* identifier[passportLocal]
   * value = "AC1234567"
-* identifier[passport-international]
+* identifier[passportInternational]
   * value = "AA1234567"
-* identifier[birthcertificate]
+* identifier[birthCertificate]
   * value = "I-МЯ №123456"
-* identifier[driverslicense]
+* identifier[driversLicense]
   * value = "AAA123456"
-* identifier[diplomaticpassport]
+* identifier[diplomaticPassport]
   * value = "D1234567"
-* identifier[healthcard]
+* identifier[healthCardId]
   * value = "01234567890123"
-* identifier[militaryID]
+* identifier[militaryId]
   * value = "ВБ1234567"
-* identifier[penitentiaryinstitution]
+* identifier[penitentiaryInstitution]
   * value = "УИН123456789012"
 * active = true
 * name
@@ -155,7 +153,7 @@ Usage: #example
   * use = #home
   * type = #postal
   * line = "ул.Муминова 4"
-  * country = "182"
+  * country = "UZ"
   * district = "1703202"
   * city = "22070013"
   * period.start = "1999-04-06"
@@ -166,14 +164,13 @@ Usage: #example
   * gender = #male
 * maritalStatus = $v3-MaritalStatus#W "Вдовец, вдова"
 * extension[nationality].extension[code].valueCodeableConcept = NationalityCS#23 "Азербайджанцы"
-* extension[disability].valueCodeableConcept = DisabilityCS#regis0011.00001 "Группа I"
 
 Instance: example-david
 InstanceOf: UZCorePatient
 Description: "Example of a patient named David"
 Usage: #example
 * language = #ru
-* identifier[driverslicense]
+* identifier[driversLicense]
   * value = "AG1141110"
 * active = false
 * name
@@ -185,11 +182,11 @@ Usage: #example
   * rank = 1
   * period.start = "2024-02-10"
 * birthDate = "2001-10-16"
-* address
+* address[uzAddress]
   * use = #temp
   * type = #physical
   * line = "2 квартал 13 дом 12 квартира"
-  * country = "182"
+  * country = "UZ"
   * district = "1703206"
   * city = "22070011"
   * period.start = "2001-10-16"
@@ -203,26 +200,34 @@ Usage: #example
 * multipleBirthInteger = 2
 * extension[nationality].extension[code].valueCodeableConcept = NationalityCS#32 "Армяне"
 
-Instance: example-no-identifiers
+Instance: example-emma
 InstanceOf: UZCorePatient
-Description: "Example of a patient with no available identifiers using data-absent-reason extension"
+Description: "Example of a patient named Emma"
 Usage: #example
-* language = #ru
-* identifier
-  * extension[data-absent-reason].valueCode = #unknown
-* active = true
+* language = #en
+* identifier[driversLicense]
+  * value = "AG1141110"
+* active = false
 * name
-  * use = #usual
-  * text = "Неизвестный пациент"
-  * family = "Неизвестный"
-  * given = "Пациент"
-* birthDate = "1990-01-01"
-* address
-  * use = #home
-  * type = #postal
-  * line = "Адрес неизвестен"
-  * country = "UZ"
-  * district = "1701"
-  * city = "1701001"
-* gender = #unknown
-* maritalStatus = $v3-MaritalStatus#UNK "unknown"
+  * use = #anonymous
+  * text = "Emma Sanders"
+* telecom
+  * system = #sms
+  * use = #temp
+  * rank = 1
+  * period.start = "2024-02-10"
+* birthDate = "2000-10-16"
+* address[i18nAddress]
+  * use = #temp
+  * type = #physical
+  * line = "123 Baker Street"
+  * country = "GB"
+  * period.start = "2000-10-16"
+* gender = #female
+* contact
+  * relationship = $v2-0131#C "Emergency Contact"
+  * name.text = "Isabella"
+  * gender = #female
+* maritalStatus = $v3-MaritalStatus#U "Unmarried"
+* multipleBirthInteger = 2
+* extension[nationality].extension[code].valueCodeableConcept = NationalityCS#42 "British"

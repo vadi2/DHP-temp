@@ -14,7 +14,7 @@ Description: "Uzbekistan Core Location profile, used to define locations of heal
 * identifier ^slicing.rules = #open
 * identifier ^slicing.description = "Ways an organization can be categorized"
 * identifier ^slicing.ordered = false
-* identifier contains tax-id 0..1 MS and unit 0..1 MS
+* identifier contains taxId 0..1 MS and unit 0..1 MS
 
 * insert TaxIdentifier
 * identifier[unit]
@@ -29,8 +29,8 @@ Description: "Uzbekistan Core Location profile, used to define locations of heal
 * status and name and type and contact and address and position and managingOrganization and partOf and hoursOfOperation and endpoint MS
 * operationalStatus ^short = "Ward bed status (will be used in future)"
 
-* insert AddressRules
-* insert MultilingualName(локации)
+* insert UzAddressRules
+* insert MultilingualName(location)
 * status from LocationStatusVS (required)
 
 * type.coding ^slicing.discriminator.type = #value
@@ -42,7 +42,6 @@ Description: "Uzbekistan Core Location profile, used to define locations of heal
 * type.coding contains type 0..1 MS
 * type.coding[type]
   * system 1..1 MS
-  // * system = "https://terminology.dhp.uz/CodeSystem/location-types-cs"
   * code 1..1 MS
   * code from LocationTypesVS (required)
 
@@ -51,7 +50,7 @@ InstanceOf: UZCoreLocation
 Description: "Example of an organization location"
 Usage: #example
 * language = #uz
-* identifier[tax-id]
+* identifier[taxId]
   * value = "200935935"
 * status = #active
 * mode = #instance
@@ -72,7 +71,7 @@ Usage: #example
   * line = "Farobi, 383"
   * city = "22070022"
   * district = "1735243"
-  * country = "182"
+  * country = "UZ"
 * managingOrganization = Reference(Organization/example-organization)
 
 Instance: example-location-2

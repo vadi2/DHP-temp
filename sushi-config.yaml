@@ -1,15 +1,15 @@
 # ╭─────────────────────────Commonly Used ImplementationGuide Properties───────────────────────────╮
 # │  The properties below are used to create the ImplementationGuide resource. The most commonly   │
 # │  used properties are included. For a list of all supported properties and their functions,     │
-# │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
+# │  see: https://fshschool.org/docs/sushi/configuration/                                          │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: uz.dhp.core
-canonical: http://dhp.uz
+canonical: https://dhp.uz/fhir/core
 name: DHP
 title: Uzbekistan Digital Health Platform
 description: National implementation guide for Uzbekistan using FHIR R5.
 status: draft # draft | active | retired | unknown
-version: 0.2.0
+version: 0.3.0
 fhirVersion: 5.0.0 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2025+
 releaseLabel: ci-build
@@ -64,7 +64,7 @@ dependencies:
 # http://build.fhir.org/ig/FHIR/fhir-tools-ig/branches/master/CodeSystem-ig-parameters.html
 #
 parameters:
-  special-url-base: https://terminology.dhp.uz
+  special-url-base: https://terminology.dhp.uz/fhir/core
   excludettl: true
   # shownav: true
 
@@ -76,7 +76,7 @@ parameters:
 
   # multi-lingual support
   i18n-default-lang: en
-  i18n-lang: 
+  i18n-lang:
     - ru
     # - uz # to be enabled later - requires translating not just this IG, but core IG publisher texts as well
   translation-sources:
