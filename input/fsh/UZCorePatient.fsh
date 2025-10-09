@@ -9,7 +9,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
 * ^publisher = "Uzinfocom"
 
 * identifier 1..* MS
-  * extension contains data-absent-reason named data-absent-reason 0..1 MS
+  * value.extension contains data-absent-reason named data-absent-reason 0..1 MS
 * identifier.use from IdentifierUseVS (required)
 * identifier.type from IdentifierTypeVS (required)
 * identifier ^slicing.discriminator.type = #value
@@ -202,3 +202,27 @@ Usage: #example
 * maritalStatus = $v3-MaritalStatus#M "Состоит в браке"
 * multipleBirthInteger = 2
 * extension[nationality].extension[code].valueCodeableConcept = NationalityCS#32 "Армяне"
+
+Instance: example-no-identifiers
+InstanceOf: UZCorePatient
+Description: "Example of a patient with no available identifiers using data-absent-reason extension"
+Usage: #example
+* language = #ru
+* identifier
+  * extension[data-absent-reason].valueCode = #unknown
+* active = true
+* name
+  * use = #usual
+  * text = "Неизвестный пациент"
+  * family = "Неизвестный"
+  * given = "Пациент"
+* birthDate = "1990-01-01"
+* address
+  * use = #home
+  * type = #postal
+  * line = "Адрес неизвестен"
+  * country = "UZ"
+  * district = "1701"
+  * city = "1701001"
+* gender = #unknown
+* maritalStatus = $v3-MaritalStatus#UNK "unknown"

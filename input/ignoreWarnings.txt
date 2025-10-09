@@ -11,6 +11,10 @@ Best Practice Recommendation: In general, all observations should have a perform
 This IG is version 5.0.0, while the IG 'fhir.dicom' is from version 4.0.1 
 The ImplementationGuide is based on FHIR version 5.0.0 but package fhir.dicom#2025.2.20250411 is based on FHIR version 4.0.1. In general, this version mismatch should be avoided - some tools will try to make this work with variable degrees of success, but others will not even try 
 
+# IG Publisher can't process ISO 3166 validation just yet
+Error from https://tx.fhir.org/r5: Unable to provide support for code system https://terminology.dhp.uz/CodeSystem/iso3166-two-letter-cs 
+Required supplement not found: https://terminology.dhp.uz/CodeSystem/iso3166-two-letter-cs|0.1.0 
+
 # IG publisher can't find supplements for ISO 3166 - this can be ignored
 The value provided ('UZ') was not found in the value set 'ISO 3166 2 character codes in Uzbek and Russian' (https://terminology.dhp.uz/ValueSet/iso-3166-2-uz-vs%
 Required supplement not found: https://terminology.dhp.uz/CodeSystem/iso3166-two-letter-cs%
