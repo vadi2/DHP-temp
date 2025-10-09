@@ -32,7 +32,7 @@ UZ Core поддерживает как адреса в Узбекистане, 
     "country": "UZ",
     "state": "1727",            // Код области должен быть из https://terminology.dhp.uz/fhir/core/ValueSet/state-vs (например, 1727 для Ташкентской области)
     "district": "1727220",      // Код района должен быть из https://terminology.dhp.uz/fhir/core/ValueSet/regions-vs (например, 1727220 для Бекабадского района)
-    "city": "17150085",         // Код махалли должен быть из [MahallaVS](https://terminology.dhp.uz/fhir/core/ValueSet/mahalla-vs) (собрание граждан)
+    "city": "17150085",         // Код махалли должен быть из https://terminology.dhp.uz/fhir/core/ValueSet/mahalla-vs (собрание граждан)
     "line": ["Amir Temur ko'chasi"],
     "text": "Yangi Sergeli mahallasi, Amir Temur ko'chasi, 15-uy, 42-xonadon"
   }]
