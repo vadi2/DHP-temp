@@ -1046,7 +1046,7 @@
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Example ofa PDF document signed with myID",
+          "source" : "Example of a PDF document signed with myID",
           "target" : "Образец PDF-документа, подписанного с использованием myID"
         },
         {
@@ -1172,6 +1172,18 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "global-trade-item-id",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "NamingSystem for globally standardized trade identifiers (GTIN) used for medicinal products.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "HTTP interaction translations",
           "target" : "HTTP interaction translations"
         },
@@ -1184,6 +1196,18 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "International countries (excluding Uzbekistan)",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "World countries names excluding Uzbekistan for international address usage",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "International Nonproprietary Names (INN)",
           "target" : null
         },
@@ -1191,6 +1215,42 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "INN terminology for standardized identification of medicinal",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "ISO 3166 part 1 2-letter codes",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Defines Uzbek and Russian translations for ISO 3166 part 1 2-letter codes",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "ISO 3166 part 1 2-letter codes, sans Uzbekistan",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "Defines Uzbek and Russian translations for ISO 3166 part 1 2-letter codes, sans Uzbekistan, for international addresses",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "ISO 3166-1 two-letter translations",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "ISO 3166-1 2-letter supplement with Uzbek and Russian translations",
           "target" : null
         },
         {
@@ -1706,6 +1766,18 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "product-service-id",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "NamingSystem for national product and service classification codes.",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "Profession specializations",
           "target" : "Специализации профессий"
         },
@@ -1839,6 +1911,18 @@
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
           "source" : "Meaning of reference range, supplemented with translations in Uzbek and Russian",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "registration-certificate-id",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "NamingSystem for official registration certificate identifiers for medicines.",
           "target" : null
         },
         {
@@ -2390,13 +2474,37 @@
         {
           "id" : "ImplementationGuide.definition.resource.name",
           "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "uz-marking-id",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "NamingSystem for Uzbekistan's national marking identifiers (Asl Belgisi).",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
           "source" : "uz-pharm-box-id",
           "target" : null
         },
         {
           "id" : "ImplementationGuide.definition.resource.description",
           "context" : "A description of the reason that a resource has been included in the implementation guide.",
-          "source" : "Naming system for the box-level aggregation identifier used to group serialized pharmaceutical packs into a shipping/carton unit within Uzbekistan's national track-and-trace program",
+          "source" : "Naming system for the box-level aggregation identifier used to group serialized pharmaceutical \r\npacks into a shipping/carton unit within Uzbekistan's national track-and-trace program",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.name",
+          "context" : "A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).",
+          "source" : "uz-pharm-id",
+          "target" : null
+        },
+        {
+          "id" : "ImplementationGuide.definition.resource.description",
+          "context" : "A description of the reason that a resource has been included in the implementation guide.",
+          "source" : "NamingSystem for identifiers issued by the Uzbekistan Pharmaceutical Agency.",
           "target" : null
         },
         {
