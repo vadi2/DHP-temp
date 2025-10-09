@@ -1,0 +1,3581 @@
+{
+  "id" : "ConceptMap-substance-to-snomed",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "ConceptMap.name",
+          "context" : "A natural language name identifying the concept map. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "AllergySubstanceToSnomed",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.title",
+          "context" : "A short, descriptive, user-friendly title for the concept map.",
+          "source" : "UZ local allergy substance → SNOMED CT",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the concept map.",
+          "source" : "Uzinfocom LLC",
+          "target" : "ООО «Единый интегратор Uzinfocom»"
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.description",
+          "context" : "A free text natural language description of the concept map from a consumer's perspective.",
+          "source" : "Maps local UZ ReactionSubstanceCS codes to SNOMED CT for AllergyIntolerance.reaction.substance.",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ajiriq (Cyn d)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cyn d",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ajiriq (Cyn d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cyn d 1",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ko'p yillik mastak (Lol p 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lol p 1",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Paspalum/grechka (Pas n)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Paspalum/conspicuous buckwheat (Pas n)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ajiriqbosh (Phl p 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Timothy grass (Phl p 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ajiriqbosh (Phl p 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Timothy grass (Phl p 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ajiriqbosh (Phl p 5-0101)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Timothy grass (Phl p 5-0101)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ajiriqbosh (Phl p 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Timothy grass (Phl p 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ajiriqbosh (Phl p 7)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Timothy grass (Phl p 7)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ajiriqbosh (Phl p 12)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Timothy grass (Phl p 12)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qamish (Phr c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Reed (Phr c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Javdar changi (Sec c pollen)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Rye, pollen (Sec c pollen)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kumush akatsiya (Aca m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Silver acacia (Aca m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Baland aylant (Ail a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ailanthus altissima (Ail a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qandag'och (Aln g 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Alder (Aln g 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qandag'och (Aln g 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Alder (Aln g 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Serbuqoq qayin (Bet v 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Bet v 1",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Serbuqoq qayin (Bet v 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Bet v 2",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Serbuqoq qayin (Bet v 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Bet v 6",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qog'ozdaraxt (tut) (Bro pa)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Paper mulberry (Bro pa)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "O'rmon yong'og'i (Cor a_pollen)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hazel (Cor a_pollen)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "O'rmon yong'og'i (Cor a 1-0103)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hazel (Cor a 1-0103)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yapon kriptomeriyasi (Cry j 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cryptomeria japonica (Cry j 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sarv (Cup a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cypress (Cup a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sarv (Cup s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cypress (Cup s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qoraqayin (Fag s 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Beech (Fag s 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shumtol (Fra e)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ash (Fra e)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shumtol (Fra e 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ash (Fra e 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yong'oq changi (Jug r_pollen)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Walnut, pollen (Jug r_pollen)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kedr (Jun a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cedar (Jun a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tut (Mor r)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mulberry (Mor r)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Zaytun (Ole e 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Olive (Ole e 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Zaytun (Ole e 9)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Olive (Ole e 9)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Xurmo daraxti (Pho d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Date palm (Pho d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Chinor (Pla a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Plane maple (Pla a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Chinor (Pla a 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Plane tree (Pla a 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Chinor (Pla a 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Plane tree (Pla a 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Terak (Pop n)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Poplar (Pop n)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qayrag'och (Ulm c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Elm (Ulm c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oddiy olabuta (Ama r)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Common goosefoot (Ama r)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ambroziya (Amb a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ragweed (Amb a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ambroziya (Amb a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ragweed (Amb a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ambroziya (Amb a 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ragweed (Amb a 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shuvoq (Art v)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Wormwood (Art v)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shuvoq (Art v 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Wormwood (Art v 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shuvoq (Art v 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Wormwood (Art v 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nasha (Can s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hemp (Can s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nasha (Can s 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hemp (Can s 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oq olabuta (Che a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "White goosefoot (Che a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oq olabuta (Che a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "White goosefoot (Che a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Bir yillik prolesnik (Mer a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Annual wood-snow (Mer a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Postennitsa (Par j)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Wallflower (Par j)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Postennitsa (Par j 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Wallflower (Par j 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Zubturum (Pla l)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Plantain (Pla l)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Zubturum (Pla l 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Plantain (Pla l 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sho'rak (Sal k)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Salwort (Sal k)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sho'rak (Sal k 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Salwort (Sal k 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Gazanda (Urt d)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nettle (Urt d)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Amerika uy changi kanasi (Der f 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "American house dust mite (Der f 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Amerika uy changi kanasi (Der f 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "American house dust mite (Der f 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yevropa uy changi kanasi (Der p 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "European house dust mite (Der p 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yevropa uy changi kanasi (Der p 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "European house dust mite (Der p 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yevropa uy changi kanasi (Der p 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "European house dust mite (Der p 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yevropa uy changi kanasi (Der p 7)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "European house dust mite (Der p 7)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yevropa uy changi kanasi (Der p 10)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "European house dust mite (Der p 10)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yevropa uy changi kanasi (Der p 11)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "European house dust mite (Der p 11)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yevropa uy changi kanasi (Der p 20)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "European house dust mite (Der p 20)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yevropa uy changi kanasi (Der p 21)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "European house dust mite (Der p 21)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yevropa uy changi kanasi (Der p 23)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "European house dust mite (Der p 23)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Un kanasi (Aca s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Barn or flour mite (Acarus siro) (Aca s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy changi kanasi Blomia tropicalis (Blo t 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "House dust mite Blomia tropicalis (Blo t 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy changi kanasi Blomia tropicalis (Blo t 10)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "House dust mite Blomia tropicalis (Blo t 10)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy changi kanasi Blomia tropicalis (Blo t 21)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "House dust mite Blomia tropicalis (Blo t 21)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy changi kanasi Glycyphagus domesticus (Gly d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "House dust mite Glycyphagus domesticus (Gly d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy changi kanasi Lepidoglyphus destructor (Lep d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "House dust mite Lepidoglyphus destructor (Lep d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy changi kanasi Tyrophagus putrescentiae (Tyr p)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "House dust mite Tyrophagus putrescentiae (Tyr p)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy changi kanasi Tyrophagus putrescentiae (Tyr p 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "House dust mite Tyrophagus putrescentiae (Tyr p 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Xamirturushli zamburug' Malassezia sympodialis (Mala s 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeasts of the genus Malassezia Malassezia sympodialis (Mala s 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Xamirturushli zamburug' Malassezia sympodialis (Mala s 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeasts of the genus Malassezia Malassezia sympodialis (Mala s 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Xamirturushli zamburug' Malassezia sympodialis (Mala s 11)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeasts of the genus Malassezia Malassezia sympodialis (Mala s 11)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Novvoylik xamiturushlari (Sac c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Baker's yeast (Sac c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Alternariya (Alternaria alternata) (Alt a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Alternaria (Alternaria alternata) (Alt a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Alternariya (Alternaria alternata) (Alt a 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Alternaria (Alternaria alternata) (Alt a 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Aspergillus fumigatus (Asp f 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Aspergillus fumigatus (Asp f 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Aspergillus fumigatus (Asp f 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Aspergillus fumigatus (Asp f 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cladosporium herbarum (Cla h)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cladosporium herbarum (Cla h)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cladosporium herbarum (Cla h 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cladosporium herbarum (Cla h 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oltinrang penitsillin (Penicilium chrysogenum) (Pen ch)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Penicillium chrysogenum (Pen ch)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeryong'oq (Ara h 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Peanuts (Ara h 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeryong'oq (Ara h 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Peanut (Ara h 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeryong'oq (Ara h 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Peanut (Ara h 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeryong'oq (Ara h 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Peanut (Ara h 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeryong'oq (Ara h 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Peanut (Ara h 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeryong'oq (Ara h 9)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Peanut (Ara h 9)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeryong'oq (Ara h 15)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Peanut (Ara h 15)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oddiy no'xat (Cic a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Chickpea (Cic a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Soya loviyasi (Gly m 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Soybean (Gly m 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Soya loviyasi (Gly m 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Soybean (Gly m 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Soya loviyasi (Gly m 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Soybean (Gly m 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Soya loviyasi (Gly m 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Soybean (Gly m 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yasmiq (Len c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lentils (Len c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yashil loviya (Pha v)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Green beans (Pha v)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "No'xat (Pis s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Peas (Pis s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Suli (Ave s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oats (Ave s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kinoa (Che q)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Quinoa (Che q)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oddiy marjumak (Fag e)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Buckwheat (Fag e)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oddiy marjumak (Fag e 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Buckwheat (Fag e 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Arpa (Hor v)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Barley (Hor v)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Bo'rilukkak urug'i (Lup a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lupin seeds (Lup a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Guruch (Ory s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Rice (Ory s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tariq (Pan m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Millet (Pan m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Javdar (Sec c_flour)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Rye (Sec c_flour)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Bo'g'doy (Tri a aA_TI)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Wheat (Tri a aA_TI)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Bo'g'doy (Tri a 14)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Wheat (Tri a 14)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Bo'g'doy (Tri a 19)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Wheat (Tri a 19)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Spelta bo'g'doyi (Tri s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Spelt wheat (Tri s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Makkajo'hori (Zea m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Corn (Zea m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Makkajo'hori (Zea m 14)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Corn (Zea m 14)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Paprika (Cap a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Paprika (Cap a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oddiy zira (Car c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Caraway (Car c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oregano (Ori v)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oregano (Ori v)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Maydanoz (Pet c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Parsley (Pet c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Arpabodiyon (Pim a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Anise (Pim a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Xantal (Sin)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mustard (Sin)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Xantal (Sin a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mustard (Sin a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kivi (Act d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kiwi (Act d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kivi (Act d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kiwi (Act d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kivi (Act d 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kiwi (Act d 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kivi (Act d 10)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kiwi (Act d 10)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Papayya (Car p)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Papaya (Car p)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Apelsin (Cit s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Orange (Cit s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qovun (Cuc m 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Melon (Cuc m 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Anjir (Fic c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fig (Fic c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qulupnay (Fra a 1+3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Strawberry (Fra a 1+3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Olma (Mal d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Apple (Mal d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Olma (Mal d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Apple (Mal d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Olma (Mal d 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Apple (Mal d 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mango (Man i)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mango (Man i)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Banan (Mus a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Banana (Mus a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Avokado (Pers a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Avocado (Pers a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Gilos (Pru av)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cherry (Pru av)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shaftoli (Pru p 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Peach (Pru p 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nok (Pyr c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pear (Pyr c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Buta mevasi (chernika) (Vac m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Blueberry (Vac m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uzum (Vit v 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Grapes (Vit v 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Piyoz (All c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Onion (All c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sarimsoqpiyoz (All s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Garlic (All s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Selderey (Api g 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Celery (Api g 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Selderey (Api g 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Celery (Api g 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Selderey (Api g 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Celery (Api g 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sabzi (Dau c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Carrot (Dau c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sabzi (Dau c 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Carrot (Dau c 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kartoshka (Sol t)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Potato (Sol t)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pomidor (Sola l)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tomato (Sola l)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pomidor (Sola l 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tomato (Sola l 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hind yong'og'i (keshyu) (Ana o)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cashew (Ana o)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hind yong'og'i (keshyu) (Ana o 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cashew (Ana o 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hind yong'og'i (keshyu) (Ana o 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cashew (Ana o 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Braziliya yong'og'i (Ber e)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Brazil nut (Ber e)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Braziliya yong'og'i (Ber e 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Brazil nut (Ber e 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pekan yong'og'i (Car i)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pecan, nut (Car i)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Funduk yong'og'i (Cor a 1-0401)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hazelnut (Cor a 1-0401)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Funduk yong'og'i (Cor a 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hazelnut (Cor a 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Funduk yong'og'i (Cor a 9)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hazelnut (Cor a 9)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Funduk yong'og'i (Cor a 11)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hazelnut (Cor a 11)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Funduk yong'og'i (Cor a 14)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hazelnut (Cor a 14)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Gretsiya yong'og'i (Jug r 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Walnut (Jug r 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Gretsiya yong'og'i (Jug r 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Walnut (Jug r 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Gretsiya yong'og'i (Jug r 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Walnut (Jug r 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Gretsiya yong'og'i (Jug r 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Walnut (Jug r 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Gretsiya yong'og'i (Jug r 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Walnut (Jug r 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Makadamiya yong'og'i (Mac i 2S Albumin)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Macadamia nut (Mac i 2S Albumin)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Makadamiya yong'og'i (Mac inte)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Macadamia nut (Mac inte)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pistalar (Pis v 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pistachio (Pis v 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pistalar (Pis v 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pistachio (Pis v 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pistalar (Pis v 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pistachio (Pis v 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Bodom (Pru du)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Almond (Pru du)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qovoq urug'i (Cuc p)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pumpkin seeds (Cuc p)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kungaboqar urug'i (Hel a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sunflower seeds (Hel a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ko'knor urug'i (Pap s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Poppy seeds (Pap s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ko'knor urug'i (Pap s 2S Albumin)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Poppy seeds (Pap s 2S Albumin)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kunjut (Ses i)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sesame (Ses i)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kunjut (Ses i 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sesame (Ses i 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fenugrek urug'i (Tri fo)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fenugreek seeds (Tri fo)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sigir suti (Bos d_milk)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cow's milk (Bos d_milk)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sigir suti (Bos d 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cow's milk (Bos d 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sigir suti (Bos d 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cow's milk (Bos d 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sigir suti (Bos d 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cow's milk",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuya suti (Cam d)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Camel milk (Cam d)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Echki suti (Cap h_milk)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Goat milk (Cap h_milk)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Baytal (ot) suti (qimiz) (Equ c_milk)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mare's milk (Equ c_milk)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qo'y suti (Ovi a_milk)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sheep milk (Ovi a_milk)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuxum oqsili (Gal d_white)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Egg white (Gal d_white)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuxum sarig'i (Gal d_yolk)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Egg yolk (Gal d_yolk)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuxum oqsili (Gal d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Egg white (Gal d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuxum oqsili (Gal d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Egg white (Gal d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuxum oqsili (Gal d 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Egg white (Gal d 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuxum oqsili (Gal d 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Egg white (Gal d 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuxum sarig'i (Gal d 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Egg yolk (Gal d 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Seld balig'i qurti (Ani s 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Herring worm (Ani s 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Seld balig'i qurti (Ani s 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Herring worm (Ani s 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Krab (Chi spp-)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Crab (Chi spp-)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantika seld balig'i (Clu h)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantic herring (Clu h)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantika seld balig'i (Clu h 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantic herring (Clu h 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oddiy krevetka (Cra c 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Common shrimp (Cra c 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Karp (Cyp c 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Carp (Cyp c 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantika treska balig'i (Gad m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantic cod (Gad m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantika treska balig'i (Gad m 2+3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantic cod (Gad m 2+3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantika treska balig'i (Gad m 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantic cod (Gad m 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Omar (Hom g)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lobster (Hom g)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Krevetka (Lit s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shrimp (Lit s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kalmar (Lol spp-)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Squid (Lol spp-)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yeyishli midiya (Myt e)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Edible mussel (Myt e)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ustritsa (Ost e)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oyster (Ost e)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shimoliy krevetka (Pan b)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Northern shrimp (Pan b)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dengiz chig'anog'i (Pec spp-)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Scallop (Pec spp-)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qora yo'lbarssimon krevetka (Pen m 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Black tiger shrimp (Pen m 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qora yo'lbarssimon krevetka (Pen m 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Black tiger shrimp (Pen m 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qora yo'lbarssimon krevetka (Pen m 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Black tiger shrimp (Pen m 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qora yo'lbarssimon krevetka (Pen m 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Black tiger shrimp (Pen m 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dengiz tulkisi yoki tikanli skat (Raj c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Thresher or spiny (Raj c)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dengiz tulkisi yoki tikanli skat (Raj c Parvalbumin)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Thresher or spiny ray (Raj c Parvalbumin)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mollyuska (Rud spp-)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shellfish (Rud spp-)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Losos (Sal s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Salmon (Sal s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Losos (Sal s 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Salmon (Sal s 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantika skumboriya balig'i (Sco s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantic mackerel (Sco s)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantika skumbriya balig'i (Sco s 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Atlantic mackerel (Sco s 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tunes (Thu a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuna (Thu a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tunes (Thu a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuna (Thu a 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qilich baliq (Xip g 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Swordfish (Xip g 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy chigirtkasi (Ach d)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "House cricket (Ach d)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mol go'shti (Bos d_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Beef (Bos d_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mol go'shti (Bos d 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Beef (Bos d 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ot go'shti (Equ c_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Horse meat (Equ c_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tovuq go'shti (Gal d_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Chicken (Gal d_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ko'chmanchi chigirtka (Loc m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Migratory locust (Loc m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kurka go'shti (Mel g)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Turkey (Mel g)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Quyon go'shti (Ory_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Rabbit (Ory_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qo'y go'shti (Ovi a_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lamb (Ovi a_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cho'chqa go'shti (Sus d_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pork (Sus d_meat)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cho'chqa go'shti (Sus d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pork (Sus d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Katta un qo'ng'izi (Ten m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Large mealworm (Ten m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Olovli chumoli (Sol spp-)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fire ant (Sol spp-)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Asalari (Api m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Honey bee (Api m)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Asalari (Api m 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Honey bee (Api m 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Asalari (Api m 10)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Honey bee (Api m 10)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sakson arisi (Dol spp)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Saxon wasp (Dol spp)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qog'oz ari (Pol d)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Paper wasp (Pol d)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qog'oz ari (Pol d 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Paper wasp (Pol d 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oddiy ari (Ves v)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Common wasp (Ves v)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oddiy ari (Ves v 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Common wasp (Ves v 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Oddiy ari (Ves v 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Common wasp (Ves v 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nemes suvaragi (Bla g 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "German cockroach (Bla g 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nemes suvaragi (Bla g 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "German cockroach (Bla g 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nemes suvaragi (Bla g 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "German cockroach (Bla g 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nemes suvaragi (Bla g 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "German cockroach (Bla g 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nemes suvaragi (Bla g 9)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "German cockroach (Bla g 9)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Amerika suvaragi (Per a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "American cockroach (Per a)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Amerika suvaragi (Per a 7)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "American cockroach (Per a 7)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "It (Can f_Fd1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dog (Can f_Fd1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "It siydigi (shu jumladan Can f 5) (Can f_male urine)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dog urine (incl- Can f 5) (Can f_male urine)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "It (Can f 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dog (Can f 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "It (Can f 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dog (Can f 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "It (Can f 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dog (Can f 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "It (Can f 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dog (Can f 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "It (Can f 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dog (Can f 6)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dengiz cho'chqasi (Cav p 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Guinea pig (Cav p 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mushuk (Fel d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cat (Fel d 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mushuk (Fel d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cat (Fel d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mushuk (Fel d 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cat (Fel d 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mushuk (Fel d 7)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cat (Fel d 7)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy sichqoni epiteliyasi (Mus m 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "House mouse, epidermis (Mus m 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Quyon epiteliyasi (Ory c 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Rabbit, epithelium (Ory c 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Quyon epiteliyasi (Ory c 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Rabbit, epithelium (Ory c 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Quyon epiteliyasi (Ory c 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Rabbit, epithelium (Ory c 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Djungar og'maxoni (Phod s 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Djungarian hamster (Phod s 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kalamush epiteliyasi (Rat n)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Rat, epithelium (Rat n)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sigir epiteliyasi (Bos d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cow, epithelium (Bos d 2)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Echki epiteliyasi (Cap h_epithelia)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Goat, epithelium (Cap h_epithelia)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ot epiteliyasi (Equ c 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Horse, epithelium (Equ c 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ot epiteliyasi (Equ c 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Horse, epithelium (Equ c 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ot epiteliyasi (Equ c 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Horse, epithelium (Equ c 4)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qo'y epiteliyasi (Ovi a_epithelia)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sheep, epithelium (Ovi a_epithelia)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cho'chqa epiteliyasi (Sus d_epithelia)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pig, epithelium (Sus d_epithelia)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lateks (Hev b 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Latex (Hev b 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lateks (Hev b 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Latex (Hev b 3)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lateks (Hev b 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Latex (Hev b 5)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lateks (Hev b 6-02)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Latex (Hev b 6-02)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lateks (Hev b 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Latex (Hev b 8)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lateks (Hev b 11)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Latex (Hev b 11)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fikus (Fic b)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ficus (Fic b)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Laktoferrin (Hom s Lactoferrin) (Hom s LF)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lactoferrin (Hom s Lactoferrin) (Hom s LF)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qisqichbaqasimon kana (Argas reflexus) (Arg r 1)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shell mite (Argas reflexus) (Arg r 1)",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

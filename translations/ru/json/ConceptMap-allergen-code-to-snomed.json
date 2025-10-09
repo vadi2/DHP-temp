@@ -1,0 +1,581 @@
+{
+  "id" : "ConceptMap-allergen-code-to-snomed",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "ConceptMap.name",
+          "context" : "A natural language name identifying the concept map. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "AllergenCodeToSnomed",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.title",
+          "context" : "A short, descriptive, user-friendly title for the concept map.",
+          "source" : "UZ local allergen codes → SNOMED CT",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the concept map.",
+          "source" : "Uzinfocom LLC",
+          "target" : "ООО «Единый интегратор Uzinfocom»"
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.description",
+          "context" : "A free text natural language description of the concept map from a consumer's perspective.",
+          "source" : "Maps local UZ allergen codes to SNOMED CT for AllergyIntolerance.code",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "O't changlari",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Grass pollen",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Daraxt gulchanglari",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tree pollen",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Begona o'tlar changlari",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Weed pollen",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yevropa uy changi kanasi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "European house dust mite",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Xamirturushlar",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Molds mushrooms",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dukkakli don ekinlari",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Legumes",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Donli mahsulotlar",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cereals / Grains",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ziravorlar",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Spices",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mevalar",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fruits",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sabzavotlar",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Vegetables",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yong'oqlar",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nuts",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Urug'lar",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Seeds",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sut",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Milk",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tuxum",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Egg",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dengiz mahsulotlari",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Seafood / Shellfish",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Go'sht",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Meat",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yondiruvchi qurt chaqishi zahari",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fire ant venom",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Asalari zahari",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Bee venom",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Qoriq zahari",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Wasp venom",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Suvarak",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Cockroach",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy iti",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Domestic dog",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Uy mushugi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Domestic cat",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Lateks",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Latex",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fikus turlari",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ficus spp",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Metallga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to metal",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fermentlanlagan ozuqa",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Fermented food",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ozuqaviy qo'ziqorinlarga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to dietary mushroom",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Spirtli ichimlik",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Alcoholic beverage",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kofeinli ichimlik",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Caffeined beverage",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shakarli ichimlik",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sugar sweetened beverage",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kimyoviy modda allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to chemical substance",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kosmetikaga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to cosmetic",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hayvonlarga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to animal",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Gelmint (parazit qurt)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Helminth",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "O'simlik tolasi allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to plant fibre",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sulfanilamid antibiotik allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to sulfonamide antibiotic",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mushak bo'shatuvchi dori allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to muscle relaxants",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Mahalliy anestezik allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to local anaesthetic",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dorilarga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to drugs",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tibbiy ferment allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Medical enzyme allergy",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ombor kanasi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Storage mite",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Analgetikka allergik reaksiya",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergic reaction caused by analgesic",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ovqat qo'shimchasiga allergiya",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to food additive",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hasharot chaqishi allergiyasi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Allergy to insect venom",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tibbiy ichimlik",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Medical beverage",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
