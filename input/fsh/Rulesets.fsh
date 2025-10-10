@@ -7,7 +7,15 @@ RuleSet: IntAndUzAddressRules
 
 * address[uzAddress]
   * ^short = "An Uzbekistan address"
-  * type and use and text and line and city and district and state and country and period MS
+  * type MS
+  * use MS
+  * text MS
+  * line MS
+  * city MS
+  * district MS
+  * state MS
+  * country MS
+  * period MS
   * type from AddressTypeVS (required)
   * use from AddressUseVS (required)
   * use ^short = "Type of address, home | temp"
@@ -39,3 +47,37 @@ RuleSet: IntAndUzAddressRules
   * state ^short = "State, province, or region"
   * city ^short = "City or locality"
   * period ^short = "Time period when the address was/is used"
+
+RuleSet: MultilingualName
+* name MS
+* name contains given 0..* MS and family 0..1 MS
+* name[family] ^short = "Family name / surname"
+* name[given] ^short = "Given name / first name"
+* name contains langDesignation 0..* MS
+* name[langDesignation]
+  * ^short = "Multilingual designation for name"
+  * language MS
+  * value MS
+
+RuleSet: TaxIdentifier
+* identifier MS
+* identifier ^short = "Tax identification number"
+* identifier.system = "https://dhp.uz/fhir/core/CodeSystem/tax-identifier"
+* identifier.type from IdentifierTypeVS (required)
+* identifier.use from IdentifierUseVS (required)
+* identifier.value MS
+
+RuleSet: UzAddressRules
+* address MS
+* address contains uzAddress 0..1 MS
+* address[uzAddress]
+  * ^short = "O‘zbek manzili uchun qoida"
+  * type MS
+  * use MS
+  * country 1..
+  * country = $iso-3166#UZ
+  * city MS
+  * district MS
+  * state MS
+  * line MS
+  * text MS

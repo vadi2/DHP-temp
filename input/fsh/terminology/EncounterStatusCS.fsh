@@ -38,4 +38,4 @@ Description: "Encounter status codes with English and Russian translations"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Noma'lum"
   * ^designation[+].language = #ru
-  * ^designa*
+  * ^designation[=].value = "Неизвестно"
