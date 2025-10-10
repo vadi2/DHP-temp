@@ -9,4 +9,3 @@ Description: "Encounter readmission codes with English and Russian translations"
   * ^designation[=].value = "Qayta ko'rik"
   * ^designation[+].language = #ru
   * ^designation[=].value = "Повторный приём"
-  

@@ -9,7 +9,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
 * ^publisher = "Uzinfocom"
 
 * identifier 1..* MS
-  * extension contains data-absent-reason named data-absent-reason 0..1 MS
+  * value.extension contains data-absent-reason named data-absent-reason 0..1 MS
 * identifier.use from IdentifierUseVS (required)
 * identifier.type from IdentifierTypeVS (required)
 * identifier ^slicing.discriminator.type = #value
@@ -25,7 +25,6 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
     diplomaticPassport 0..1 MS and
     healthCardId 0..1 MS and
     militaryId 0..1 MS and
-    // socialSecurity 0..1 MS and
     penitentiaryInstitution 0..1 MS
 
 * identifier[passportLocal] 
@@ -104,6 +103,7 @@ Description: "Uzbekistan Core Patient profile, used to represent patients admini
     patient-citizenship named citizenship 0..1 MS
 * extension[nationality].extension[code].valueCodeableConcept from NationalityVS (required)
 * extension[citizenship].extension[code].valueCodeableConcept from CountriesDigitalMVDVS (required)
+
 * gender MS
   * extension contains GenderOtherUZ named gender-other 0..1 MS
 * obeys uzcore-gender-other-2
@@ -153,7 +153,7 @@ Usage: #example
   * use = #home
   * type = #postal
   * line = "ул.Муминова 4"
-  * country = "182"
+  * country = "UZ"
   * district = "1703202"
   * city = "22070013"
   * period.start = "1999-04-06"

@@ -13,7 +13,7 @@ Description: "Encounter priority codes with English and Russian translations"
   * ^designation[0].language = #uz
   * ^designation[=].value = "Operatsiyadan oldingi"
   * ^designation[+].language = #ru
-  * ^designation[=].value = "Предоперационный"   
+  * ^designation[=].value = "Предоперационный"
 * #PRN 
   * ^designation[0].language = #uz
   * ^designation[=].value = "Zaruratga qarab"

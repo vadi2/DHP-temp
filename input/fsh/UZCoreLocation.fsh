@@ -30,7 +30,7 @@ Description: "Uzbekistan Core Location profile, used to define locations of heal
 * operationalStatus ^short = "Ward bed status (will be used in future)"
 
 * insert UzAddressRules
-* insert MultilingualName(локации)
+* insert MultilingualName(location)
 * status from LocationStatusVS (required)
 
 * type.coding ^slicing.discriminator.type = #value
@@ -42,7 +42,6 @@ Description: "Uzbekistan Core Location profile, used to define locations of heal
 * type.coding contains type 0..1 MS
 * type.coding[type]
   * system 1..1 MS
-  // * system = "https://terminology.dhp.uz/fhir/core/CodeSystem/location-types-cs"
   * code 1..1 MS
   * code from LocationTypesVS (required)
 

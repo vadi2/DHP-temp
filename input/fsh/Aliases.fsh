@@ -1,9 +1,10 @@
-// Alias: $encounter-class = https://terminology.dhp.uz/fhir/core/ValueSet/encounter-class
+// Aliases
+
+Alias: $encounter-class = https://terminology.dhp.uz/fhir/core/ValueSet/encounter-class
 Alias: $address-type = http://hl7.org/fhir/address-type
 Alias: $address-use = http://hl7.org/fhir/address-use
 Alias: $audit-event-action = http://hl7.org/fhir/audit-event-action
 Alias: $birthcertificate = https://adliya.uz/identifier/birthcertificate
-Alias: $bodysite = http://hl7.org/fhir/ValueSet/body-site
 Alias: $bodysite = http://hl7.org/fhir/ValueSet/body-site
 Alias: $bodySite-condition = http://hl7.org/fhir/ValueSet/body-site
 Alias: $clinical-findings = http://hl7.org/fhir/ValueSet/clinical-findings
@@ -49,7 +50,7 @@ Alias: $name-use = http://hl7.org/fhir/name-use
 Alias: $nationaluniqueID = https://dpm.uz/identifier/nationaluniqueID
 Alias: $nomenclature-group = https://dhp.uz/fhir/core/CodeSystem/nomenclature-group
 Alias: $object-role = http://terminology.hl7.org/CodeSystem/object-role
-Alias: $observation-category = http://terminology.hl7.org/CodeSystem/observation-category //http://hl7.org/fhir/observation-category
+Alias: $observation-category = http://terminology.hl7.org/CodeSystem/observation-category
 Alias: $observation-codes = http://hl7.org/fhir/ValueSet/observation-codes
 Alias: $observation-dataAbsentReason = http://terminology.hl7.org/CodeSystem/data-absent-reason
 Alias: $observation-interpretation = http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation
@@ -93,7 +94,6 @@ Alias: $v3-Confidentiality = http://terminology.hl7.org/CodeSystem/v3-Confidenti
 Alias: $v3-DocumentCompletion = http://terminology.hl7.org/CodeSystem/v3-DocumentCompletion
 Alias: $v3-MaritalStatus = http://terminology.hl7.org/CodeSystem/v3-MaritalStatus
 Alias: $v3-NullFlavor = http://terminology.hl7.org/CodeSystem/v3-NullFlavor
-Alias: $v3-ParticipationType = http://terminology.hl7.org/CodeSystem/v3-ParticipationType
 Alias: $v3-ParticipationType = http://terminology.hl7.org/CodeSystem/v3-ParticipationType
 Alias: $v3-RoleClass = http://terminology.hl7.org/CodeSystem/v3-RoleClass
 Alias: $v3-RoleCode = http://terminology.hl7.org/CodeSystem/v3-RoleCode 

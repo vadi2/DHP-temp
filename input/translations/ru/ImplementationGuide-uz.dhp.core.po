@@ -321,6 +321,16 @@ msgstr "Цифровые коды стран от МВД с переводами
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
+msgid "Countries digital MVD translations"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Countries digital MVD codes with translations in Russian and English"
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
 msgid "Defines a nationality of a person as used in Uzbekistan"
 msgstr "Определяет национальность лица, используемую в Узбекистане"
 
@@ -539,6 +549,16 @@ msgstr "Encounter participant type translations"
 msgid "Encounter participant type codes with English and Russian translations"
 msgstr ""
 "Коды типов участников обращения с переводами на английский и русский языки"
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "Encounter participant type translations"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Encounter participant type codes with English and Russian translations"
+msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -910,8 +930,7 @@ msgstr "HTTP interaction translations"
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
 msgid "HTTP interaction supplement with translations in Uzbek and Russian"
-msgstr ""
-"Дополнение «HTTP-взаимодействие» с переводами на узбекский и русский языки"
+msgstr "Дополнение «HTTP-взаимодействие» с переводами на узбекский и русский языки"
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1017,6 +1036,26 @@ msgstr "Mahallas translations"
 #: ImplementationGuide.definition.resource.description
 msgid "Mahallas names with English and Russian translations"
 msgstr "Названия махаллей с переводом на английский и русский языки"
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "Mahalla Codes and Names"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Mahalla codes and names with translations in Russian and English"
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "Mahallas translations"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Mahallas names with English and Russian translations"
+msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -1198,6 +1237,26 @@ msgstr "Participation type translations"
 #: ImplementationGuide.definition.resource.description
 msgid "Participation type supplement with translations in Uzbek and Russian"
 msgstr "Дополнение «Тип участия» с переводами на узбекский и русский языки"
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "Participant type translations"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Participant type supplement with translations in Uzbek and Russian"
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "Participation type translations"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "Participation type supplement with translations in Uzbek and Russian"
+msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
@@ -2101,6 +2160,16 @@ msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
+msgid "Uzbekistan states and Locations"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "List of states and locations in Uzbekistan"
+msgstr ""
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
 msgid "Verification status types"
 msgstr "Verification status types"
 
@@ -2124,6 +2193,16 @@ msgstr "World countries name translations"
 #: ImplementationGuide.definition.resource.description
 msgid "World countries names with English and Russian translations"
 msgstr "Названия стран мира с переводами на английский и русский языки"
+
+# A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
+#: ImplementationGuide.definition.resource.name
+msgid "World countries name translations"
+msgstr ""
+
+# A description of the reason that a resource has been included in the implementation guide.
+#: ImplementationGuide.definition.resource.description
+msgid "World countries names with English and Russian translations"
+msgstr ""
 
 # Indicates the URL or the actual content to provide for the page.
 #: ImplementationGuide.definition.page.source[x]
