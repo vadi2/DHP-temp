@@ -11,3 +11,7 @@ Branching strategy: feature branches are created as needed and merged into the m
 Code review policy: pull requests must pass IG Publisher QA checks without introducing new errors or warnings, and require approval from at least one FHIR expert before merging.
 
 Quality assurance: static analysis is enforced through the FHIR IG Publisher's built-in validation and QA tooling, which checks for conformance issues, broken references, terminology validation errors, and a host of other issues.
+
+## Documentation
+
+[Modelling Guidelines](/modelling-guidelines.md)

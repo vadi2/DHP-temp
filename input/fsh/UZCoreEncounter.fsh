@@ -2,7 +2,7 @@ Profile: UZCoreEncounter
 Parent: Encounter
 Id: uz-core-encounter
 Title: "UZ Core Encounter"
-Description: "Uzbekistan Core Patient profile, used to represent clinical encounters"
+Description: "Uzbekistan Core Encounter profile, used to represent clinical encounters"
 * ^experimental = true
 * ^status = #active
 * ^date = "2025-08-01"
