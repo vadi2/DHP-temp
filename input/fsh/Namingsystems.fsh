@@ -239,6 +239,19 @@ Usage: #definition
 * uniqueId.preferred = true
 * uniqueId.comment = "This is the canonical URI for the Uzbekistan DHP Location Unit identifier system"
 
+Instance: allergy-intolerance-identifier
+InstanceOf: NamingSystem
+Usage: #definition
+Title: "DHP UZ AllergyIntolerance Identifier System"
+Description: "Identifier namespace used for AllergyIntolerance resources in the Uzbekistan DHP."
+* name = "UZ_DHP_AllergyIntolerance_Identifier"
+* status = #active
+* kind = #identifier
+* date = "2025-08-19"
+* publisher = "Uzinfocom"
+* uniqueId[0].type = #uri
+* uniqueId[0].value = "https://terminology.dhp.uz/fhir/core/AllergyIntolerance"
+
 Instance: episodeofcare-identifier
 InstanceOf: NamingSystem
 Usage: #definition
@@ -249,11 +262,7 @@ Description: "Identifier system used for EpisodeOfCare resources within the Uzbe
 * kind = #identifier
 * date = "2025-08-13"
 * publisher = "Uzinfocom"
-
-// Необязательно: тип идентификатора (v2-0203 "Visit number")
 * type = http://terminology.hl7.org/CodeSystem/v2-0203#VN "Visit number"
-
-// Уникальные идентификаторы NamingSystem
 * uniqueId[0].type = #uri
 * uniqueId[0].value = "http://dhp.uz/ids/episode-of-care"
 * uniqueId[0].preferred = true
