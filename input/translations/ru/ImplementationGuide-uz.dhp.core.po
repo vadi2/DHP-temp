@@ -2257,8 +2257,8 @@ msgstr ""
 
 # A human assigned name for the resource. All resources SHOULD have a name, but the name may be extracted from the resource (e.g. ValueSet.name).
 #: ImplementationGuide.definition.resource.name
-msgid "uzb-hrm-argoz"
-msgstr "uzb-hrm-argoz"
+msgid "uzb-hrm-argos"
+msgstr "uzb-hrm-argos"
 
 # A description of the reason that a resource has been included in the implementation guide.
 #: ImplementationGuide.definition.resource.description
