@@ -75,7 +75,7 @@ The only exception to versioning are translation supplements of official [THO](h
 - Indicates breaking changes in parts of the IG or significant architectural updates
 
 ### IP Statements
-{% include ip-statements-en.xhtml %}
+{% lang-fragment ip-statements.xhtml %}
 
 ### Contributors
 

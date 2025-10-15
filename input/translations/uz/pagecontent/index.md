@@ -75,7 +75,7 @@ Versiyalashdan yagona istisno [THO](https://terminology.hl7.org) kod tizimlarini
 - IG'ning ba'zi qismlarida katta o'zgarishlar yoki arxitektura yangilanishlarini bildiradi
 
 ### Intellektual mulk bayonotlari
-{% include ip-statements-uz.xhtml %}
+{% lang-fragment ip-statements.xhtml %}
 
 ### Mualliflar
 
