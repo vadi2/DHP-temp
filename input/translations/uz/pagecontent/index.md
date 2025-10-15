@@ -28,25 +28,25 @@ Raqamli sog'liqni saqlash platformasi (DHP) "Sog'liqni saqlash tizimini raqamlas
 
 O'zbekiston Respublikasi Raqamli Sog'liqni Saqlash Platformasi quyidagi 19 ta xizmat asosida tashkil etilgan:
 
-*Metama'lumotlar va xavfsizlikni boshqarish (MSM)
-*Asosiy ma'lumotlarni boshqarish (MDM)
-*Bemorni davolash jarayonini boshqarish
-*Elektron tibbiy yozuvlar
-*Yo'llanmalar
-*Retseptlar
-*Qabul va rejalashtirish
-*Laboratoriya
-*Diagnostika va nurli vizualizatsiya
-*Tez tibbiy yordam
-*Tibbiy ta'minot
-*Xarajatlarni qoplash
-*Klinik qarorlarni qo'llab-quvvatlash
-*Hamshiralik ishi
-*Qon resurslarini boshqarish
-*Emlashni boshqarish
-*Jamoat salomatligi bo'yicha hisobotlar
-*Skrining jadvalini boshqarish
-*Sifatni ta'minlash
+* Metama'lumotlar va xavfsizlikni boshqarish (MSM)
+* Asosiy ma'lumotlarni boshqarish (MDM)
+* Bemorni davolash jarayonini boshqarish
+* Elektron tibbiy yozuvlar
+* Yo'llanmalar
+* Retseptlar
+* Qabul va rejalashtirish
+* Laboratoriya
+* Diagnostika va nurli vizualizatsiya
+* Tez tibbiy yordam
+* Tibbiy ta'minot
+* Xarajatlarni qoplash
+* Klinik qarorlarni qo'llab-quvvatlash
+* Hamshiralik ishi
+* Qon resurslarini boshqarish
+* Emlashni boshqarish
+* Jamoat salomatligi bo'yicha hisobotlar
+* Skrining jadvalini boshqarish
+* Sifatni ta'minlash
 
 ### Versiyalarni aniqlash
 
