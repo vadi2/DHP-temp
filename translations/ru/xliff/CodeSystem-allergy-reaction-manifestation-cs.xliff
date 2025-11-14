@@ -1,0 +1,561 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-allergy-reaction-manifestation-cs" original="Resource CodeSystem-allergy-reaction-manifestation-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>ReactionManifestationCS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>Reaction manifestation codes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>Local codes and multilingual names for allergy symptoms.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Aksirish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Sneezing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Burun oqishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Nasal discharge</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Burun qichishishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Itchy nose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Burunda polip borligi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>The presence of polyps in the nose (Nasal polyposis)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Burundan toza rangsiz suyuqlik kelishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Clear, colorless discharge from the nose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Xurrak otish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Snoring</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Xid bilishning pasayishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Loss of sense of smell</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Yuz, soxasida og'riq</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Pain in face</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Tomoqda og'riq, achishish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Sore throat; Pain in throat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Tomoq qichishish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Itching in the tonsil</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Og'iz bo'shlig'i yumshoq to'qimalarining qichishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Pruritus of oral soft tissues</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Ovoz bo'g'ilishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Choking</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Yo'tal</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Coughing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Burindan tomog'iga suyuqlik oqishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Nasal discharge into the throat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Tomoq qurib ketishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Dry throat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Tomoqning tiqilishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Congestion of throat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Tomoqning shishishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Sweelling of throat,Pharyngeal swelling</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Tomoq qizarishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Redness of throat</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Shovqinli nafas ( xirillashlar )</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Noisy breathing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Nafas siqishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Shortness of breath (Dyspnea)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Xavo yetishmasligi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Shortness of breath</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Ko'krak qafasida siqilish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Chest tightness</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Balg'am ajralishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Sputum (Expectoration)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Quloq qichishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Itching of ear</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Eshitishning pasayishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Hearing loss</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Quloq shangillashi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ringing in ears</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Quloq bitib qolishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Sensation of blocked ear</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Kulodqan suyuqlik kelishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Otorrhea, discharge of ear</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Ko'zda qichishish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Itchy eyes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Ko'z qizarishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Redness of the eyes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Ko'z atrofi shishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Edema of eyelid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Ko'zning tez qurib qolishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Rapid drying of the eyes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Ko'z yoshlanishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Tearing</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Terisida toshmalar toshishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Skin rash</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Terisida qichishish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Itchy skin</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Terining qurib ketishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Dry skin</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.display">
+             <notes>
+               <note id="n1">A human readable string that is the recommended default way to present this concept to a user.</note>
+             </notes>
+        <source>Barmorlar kaft soxasida shish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-allergy-reaction-manifestation-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Edema of palm of hand</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

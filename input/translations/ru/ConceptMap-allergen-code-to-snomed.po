@@ -1,0 +1,476 @@
+
+# A natural language name identifying the concept map. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: ConceptMap.name
+msgid "AllergenCodeToSnomed"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the concept map.
+#: ConceptMap.title
+msgid "UZ local allergen codes → SNOMED CT"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the concept map.
+#: ConceptMap.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the concept map from a consumer's perspective.
+#: ConceptMap.description
+msgid "Maps local UZ allergen codes to SNOMED CT for AllergyIntolerance.code"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "O't changlari"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Grass pollen"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Daraxt gulchanglari"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Tree pollen"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Begona o'tlar changlari"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Weed pollen"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yevropa uy changi kanasi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "European house dust mite"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Xamirturushlar"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Molds mushrooms"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Dukkakli don ekinlari"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Legumes"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Donli mahsulotlar"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cereals / Grains"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ziravorlar"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Spices"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mevalar"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Fruits"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sabzavotlar"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Vegetables"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yong'oqlar"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Nuts"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Urug'lar"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Seeds"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sut"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Milk"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tuxum"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Egg"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Dengiz mahsulotlari"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Seafood / Shellfish"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Go'sht"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Meat"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yondiruvchi qurt chaqishi zahari"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Fire ant venom"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Asalari zahari"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Bee venom"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Qoriq zahari"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Wasp venom"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Suvarak"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Cockroach"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy iti"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Domestic dog"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Uy mushugi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Domestic cat"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Lateks"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Latex"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Fikus turlari"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Ficus spp"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Metallga allergiya"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to metal"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Fermentlanlagan ozuqa"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Fermented food"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ozuqaviy qo'ziqorinlarga allergiya"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to dietary mushroom"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Spirtli ichimlik"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Alcoholic beverage"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kofeinli ichimlik"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Caffeined beverage"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Shakarli ichimlik"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Sugar sweetened beverage"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kimyoviy modda allergiyasi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to chemical substance"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kosmetikaga allergiya"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to cosmetic"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Hayvonlarga allergiya"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to animal"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Gelmint (parazit qurt)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Helminth"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "O'simlik tolasi allergiyasi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to plant fibre"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Sulfanilamid antibiotik allergiyasi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to sulfonamide antibiotic"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mushak bo'shatuvchi dori allergiyasi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to muscle relaxants"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Mahalliy anestezik allergiyasi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to local anaesthetic"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Dorilarga allergiya"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to drugs"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tibbiy ferment allergiyasi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Medical enzyme allergy"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ombor kanasi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Storage mite"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Analgetikka allergik reaksiya"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergic reaction caused by analgesic"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ovqat qo'shimchasiga allergiya"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to food additive"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Hasharot chaqishi allergiyasi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Allergy to insect venom"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tibbiy ichimlik"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Medical beverage"
+msgstr ""
+
