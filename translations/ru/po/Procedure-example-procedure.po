@@ -1,0 +1,61 @@
+
+# Plain text narrative that identifies the resource in addition to the resource reference.
+#: Reference.display
+msgid "CarePlan #1"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Physical therapy procedure"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Therapeutic massage"
+msgstr ""
+
+# A human language representation of the concept as seen/selected/uttered by the user who entered the data and/or which represents the intended meaning of the user.
+#: CodeableConcept.text
+msgid "Therapeutic massage of shoulders"
+msgstr ""
+
+# Plain text narrative that identifies the resource in addition to the resource reference.
+#: Reference.display
+msgid "David Davidov"
+msgstr ""
+
+# Plain text narrative that identifies the resource in addition to the resource reference.
+#: Reference.display
+msgid "Outpatient Visit"
+msgstr ""
+
+# Plain text narrative that identifies the resource in addition to the resource reference.
+#: Reference.display
+msgid "Nurse Jane Smith"
+msgstr ""
+
+# Plain text narrative that identifies the resource in addition to the resource reference.
+#: Reference.display
+msgid "Paul Ivanov, PT"
+msgstr ""
+
+# Plain text narrative that identifies the resource in addition to the resource reference.
+#: Reference.display
+msgid "Physiotherapy Room 2"
+msgstr ""
+
+# Plain text narrative that identifies the resource in addition to the resource reference.
+#: Reference.display
+msgid "Боль в ноге"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Левая нога"
+msgstr ""
+
+# A representation of the meaning of the code in the system, following the rules of the system.
+#: Coding.display
+msgid "Успешно"
+msgstr ""
+

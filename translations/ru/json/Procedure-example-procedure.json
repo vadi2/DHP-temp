@@ -1,0 +1,83 @@
+{
+  "id" : "Procedure-example-procedure",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "Reference.display",
+          "context" : "Plain text narrative that identifies the resource in addition to the resource reference.",
+          "source" : "CarePlan #1",
+          "target" : null
+        },
+        {
+          "id" : "Coding.display",
+          "context" : "A representation of the meaning of the code in the system, following the rules of the system.",
+          "source" : "Physical therapy procedure",
+          "target" : null
+        },
+        {
+          "id" : "Coding.display",
+          "context" : "A representation of the meaning of the code in the system, following the rules of the system.",
+          "source" : "Therapeutic massage",
+          "target" : null
+        },
+        {
+          "id" : "CodeableConcept.text",
+          "context" : "A human language representation of the concept as seen/selected/uttered by the user who entered the data and/or which represents the intended meaning of the user.",
+          "source" : "Therapeutic massage of shoulders",
+          "target" : null
+        },
+        {
+          "id" : "Reference.display",
+          "context" : "Plain text narrative that identifies the resource in addition to the resource reference.",
+          "source" : "David Davidov",
+          "target" : null
+        },
+        {
+          "id" : "Reference.display",
+          "context" : "Plain text narrative that identifies the resource in addition to the resource reference.",
+          "source" : "Outpatient Visit",
+          "target" : null
+        },
+        {
+          "id" : "Reference.display",
+          "context" : "Plain text narrative that identifies the resource in addition to the resource reference.",
+          "source" : "Nurse Jane Smith",
+          "target" : null
+        },
+        {
+          "id" : "Reference.display",
+          "context" : "Plain text narrative that identifies the resource in addition to the resource reference.",
+          "source" : "Paul Ivanov, PT",
+          "target" : null
+        },
+        {
+          "id" : "Reference.display",
+          "context" : "Plain text narrative that identifies the resource in addition to the resource reference.",
+          "source" : "Physiotherapy Room 2",
+          "target" : null
+        },
+        {
+          "id" : "Reference.display",
+          "context" : "Plain text narrative that identifies the resource in addition to the resource reference.",
+          "source" : "Боль в ноге",
+          "target" : null
+        },
+        {
+          "id" : "Coding.display",
+          "context" : "A representation of the meaning of the code in the system, following the rules of the system.",
+          "source" : "Левая нога",
+          "target" : null
+        },
+        {
+          "id" : "Coding.display",
+          "context" : "A representation of the meaning of the code in the system, following the rules of the system.",
+          "source" : "Успешно",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}
