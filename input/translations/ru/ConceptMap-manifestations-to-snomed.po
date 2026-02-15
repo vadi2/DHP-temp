@@ -1,0 +1,396 @@
+
+# A natural language name identifying the concept map. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: ConceptMap.name
+msgid "AllergyManifestationsToSnomed"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the concept map.
+#: ConceptMap.title
+msgid "UZ local allergy manifestations → SNOMED CT"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the concept map.
+#: ConceptMap.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the concept map from a consumer's perspective.
+#: ConceptMap.description
+msgid "Maps local UZ ReactionManifestationCS codes to SNOMED CT for AllergyIntolerance.reaction.manifestation."
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Aksirish"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Sneezing"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Burun oqishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Nasal discharge"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Burun qichishishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Itchy nose"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Burunda polip borligi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "The presence of polyps in the nose (Nasal polyposis)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Burundan toza rangsiz suyuqlik kelishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Clear, colorless discharge from the nose"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Xurrak otish"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Snoring"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Xid bilishning pasayishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Loss of sense of smell"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yuz, soxasida og'riq"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pain in face"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tomoqda og'riq, achishish"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Sore throat; Pain in throat"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tomoq qichishish"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Itching in the tonsil"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Og'iz bo'shlig'i yumshoq to'qimalarining qichishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Pruritus of oral soft tissues"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ovoz bo'g'ilishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Choking"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Yo'tal"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Coughing"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Burindan tomog'iga suyuqlik Oqishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Nasal discharge into the throat"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tomoq qurib ketishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Dry throat"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tomoqning tiqilishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Congestion of throat"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tomoqning shishishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Swelling of throat; Pharyngeal swelling"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Tomoq qizarishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Redness of throat"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Shovqinli nafas ( xirillashlar )"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Noisy breathing"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Nafas siqishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Shortness of breath (Dyspnea)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Xavo yetishmasligi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Shortness of breath"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ko'krak qafasida siqilish"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Chest tightness"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Balg'am ajralishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Sputum (Expectoration)"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Quloq qichishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Itching of ear"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Eshitishning pasayishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Hearing loss"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Quloq shangillashi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Ringing in ears"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Quloq bitib qolishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Sensation of blocked ear"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Kulodqan suyuqlik kelishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Otorrhea, discharge of ear"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ko'zda qichishish"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Itchy eyes"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ko'z qizarishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Redness of the eyes"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ko'z atrofi shishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Edema of eyelid"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ko'zning tez qurib qolishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Rapid drying of the eyes"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Ko'z yoshlanishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Tearing"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Terisida toshmalar toshishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Skin rash"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Terisida qichishish"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Itchy skin"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Terining qurib ketishi"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Dry skin"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.display
+msgid "Barmorlar kaft soxasida shish"
+msgstr ""
+
+# The display for the code. The display is only provided to help editors when editing the concept map.
+#: ConceptMap.group.element.target.display
+msgid "Edema of palm of hand"
+msgstr ""
+

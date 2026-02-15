@@ -1,0 +1,701 @@
+
+# A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: CodeSystem.name
+msgid "AllergenCodesCS"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the code system.
+#: CodeSystem.title
+msgid "Allergen codes"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
+#: CodeSystem.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the code system from a consumer's perspective.
+#: CodeSystem.description
+msgid "Allergy codes supplement with translations in uzbek and russian"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "O't changlari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пыльца трав"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Grass pollen"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Daraxt gulchanglari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пыльца деревьев"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Tree pollen"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Begona o'tlar changlari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пыльца сорняков"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Weed pollen"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yevropa uy changi kanasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Европейский клещ домашней пыли"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "European house dust mite"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Xamirturushlar"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Плесневые грибы"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Molds mushrooms"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Dukkakli don ekinlari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Бобовые"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Legumes"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Donli mahsulotlar"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Злаки / Зерновые"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cereals / Grains"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ziravorlar"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Специи"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Spices"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mevalar"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Фрукты"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Fruits"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sabzavotlar"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Овощи"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Vegetables"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yong'oqlar"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Орехи"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Nuts"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Urug'lar"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Семена"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Seeds"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sut"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Молоко"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Milk"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tuxum"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яйцо"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Egg"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Dengiz mahsulotlari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Морепродукты / Моллюски"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Seafood / Shellfish"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Go'sht"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Мясо"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Meat"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yondiruvchi qurt chaqishi zahari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яд огненного муравья"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Fire ant venom"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Asalari zahari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пчелиный яд"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Bee venom"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qoriq zahari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Осиный яд"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Wasp venom"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Suvarak"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Таракан"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cockroach"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy iti"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Домашняя собака"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Domestic dog"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy mushugi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Домашняя кошка"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Domestic cat"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Lateks"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Латекс"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Latex"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Fikus turlari"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Растения рода фикус"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ficus spp"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Metallga allergiya"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на металл"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to metal"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Fermentlanlagan ozuqa"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ферментированная пища"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Fermented food"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ozuqaviy qo'ziqorinlarga allergiya"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на пищевые грибы"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to dietary mushroom"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Spirtli ichimlik"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Алкогольный напиток"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Alcoholic beverage"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kofeinli ichimlik"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кофеинсодержащий напиток"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Caffeined beverage"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Shakarli ichimlik"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Подслащенный напиток"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Sugar sweetened beverage"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kimyoviy modda allergiyasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на химическое вещество"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to chemical substance"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kosmetikaga allergiya"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на косметику"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to cosmetic"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Hayvonlarga allergiya"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на животное"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to animal"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gelmint (parazit qurt)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Гельминт (паразитический червь)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Helminth"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "O'simlik tolasi allergiyasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на растительное волокно"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to plant fibre"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sulfanilamid antibiotik allergiyasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на сульфаниламидный антибиотик"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to sulfonamide antibiotic"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mushak bo'shatuvchi dori allergiyasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на миорелаксанты"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to muscle relaxants"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mahalliy anestezik allergiyasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на местный анестетик"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to local anaesthetic"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Dorilarga allergiya"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на лекарства"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to drugs"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tibbiy ferment allergiyasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на лекарственные ферменты"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Medical enzyme allergy"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ombor kanasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Складовой клещ"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Storage mite"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Analgetikka allergik reaksiya"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергическая реакция на анальгетик"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergic reaction caused by analgesic"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ovqat qo'shimchasiga allergiya"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на пищевую добавку"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to food additive"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Hasharot chaqishi allergiyasi"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аллергия на яд насекомого"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Allergy to insect venom"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tibbiy ichimlik"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Медицинский напиток"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Medical beverage"
+msgstr ""
+

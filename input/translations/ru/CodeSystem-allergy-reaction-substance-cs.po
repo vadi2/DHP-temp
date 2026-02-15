@@ -1,0 +1,4451 @@
+
+# A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: CodeSystem.name
+msgid "ReactionSubstanceCS"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the code system.
+#: CodeSystem.title
+msgid "Reaction substance codes"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
+#: CodeSystem.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the code system from a consumer's perspective.
+#: CodeSystem.description
+msgid "Local codes and multilingual names for allergy reaction substance."
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ajiriq (Cyn d)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Свинорой пальчатый (Cyn d)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cyn d"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ajiriq (Cyn d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Свинорой пальчатый (Cyn d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cyn d 1"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ko'p yillik mastak (Lol p 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Плевел многолетний (Lol p 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Lol p 1"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Paspalum/grechka (Pas n)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Паспалум/гречка заметная (Pas n)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Paspalum/conspicuous buckwheat (Pas n)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ajiriqbosh (Phl p 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тимофеевка луговая (Phl p 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Timothy grass (Phl p 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ajiriqbosh (Phl p 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тимофеевка луговая (Phl p 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Timothy grass (Phl p 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ajiriqbosh (Phl p 5-0101)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тимофеевка луговая (Phl p 5-0101)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Timothy grass (Phl p 5-0101)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ajiriqbosh (Phl p 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тимофеевка луговая (Phl p 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Timothy grass (Phl p 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ajiriqbosh (Phl p 7)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тимофеевка луговая (Phl p 7)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Timothy grass (Phl p 7)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ajiriqbosh (Phl p 12)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тимофеевка луговая (Phl p 12)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Timothy grass (Phl p 12)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qamish (Phr c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тростник (Phr c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Reed (Phr c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Javdar changi (Sec c pollen)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Рожь, пыльца (Sec c pollen)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Rye, pollen (Sec c pollen)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kumush akatsiya (Aca m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Акация серебристая (Aca m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Silver acacia (Aca m)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Baland aylant (Ail a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Айлант высочайший (Ail a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ailanthus altissima (Ail a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qandag'och (Aln g 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ольха (Aln g 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Alder (Aln g 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qandag'och (Aln g 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ольха (Aln g 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Alder (Aln g 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Serbuqoq qayin (Bet v 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Берёза повислая (Bet v 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Bet v 1"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Serbuqoq qayin (Bet v 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Берёза повислая (Bet v 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Bet v 2"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Serbuqoq qayin (Bet v 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Берёза повислая (Bet v 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Bet v 6"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qog'ozdaraxt (tut) (Bro pa)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Бумажная шелковица (Bro pa)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Paper mulberry (Bro pa)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "O'rmon yong'og'i (Cor a_pollen)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Орешник (Лещина) (Cor a_pollen)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Hazel (Cor a_pollen)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "O'rmon yong'og'i (Cor a 1-0103)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Орешник (Лещина) (Cor a 1-0103)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Hazel (Cor a 1-0103)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yapon kriptomeriyasi (Cry j 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Криптомерия японская (Cry j 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cryptomeria japonica (Cry j 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sarv (Cup a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кипарис (Cup a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cypress (Cup a 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sarv (Cup s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кипарис (Cup s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cypress (Cup s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qoraqayin (Fag s 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Бук (Fag s 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Beech (Fag s 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Shumtol (Fra e)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ясень (Fra e)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ash (Fra e)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Shumtol (Fra e 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ясень (Fra e 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ash (Fra e 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yong'oq changi (Jug r_pollen)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Грецкий орех, пыльца (Jug r_pollen)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Walnut, pollen (Jug r_pollen)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kedr (Jun a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кедр (Jun a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cedar (Jun a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tut (Mor r)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Шелковица (Mor r)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Mulberry (Mor r)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Zaytun (Ole e 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Олива (Ole e 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Olive (Ole e 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Zaytun (Ole e 9)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Олива (Ole e 9)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Olive (Ole e 9)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Xurmo daraxti (Pho d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Финиковая пальма (Pho d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Date palm (Pho d 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Chinor (Pla a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Платан кленолистный (Pla a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Plane maple (Pla a 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Chinor (Pla a 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Платан кленолистный (Pla a 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Plane tree (Pla a 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Chinor (Pla a 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Платан кленолистный (Pla a 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Plane tree (Pla a 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Terak (Pop n)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тополь (Pop n)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Poplar (Pop n)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qayrag'och (Ulm c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Вяз (Ulm c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Elm (Ulm c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oddiy olabuta (Ama r)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Обыкновенная марь (Ama r)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Common goosefoot (Ama r)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ambroziya (Amb a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Амброзия (Amb a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ragweed (Amb a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ambroziya (Amb a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Амброзия (Amb a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ragweed (Amb a 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ambroziya (Amb a 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Амброзия (Amb a 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ragweed (Amb a 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Shuvoq (Art v)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Полынь (Art v)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Wormwood (Art v)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Shuvoq (Art v 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Полынь (Art v 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Wormwood (Art v 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Shuvoq (Art v 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Полынь (Art v 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Wormwood (Art v 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nasha (Can s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Конопля (Can s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Hemp (Can s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nasha (Can s 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Конопля (Can s 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Hemp (Can s 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oq olabuta (Che a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Марь белая (Che a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "White goosefoot (Che a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oq olabuta (Che a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Марь белая (Che a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "White goosefoot (Che a 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Bir yillik prolesnik (Mer a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пролесник однолетний (Mer a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Annual wood-snow (Mer a 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Postennitsa (Par j)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Постенница (Par j)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Wallflower (Par j)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Postennitsa (Par j 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Постенница (Par j 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Wallflower (Par j 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Zubturum (Pla l)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Подорожник (Pla l)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Plantain (Pla l)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Zubturum (Pla l 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Подорожник (Pla l 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Plantain (Pla l 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sho'rak (Sal k)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Солянка (Sal k)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Salwort (Sal k)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sho'rak (Sal k 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Солянка (Sal k 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Salwort (Sal k 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gazanda (Urt d)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Крапива (Urt d)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Nettle (Urt d)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Amerika uy changi kanasi (Der f 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Американский клещ домашней пыли (Der f 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "American house dust mite (Der f 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Amerika uy changi kanasi (Der f 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Американский клещ домашней пыли (Der f 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "American house dust mite (Der f 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yevropa uy changi kanasi (Der p 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Европейский клещ домашней пыли (Der p 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "European house dust mite (Der p 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yevropa uy changi kanasi (Der p 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Европейский клещ домашней пыли (Der p 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "European house dust mite (Der p 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yevropa uy changi kanasi (Der p 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Европейский клещ домашней пыли (Der p 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "European house dust mite (Der p 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yevropa uy changi kanasi (Der p 7)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Европейский клещ домашней пыли (Der p 7)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "European house dust mite (Der p 7)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yevropa uy changi kanasi (Der p 10)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Европейский клещ домашней пыли (Der p 10)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "European house dust mite (Der p 10)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yevropa uy changi kanasi (Der p 11)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Европейский клещ домашней пыли (Der p 11)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "European house dust mite (Der p 11)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yevropa uy changi kanasi (Der p 20)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Европейский клещ домашней пыли (Der p 20)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "European house dust mite (Der p 20)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yevropa uy changi kanasi (Der p 21)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Европейский клещ домашней пыли (Der p 21)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "European house dust mite (Der p 21)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yevropa uy changi kanasi (Der p 23)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Европейский клещ домашней пыли (Der p 23)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "European house dust mite (Der p 23)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Un kanasi (Aca s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Амбарный или мучной клещ (Acarus siro) (Aca s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Barn or flour mite (Acarus siro) (Aca s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy changi kanasi Blomia tropicalis (Blo t 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Клещ домашней пыли Blomia tropicalis (Blo t 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "House dust mite Blomia tropicalis (Blo t 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy changi kanasi Blomia tropicalis (Blo t 10)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Клещ домашней пыли Blomia tropicalis (Blo t 10)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "House dust mite Blomia tropicalis (Blo t 10)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy changi kanasi Blomia tropicalis (Blo t 21)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Клещ домашней пыли Blomia tropicalis (Blo t 21)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "House dust mite Blomia tropicalis (Blo t 21)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy changi kanasi Glycyphagus domesticus (Gly d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Клещ домашней пыли Glycyphagus domesticus (Gly d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "House dust mite Glycyphagus domesticus (Gly d 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy changi kanasi Lepidoglyphus destructor (Lep d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Клещ домашней пыли Lepidoglyphus destructor (Lep d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "House dust mite Lepidoglyphus destructor (Lep d 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy changi kanasi Tyrophagus putrescentiae (Tyr p)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Клещ домашней пыли Tyrophagus putrescentiae (Tyr p)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "House dust mite Tyrophagus putrescentiae (Tyr p)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy changi kanasi Tyrophagus putrescentiae (Tyr p 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Клещ домашней пыли Tyrophagus putrescentiae (Tyr p 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "House dust mite Tyrophagus putrescentiae (Tyr p 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Xamirturushli zamburug' Malassezia sympodialis (Mala s 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Дрожжевые грибы рода Malassezia Malassezia sympodialis (Mala s 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Yeasts of the genus Malassezia Malassezia sympodialis (Mala s 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Xamirturushli zamburug' Malassezia sympodialis (Mala s 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Дрожжевые грибы рода Malassezia Malassezia sympodialis (Mala s 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Yeasts of the genus Malassezia Malassezia sympodialis (Mala s 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Xamirturushli zamburug' Malassezia sympodialis (Mala s 11)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Дрожжевые грибы рода Malassezia Malassezia sympodialis (Mala s 11)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Yeasts of the genus Malassezia Malassezia sympodialis (Mala s 11)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Novvoylik xamiturushlari (Sac c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пекарские дрожжи (Sac c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Baker's yeast (Sac c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Alternariya (Alternaria alternata) (Alt a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Альтернария (Alternaria alternata) (Alt a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Alternaria (Alternaria alternata) (Alt a 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Alternariya (Alternaria alternata) (Alt a 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Альтернария (Alternaria alternata) (Alt a 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Alternaria (Alternaria alternata) (Alt a 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аспергил дымящий (Aspergillus fumigatus) (Asp f 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Aspergillus fumigatus (Asp f 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аспергил дымящий (Aspergillus fumigatus) (Asp f 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Aspergillus fumigatus (Asp f 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аспергил дымящий (Aspergillus fumigatus) (Asp f 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Aspergillus fumigatus (Asp f 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tutovchi aspergil (Aspergillus fumigatus) (Asp f 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Аспергил дымящий (Aspergillus fumigatus) (Asp f 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Aspergillus fumigatus (Asp f 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Cladosporium herbarum (Cla h)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кладоспориум гербарум (Cla h)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cladosporium herbarum (Cla h)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Cladosporium herbarum (Cla h 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кладоспориум гербарум (Cla h 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cladosporium herbarum (Cla h 8)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oltinrang penitsillin (Penicilium chrysogenum) (Pen ch)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пенициллин золотистый (Penicilium chrysogenum) (Pen ch)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Penicillium chrysogenum (Pen ch)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yeryong'oq (Ara h 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Арахис (Ara h 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Peanuts (Ara h 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yeryong'oq (Ara h 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Арахис (Ara h 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Peanut (Ara h 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yeryong'oq (Ara h 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Арахис (Ara h 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Peanut (Ara h 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yeryong'oq (Ara h 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Арахис (Ara h 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Peanut (Ara h 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yeryong'oq (Ara h 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Арахис (Ara h 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Peanut (Ara h 8)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yeryong'oq (Ara h 9)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Арахис (Ara h 9)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Peanut (Ara h 9)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yeryong'oq (Ara h 15)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Арахис (Ara h 15)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Peanut (Ara h 15)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oddiy no'xat (Cic a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Нут обыкновенный (Cic a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Chickpea (Cic a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Soya loviyasi (Gly m 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Соя (Gly m 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Soybean (Gly m 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Soya loviyasi (Gly m 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Соя (Gly m 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Soybean (Gly m 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Soya loviyasi (Gly m 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Соя (Gly m 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Soybean (Gly m 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Soya loviyasi (Gly m 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Соя (Gly m 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Soybean (Gly m 8)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yasmiq (Len c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Чечевица (Len c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Lentils (Len c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yashil loviya (Pha v)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Зеленая фасоль (Pha v)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Green beans (Pha v)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "No'xat (Pis s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Горох (Pis s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Peas (Pis s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Suli (Ave s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Овес (Ave s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Oats (Ave s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kinoa (Che q)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Киноа (Che q)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Quinoa (Che q)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oddiy marjumak (Fag e)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Гречиха обыкновенная (Fag e)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Buckwheat (Fag e)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oddiy marjumak (Fag e 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Гречиха обыкновенная (Fag e 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Buckwheat (Fag e 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Arpa (Hor v)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ячмень (Hor v)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Barley (Hor v)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Bo'rilukkak urug'i (Lup a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Семена люпина (Lup a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Lupin seeds (Lup a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Guruch (Ory s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Рис (Ory s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Rice (Ory s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tariq (Pan m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пшено (Pan m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Millet (Pan m)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Javdar (Sec c_flour)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Рожь (Sec c_flour)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Rye (Sec c_flour)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Bo'g'doy (Tri a aA_TI)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пшеница (Tri a aA_TI)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Wheat (Tri a aA_TI)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Bo'g'doy (Tri a 14)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пшеница (Tri a 14)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Wheat (Tri a 14)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Bo'g'doy (Tri a 19)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пшеница (Tri a 19)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Wheat (Tri a 19)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Spelta bo'g'doyi (Tri s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пшеница спельта (Tri s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Spelt wheat (Tri s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Makkajo'hori (Zea m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кукуруза (Zea m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Corn (Zea m)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Makkajo'hori (Zea m 14)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кукуруза (Zea m 14)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Corn (Zea m 14)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Paprika (Cap a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Паприка (Cap a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Paprika (Cap a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oddiy zira (Car c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тмин обикновенный (Car c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Caraway (Car c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oregano (Ori v)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Орегано (Ori v)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Oregano (Ori v)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Maydanoz (Pet c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Петрушка (Pet c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Parsley (Pet c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Arpabodiyon (Pim a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Анис (Pim a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Anise (Pim a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Xantal (Sin)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Горчица (Sin)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Mustard (Sin)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Xantal (Sin a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Горчица (Sin a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Mustard (Sin a 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kivi (Act d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Киви (Act d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Kiwi (Act d 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kivi (Act d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Киви (Act d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Kiwi (Act d 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kivi (Act d 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Киви (Act d 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Kiwi (Act d 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kivi (Act d 10)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Киви (Act d 10)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Kiwi (Act d 10)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Papayya (Car p)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Папайя (Car p)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Papaya (Car p)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Apelsin (Cit s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Апельсин (Cit s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Orange (Cit s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qovun (Cuc m 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Дыня (Cuc m 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Melon (Cuc m 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Anjir (Fic c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Инжир (Fic c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Fig (Fic c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qulupnay (Fra a 1+3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Клубника (Fra a 1+3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Strawberry (Fra a 1+3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Olma (Mal d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яблоко (Mal d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Apple (Mal d 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Olma (Mal d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яблоко (Mal d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Apple (Mal d 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Olma (Mal d 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яблоко (Mal d 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Apple (Mal d 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mango (Man i)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Манго (Man i)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Mango (Man i)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Banan (Mus a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Банан (Mus a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Banana (Mus a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Avokado (Pers a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Авокадо (Pers a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Avocado (Pers a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gilos (Pru av)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Вишня (Pru av)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cherry (Pru av)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Shaftoli (Pru p 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Персик (Pru p 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Peach (Pru p 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nok (Pyr c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Груша (Pyr c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Pear (Pyr c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Buta mevasi (chernika) (Vac m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Черника (Vac m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Blueberry (Vac m)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uzum (Vit v 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Виноград (Vit v 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Grapes (Vit v 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Piyoz (All c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лук (All c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Onion (All c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sarimsoqpiyoz (All s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Чеснок (All s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Garlic (All s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Selderey (Api g 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Сельдерей (Api g 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Celery (Api g 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Selderey (Api g 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Сельдерей (Api g 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Celery (Api g 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Selderey (Api g 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Сельдерей (Api g 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Celery (Api g 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sabzi (Dau c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Морковь (Dau c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Carrot (Dau c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sabzi (Dau c 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Морковь (Dau c 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Carrot (Dau c 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kartoshka (Sol t)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Картофель (Sol t)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Potato (Sol t)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Pomidor (Sola l)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Помидор (Sola l)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Tomato (Sola l)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Pomidor (Sola l 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Помидор (Sola l 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Tomato (Sola l 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Hind yong'og'i (keshyu) (Ana o)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кешью (Ana o)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cashew (Ana o)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Hind yong'og'i (keshyu) (Ana o 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кешью (Ana o 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cashew (Ana o 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Hind yong'og'i (keshyu) (Ana o 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кешью (Ana o 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cashew (Ana o 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Braziliya yong'og'i (Ber e)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Бразильский орех (Ber e)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Brazil nut (Ber e)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Braziliya yong'og'i (Ber e 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Бразильский орех (Ber e 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Brazil nut (Ber e 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Pekan yong'og'i (Car i)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пекан, орех (Car i)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Pecan, nut (Car i)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Funduk yong'og'i (Cor a 1-0401)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Фундук (Cor a 1-0401)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Hazelnut (Cor a 1-0401)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Funduk yong'og'i (Cor a 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Фундук (Cor a 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Hazelnut (Cor a 8)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Funduk yong'og'i (Cor a 9)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Фундук (Cor a 9)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Hazelnut (Cor a 9)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Funduk yong'og'i (Cor a 11)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Фундук (Cor a 11)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Hazelnut (Cor a 11)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Funduk yong'og'i (Cor a 14)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Фундук (Cor a 14)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Hazelnut (Cor a 14)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gretsiya yong'og'i (Jug r 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Грецкий орех (Jug r 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Walnut (Jug r 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gretsiya yong'og'i (Jug r 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Грецкий орех (Jug r 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Walnut (Jug r 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gretsiya yong'og'i (Jug r 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Грецкий орех (Jug r 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Walnut (Jug r 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gretsiya yong'og'i (Jug r 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Грецкий орех (Jug r 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Walnut (Jug r 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Gretsiya yong'og'i (Jug r 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Грецкий орех (Jug r 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Walnut (Jug r 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Makadamiya yong'og'i (Mac i 2S Albumin)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Орех макадамия (Mac i 2S Albumin)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Macadamia nut (Mac i 2S Albumin)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Makadamiya yong'og'i (Mac inte)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Орех макадамия (Mac inte)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Macadamia nut (Mac inte)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Pistalar (Pis v 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Фисташки (Pis v 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Pistachio (Pis v 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Pistalar (Pis v 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Фисташки (Pis v 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Pistachio (Pis v 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Pistalar (Pis v 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Фисташки (Pis v 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Pistachio (Pis v 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Bodom (Pru du)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Миндаль (Pru du)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Almond (Pru du)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qovoq urug'i (Cuc p)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Семена тыквы (Cuc p)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Pumpkin seeds (Cuc p)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kungaboqar urug'i (Hel a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Семена подсолнечника (Hel a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Sunflower seeds (Hel a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ko'knor urug'i (Pap s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Мак (Pap s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Poppy seeds (Pap s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ko'knor urug'i (Pap s 2S Albumin)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Мак (Pap s 2S Albumin)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Poppy seeds (Pap s 2S Albumin)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kunjut (Ses i)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кунжут (Ses i)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Sesame (Ses i)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kunjut (Ses i 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кунжут (Ses i 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Sesame (Ses i 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Fenugrek urug'i (Tri fo)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Семена пажитника (Tri fo)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Fenugreek seeds (Tri fo)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sigir suti (Bos d_milk)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Коровье молоко (Bos d_milk)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cow's milk (Bos d_milk)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sigir suti (Bos d 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Коровье молоко (Bos d 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cow's milk (Bos d 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sigir suti (Bos d 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Коровье молоко (Bos d 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cow's milk (Bos d 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sigir suti (Bos d 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Коровье молоко (Bos d 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cow's milk"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tuya suti (Cam d)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Верблюжье молоко (Cam d)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Camel milk (Cam d)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Echki suti (Cap h_milk)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Козье молоко (Cap h_milk)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Goat milk (Cap h_milk)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Baytal (ot) suti (qimiz) (Equ c_milk)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кобылье молоко (Equ c_milk)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Mare's milk (Equ c_milk)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qo'y suti (Ovi a_milk)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Овечье молоко (Ovi a_milk)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Sheep milk (Ovi a_milk)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tuxum oqsili (Gal d_white)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яичный белок (Gal d_white)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Egg white (Gal d_white)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tuxum sarig'i (Gal d_yolk)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яичный желток (Gal d_yolk)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Egg yolk (Gal d_yolk)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tuxum oqsili (Gal d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яичный белок (Gal d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Egg white (Gal d 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tuxum oqsili (Gal d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яичный белок (Gal d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Egg white (Gal d 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tuxum oqsili (Gal d 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яичный белок (Gal d 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Egg white (Gal d 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tuxum oqsili (Gal d 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яичный белок (Gal d 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Egg white (Gal d 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tuxum sarig'i (Gal d 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Яичный желток (Gal d 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Egg yolk (Gal d 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Seld balig'i qurti (Ani s 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Сельдиной черв (Ani s 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Herring worm (Ani s 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Seld balig'i qurti (Ani s 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Сельдяной черв (Ani s 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Herring worm (Ani s 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Krab (Chi spp-)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Краб (Chi spp-)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Crab (Chi spp-)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Atlantika seld balig'i (Clu h)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Сельд атлантическая (Clu h)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Atlantic herring (Clu h)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Atlantika seld balig'i (Clu h 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Сельд атлантическая (Clu h 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Atlantic herring (Clu h 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oddiy krevetka (Cra c 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Обыкновенная креветка (Cra c 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Common shrimp (Cra c 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Karp (Cyp c 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Карп (Cyp c 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Carp (Cyp c 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Atlantika treska balig'i (Gad m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Атлантическая треска (Gad m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Atlantic cod (Gad m)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Atlantika treska balig'i (Gad m 2+3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Атлантическая треска (Gad m 2+3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Atlantic cod (Gad m 2+3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Atlantika treska balig'i (Gad m 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Атлантическая треска (Gad m 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Atlantic cod (Gad m 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Omar (Hom g)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Омар (Hom g)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Lobster (Hom g)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Krevetka (Lit s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Креветка (Lit s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Shrimp (Lit s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kalmar (Lol spp-)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кальмар (Lol spp-)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Squid (Lol spp-)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Yeyishli midiya (Myt e)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Мидия съедобная (Myt e)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Edible mussel (Myt e)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ustritsa (Ost e)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Устрица (Ost e)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Oyster (Ost e)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Shimoliy krevetka (Pan b)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Северная креветка (Pan b)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Northern shrimp (Pan b)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Dengiz chig'anog'i (Pec spp-)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Морской гребешок (Pec spp-)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Scallop (Pec spp-)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qora yo'lbarssimon krevetka (Pen m 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Черная тигровая креветка (Pen m 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Black tiger shrimp (Pen m 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qora yo'lbarssimon krevetka (Pen m 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Черная тигровая креветка (Pen m 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Black tiger shrimp (Pen m 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qora yo'lbarssimon krevetka (Pen m 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Черная тигровая креветка (Pen m 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Black tiger shrimp (Pen m 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qora yo'lbarssimon krevetka (Pen m 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Черная тигровая креветка (Pen m 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Black tiger shrimp (Pen m 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Dengiz tulkisi yoki tikanli skat (Raj c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Морская лисица или колючий (Raj c)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Thresher or spiny (Raj c)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Dengiz tulkisi yoki tikanli skat (Raj c Parvalbumin)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Морская лисица или колючий скат (Raj c Parvalbumin)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Thresher or spiny ray (Raj c Parvalbumin)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mollyuska (Rud spp-)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Моллюск (Rud spp-)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Shellfish (Rud spp-)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Losos (Sal s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лосось (Sal s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Salmon (Sal s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Losos (Sal s 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лосось (Sal s 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Salmon (Sal s 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Atlantika skumboriya balig'i (Sco s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Атлантическая скумбрия (Sco s)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Atlantic mackerel (Sco s)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Atlantika skumbriya balig'i (Sco s 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Атлантическая скумбрия (Sco s 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Atlantic mackerel (Sco s 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tunes (Thu a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тунец (Thu a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Tuna (Thu a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tunes (Thu a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Тунец (Thu a 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Tuna (Thu a 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qilich baliq (Xip g 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Рыба-меч (Xip g 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Swordfish (Xip g 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy chigirtkasi (Ach d)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Сверчок домовой (Ach d)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "House cricket (Ach d)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mol go'shti (Bos d_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Говядина (Bos d_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Beef (Bos d_meat)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mol go'shti (Bos d 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Говядина (Bos d 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Beef (Bos d 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ot go'shti (Equ c_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Конина (Equ c_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Horse meat (Equ c_meat)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Tovuq go'shti (Gal d_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Курятина (Gal d_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Chicken (Gal d_meat)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ko'chmanchi chigirtka (Loc m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Перелетная саранча (Loc m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Migratory locust (Loc m)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kurka go'shti (Mel g)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Индюшатина (Mel g)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Turkey (Mel g)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Quyon go'shti (Ory_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кролятина (Ory_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Rabbit (Ory_meat)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qo'y go'shti (Ovi a_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Баранина (Ovi a_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Lamb (Ovi a_meat)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Cho'chqa go'shti (Sus d_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Свинина (Sus d_meat)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Pork (Sus d_meat)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Cho'chqa go'shti (Sus d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Свинина (Sus d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Pork (Sus d 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Katta un qo'ng'izi (Ten m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Большой мучной хрущак (Ten m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Large mealworm (Ten m)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Olovli chumoli (Sol spp-)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Огненный муравей (Sol spp-)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Fire ant (Sol spp-)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Asalari (Api m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пчела медоносная (Api m)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Honey bee (Api m)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Asalari (Api m 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пчела медоносная (Api m 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Honey bee (Api m 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Asalari (Api m 10)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Пчела медоносная (Api m 10)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Honey bee (Api m 10)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sakson arisi (Dol spp)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Оса саксонская (Dol spp)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Saxon wasp (Dol spp)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qog'oz ari (Pol d)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Оса бумажная (Pol d)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Paper wasp (Pol d)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qog'oz ari (Pol d 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Оса бумажная (Pol d 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Paper wasp (Pol d 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oddiy ari (Ves v)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Оса обыкновенная (Ves v)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Common wasp (Ves v)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oddiy ari (Ves v 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Оса обыкновенная (Ves v 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Common wasp (Ves v 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Oddiy ari (Ves v 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Оса обыкновенная (Ves v 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Common wasp (Ves v 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nemes suvaragi (Bla g 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Немецкий таракан (Bla g 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "German cockroach (Bla g 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nemes suvaragi (Bla g 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Немецкий таракан (Bla g 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "German cockroach (Bla g 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nemes suvaragi (Bla g 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Немецкий таракан (Bla g 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "German cockroach (Bla g 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nemes suvaragi (Bla g 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Немецкий таракан (Bla g 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "German cockroach (Bla g 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Nemes suvaragi (Bla g 9)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Немецкий таракан (Bla g 9)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "German cockroach (Bla g 9)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Amerika suvaragi (Per a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Американский таракан (Per a)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "American cockroach (Per a)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Amerika suvaragi (Per a 7)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Американский таракан (Per a 7)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "American cockroach (Per a 7)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "It (Can f_Fd1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Собака (Can f_Fd1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Dog (Can f_Fd1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "It siydigi (shu jumladan Can f 5) (Can f_male urine)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Моча собаки (вкл- Can f 5) (Can f_male urine)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Dog urine (incl- Can f 5) (Can f_male urine)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "It (Can f 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Собака (Can f 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Dog (Can f 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "It (Can f 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Собака (Can f 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Dog (Can f 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "It (Can f 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Собака (Can f 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Dog (Can f 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "It (Can f 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Собака (Can f 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Dog (Can f 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "It (Can f 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Собака (Can f 6)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Dog (Can f 6)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Dengiz cho'chqasi (Cav p 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Морская свинка (Cav p 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Guinea pig (Cav p 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mushuk (Fel d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кот (Fel d 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cat (Fel d 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mushuk (Fel d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кот (Fel d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cat (Fel d 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mushuk (Fel d 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кот (Fel d 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cat (Fel d 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Mushuk (Fel d 7)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кот (Fel d 7)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cat (Fel d 7)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Uy sichqoni epiteliyasi (Mus m 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Мышь домашняя, эпидермис (Mus m 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "House mouse, epidermis (Mus m 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Quyon epiteliyasi (Ory c 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кролик, эпителий (Ory c 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Rabbit, epithelium (Ory c 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Quyon epiteliyasi (Ory c 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кролик, эпителий (Ory c 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Rabbit, epithelium (Ory c 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Quyon epiteliyasi (Ory c 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Кролик, эпителий (Ory c 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Rabbit, epithelium (Ory c 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Djungar og'maxoni (Phod s 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Джунгарский хомяк (Phod s 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Djungarian hamster (Phod s 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Kalamush epiteliyasi (Rat n)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Крыса, эпителий (Rat n)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Rat, epithelium (Rat n)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Sigir epiteliyasi (Bos d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Корова, эпителий (Bos d 2)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Cow, epithelium (Bos d 2)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Echki epiteliyasi (Cap h_epithelia)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Коза, эпителий (Cap h_epithelia)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Goat, epithelium (Cap h_epithelia)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ot epiteliyasi (Equ c 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лошадь, эпителий (Equ c 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Horse, epithelium (Equ c 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ot epiteliyasi (Equ c 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лошадь, эпителий (Equ c 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Horse, epithelium (Equ c 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Ot epiteliyasi (Equ c 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лошадь, эпителий (Equ c 4)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Horse, epithelium (Equ c 4)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qo'y epiteliyasi (Ovi a_epithelia)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Овца, эпителий (Ovi a_epithelia)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Sheep, epithelium (Ovi a_epithelia)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Cho'chqa epiteliyasi (Sus d_epithelia)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Свинья, эпителий (Sus d_epithelia)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Pig, epithelium (Sus d_epithelia)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Lateks (Hev b 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Латекс (Hev b 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Latex (Hev b 1)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Lateks (Hev b 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Латекс (Hev b 3)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Latex (Hev b 3)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Lateks (Hev b 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Латекс (Hev b 5)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Latex (Hev b 5)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Lateks (Hev b 6-02)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Латекс (Hev b 6-02)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Latex (Hev b 6-02)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Lateks (Hev b 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Латекс (Hev b 8)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Latex (Hev b 8)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Lateks (Hev b 11)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Латекс (Hev b 11)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Latex (Hev b 11)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Fikus (Fic b)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Фикус (Fic b)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Ficus (Fic b)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Laktoferrin (Hom s Lactoferrin) (Hom s LF)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Лактоферрин (Hom s Lactoferrin) (Hom s LF)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Lactoferrin (Hom s Lactoferrin) (Hom s LF)"
+msgstr ""
+
+# A human readable string that is the recommended default way to present this concept to a user.
+#: CodeSystem.concept.display
+msgid "Qisqichbaqasimon kana (Argas reflexus) (Arg r 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Раковинный клещ (Argas reflexus) (Arg r 1)"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Shell mite (Argas reflexus) (Arg r 1)"
+msgstr ""
+

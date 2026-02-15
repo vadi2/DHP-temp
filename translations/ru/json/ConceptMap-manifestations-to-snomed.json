@@ -1,0 +1,485 @@
+{
+  "id" : "ConceptMap-manifestations-to-snomed",
+  "baseLang" : "en",
+  "languages" : [
+    {
+      "targetLang" : "ru",
+      "entries" : [
+        {
+          "id" : "ConceptMap.name",
+          "context" : "A natural language name identifying the concept map. This name should be usable as an identifier for the module by machine processing applications such as code generation.",
+          "source" : "AllergyManifestationsToSnomed",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.title",
+          "context" : "A short, descriptive, user-friendly title for the concept map.",
+          "source" : "UZ local allergy manifestations → SNOMED CT",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.publisher",
+          "context" : "The name of the organization or individual responsible for the release and ongoing maintenance of the concept map.",
+          "source" : "Uzinfocom LLC",
+          "target" : "ООО «Единый интегратор Uzinfocom»"
+        },
+        {
+          "id" : "ContactDetail.name",
+          "context" : "The name of an individual to contact.",
+          "source" : "Uzinfocom LLC",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.description",
+          "context" : "A free text natural language description of the concept map from a consumer's perspective.",
+          "source" : "Maps local UZ ReactionManifestationCS codes to SNOMED CT for AllergyIntolerance.reaction.manifestation.",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Aksirish",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sneezing",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Burun oqishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nasal discharge",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Burun qichishishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Itchy nose",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Burunda polip borligi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "The presence of polyps in the nose (Nasal polyposis)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Burundan toza rangsiz suyuqlik kelishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Clear, colorless discharge from the nose",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Xurrak otish",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Snoring",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Xid bilishning pasayishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Loss of sense of smell",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yuz, soxasida og'riq",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pain in face",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tomoqda og'riq, achishish",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sore throat; Pain in throat",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tomoq qichishish",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Itching in the tonsil",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Og'iz bo'shlig'i yumshoq to'qimalarining qichishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Pruritus of oral soft tissues",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ovoz bo'g'ilishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Choking",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Yo'tal",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Coughing",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Burindan tomog'iga suyuqlik Oqishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nasal discharge into the throat",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tomoq qurib ketishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dry throat",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tomoqning tiqilishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Congestion of throat",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tomoqning shishishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Swelling of throat; Pharyngeal swelling",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tomoq qizarishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Redness of throat",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shovqinli nafas ( xirillashlar )",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Noisy breathing",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Nafas siqishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shortness of breath (Dyspnea)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Xavo yetishmasligi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Shortness of breath",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ko'krak qafasida siqilish",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Chest tightness",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Balg'am ajralishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sputum (Expectoration)",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Quloq qichishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Itching of ear",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Eshitishning pasayishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Hearing loss",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Quloq shangillashi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ringing in ears",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Quloq bitib qolishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Sensation of blocked ear",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Kulodqan suyuqlik kelishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Otorrhea, discharge of ear",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ko'zda qichishish",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Itchy eyes",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ko'z qizarishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Redness of the eyes",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ko'z atrofi shishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Edema of eyelid",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ko'zning tez qurib qolishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Rapid drying of the eyes",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Ko'z yoshlanishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Tearing",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Terisida toshmalar toshishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Skin rash",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Terisida qichishish",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Itchy skin",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Terining qurib ketishi",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Dry skin",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Barmorlar kaft soxasida shish",
+          "target" : null
+        },
+        {
+          "id" : "ConceptMap.group.element.target.display",
+          "context" : "The display for the code. The display is only provided to help editors when editing the concept map.",
+          "source" : "Edema of palm of hand",
+          "target" : null
+        }
+      ]
+    }
+  ]
+}

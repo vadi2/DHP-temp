@@ -1,0 +1,918 @@
+<?xml version="1.0" ?>
+
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0">
+  <file source-language="en" target-language="ru" id="CodeSystem-questionnaire-subject-type-cs" original="Resource CodeSystem-questionnaire-subject-type-cs" datatype="KEYVALUEJSON">
+    <body>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.name">
+             <notes>
+               <note id="n1">A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.</note>
+             </notes>
+        <source>QuestionnaireSubjectTypeCS</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.title">
+             <notes>
+               <note id="n1">A short, descriptive, user-friendly title for the code system.</note>
+             </notes>
+        <source>Questionnaire subject type code system</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.publisher">
+             <notes>
+               <note id="n1">The name of the organization or individual responsible for the release and ongoing maintenance of the code system.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target>ООО «Единый интегратор Uzinfocom»</target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="ContactDetail.name">
+             <notes>
+               <note id="n1">The name of an individual to contact.</note>
+             </notes>
+        <source>Uzinfocom LLC</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.description">
+             <notes>
+               <note id="n1">A free text natural language description of the code system from a consumer's perspective.</note>
+             </notes>
+        <source>Code system that defines subject types codes from Questionnaire resources, supplemented with translation in Uzbek and Russian</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Определение активности</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Faoliyat ta'rifi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Аллергия/Непереносимость</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Allergiya/O'zlashtira olmaslik</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Запись на приём</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Uchrashuv</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ответ на запись</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Uchrashuvga javob</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Аудитное событие</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Audit hodisasi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Заявление о возможностях</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Imkoniyatlar bayoni</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>План ухода</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Parvarish rejasi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Команда по уходу</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Parvarish jamoasi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Заявление (требование)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Da'vo</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ответ на требование</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Da'voga javob</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Система кодов</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Kod tizimi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Коммуникация</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Muloqot</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Запрос на коммуникацию</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Muloqot so'rovi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Состав документа</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Tarkib</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Состояние (заболевание)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Holat (kasallik)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Согласие</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Rozilik</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Покрытие (страхование)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Qamrov</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Диагностический отчёт</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Diagnostik hisobot</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ссылка на документ</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Hujjatga havola</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Приём / Встреча</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Эпизод ухода</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Parvarish davri</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Объяснение выгоды</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Foyda tushuntiruvi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ответ на рекомендацию</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Yo'riqnoma javobi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Медицинская услуга</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Sog'liqni saqlash xizmati</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Исследование изображений</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Tasvir tadqiqoti</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Иммунизация</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Immunizatsiya</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Элемент инвентаря</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Inventar elementi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Отчёт об инвентаре</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Inventar hisobi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Счёт-фактура</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Faktura</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Библиотека</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Kutubxona</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Местоположение</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Joylashuv</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Мера / Измерение</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>O'lchov</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Отчёт по мере</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>O'lchov hisobi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Лекарство</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Dori</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Введение лекарства</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Dorini berish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Выдача лекарства</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Dorini tarqatish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Запрос на лекарство</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Dorini buyurtma qilish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Наблюдение</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Kuzatuv</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Определение операции</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Amaliyot ta'rifi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Результат операции</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Amaliyot natijasi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Организация</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Tashkilot</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Пациент</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Bemor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Уведомление о платеже</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>To'lov xabari</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Сверка платежей</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>To'lovlarni muvofiqlashtirish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Определение плана</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Reja ta'rifi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Практикующий врач</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Shifokor</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Роль медицинского работника</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Tibbiyot xodimi roli</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Процедура</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Tibbiy protsedura</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Происхождение</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Kelib chiqishi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Анкета / Опросник</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>So'rovnoma</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ответ на анкету</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>So'rovnoma javobi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Родственник</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Yaqin odam</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Расписание</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Jadval</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Запрос на услугу</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Xizmat so'rovi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Временной интервал</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Vaqt bo'lagi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Образец</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Namuna</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Определение структуры</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Tuzilish ta'rifi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Подписка</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Obuna</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Доставка поставки</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ta'minot etkazib berish</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Запрос на поставку</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Ta'minot so'rovi</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Задача</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Vazifa</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Транспорт</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Transport</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Набор значений</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="CodeSystem-questionnaire-subject-type-cs" resname="CodeSystem.concept.designation.value">
+             <notes>
+               <note id="n1">The text value for this designation.</note>
+             </notes>
+        <source>Qiymatlar to'plami</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

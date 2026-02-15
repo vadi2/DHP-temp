@@ -1,0 +1,96 @@
+
+# A natural language name identifying the code system. This name should be usable as an identifier for the module by machine processing applications such as code generation.
+#: CodeSystem.name
+msgid "QuestionnaireEnableOperatorCS"
+msgstr ""
+
+# A short, descriptive, user-friendly title for the code system.
+#: CodeSystem.title
+msgid "Questionnaire enable operator code system"
+msgstr ""
+
+# The name of the organization or individual responsible for the release and ongoing maintenance of the code system.
+#: CodeSystem.publisher
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# The name of an individual to contact.
+#: ContactDetail.name
+msgid "Uzinfocom LLC"
+msgstr ""
+
+# A free text natural language description of the code system from a consumer's perspective.
+#: CodeSystem.description
+msgid "Code system that defines enable operator codes for Questionnaire resources, supplemented with translations in Uzbek and Russian."
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Существует"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Mavjud"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Равно"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Teng"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Не равно"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Teng emas"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Больше чем"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Kattaroq"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Меньше чем"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Kichikroq"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Больше или равно"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Katta yoki teng"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Меньше или равно"
+msgstr ""
+
+# The text value for this designation.
+#: CodeSystem.concept.designation.value
+msgid "Kichik yoki teng"
+msgstr ""
+
